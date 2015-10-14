@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Madison Ruby 2013"
+date: 2013-08-25 01:14
+comments: true
+categories: [ Community, Education, Ruby ]
+---
+{% imgcap right /images/madison-ruby.png Madison Ruby 2011 T-Shirt Design by Mike Rohde %}
+[Madison Ruby](http://madisonruby.com) 2013 was held this weekend. The conference attracts smart, intellectually curious people who are thirsty to learn more. 
+
+By the way, Madison Ruby was a lot of fun, too! 
+
+### Speakers: Impressive and Accessible
+First, lets cover the obvious high points so we can focus on those things that make Madison Ruby unique. Organizers [Jim](https://twitter.com/jremsikjr) & [Jen Remsik](https://twitter.com/JenRemsik) have solidified their reputation for choosing engaging, well-prepared speakers. The Remsik network of speakers includes accomplished developers from around the world. Many are published authors. Some, like [Danielle Lee](http://madisoncircusspace.com/) and [Martin Atkins](https://twitter.com/marteeeen), excel in fields outside of software development. 
+<!--more-->
+What the presenters have in common: All are high achievers. All are inspiring. All take time to stick around after their time on stage to interact with attendees. That kind of interaction makes the Madison Ruby community work.
+
+### Community in Madison
+Madison Ruby is unique in the way it brings the local community into the event. Local business and community leaders speak at the conference. The local leaders are enthusiastic about Madison and they engage attendees. One year, a farmer shared her experience growing up in a cheese-producing family business. This year, a biomedical engineering graduate of the University of Wisconsin encouraged the audience to build our creative muscles by having fun. She drove the point home with a hula-hoop demonstration, followed with a [German Wheel](http://madisoncircusspace.com/classes/german-wheel/) performance by a colleague.
+
+People from other worlds speaking at a software conference... it works.
+
+### Meal Time
+Lunch was served by the entire Madison restaurant community. Gift certificates were supplied by Engine Yard, and the certificates were redeemable for meals at local restaurants.  What a wonderful way to put serendipity to work! Attendees who just met formed clusters of lunch parties on a whim. The conversations were rich. 
+
+### After-Hours Gatherings
+Thursday night's gathering, [Hype Harvest](http://hypeharvest.com/), had elements of a party but it was so much more. Hype Harvest was held on the roof of the Madison Museum of Modern Art, and it served multiple purposes. First, to raise funds for Nairobi Dev School, founded by [Martha Chumo](http://www.cnn.com/2013/07/17/tech/teenager-hacker-school-africa-google), a 19-year-old software developer in Nairobi, Kenya. Second, to give everyone a taste of the presenters to come. Third, to let the attendees gather, renew old friendships, and begin new ones. 
+
+Friday night's party was held at [Bendyworks](http://bendyworks.com). An outdoor concert ran concurrently in the middle of the street next to the office. Bendyworks guests had the best seats around because the second floor office sits right above the musical stage. 
+
+### Madison Ruby and My Brother
+As an organizer of WindyCityRails, my relationship with Madison Ruby reminds me of my relationship with my brother, [Edward Hightower](http://motoringventures.com), while we were growing up. Edward and I are one year apart, and we competed aggressively in every way: On the swim team, in the [Boy Scouts](http://troop534.org), in academics... you name it. Through the competition, we learned to love and respect each other. My brother Edward is one of my closest friends. That doesn't always happen with family!
+
+Madison Ruby competes with WindyCityRails. At the same time, I enjoy the trip to Madison because I get so much from the experience. Congratulations to the Madison Ruby organizer team for running a great event three years in a row. I plan to return next year.

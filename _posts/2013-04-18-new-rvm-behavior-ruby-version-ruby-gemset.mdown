@@ -1,0 +1,70 @@
+---
+layout: post
+title: "New RVM Behavior With .ruby-version and .ruby-gemset"
+date: 2013-04-18 20:33
+comments: true
+categories: [Rails, Ruby]
+---
+<a href="/blog/2013/04/18/new-rvm-behavior-ruby-version-ruby-gemset/"><img src="/images/rvm.png" height="98" width="89" align="right" alt="RVM .ruby-version .ruby-gemset" title="RVM .ruby-version .ruby-gemset"></a>
+I trust [RVM](http://rvm.io) to manage my Ruby versions and my gemsets. So when I saw an unexpected change in RVM's behavior, I was concerned about a possible disruption in my workflow. 
+<!--more-->
+####A New RVM Message
+Here's the message I received when I changed into `mydirectory/`: 
+
+```bash
+~/Code/Ruby/apps/$ cd mydirectory/
+You are using '.rvmrc', it requires trusting, it is slower and it is not
+compatible with other ruby managers, you can switch to '.ruby-version'
+using 'rvm rvmrc to [.]ruby-version' or ignore this warnings with 
+'rvm rvmrc warning ignore ~/Code/Ruby/apps/mydirectory/.rvmrc', 
+'.rvmrc' will continue to be the default project file in RVM 1 and RVM 2,
+to ignore the warning for all files run 
+'rvm rvmrc warning ignore all .rvmrcs'.
+
+~/Code/Ruby/apps/mydirectory[master]$
+```
+
+####Decision: Do the Update
+Ignoring a warning feels like sticking my head in the sand. It's better to face things head-on. So I decided to go with the update. If things don't work out, I can always remove RVM completely and start from scratch.
+
+```bash
+~/Code/Ruby/apps/mydirectory[master]$ rvm rvmrc to .ruby-version
+
+```
+My shell responded by repeating the `.rvmrc` vs `.ruby-version` notice. But when I examine the directory, everything looks good.
+```bash
+total 56
+drwx---rwx   53 rth  wheel   1802 Apr 19 07:18 .
+drwx---rwx   27 rth  wheel    918 Feb 10 08:26 ..
+-rw-r--r--    1 rth  wheel    175 Feb  4 13:41 .gitignore
+-rw-r--r--@   1 rth  wheel      0 Oct 15  2012 .repl_history
+-rw-r--r--    1 rth  wheel     11 Apr 19 07:18 .ruby-gemset
+-rw-r--r--    1 rth  wheel     16 Apr 19 07:18 .ruby-version
+drwxr-xr-x   10 rth  wheel    340 Feb 14 20:41 AFNetworking-RubyMotion-Example
+drwxr-xr-x   13 rth  wheel    442 Feb 24 17:29 AccordionUIView
+```
+
+Instead of a single `.rvmrc` file, Ruby versions are managed by
+`.ruby-version` while gemsets are managed through `.ruby-gemset`.
+
+####Bash Alias
+Next, it's time to clean things up by adding an `alias` to
+`~/.bash_profile`.
+```bash
+alias newrvm="rvm rvmrc to .ruby-version"
+```
+
+Tell the terminal session to use the new `~/.bash_profile` with
+```bash
+$ source ~/.bash_profile
+```
+
+And now we can begin using `.ruby-version` and `.ruby-gemset` in any .rvmrc-equipped directory with a simple one-word command.
+```bash
+$ newrvm
+```
+
+####Feedback Welcome
+If you notice any snags (including typos) in the above procedure, please reach out via the comments below or through [Twitter](http://twitter.com/rayhightower).
+
+

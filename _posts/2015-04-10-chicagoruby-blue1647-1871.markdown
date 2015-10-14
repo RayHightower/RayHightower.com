@@ -1,0 +1,58 @@
+---
+layout: post
+title: "ChicagoRuby Expands to BLUE1647 and 1871"
+date: 2015-04-10 17:41:32 -0500
+comments: true
+categories: [ Community ]
+---
+>When smart people<br/>
+>challenge each other to grow,<br/>
+>great things happen.<br/>
+>&nbsp;<br/>
+>~The ChicagoRuby Motto
+
+If you’re a developer itchin’ to ramp up your Ruby skills, Chicago is a great place to be. The local Ruby user group, [ChicagoRuby](http://www.chicagoruby.org), continues to expand in time, space, expertise, and numbers. The group is over 3,200 strong, with six events each month _plus_ the annual [WindyCityRails](http://windycityrails.org) conference. 
+
+The newest locations on ChicagoRuby's monthly list are BLUE1647 and 1871.
+<!--more-->
+### ChicagoRuby: BLUE1647
+{% imgcap right /images/blue1647.jpg BLUE1647 %}
+[BLUE 1647](http://www.blue1647.com/) is an amazing maker space on Chicago’s South Side, in the Pilsen neighborhood. The leadership of BLUE1647 invited ChicagoRuby to host our first meeting in the space on March 19, 2015. The presenter, [John Contreras](https://twitter.com/johnnycon) of [Matchup](http://matchup.io), took us through the nuances of Rails background processing.
+
+[Rebecca Miller-Webster](https://twitter.com/rmillerwebster) of [thoughtbot](http://thoughtbot.com) will present at our next BLUE1647 meeting on April 17, 2015.
+
+Check the [ChicagoRuby calendar](http://meetup.com/chicagoruby) for details and to RSVP.
+
+### ChicagoRuby: 1871
+{% imgcap right /images/1871.jpg 1871 %}
+[1871](http://www.1871.com) was an early player in Chicago's startup incubator industry. Community leaders at 1871 invited ChicagoRuby to lead some Ruby-oriented sessions at the incubator. [Marty Lavin](http://www.meetup.com/ChicagoRuby/members/1345203/) will lead our first 1871 event on April 30, 2015.
+
+### Organizer Team
+Eleven (yes, eleven!) organizers work in concert to make ChicagoRuby run well. Current members of the organizer team are:
+
+* [Ginny Hendry](http://twitter.com/ginnyhendry) - Started and co-organizes the ChicagoRuby Hack Nights.
+* [Justin Love](http://twitter.com/wondible) - Started in Elmhurst, acts as our liaison with the JavaScript community.
+* [Alonda McCree](http://twitter.com/themccreefiles) - Manages downtown video and logistics overall.
+* [Marty Lavin](http://www.meetup.com/ChicagoRuby/members/1345203/) - Runs Elmhurst and leads intro sessions at 1871.
+* [Sarah Cnota](http://www.meetup.com/ChicagoRuby/members/13059934/) - ThoughtWorker, manages the downtown meetups.
+* [LaToya Allen](https://twitter.com/HashtagLaToya) - Co-organizes the ChicagoRuby Hack Nights.
+* [Doug Harman](http://www.meetup.com/ChicagoRuby/members/61690512/) - Co-organizes ChicagoRuby: North Shore.
+* [Stu Gerstein](http://www.meetup.com/ChicagoRuby/members/13463131/) - Co-organizes ChicagoRuby: North Shore.
+* [Bobby Reyes](https://twitter.com/bobbyreys) - Driving force behind ChicagoRuby's activities at BLUE1647 and 1871.
+* [Dexter Teng](http://www.meetup.com/ChicagoRuby/members/185776457/) - ThoughtWorker and newest member of the organizer team.
+* [Ray Hightower](http://twitter.com/rayhightower) - author of this article.
+
+ChicagoRuby excels because the work is shared amongst many people. Hats off to our [Organizer Alumni](http://www.chicagoruby.org/about/organizers/) too!
+
+### Something For You
+As of this writing, ChicagoRuby manages six events per month. You are certain to find something that fits you.
+
+* **ChicagoRuby: Elmhurst** - The first ChicagoRuby location. Meeting space provided by one of our members, Lee DeForest of DeForest Group.
+* **ChicagoRuby: Downtown** - Currently at ThoughtWorks. Added when we merged with Chirb.
+* **ChicagoRuby: Hack Night** - Currently at Enova. Added when Ginny Hendry said "we should have hack nights".
+* **ChicagoRuby: North Shore** - Added when Doug Harman and Stu Gerstein said "we should be on the North Shore".
+* **ChicagoRuby: BLUE1647** - Added when Bobby Reyes formed relationships at the BLUE1647 maker space.
+* **ChicagoRuby: 1871** - Added when 1871 members asked ChicagoRuby to run some beginner-oriented sessions.
+
+Exact dates and locations are on the [ChicagoRuby calendar](http://www.meetup.com/ChicagoRuby/events/). Come out and collaborate with your fellow learning enthusiasts. You'll be glad that you did.
+
