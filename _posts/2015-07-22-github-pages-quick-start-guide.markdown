@@ -9,6 +9,7 @@ categories: [ Git ]
 
 This article focuses on interacting with GitHub Pages via Git at the command line. The browser-based automatic page generator is already well-documented. Another purpose of this post: To put useful information about GitHub Pages all in one post, so I won't have to go hunting around next time I forget this procedure!
 <!--more-->
+
 ### Quick Start
 A quick way to launch a “Hello World!” page via GitHub Pages...
 
@@ -16,7 +17,7 @@ A quick way to launch a “Hello World!” page via GitHub Pages...
 
 * Create the repo where you want to publish a GitHub page. For example, `random-repo`. Be sure to make the repo public, and don't initialize it with a README file.
 
-{% include image.html img=" middle /images/github-create-random-repo.png %}
+{% include image.html img="/images/github-create-random-repo.png" %}
 
 * Clone the repo on your local machine.
 

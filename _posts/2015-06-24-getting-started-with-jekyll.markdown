@@ -5,6 +5,7 @@ date: 2015-06-24 16:02:38 -0500
 comments: true
 categories: [ Community, Ruby ]
 ---
+
 {% include image.html img="/images/jekyll-responsive.jpg" caption="Jekyll, the static HTML generator." %}
 
 [Jekyll](http://jekyllrb.com) is a static HTML generator for web sites that don't require a content management system (CMS). Jekyll sites load quickly, especially when combined with GitHub Pages. [Bobby Reyes](https://twitter.com/bobbyreys) and I will present Jekyll at ChicagoRuby: 1871 on Thursday, June 25, 2015. Slides are below.
