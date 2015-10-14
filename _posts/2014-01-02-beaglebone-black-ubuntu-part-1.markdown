@@ -5,7 +5,7 @@ date: 2014-01-02 15:59
 comments: true
 categories: [ BeagleBone Black, Linux, OS X, Rails, Ruby ]
 ---
-{% imgcap center /images/beaglebone-black-ubuntu-ruby-rails.jpg BeagleBone Black running Ubuntu, Ruby, & Rails. %}
+{% include image.html img="/images/beaglebone-black-ubuntu-ruby-rails.jpg" caption="BeagleBone Black running Ubuntu, Ruby, & Rails." %} 
 
 The above screenshot shows a BeagleBone Black running Ubuntu, Ruby, and Rails. Why Ubuntu? The Bone comes [pre-installed with Ångström](/blog/2013/05/22/beaglebone-black-running-ruby-on-rails/), and it boots as soon as you unbox it. Why not stick with Ångström? 
 
