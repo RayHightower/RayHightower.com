@@ -5,7 +5,7 @@ date: 2015-10-05 14:03:11 -0500
 comments: true
 categories: [ Community ]
 ---
-What an adventure… WindyCityRails 2015 achieved record attendance and the feedback has been amazing. Thank you speakers, sponsors, and attendees for making everything happen so well!
+What an adventure… WindyCityRails 2015 achieved record attendance. Feedback has been amazing. Thank you speakers, sponsors, and attendees for making everything happen so well!
 
 Here’s a 2-minute video recap of WindyCityRails 2015:
 
