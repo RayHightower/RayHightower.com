@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Parallella Quick Start Guide (with gotchas)</title>
+    <meta name="description" content="Thoughts about Ruby, Rails, iOS, the Internet of Things, software development, and business growth.">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">RayHightower.com</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+          
+          <a class="page-link" href="/about/">About</a>
+          
+        
+          
+          <a class="page-link" href="/contact/index.html">Contact</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Parallella Quick Start Guide (with gotchas)</h1>
+    <p class="post-meta">Jul 7, 2014</p>
+  </header>
+
+  <article class="post-content">
+    <p>Include file ‘image.html img=”images/parallella_screenshot.png” caption=”Parallella screenshot, 1080p.”’ contains invalid characters or sequences </p>
+
+<p>Parallella is a single-board supercomputer smaller than a deck of cards. While today’s fastest laptops contain four processor cores, Parallella has <em>eighteen</em> (2 <a href="http://arm.com/">ARM</a> cores plus an <a href="http://www.adapteva.com/epiphanyiii/">Epiphany</a> chip with 16 <a href="http://en.wikipedia.org/wiki/Reduced_instruction_set_computing">RISC</a> cores). The maker of Parallella, <a href="http://adapteva.com">Adapteva</a>, is on a mission to democratize parallel computing. The company’s tag line is <em>Supercomputing for Everyone</em>.
+<!--more-->
+Everything in this post is based on the <a href="http://www.parallella.org/quick-start/">official quick start guide created by the Parallella team</a>. These instructions are tailored for a Mac running OS X Mavericks (10.9.3) and a Parallella-16 equipped with the Zynq 7010 chip. I ran into some <em>gotchas</em> during my first Parallella experience. The snags (and solutions) are documented here.</p>
+
+<p>Include file ‘image.html img=”images/parallella.jpg” title=”Parallella. 18 cores on a tiny board.” caption=”Parallella. 18 cores on a tiny board.”’ contains invalid characters or sequences </p>
+
+<h3 id="tools-required">Tools Required</h3>
+
+<p>You will need the following items in order to burn an SD card for your
+Parallella:</p>
+
+<ul>
+  <li>Micro-SD card, 16GB or greater.</li>
+  <li>Desktop or laptop computer with a micro-SD card reader, or an SD-card reader with a micro adapter. These instructions are tailored for a Mac. A Linux or Windows machine will work with minor modifications in the procedure.</li>
+  <li>High-speed internet connection, for downloading Parallella’s Ubuntu
+image and related files.</li>
+  <li>Micro-USB-to-USB adapter, for the keyboard and mouse. Parallella is equipped with two micro-USB ports.</li>
+  <li>Micro-HDMI to HDMI cable or adapter. </li>
+  <li>Parallella (of course!)</li>
+</ul>
+
+<p>Adapteva sells an accessories kit containing an SD card, power adapter, micro-HDMI to HDMI cable, and USB-to-micro-USB adapter. Unless you already have these items, buying the kit may save you time.</p>
+
+<h3 id="these-steps-could-break-your-primary-machine">These Steps Could Break Your Primary Machine</h3>
+
+<p>Since you’re experimenting with Parallella, we can assume that you are an advanced user. Your computer is already backed up, or you’re running these steps on a test machine. And you know <a href="/sudo-disclaimer/">the power and pitfalls of sudo</a>. Technology evolves rapidly, and everything you read here could change by the time you read it.</p>
+
+<h3 id="comparison-with-raspberry-pi-or-beaglebone-black">Comparison with Raspberry Pi or Beaglebone Black</h3>
+
+<p>Include file ‘image.html img=”images/parallella_fan.jpg” caption=”Bits get hot. Use a fan.”’ contains invalid characters or sequences </p>
+
+<p>How does the Parallella compare with other single-board computers, like the <a href="/blog/2012/12/03/ruby-on-raspberry-pi/">Raspberry Pi</a> or <a href="/blog/2014/01/02/beaglebone-black-ubuntu-part-1/">Beaglebone Black</a>? The first difference noticed at boot-time: Parallella runs hot! So hot, in fact, that the unit comes with a heat sink and the recommendation to add a fan. I’ve never needed a fan with a Pi or a ‘Bone.</p>
+
+<p>Of course, the Parallella runs hotter because it has more processing power packed tightly together in limited space. Since Parallella is designed to run tasks in parallel, we can expect certain programs to perform faster than they would on the Pi or ‘Bone. Future posts will explore Parallella’s performance using languages designed for concurrency, languages like <a href="/blog/2013/06/22/preparing-for-parallella-64-cores-installing-go-on-mac-os-x/">Go</a> and <a href="/blog/2014/02/06/installing-rubinius-using-rvm/">Rubinius</a>. Now, let’s get started with Parallella.</p>
+
+<h3 id="getting-the-parallella-os">Getting the Parallella OS</h3>
+
+<p>Parallella runs a customized version of Ubuntu installed on a micro-SD card. Burning the SD card takes a long time, so it makes sense to start that process first.</p>
+
+<p>Download the files that you will need to burn onto the SD card. I’m running Mac OS X on my primary machine, and I’m configuring a Parallella-16 with a Zynq 7010 and an HDMI display. Therefore, the files needed for this configuration are:</p>
+
+<ul>
+  <li><a href="http://downloads.parallella.org/ubuntu/dists/trusty/image/ubuntu-14.04-140611.img.gz">Ubuntu 14.04 for Parallella</a> (released June 11, 2014)</li>
+  <li><a href="http://downloads.parallella.org/boot/linux/kernel-hdmi-default.tgz">Linux kernel with HDMI support</a></li>
+  <li><a href="https://github.com/parallella/parallella-hw/blob/master/fpga/bitstreams/parallella_e16_hdmi_gpiose_7010.bit.bin?raw=true">Parallella-16 Zynq 7010 with HDMI display</a></li>
+</ul>
+
+<p>Unzip the files and place them in a directory that’s handy. You’ll need them for the next step. With Mac OS X, you can unzip the files by double-clicking them in <code>Finder</code>.</p>
+
+<p>Note: You might need different files depending on the current date (Parallella software is in a rapid state of flux) and your exact equipment. If your configuration is different, you can make the adjustments described in Parallella’s official guide.</p>
+
+<h3 id="burn-the-sd-card">Burn the SD Card</h3>
+
+<p>Insert your SD card into your Mac’s SD card reader, and use the Mac OS X <code>diskutil list</code> command to determine the designation of the SD card. If you use portable hard drives with your primary machine, the SD card designation could change from time to time, so it’s important to perform this step each time you burn a card.</p>
+
+<div>
+  <pre><code class="bash">$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *500.3 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS MacSSD                  499.4 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                       *15.9 GB     disk1
+   1:               Windows_NTFS Untitled 1             15.9 GB     disk1s1
+
+$</code></pre>
+</div>
+
+<p>From this <code>diskutil</code> report, we can see that we want to burn the SD image to <code>/dev/disk1</code>. The other device is the hard drive for my primary machine. Burning the wrong device means destroying data. </p>
+
+<p>To burn the SD card…</p>
+
+<ol>
+  <li>Change into the directory where you downloaded the Ubuntu image.</li>
+  <li>Unmount the destination partition on the SD card.</li>
+  <li>Use the the <code>dd</code> command to copy the Ubuntu image to the SD card.</li>
+</ol>
+
+<p>To execute the above steps as <code>bash</code> commands, do the following:</p>
+
+<div>
+  <pre><code class="bash">$ cd [directory containing the ubuntu image file]
+
+$ diskutil unmountDisk /dev/disk1
+Unmount of all volumes on disk1 was successful
+
+$ sudo dd if=ubuntu-14.04-140611.img of=/dev/disk1 bs=64k
+Password:</code></pre>
+</div>
+
+<p>The <code>dd</code> command takes a <em>long</em> time to run, over 56 minutes on my machine. Here’s a quick run-through of the command options:</p>
+
+<ul>
+  <li><code>sudo</code> gives you <a href="/sudo-disclaimer/">super powers</a>. </li>
+  <li><code>dd</code> is the “copy and convert” command. The letters “dd” have nothing to do with what the tool actually does. It’s just a command name. And like so many things in computer science, the name might be based on a pun.</li>
+  <li><code>if=</code> specifies the input file. You can include the full path, or if the file is in your current directory, you can omit the path as shown in this example.</li>
+  <li><code>of=</code> specifies the output file. We know that the SD card is located at <code>/dev/disk</code> so that’s where the results of this command are headed.  Note that your destination directory may differ from this one.</li>
+  <li><code>bs=</code> specifies the block size used for the destination file.</li>
+</ul>
+
+<h3 id="about-block-size">About Block Size</h3>
+
+<p>The Mac section of the official Parallella guide recommends a block size of size of 1 megabyte, while the Linux instructions recommend 64 kilobytes (the option <code>bs=64k</code> in the <code>dd</code> command). I initially used <code>bs=1m</code> on my Mac, and I ran into problems. When I used <code>bs=64k</code>, everything worked fine. Note that I eventually traced my problem to something other than block size (details below) but since the 64k setting still works, I’ve left it intact. If I find out why Linux and OS X are using different block sizes, I’ll post the information here.</p>
+
+<h3 id="checking-dd-progress">Checking dd Progress</h3>
+
+<p>Include file ‘image.html img=”images/dd_progress.png” caption=”Activity Monitor”’ contains invalid characters or sequences </p>
+
+<p>Waiting an hour for the <code>dd</code> command to run can be disconcerting because the machine does not give any feedback on progress. No gas gauge, spinning indicator, nothing. How do we know if the write process is working?</p>
+
+<p>Here’s how to check progress. Run Apple’s <code>Activity Monitor</code>, and look for <code>dd</code> on the list of processes, as shown in the Activity Monitor screenshot. The number of bytes written will increase slowly while <code>dd</code> burns the Ubuntu image onto the SD card. With the current version of Ubuntu, roughly 7.4GB will be written to the SD. At completion, <code>dd</code> will disappear from the Activity Monitor list and you’ll see the following at the command line.</p>
+
+<div>
+  <pre><code class="bash">$ sudo dd if=ubuntu-14.04-140611.img of=/dev/disk1 bs=64k
+Password:
+121280+0 records in
+121280+0 records out
+7948206080 bytes transferred in 3363.824531 secs (2362848 bytes/sec)
+
+$</code></pre>
+</div>
+
+<p>As you can see from the report, it took 3363.824531 seconds (just over 56 minutes) for <code>dd</code> to burn the Ubuntu image onto the SD card. That’s a long time to wait with zero feedback. Activity Monitor will tell you what’s going on.</p>
+
+<h3 id="confirm-partitions">Confirm Partitions</h3>
+
+<p>To confirm that the partitions have been created and that Ubuntu has been written to the SD card, use <code>diskutil list</code> again.</p>
+
+<div>
+  <pre><code class="bash">$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *500.3 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS MacSSD                  499.4 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *15.9 GB    disk1
+   1:                 DOS_FAT_32 BOOT                    134.2 MB   disk1s1
+   2:                      Linux                         7.3 GB     disk1s2
+
+$</code></pre>
+</div>
+
+<p>As expected, <code>/dev/disk0</code> remains unchanged. We want it that way because that’s where our primary machine’s operating system resides. <code>/dev/disk1</code> (your actual SD card designation may be different) is the target disk we’re after. Two new partitions are on the SD card, a FAT32 partition named <code>BOOT</code> and a Linux partition.</p>
+
+<p>Next we need to copy some supporting files to the new <code>BOOT</code> partition.</p>
+
+<h3 id="copying-additional-files-to-the-sd-card">Copying Additional Files to the SD Card</h3>
+
+<p>Now that Ubuntu resides on the SD card, it’s time to add the files that support HDMI video and the FPGAs. Here’s how.</p>
+
+<p>The additional files will need to be copied to <code>/BOOT</code> on the SD card. While it might make sense to reach the <code>BOOT</code> partition as <code>/dev/disk1</code>, you will actually reach it via <code>/Volumes/BOOT</code>.</p>
+
+<p>We target <code>/dev/disk1</code> when burning the Ubuntu image, but to copy the supporting files we target <code>/Volumes/BOOT</code>. Both designations point to the same place, the SD card. Why the name switch? </p>
+
+<p>I don’t know why two different designations are used for the same SD card. I only know that it works. You can expect to see an update posted here if I find an explanation. Or if you have an answer, feel free to post in the comments below.</p>
+
+<p>Before we copy over the files, let’s see what’s on the <code>BOOT</code> partition on the SD card.</p>
+
+<div>
+  <pre><code class="bash">~$ cd /Volumes/BOOT/
+
+/Volumes/BOOT$ ls -al
+total 12
+drwxrwxrwx@ 1 rth   staff   512 Jul  5 23:44 .
+drwxrwxrwt@ 4 root  admin   136 Jul  5 23:44 ..
+drwxrwxrwx  1 rth   staff   512 Jul  5 23:44 .Spotlight-V100
+drwxrwxrwx@ 1 rth   staff   512 Jul  5 23:44 .Trashes
+-rwxrwxrwx  1 rth   staff  4096 Jul  5 23:44 ._.Trashes
+drwxrwxrwx  1 rth   staff   512 Jul  5 23:44 .fseventsd
+
+/Volumes/BOOT$</code></pre>
+</div>
+
+<h3 id="gotcha-1-the-fpga-bitstream-file">Gotcha #1: The FPGA Bitstream File</h3>
+
+<p>First, change into the directory where you stored the additional Parallella files, and copy the FPGA bitstream file to <code>/Volumes/BOOT</code>.</p>
+
+<div>
+  <pre><code class="bash">$ cp parallella_e16_hdmi_gpiose_7010.bit.bin /Volumes/BOOT/
+
+$ cd /Volumes/BOOT/
+
+$ mv parallella_e16_hdmi_gpiose_7010.bit.bin parallella.bit.bin
+
+$</code></pre>
+</div>
+
+<p>First gotcha: I made the mistake of simply copying the <code>parallella_e16_hdmi_gpiose_7010.bit.bin</code> file without renaming it to <code>parallella.bit.bin</code>. Parallella will only boot when it sees a file with this filename on the SD card’s <code>BOOT</code> partition. The original file name will probably change as the software gets updated. With each change, we will need to make sure that the file is renamed <code>parallella.bit.bin</code> on the Parallella.</p>
+
+<p>Obvious in hindsight, but it took me awhile to track that one down!</p>
+
+<h3 id="copy-the-last-two-files">Copy the Last Two Files</h3>
+
+<p>Two files were decompressed from <code>kernel-hdmi-default.tgz</code>: <code>devicetree.dtb</code> and <code>uImage</code>. Change into the directory where the files were decompressed, and copy them to <code>/Volumes/BOOT</code>.</p>
+
+<div>
+  <pre><code class="bash">$ cp devicetree.dtb /Volumes/BOOT/
+
+$ cp uImage /Volumes/BOOT/
+
+$</code></pre>
+</div>
+
+<p>Here’s what the BOOT partition should look like when you’re done..</p>
+
+<div>
+  <pre><code class="bash">/Volumes/BOOT$ ls -al
+total 12853
+drwxrwxrwx@ 1 rth   staff     1024 Jul  6 12:14 .
+drwxrwxrwt@ 4 root  admin      136 Jul  6 12:11 ..
+drwxrwxrwx  1 rth   staff      512 Jul  6 12:11 .Spotlight-V100
+drwxrwxrwx@ 1 rth   staff      512 Jul  6 12:11 .Trashes
+-rwxrwxrwx  1 rth   staff     4096 Jul  6 12:11 ._.Trashes
+-rwxrwxrwx  1 rth   staff     4096 Jul  6 12:13 ._devicetree.dtb
+-rwxrwxrwx  1 rth   staff     4096 Jul  6 12:14 ._parallella.bit.bin
+-rwxrwxrwx  1 rth   staff     4096 Jul  6 12:13 ._uImage
+drwxrwxrwx  1 rth   staff      512 Jul  6 12:11 .fseventsd
+-rwxrwxrwx@ 1 rth   staff     8607 Jul  6 12:13 devicetree.dtb
+-rwxrwxrwx@ 1 rth   staff  2083744 Jul  6 12:14 parallella.bit.bin
+-rwxrwxrwx@ 1 rth   staff  4468792 Jul  6 12:13 uImage
+
+/Volumes/BOOT$</code></pre>
+</div>
+
+<p>Include file ‘image.html img=”images/eject_boot.png” caption=”Eject the SD card.”’ contains invalid characters or sequences </p>
+
+<h3 id="eject-the-sd-card-insert-in-parallella">Eject the SD Card, Insert in Parallella</h3>
+
+<p>Now you’re ready to eject the SD card from the Mac and insert it in the Parallella. Plug in the HDMI cable, keyboard, mouse, and Ethernet connection. Power up the Parallella, and welcome to the next <em>gotcha</em>.</p>
+
+<h3 id="gotcha-2-powered-usb-required">Gotcha #2: Powered USB Required</h3>
+
+<p>Parallella booted to a beautiful GUI, but the system would not respond to the keyboard or mouse. After swapping a few keyboard/mouse combinations, I finally tried a powered USB hub. The powered hub worked.</p>
+
+<p>Through trial and error I learned that the Parallella can handle a single keyboard plugged into the micro-USB port. However, if two devices are plugged in via USB, a powered hub is required. A passive USB hub will not work. A combination keyboard, one with both a keyboard and a trackpad, will also need a powered USB hub.</p>
+
+<h3 id="default-login-credentials">Default Login Credentials</h3>
+
+<p>Default login credentials for Parallella are…</p>
+
+<ul>
+  <li>username = linaro</li>
+  <li>password = linaro</li>
+</ul>
+
+<h3 id="ssh-vim-git-etc">SSH, Vim, Git, etc.</h3>
+
+<p>You can SSH into the Parallella from the network…</p>
+
+<div>
+  <pre><code class="bash">~$ ssh linaro@192.168.11.133
+linaro@192.168.11.133&#39;s password:
+Welcome to Linaro 14.04 (GNU/Linux 3.12.0-g0bc9c3a-dirty armv7l)
+
+ * Documentation:  https://wiki.linaro.org/
+Last login: Sun Jul  6 17:34:17 2014 from wisdomgroup-mbp13
+linaro-nano:~&gt;</code></pre>
+</div>
+
+<p>… Vim is operational…</p>
+
+<div>
+  <pre><code class="bash">linaro-nano:~&gt; which vim
+/usr/bin/vim
+linaro-nano:~&gt; vim --version
+VIM - Vi IMproved 7.4 (2013 Aug 10, compiled Jan  2 2014 19:49:14)
+linaro-nano:~&gt;</code></pre>
+</div>
+
+<p>… and Git works fine.</p>
+
+<div>
+  <pre><code class="bash">linaro-nano:~&gt; which git
+/usr/bin/git
+linaro-nano:~&gt; git --version
+git version 1.9.1
+linaro-nano:~&gt;</code></pre>
+</div>
+
+<h3 id="scrot-for-screenshots">Scrot for Screenshots</h3>
+
+<p>If you want to take a screenshot of the Parallella display, use <code>scrot</code>. It comes with the Ubuntu installation. Type <code>scrot</code> at the command line and hit enter. Five seconds later, the entire screen will be captured and stored in a file called <code>[time stamp]_1920x1080_scrot.png</code> in the current directory.</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>After waiting a year for Parallella to arrive, I’m excited to have the device up and running. Future posts will explore the “why?” behind parallel computing. Thanks Adapteva for helping to democratize supercomputing. Awesome times are ahead!</p>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">RayHightower.com</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li><a href="mailto:"></a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/rayhightower">
+              <span class="icon  icon--github">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+                </svg>
+              </span>
+
+              <span class="username">rayhightower</span>
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/rayhightower">
+              <span class="icon  icon--twitter">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                  c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+                </svg>
+              </span>
+
+              <span class="username">rayhightower</span>
+            </a>
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">Thoughts about Ruby, Rails, iOS, the Internet of Things, software development, and business growth.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

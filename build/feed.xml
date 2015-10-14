@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RayHightower.com</title>
+    <description>Thoughts about Ruby, Rails, iOS, the Internet of Things, software development, and business growth.</description>
+    <link>http://rayhightower.com/</link>
+    <atom:link href="http://rayhightower.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>2015-10-14 11:21:31 -0500</pubDate>
+    <lastBuildDate>2015-10-14 11:21:31 -0500</lastBuildDate>
+    <generator>Jekyll v</generator>
+    
+      <item>
+        <title>WindyCityRails 2015 Recap</title>
+        <description>&lt;p&gt;What an adventure… WindyCityRails 2015 achieved record attendance. Feedback has been amazing. Thank you speakers, sponsors, and attendees for making everything happen so well!&lt;/p&gt;
+
+&lt;p&gt;Here’s a 2-minute video recap of WindyCityRails 2015:&lt;/p&gt;
+
+&lt;center&gt;&lt;iframe name=&quot;wcr2015-recap&quot; src=&quot;https://player.vimeo.com/video/141427471?color=f00004&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;p&gt; &lt;br /&gt;
+&lt;a href=&quot;https://www.windycityrails.org/videos/2015/&quot;&gt;Presentation videos&lt;/a&gt; are available for all to see.
+&lt;!--more--&gt; 
+### Thank You Team&lt;/p&gt;
+
+&lt;p&gt;Thank you to every member of the organizer team for making the conference a success. Specifically:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.windycityrails.org/videos/2015/&quot;&gt;Kevin Zolkiewicz&lt;/a&gt; – conference manager.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/bobbyreys&quot;&gt;Bobby Reyes&lt;/a&gt; – master of ceremonies.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/hashtaglatoya&quot;&gt;LaToya Allen&lt;/a&gt; – master of ceremonies.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/themccreefiles&quot;&gt;Alonda McCree&lt;/a&gt; – logistics.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ryannanni.com&quot;&gt;Ryan Nanni&lt;/a&gt; – videography.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pub/michael-zarowny/ba/52a/28a&quot;&gt;Michael Zarowny&lt;/a&gt; – videography.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/tonyaljohnson_&quot;&gt;Tonya Johnson&lt;/a&gt; – media management.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://picasaweb.google.com/117859044250341793876&quot;&gt;Monty Ksycki&lt;/a&gt; – photography.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/wondible&quot;&gt;Justin Love&lt;/a&gt; – organizer.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/ChicagoRuby/members/1345203/&quot;&gt;Marty Lavin&lt;/a&gt; – organizer.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/ChicagoRuby/members/25308002/&quot;&gt;Sterling Hankins&lt;/a&gt; – organizer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As always, if you have ideas or suggestions for a future WindyCityRails, go ahead and let the organizers know. We always enjoy hearing from you.&lt;/p&gt;
+</description>
+        <pubDate>2015-10-05 14:03:11 -0500</pubDate>
+        <link>http://rayhightower.com/blog/2015/10/05/windycityrails-2015-recap/</link>
+        <guid isPermaLink="true">http://rayhightower.com/blog/2015/10/05/windycityrails-2015-recap/</guid>
+        
+        
+        <category>Community</category>
+        
+      </item>
+    
+      <item>
+        <title>Madison Ruby and Parallella (with Video)</title>
+        <description>&lt;p&gt;Include file ‘image.html img=”images/parallella_perspective_250_bw.jpg” caption=”Parallella.”’ contains invalid characters or sequences &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/&quot;&gt;Parallella&lt;/a&gt; is a single-board computer roughly the size of a credit card or Raspberry Pi. It runs Linux. It has 18 processor cores, two ARM and sixteen RISC. You can buy this device online for about $150.00.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://madisonpl.us/ruby/&quot;&gt;Madison+ Ruby&lt;/a&gt; organizers invited me to present Parallella at the conference earlier today. ~~Video will be posted here when it becomes available.~~ &lt;em&gt;Update: The Madison+ Ruby team has posted video in record time! Video and slides appear below.&lt;/em&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;center&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/BHZCCUEzK0s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; 
+&lt;br /&gt; &lt;/p&gt;
+&lt;center&gt;&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;cf2abfd4752a417ca7b399761af38e2a&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; 
+&lt;br /&gt; 
+### Thank You Madison+ Ruby
+&lt;a href=&quot;/blog/2013/08/25/madison-ruby-2013/&quot;&gt;Madison+ Ruby&lt;/a&gt; has delivered a great experience for five years. Sadly, 2015 marks the last year for the conference. They will be missed.&lt;/p&gt;
+
+&lt;p&gt;Thank you Jim and Jen Remsik for a great conference. I wish you well with everything you choose to do in coming years.&lt;/p&gt;
+</description>
+        <pubDate>2015-08-22 09:47:45 -0500</pubDate>
+        <link>http://rayhightower.com/blog/2015/08/22/madison-ruby-and-parallella/</link>
+        <guid isPermaLink="true">http://rayhightower.com/blog/2015/08/22/madison-ruby-and-parallella/</guid>
+        
+        
+        <category>Community</category>
+        
+        <category>Parallella</category>
+        
+      </item>
+    
+      <item>
+        <title>Git Vulnerability on Mac OS X and Windows</title>
+        <description>&lt;p&gt;Today the &lt;a href=&quot;http://git-scm.com/&quot;&gt;Git&lt;/a&gt; core team announced a security vulnerability and a corresponding fix. Hats off to the &lt;a href=&quot;http://mercurial.selenic.com/&quot;&gt;Mercurial&lt;/a&gt; team (yes, Mercurial!) for finding the problem. Hats off to the &lt;code&gt;Git&lt;/code&gt; team for making the announcement, and for delivering a fix so quickly.&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-the-problem&quot;&gt;What’s the Problem?&lt;/h3&gt;
+&lt;p&gt;If your Git installation remains un-patched, then a malicious person could over-write the &lt;code&gt;.git/config&lt;/code&gt; directory in one of your repositories. This would allow them to alter your Git history and make changes in the repo without your knowledge. &lt;a href=&quot;http://article.gmane.org/gmane.linux.kernel/1853266&quot;&gt;Details&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The vulnerability exists on Mac OS X and Microsoft Windows. This article will discuss solving the problem on Mac OS X only, since that is my primary development platform.
+&lt;!--more--&gt;
+Mac and Windows users are exposed because their file systems are not case-sensitive by default. Linux users who use a case-sensitive file system are protected. But Linux users might want to apply the patch anyway because (as stated by the Git core team):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Even though the issue may not affect Linux users, if you are a hosting service whose users may fetch from your service to Windows or Mac OS X machines, you are strongly encouraged to update to protect such users who use existing versions of Git.&lt;br /&gt;~Git Core Team&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;is-my-machine-vulnerable&quot;&gt;Is My Machine Vulnerable?&lt;/h3&gt;
+&lt;p&gt;I know that my machine was vulnerable because I was running an un-patched version of Git, as seen below.&lt;/p&gt;
+
+&lt;p&gt;``` bash&lt;/p&gt;
+
+&lt;p&gt;~$ git –version
+git version 2.1.3&lt;/p&gt;
+
+&lt;p&gt;~$ &lt;/p&gt;
+
+&lt;p&gt;``` &lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-upgrade&quot;&gt;How to Upgrade&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;/blog/2014/02/12/homebrew-fundamentals/&quot;&gt;Homebrew&lt;/a&gt; makes it easy to install and maintain Git. First, update Homebrew…&lt;/p&gt;
+
+&lt;p&gt;``` bash&lt;/p&gt;
+
+&lt;p&gt;~$ brew update
+Updated Homebrew from d243310d to a6ab9f13.
+==&amp;gt; New Formulae
+abi-compliance-checker        deis                     glbinding
+asciinema             distribution                rbenv-bundle-exec
+ctunnel                  game-music-emu           restund
+==&amp;gt; Updated Formulae
+abcm2ps                         jags
+afl-fuzz                    jansson&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;~$ &lt;/p&gt;
+
+&lt;p&gt;``` &lt;/p&gt;
+
+&lt;p&gt;Then, upgrade Git…&lt;/p&gt;
+
+&lt;p&gt;``` bash&lt;/p&gt;
+
+&lt;p&gt;~$ brew upgrade git
+==&amp;gt; Upgrading 1 outdated package, with result:
+git 2.2.1
+==&amp;gt; Upgrading git
+==&amp;gt; Downloading https://downloads.sf.net/project/machomebrew/Bottles/git-2.2.1.y
+######################################################################## 100.0%
+==&amp;gt; Pouring git-2.2.1.yosemite.bottle.tar.gz
+==&amp;gt; Caveats
+The OS X keychain credential helper has been installed to:
+  /usr/local/bin/git-credential-osxkeychain&lt;/p&gt;
+
+&lt;p&gt;The “contrib” directory has been installed to:
+  /usr/local/share/git-core/contrib&lt;/p&gt;
+
+&lt;p&gt;Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d&lt;/p&gt;
+
+&lt;p&gt;zsh completion has been installed to:
+  /usr/local/share/zsh/site-functions
+==&amp;gt; Summary
+    /usr/local/Cellar/git/2.2.1: 1356 files, 31M&lt;/p&gt;
+
+&lt;p&gt;~$ &lt;/p&gt;
+
+&lt;p&gt;``` &lt;/p&gt;
+
+&lt;p&gt;… and finally, verify that the patched version is in use.&lt;/p&gt;
+
+&lt;p&gt;``` bash&lt;/p&gt;
+
+&lt;p&gt;~$ git –version
+git version 2.2.1&lt;/p&gt;
+
+&lt;p&gt;~$ &lt;/p&gt;
+
+&lt;p&gt;``` &lt;/p&gt;
+
+&lt;h3 id=&quot;avoid-conflicts-with-apples-git&quot;&gt;Avoid Conflicts With Apple’s Git&lt;/h3&gt;
+&lt;p&gt;As &lt;a href=&quot;https://twitter.com/kcocev&quot;&gt;Kristjan Cocev&lt;/a&gt; notes in the comments below, Mac OS X comes with its own Git installation. By the time you bought the machine, that pre-installed version is probably out of date. My pre-installed Git was:&lt;/p&gt;
+
+&lt;p&gt;``` bash&lt;/p&gt;
+
+&lt;p&gt;~$ /usr/bin/git –version
+git version 1.9.3 (Apple Git-50)&lt;/p&gt;
+
+&lt;p&gt;~$ &lt;/p&gt;
+
+&lt;p&gt;``` &lt;/p&gt;
+
+&lt;p&gt;Apple’s pre-installed Git isn’t bad, but here’s the problem. Depending on how your &lt;code&gt;PATH&lt;/code&gt; variable is setup, there might be a conflict between Apple-installed Git and the one you installed via Homebrew. &lt;/p&gt;
+
+&lt;p&gt;Here are two alternatives for fixing the conflict before it causes problems.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Change your &lt;code&gt;PATH&lt;/code&gt; variable so that Homebrew-installed Git is executed long before Apple-installed Git gets reached, OR…&lt;/li&gt;
+  &lt;li&gt;Rename Apple-installed Git as follows: &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;``` bash&lt;/p&gt;
+
+&lt;p&gt;~$ sudo mv /usr/bin/git /usr/bin/git-apple
+Password:&lt;/p&gt;
+
+&lt;p&gt;~$ &lt;/p&gt;
+
+&lt;p&gt;``` &lt;/p&gt;
+
+&lt;p&gt;So now, if you want to use Apple’s pre-installed Git (unlikely) you can simply navigate to &lt;code&gt;/usr/bin/git-apple&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;open-source-rocks&quot;&gt;Open Source Rocks&lt;/h3&gt;
+&lt;p&gt;Again, hats off to everyone in the open source community who pulled together to make this fix happen!&lt;/p&gt;
+
+</description>
+        <pubDate>2014-12-18 17:00:00 -0500</pubDate>
+        <link>http://rayhightower.com/blog/2014/12/18/git-vulnerability-on-mac-os-x/</link>
+        <guid isPermaLink="true">http://rayhightower.com/blog/2014/12/18/git-vulnerability-on-mac-os-x/</guid>
+        
+        
+        <category>Git</category>
+        
+        <category>OS X</category>
+        
+      </item>
+    
+      <item>
+        <title>Parallella Quick Start Guide (with gotchas)</title>
+        <description>&lt;p&gt;Include file ‘image.html img=”images/parallella_screenshot.png” caption=”Parallella screenshot, 1080p.”’ contains invalid characters or sequences &lt;/p&gt;
+
+&lt;p&gt;Parallella is a single-board supercomputer smaller than a deck of cards. While today’s fastest laptops contain four processor cores, Parallella has &lt;em&gt;eighteen&lt;/em&gt; (2 &lt;a href=&quot;http://arm.com/&quot;&gt;ARM&lt;/a&gt; cores plus an &lt;a href=&quot;http://www.adapteva.com/epiphanyiii/&quot;&gt;Epiphany&lt;/a&gt; chip with 16 &lt;a href=&quot;http://en.wikipedia.org/wiki/Reduced_instruction_set_computing&quot;&gt;RISC&lt;/a&gt; cores). The maker of Parallella, &lt;a href=&quot;http://adapteva.com&quot;&gt;Adapteva&lt;/a&gt;, is on a mission to democratize parallel computing. The company’s tag line is &lt;em&gt;Supercomputing for Everyone&lt;/em&gt;.
+&lt;!--more--&gt;
+Everything in this post is based on the &lt;a href=&quot;http://www.parallella.org/quick-start/&quot;&gt;official quick start guide created by the Parallella team&lt;/a&gt;. These instructions are tailored for a Mac running OS X Mavericks (10.9.3) and a Parallella-16 equipped with the Zynq 7010 chip. I ran into some &lt;em&gt;gotchas&lt;/em&gt; during my first Parallella experience. The snags (and solutions) are documented here.&lt;/p&gt;
+
+&lt;p&gt;Include file ‘image.html img=”images/parallella.jpg” title=”Parallella. 18 cores on a tiny board.” caption=”Parallella. 18 cores on a tiny board.”’ contains invalid characters or sequences &lt;/p&gt;
+
+&lt;h3 id=&quot;tools-required&quot;&gt;Tools Required&lt;/h3&gt;
+
+&lt;p&gt;You will need the following items in order to burn an SD card for your
+Parallella:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Micro-SD card, 16GB or greater.&lt;/li&gt;
+  &lt;li&gt;Desktop or laptop computer with a micro-SD card reader, or an SD-card reader with a micro adapter. These instructions are tailored for a Mac. A Linux or Windows machine will work with minor modifications in the procedure.&lt;/li&gt;
+  &lt;li&gt;High-speed internet connection, for downloading Parallella’s Ubuntu
+image and related files.&lt;/li&gt;
+  &lt;li&gt;Micro-USB-to-USB adapter, for the keyboard and mouse. Parallella is equipped with two micro-USB ports.&lt;/li&gt;
+  &lt;li&gt;Micro-HDMI to HDMI cable or adapter. &lt;/li&gt;
+  &lt;li&gt;Parallella (of course!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Adapteva sells an accessories kit containing an SD card, power adapter, micro-HDMI to HDMI cable, and USB-to-micro-USB adapter. Unless you already have these items, buying the kit may save you time.&lt;/p&gt;
+
+&lt;h3 id=&quot;these-steps-could-break-your-primary-machine&quot;&gt;These Steps Could Break Your Primary Machine&lt;/h3&gt;
+
+&lt;p&gt;Since you’re experimenting with Parallella, we can assume that you are an advanced user. Your computer is already backed up, or you’re running these steps on a test machine. And you know &lt;a href=&quot;/sudo-disclaimer/&quot;&gt;the power and pitfalls of sudo&lt;/a&gt;. Technology evolves rapidly, and everything you read here could change by the time you read it.&lt;/p&gt;
+
+&lt;h3 id=&quot;comparison-with-raspberry-pi-or-beaglebone-black&quot;&gt;Comparison with Raspberry Pi or Beaglebone Black&lt;/h3&gt;
+
+&lt;p&gt;Include file ‘image.html img=”images/parallella_fan.jpg” caption=”Bits get hot. Use a fan.”’ contains invalid characters or sequences &lt;/p&gt;
+
+&lt;p&gt;How does the Parallella compare with other single-board computers, like the &lt;a href=&quot;/blog/2012/12/03/ruby-on-raspberry-pi/&quot;&gt;Raspberry Pi&lt;/a&gt; or &lt;a href=&quot;/blog/2014/01/02/beaglebone-black-ubuntu-part-1/&quot;&gt;Beaglebone Black&lt;/a&gt;? The first difference noticed at boot-time: Parallella runs hot! So hot, in fact, that the unit comes with a heat sink and the recommendation to add a fan. I’ve never needed a fan with a Pi or a ‘Bone.&lt;/p&gt;
+
+&lt;p&gt;Of course, the Parallella runs hotter because it has more processing power packed tightly together in limited space. Since Parallella is designed to run tasks in parallel, we can expect certain programs to perform faster than they would on the Pi or ‘Bone. Future posts will explore Parallella’s performance using languages designed for concurrency, languages like &lt;a href=&quot;/blog/2013/06/22/preparing-for-parallella-64-cores-installing-go-on-mac-os-x/&quot;&gt;Go&lt;/a&gt; and &lt;a href=&quot;/blog/2014/02/06/installing-rubinius-using-rvm/&quot;&gt;Rubinius&lt;/a&gt;. Now, let’s get started with Parallella.&lt;/p&gt;
+
+&lt;h3 id=&quot;getting-the-parallella-os&quot;&gt;Getting the Parallella OS&lt;/h3&gt;
+
+&lt;p&gt;Parallella runs a customized version of Ubuntu installed on a micro-SD card. Burning the SD card takes a long time, so it makes sense to start that process first.&lt;/p&gt;
+
+&lt;p&gt;Download the files that you will need to burn onto the SD card. I’m running Mac OS X on my primary machine, and I’m configuring a Parallella-16 with a Zynq 7010 and an HDMI display. Therefore, the files needed for this configuration are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://downloads.parallella.org/ubuntu/dists/trusty/image/ubuntu-14.04-140611.img.gz&quot;&gt;Ubuntu 14.04 for Parallella&lt;/a&gt; (released June 11, 2014)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://downloads.parallella.org/boot/linux/kernel-hdmi-default.tgz&quot;&gt;Linux kernel with HDMI support&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/parallella/parallella-hw/blob/master/fpga/bitstreams/parallella_e16_hdmi_gpiose_7010.bit.bin?raw=true&quot;&gt;Parallella-16 Zynq 7010 with HDMI display&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Unzip the files and place them in a directory that’s handy. You’ll need them for the next step. With Mac OS X, you can unzip the files by double-clicking them in &lt;code&gt;Finder&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note: You might need different files depending on the current date (Parallella software is in a rapid state of flux) and your exact equipment. If your configuration is different, you can make the adjustments described in Parallella’s official guide.&lt;/p&gt;
+
+&lt;h3 id=&quot;burn-the-sd-card&quot;&gt;Burn the SD Card&lt;/h3&gt;
+
+&lt;p&gt;Insert your SD card into your Mac’s SD card reader, and use the Mac OS X &lt;code&gt;diskutil list&lt;/code&gt; command to determine the designation of the SD card. If you use portable hard drives with your primary machine, the SD card designation could change from time to time, so it’s important to perform this step each time you burn a card.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *500.3 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS MacSSD                  499.4 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                       *15.9 GB     disk1
+   1:               Windows_NTFS Untitled 1             15.9 GB     disk1s1
+
+$&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;From this &lt;code&gt;diskutil&lt;/code&gt; report, we can see that we want to burn the SD image to &lt;code&gt;/dev/disk1&lt;/code&gt;. The other device is the hard drive for my primary machine. Burning the wrong device means destroying data. &lt;/p&gt;
+
+&lt;p&gt;To burn the SD card…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Change into the directory where you downloaded the Ubuntu image.&lt;/li&gt;
+  &lt;li&gt;Unmount the destination partition on the SD card.&lt;/li&gt;
+  &lt;li&gt;Use the the &lt;code&gt;dd&lt;/code&gt; command to copy the Ubuntu image to the SD card.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To execute the above steps as &lt;code&gt;bash&lt;/code&gt; commands, do the following:&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ cd [directory containing the ubuntu image file]
+
+$ diskutil unmountDisk /dev/disk1
+Unmount of all volumes on disk1 was successful
+
+$ sudo dd if=ubuntu-14.04-140611.img of=/dev/disk1 bs=64k
+Password:&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The &lt;code&gt;dd&lt;/code&gt; command takes a &lt;em&gt;long&lt;/em&gt; time to run, over 56 minutes on my machine. Here’s a quick run-through of the command options:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;sudo&lt;/code&gt; gives you &lt;a href=&quot;/sudo-disclaimer/&quot;&gt;super powers&lt;/a&gt;. &lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;dd&lt;/code&gt; is the “copy and convert” command. The letters “dd” have nothing to do with what the tool actually does. It’s just a command name. And like so many things in computer science, the name might be based on a pun.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;if=&lt;/code&gt; specifies the input file. You can include the full path, or if the file is in your current directory, you can omit the path as shown in this example.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;of=&lt;/code&gt; specifies the output file. We know that the SD card is located at &lt;code&gt;/dev/disk&lt;/code&gt; so that’s where the results of this command are headed.  Note that your destination directory may differ from this one.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;bs=&lt;/code&gt; specifies the block size used for the destination file.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;about-block-size&quot;&gt;About Block Size&lt;/h3&gt;
+
+&lt;p&gt;The Mac section of the official Parallella guide recommends a block size of size of 1 megabyte, while the Linux instructions recommend 64 kilobytes (the option &lt;code&gt;bs=64k&lt;/code&gt; in the &lt;code&gt;dd&lt;/code&gt; command). I initially used &lt;code&gt;bs=1m&lt;/code&gt; on my Mac, and I ran into problems. When I used &lt;code&gt;bs=64k&lt;/code&gt;, everything worked fine. Note that I eventually traced my problem to something other than block size (details below) but since the 64k setting still works, I’ve left it intact. If I find out why Linux and OS X are using different block sizes, I’ll post the information here.&lt;/p&gt;
+
+&lt;h3 id=&quot;checking-dd-progress&quot;&gt;Checking dd Progress&lt;/h3&gt;
+
+&lt;p&gt;Include file ‘image.html img=”images/dd_progress.png” caption=”Activity Monitor”’ contains invalid characters or sequences &lt;/p&gt;
+
+&lt;p&gt;Waiting an hour for the &lt;code&gt;dd&lt;/code&gt; command to run can be disconcerting because the machine does not give any feedback on progress. No gas gauge, spinning indicator, nothing. How do we know if the write process is working?&lt;/p&gt;
+
+&lt;p&gt;Here’s how to check progress. Run Apple’s &lt;code&gt;Activity Monitor&lt;/code&gt;, and look for &lt;code&gt;dd&lt;/code&gt; on the list of processes, as shown in the Activity Monitor screenshot. The number of bytes written will increase slowly while &lt;code&gt;dd&lt;/code&gt; burns the Ubuntu image onto the SD card. With the current version of Ubuntu, roughly 7.4GB will be written to the SD. At completion, &lt;code&gt;dd&lt;/code&gt; will disappear from the Activity Monitor list and you’ll see the following at the command line.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ sudo dd if=ubuntu-14.04-140611.img of=/dev/disk1 bs=64k
+Password:
+121280+0 records in
+121280+0 records out
+7948206080 bytes transferred in 3363.824531 secs (2362848 bytes/sec)
+
+$&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As you can see from the report, it took 3363.824531 seconds (just over 56 minutes) for &lt;code&gt;dd&lt;/code&gt; to burn the Ubuntu image onto the SD card. That’s a long time to wait with zero feedback. Activity Monitor will tell you what’s going on.&lt;/p&gt;
+
+&lt;h3 id=&quot;confirm-partitions&quot;&gt;Confirm Partitions&lt;/h3&gt;
+
+&lt;p&gt;To confirm that the partitions have been created and that Ubuntu has been written to the SD card, use &lt;code&gt;diskutil list&lt;/code&gt; again.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *500.3 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS MacSSD                  499.4 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *15.9 GB    disk1
+   1:                 DOS_FAT_32 BOOT                    134.2 MB   disk1s1
+   2:                      Linux                         7.3 GB     disk1s2
+
+$&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As expected, &lt;code&gt;/dev/disk0&lt;/code&gt; remains unchanged. We want it that way because that’s where our primary machine’s operating system resides. &lt;code&gt;/dev/disk1&lt;/code&gt; (your actual SD card designation may be different) is the target disk we’re after. Two new partitions are on the SD card, a FAT32 partition named &lt;code&gt;BOOT&lt;/code&gt; and a Linux partition.&lt;/p&gt;
+
+&lt;p&gt;Next we need to copy some supporting files to the new &lt;code&gt;BOOT&lt;/code&gt; partition.&lt;/p&gt;
+
+&lt;h3 id=&quot;copying-additional-files-to-the-sd-card&quot;&gt;Copying Additional Files to the SD Card&lt;/h3&gt;
+
+&lt;p&gt;Now that Ubuntu resides on the SD card, it’s time to add the files that support HDMI video and the FPGAs. Here’s how.&lt;/p&gt;
+
+&lt;p&gt;The additional files will need to be copied to &lt;code&gt;/BOOT&lt;/code&gt; on the SD card. While it might make sense to reach the &lt;code&gt;BOOT&lt;/code&gt; partition as &lt;code&gt;/dev/disk1&lt;/code&gt;, you will actually reach it via &lt;code&gt;/Volumes/BOOT&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;We target &lt;code&gt;/dev/disk1&lt;/code&gt; when burning the Ubuntu image, but to copy the supporting files we target &lt;code&gt;/Volumes/BOOT&lt;/code&gt;. Both designations point to the same place, the SD card. Why the name switch? &lt;/p&gt;
+
+&lt;p&gt;I don’t know why two different designations are used for the same SD card. I only know that it works. You can expect to see an update posted here if I find an explanation. Or if you have an answer, feel free to post in the comments below.&lt;/p&gt;
+
+&lt;p&gt;Before we copy over the files, let’s see what’s on the &lt;code&gt;BOOT&lt;/code&gt; partition on the SD card.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;~$ cd /Volumes/BOOT/
+
+/Volumes/BOOT$ ls -al
+total 12
+drwxrwxrwx@ 1 rth   staff   512 Jul  5 23:44 .
+drwxrwxrwt@ 4 root  admin   136 Jul  5 23:44 ..
+drwxrwxrwx  1 rth   staff   512 Jul  5 23:44 .Spotlight-V100
+drwxrwxrwx@ 1 rth   staff   512 Jul  5 23:44 .Trashes
+-rwxrwxrwx  1 rth   staff  4096 Jul  5 23:44 ._.Trashes
+drwxrwxrwx  1 rth   staff   512 Jul  5 23:44 .fseventsd
+
+/Volumes/BOOT$&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;gotcha-1-the-fpga-bitstream-file&quot;&gt;Gotcha #1: The FPGA Bitstream File&lt;/h3&gt;
+
+&lt;p&gt;First, change into the directory where you stored the additional Parallella files, and copy the FPGA bitstream file to &lt;code&gt;/Volumes/BOOT&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ cp parallella_e16_hdmi_gpiose_7010.bit.bin /Volumes/BOOT/
+
+$ cd /Volumes/BOOT/
+
+$ mv parallella_e16_hdmi_gpiose_7010.bit.bin parallella.bit.bin
+
+$&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;First gotcha: I made the mistake of simply copying the &lt;code&gt;parallella_e16_hdmi_gpiose_7010.bit.bin&lt;/code&gt; file without renaming it to &lt;code&gt;parallella.bit.bin&lt;/code&gt;. Parallella will only boot when it sees a file with this filename on the SD card’s &lt;code&gt;BOOT&lt;/code&gt; partition. The original file name will probably change as the software gets updated. With each change, we will need to make sure that the file is renamed &lt;code&gt;parallella.bit.bin&lt;/code&gt; on the Parallella.&lt;/p&gt;
+
+&lt;p&gt;Obvious in hindsight, but it took me awhile to track that one down!&lt;/p&gt;
+
+&lt;h3 id=&quot;copy-the-last-two-files&quot;&gt;Copy the Last Two Files&lt;/h3&gt;
+
+&lt;p&gt;Two files were decompressed from &lt;code&gt;kernel-hdmi-default.tgz&lt;/code&gt;: &lt;code&gt;devicetree.dtb&lt;/code&gt; and &lt;code&gt;uImage&lt;/code&gt;. Change into the directory where the files were decompressed, and copy them to &lt;code&gt;/Volumes/BOOT&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ cp devicetree.dtb /Volumes/BOOT/
+
+$ cp uImage /Volumes/BOOT/
+
+$&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Here’s what the BOOT partition should look like when you’re done..&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;/Volumes/BOOT$ ls -al
+total 12853
+drwxrwxrwx@ 1 rth   staff     1024 Jul  6 12:14 .
+drwxrwxrwt@ 4 root  admin      136 Jul  6 12:11 ..
+drwxrwxrwx  1 rth   staff      512 Jul  6 12:11 .Spotlight-V100
+drwxrwxrwx@ 1 rth   staff      512 Jul  6 12:11 .Trashes
+-rwxrwxrwx  1 rth   staff     4096 Jul  6 12:11 ._.Trashes
+-rwxrwxrwx  1 rth   staff     4096 Jul  6 12:13 ._devicetree.dtb
+-rwxrwxrwx  1 rth   staff     4096 Jul  6 12:14 ._parallella.bit.bin
+-rwxrwxrwx  1 rth   staff     4096 Jul  6 12:13 ._uImage
+drwxrwxrwx  1 rth   staff      512 Jul  6 12:11 .fseventsd
+-rwxrwxrwx@ 1 rth   staff     8607 Jul  6 12:13 devicetree.dtb
+-rwxrwxrwx@ 1 rth   staff  2083744 Jul  6 12:14 parallella.bit.bin
+-rwxrwxrwx@ 1 rth   staff  4468792 Jul  6 12:13 uImage
+
+/Volumes/BOOT$&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Include file ‘image.html img=”images/eject_boot.png” caption=”Eject the SD card.”’ contains invalid characters or sequences &lt;/p&gt;
+
+&lt;h3 id=&quot;eject-the-sd-card-insert-in-parallella&quot;&gt;Eject the SD Card, Insert in Parallella&lt;/h3&gt;
+
+&lt;p&gt;Now you’re ready to eject the SD card from the Mac and insert it in the Parallella. Plug in the HDMI cable, keyboard, mouse, and Ethernet connection. Power up the Parallella, and welcome to the next &lt;em&gt;gotcha&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;gotcha-2-powered-usb-required&quot;&gt;Gotcha #2: Powered USB Required&lt;/h3&gt;
+
+&lt;p&gt;Parallella booted to a beautiful GUI, but the system would not respond to the keyboard or mouse. After swapping a few keyboard/mouse combinations, I finally tried a powered USB hub. The powered hub worked.&lt;/p&gt;
+
+&lt;p&gt;Through trial and error I learned that the Parallella can handle a single keyboard plugged into the micro-USB port. However, if two devices are plugged in via USB, a powered hub is required. A passive USB hub will not work. A combination keyboard, one with both a keyboard and a trackpad, will also need a powered USB hub.&lt;/p&gt;
+
+&lt;h3 id=&quot;default-login-credentials&quot;&gt;Default Login Credentials&lt;/h3&gt;
+
+&lt;p&gt;Default login credentials for Parallella are…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;username = linaro&lt;/li&gt;
+  &lt;li&gt;password = linaro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ssh-vim-git-etc&quot;&gt;SSH, Vim, Git, etc.&lt;/h3&gt;
+
+&lt;p&gt;You can SSH into the Parallella from the network…&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;~$ ssh linaro@192.168.11.133
+linaro@192.168.11.133&amp;#39;s password:
+Welcome to Linaro 14.04 (GNU/Linux 3.12.0-g0bc9c3a-dirty armv7l)
+
+ * Documentation:  https://wiki.linaro.org/
+Last login: Sun Jul  6 17:34:17 2014 from wisdomgroup-mbp13
+linaro-nano:~&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;… Vim is operational…&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;linaro-nano:~&amp;gt; which vim
+/usr/bin/vim
+linaro-nano:~&amp;gt; vim --version
+VIM - Vi IMproved 7.4 (2013 Aug 10, compiled Jan  2 2014 19:49:14)
+linaro-nano:~&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;… and Git works fine.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;linaro-nano:~&amp;gt; which git
+/usr/bin/git
+linaro-nano:~&amp;gt; git --version
+git version 1.9.1
+linaro-nano:~&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;scrot-for-screenshots&quot;&gt;Scrot for Screenshots&lt;/h3&gt;
+
+&lt;p&gt;If you want to take a screenshot of the Parallella display, use &lt;code&gt;scrot&lt;/code&gt;. It comes with the Ubuntu installation. Type &lt;code&gt;scrot&lt;/code&gt; at the command line and hit enter. Five seconds later, the entire screen will be captured and stored in a file called &lt;code&gt;[time stamp]_1920x1080_scrot.png&lt;/code&gt; in the current directory.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;After waiting a year for Parallella to arrive, I’m excited to have the device up and running. Future posts will explore the “why?” behind parallel computing. Thanks Adapteva for helping to democratize supercomputing. Awesome times are ahead!&lt;/p&gt;
+</description>
+        <pubDate>2014-07-07 13:31:00 -0500</pubDate>
+        <link>http://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/</link>
+        <guid isPermaLink="true">http://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/</guid>
+        
+        
+        <category>High Performance Computing</category>
+        
+        <category>IoT</category>
+        
+        <category>Parallella</category>
+        
+      </item>
+    
+      <item>
+        <title>How to Grow a User Group</title>
+        <description>&lt;p&gt;The current team of &lt;a href=&quot;http://chicagoruby.org&quot;&gt;ChicagoRuby&lt;/a&gt; organizers assumed leadership in August 2007. Back then, typical monthly attendance was about five people and the group’s &lt;a href=&quot;http://meetup.com/chicagoruby&quot;&gt;Meetup.com&lt;/a&gt; database contained 78 members. The previous organizer was swamped with work at his day job, so he handed the baton to a new crew.&lt;/p&gt;
+
+&lt;p&gt;Today, the &lt;em&gt;new crew&lt;/em&gt; has grown ChicagoRuby to over 2,700 members. The group hosts three meetups every month, and the downtown meetings consistently max out the 100-person RSVP limit. Bonus: ChicagoRuby hosts two conferences, &lt;a href=&quot;http://windycityrails.org&quot;&gt;WindyCityRails&lt;/a&gt; in Chicago and &lt;a href=&quot;http://rubycaribe.com&quot;&gt;RubyCaribe&lt;/a&gt; on the Caribbean island of Barbados.&lt;/p&gt;
+
+&lt;p&gt;How does ChicagoRuby do it? Through consistency, teamwork, iteration, and learning from mistakes.
+&lt;!--more--&gt;
+###Be Consistent With Meetings
+Consistency is very difficult in the beginning, especially on that night when only three people show up for the meeting. I have hosted a 3-person ChicagoRuby meeting before. Consistency is hard, and it is also the most important factor in user group success.&lt;/p&gt;
+
+&lt;p&gt;People trust consistency. Consistent meetings grow groups. &lt;/p&gt;
+
+&lt;p&gt;Members of ChicagoRuby know that we meet on the first Tuesday of every month downtown, the third Saturday of every month in Elmhurst, and one evening per month for the hack night. Members can plan their schedules months in advance because the ChicagoRuby calendar is consistent. Consistency builds trust.&lt;/p&gt;
+
+&lt;p&gt;ChicagoRuby cancelled one meeting in January 2011 due to a killer snow storm in Chicago. We were forced to cancel because the property manager shut the entire building down. We’re a little bit stubborn about consistency. And that’s how we build trust. &lt;/p&gt;
+
+&lt;p&gt;Yes, there will be times when the organizer is too exhausted to run an upcoming meeting. That’s why it’s important to share the work by building a team.&lt;/p&gt;
+
+&lt;h3 id=&quot;build-the-team&quot;&gt;Build the Team&lt;/h3&gt;
+&lt;p&gt;ChicagoRuby believes in sharing the work amongst multiple organizers. The group is stronger with several brains at the helm. Today we have eight organizers. Working as a team enables us to benefit from each other’s strengths. Some organizers have strong design skills, others are strong developers. And some are good at asking members for help.&lt;/p&gt;
+
+&lt;h3 id=&quot;ask-for-help&quot;&gt;Ask for Help&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I guarantee you that any favor he asks of you, you will offer to do before he requests it.
+&lt;br /&gt;~Tom Hagen, Consigliere&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One way to ask for help: Encourage members to help in their area of enthusiasm. For example, organizer &lt;a href=&quot;https://twitter.com/ginnyhendry&quot;&gt;Ginny Hendry&lt;/a&gt; runs the ChicagoRuby hack nights every month. Ginny got started when she approached the organizers after a meeting and said, “We should have hack nights.” Clearly, she was enthused about hack nights, so we asked her to take the lead in that area.&lt;/p&gt;
+
+&lt;p&gt;Today, Ginny’s hack nights are the highest rated of all ChicagoRuby events. In January, she will be a lab advisor at RubyCaribe. &lt;/p&gt;
+
+&lt;p&gt;Before he moved to Florida, &lt;a href=&quot;http://twitter.com/mattpolito&quot;&gt;Matt Polito&lt;/a&gt; was part of the ChicagoRuby organizer team. Matt wanted ChicagoRuby to have a logo. I was against it. We were planning the first WindyCityRails and I wanted everyone to focus on the conference. Matt went out and got the logo done anyway. Everybody likes it. Matt, thank you for ignoring me!&lt;/p&gt;
+
+&lt;p&gt;Members who have ideas for improvement tend to be strong leaders. The whole group benefits when we get out of the way and let them lead.&lt;/p&gt;
+
+&lt;p&gt;The current members of the ChicagoRuby organizer team are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/ginnyhendry&quot;&gt;Ginny Hendry&lt;/a&gt;, mentioned above.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/wondible&quot;&gt;Justin Love&lt;/a&gt; is a developer and an organizer of the &lt;a href=&quot;http://www.meetup.com/js-chi/&quot;&gt;Chicago JavaScript Meetup Group (JS-Chi)&lt;/a&gt;. Justin will also be a lab advisor for RubyCaribe in January 2015.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/hugocorbucci&quot;&gt;Hugo Corbucci&lt;/a&gt;, &lt;a href=&quot;http://www.meetup.com/ChicagoRuby/members/42800032/&quot;&gt;Emily Rosengren&lt;/a&gt;, and &lt;a href=&quot;http://www.meetup.com/ChicagoRuby/members/135529442/&quot;&gt;Sam Jacobs&lt;/a&gt; are developers at &lt;a href=&quot;http://thoughtworks.com&quot;&gt;ThoughtWorks&lt;/a&gt;. Since ThoughtWorkers travel often, ChicagoRuby always invites two or more to be on the organizer team. &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/themccreefiles&quot;&gt;Alonda McCree&lt;/a&gt; manages the downtown meetups, including logistics and video. Alonda is the conference manager for RubyCaribe.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/ChicagoRuby/members/1345203/&quot;&gt;Marty Lavin&lt;/a&gt; manages ChicagoRuby’s Elmhurst meetups, including logistics and scheduling. Marty is consistently active in Elmhurst, so we asked him to join the team.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/rayhightower&quot;&gt;Ray Hightower&lt;/a&gt;, author of this
+article.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition to the core group of ChicagoRuby organizers, one person deserves special mention. &lt;a href=&quot;http://twitter.com/zolk&quot;&gt;Kevin Zolkiewicz&lt;/a&gt; has managed every WindyCityRails since the first one in 2008. Kevin’s project management, design, and leadership skills are enjoyed by everyone who attends WindyCityRails.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.chicagoruby.org/about/organizers/&quot;&gt;ChicagoRuby Organizer Page&lt;/a&gt; contains the list of current and past organizers. Many of the former organizers remain active in an emeritus role. Every mind helps to make the group stronger.&lt;/p&gt;
+
+&lt;h3 id=&quot;automate-everything&quot;&gt;Automate Everything&lt;/h3&gt;
+&lt;p&gt;Managing a database of 2,700+ members could be drudgery. Fortunately, &lt;a href=&quot;http://meetup.com/chicagoruby&quot;&gt;Meetup.com&lt;/a&gt; makes the process easy. Meetup handles RSVPs, membership additions and deletions, and reminders. Sometimes, the 2-week automated reminder from Meetup.com reminds the organizers to get a speaker for the next meeting!&lt;/p&gt;
+
+&lt;p&gt;Early in our history, someone suggested that ChicagoRuby should not use Meetup.com because it’s written in PHP, and we’re a Ruby group. We see things differently. ChicagoRuby is a Ruby group that uses the best tool for the job, regardless of language. Meetup.com has proven itself useful for eight years and counting.&lt;/p&gt;
+
+&lt;h3 id=&quot;choose-a-short-name&quot;&gt;Choose a Short Name&lt;/h3&gt;
+&lt;p&gt;Growth is an ongoing priority for ChicagoRuby. In order to grow, a group has to attract new members. New members who are looking for a group to join are likely to start with a search engine, and search engines adore simplicity.&lt;/p&gt;
+
+&lt;p&gt;Our group was originally called &lt;em&gt;The Chicago Area Ruby on Rails Meetup Group&lt;/em&gt;. Accurate, and a mouthful. We discovered that a simple domain name, &lt;a href=&quot;http://chicagoruby.org&quot;&gt;ChicagoRuby.org&lt;/a&gt;, was available. So we grabbed it, along with the &lt;a href=&quot;http://twitter.com/chicagoruby&quot;&gt;@ChicagoRuby&lt;/a&gt; Twitter handle.&lt;/p&gt;
+
+&lt;h3 id=&quot;be-easy-to-find&quot;&gt;Be Easy to Find&lt;/h3&gt;
+&lt;p&gt;To make the group even easier to find, every web site in the ChicagoRuby ecosystem points to all of the group’s other web sites. For example, all of the conference sites point to the ChicagoRuby site, and vice versa. A new member who finds one part of the ecosystem will find the whole thing. People feel welcome when information is easy to find.&lt;/p&gt;
+
+&lt;p&gt;Making future members feel welcome is key to growth. Free monthly events are another way to make people feel welcome. &lt;/p&gt;
+
+&lt;h3 id=&quot;keep-monthly-events-free&quot;&gt;Keep Monthly Events Free&lt;/h3&gt;
+&lt;p&gt;I firmly believe that monthly user group meetings should be free. We never know what a member of our community is going through financially. Therefore, ChicagoRuby’s monthly meetings have always been free.&lt;/p&gt;
+
+&lt;p&gt;My personal history includes times when I was dead broke due to one entrepreneurial setback or another. So I have emotional reasons for keeping ChicagoRuby’s monthly events free of charge.&lt;/p&gt;
+
+&lt;p&gt;Of course, the money to pay for the meetings has to come from somewhere. That’s where sponsors can help.&lt;/p&gt;
+
+&lt;h3 id=&quot;cover-monthly-costs-through-sponsorships&quot;&gt;Cover Monthly Costs Through Sponsorships&lt;/h3&gt;
+&lt;p&gt;Companies will gladly sponsor a group that gives them a return on their investment. Sponsorships don’t always come in the form of money.&lt;/p&gt;
+
+&lt;p&gt;For example, ChicagoRuby’s first sponsor was &lt;a href=&quot;http://www.deforestgroup.com/&quot;&gt;DeForest Group&lt;/a&gt;. Owners &lt;a href=&quot;https://www.linkedin.com/in/leedeforest&quot;&gt;Lee DeForest&lt;/a&gt; and &lt;a href=&quot;http://www.linkedin.com/pub/james-deforest/40/57a/881&quot;&gt;Jim DeForest&lt;/a&gt; provide ChicagoRuby with free space and WiFi for our Saturday meetings. Lee was one of the five people in the room when the current organizers took over, and we will always be grateful for his early support.&lt;/p&gt;
+
+&lt;p&gt;ChicagoRuby’s downtown sponsors are &lt;a href=&quot;http://enova.com&quot;&gt;Enova&lt;/a&gt; and &lt;a href=&quot;http://thoughtworks.com&quot;&gt;ThoughtWorks&lt;/a&gt;. Each company provides space, WiFi, pizza, and beverages on a monthly basis. Sponsors get to address the group at the beginning of the meeting. More important, by sponsoring ChicagoRuby over time, a company can build trust within the membership.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://oreilly.com&quot;&gt;O’Reilly Media&lt;/a&gt; was our first publishing sponsor.  O’Reilly, &lt;a href=&quot;http://www.informit.com/user_groups/&quot;&gt;Pearson Education&lt;/a&gt;, and &lt;a href=&quot;http://pragprog.com/&quot;&gt;The Pragmatic Programmers&lt;/a&gt; provide books for ChicagoRuby members to &lt;a href=&quot;http://www.chicagoruby.org/book-reviews/&quot;&gt;review&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sponsors get involved with user groups for two main reasons: To recruit developers, or to market products to developers. Everybody wins when sponsors get involved with user groups, financially or otherwise.&lt;/p&gt;
+
+&lt;h3 id=&quot;vet-speakers&quot;&gt;Vet Speakers&lt;/h3&gt;
+&lt;p&gt;Members of ChicagoRuby trust the organizers to deliver quality events every month. I dropped the ball one month when I failed to properly vet a speaker. After that meeting, organizer &lt;a href=&quot;https://twitter.com/dgiunta&quot;&gt;Dave Giunta&lt;/a&gt; wrote the first draft of the ChicagoRuby &lt;a href=&quot;http://www.chicagoruby.org/about/speaker-guidelines/&quot;&gt;speaker guidelines&lt;/a&gt;. We’ve word-smithed the guidelines over the years, but the most important parts were created by Dave.&lt;/p&gt;
+
+&lt;h3 id=&quot;make-members-feel-awesome&quot;&gt;Make Members Feel Awesome&lt;/h3&gt;
+&lt;p&gt;We humans have a need to belong to something. The feeling of belonging (awesomeness) can be strengthened when we go out for drinks after an event. Drinks are not necessarily alcohol; when we go to a bar together, some members will have a soda, juice, or coffee. Informal camaraderie makes members feel like members.&lt;/p&gt;
+
+&lt;p&gt;ChicagoRuby members gather together at a bar for an hour or so after our downtown meetings. In Elmhurst, the meetings end at noon, so we grab lunch together at a local restaurant. The conversation continues, and bonds are formed.&lt;/p&gt;
+
+&lt;h3 id=&quot;maintain-focus-and-explore-new-areas&quot;&gt;Maintain Focus, and Explore New Areas&lt;/h3&gt;
+&lt;p&gt;Focus can lead to excellence. But if our focus is too tight, we might miss the Next Great Thing. How does a group balance between focus and exploration?&lt;/p&gt;
+
+&lt;p&gt;Over the years, ChicagoRuby has struggled with focus. We’ve experimented with other ventures. We ran a job board for awhile. We ran conferences related to NoSQL and mobile. We moved away from these because they drained our resources, and pulled us away from our core, which is Ruby. &lt;/p&gt;
+
+&lt;p&gt;Here’s how we balance between focus and exploration. The monthly user group meetings are for exploration. Monthly events take minimal resources, so they’re ideal for experiments. For example, &lt;a href=&quot;http://www.chicagoruby.org/videos/archives/2013/12/03/ployglot-night/&quot;&gt;Polyglot Night&lt;/a&gt; in Jan 2014 was very successful. Monthly meetings might explore NoSQL, mobile, or IoT. The Ruby community remains vibrant because we &lt;em&gt;borrow&lt;/em&gt; ideas from other communities.&lt;/p&gt;
+
+&lt;p&gt;Our conferences focus on Ruby. Conferences require more planning and resources than monthly meetups. So, to maximize efficiency, we build our conferences around our core strength: Ruby. RubyCaribe is the newest example of this focused approach.&lt;/p&gt;
+
+&lt;h3 id=&quot;collaborate-with-other-groups&quot;&gt;Collaborate With Other Groups&lt;/h3&gt;
+&lt;p&gt;Collaboration stretches our brains in unexpected and wonderful ways. For our newest ventures, ChicagoRuby is collaborating with developers in the Caribbean, in the island nation of Barbados. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://linuxbarbados.org&quot;&gt;LinuxBarbados&lt;/a&gt; is a monthly user group for open source enthusiasts. &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rubycaribe.com&quot;&gt;RubyCaribe&lt;/a&gt; is a brand new conference for intermediate and advanced Ruby developers. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Through the new ventures, ChicagoRuby has been introduced to work done by the &lt;a href=&quot;https://www.cavehill.uwi.edu/&quot;&gt;University of the West Indies at Cave Hill (UWI)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cavehill.uwi.edu/fst/cmp/staff/colin-depradine.aspx&quot;&gt;Dr. Colin Depradine&lt;/a&gt;, Dean of the University’s Faculty of Science and Technology, is growing the next generation of scientists and engineers in the Caribbean. Under Dr. Depradine’s leadership, UWI encourages collaboration between the sciences. For example, computer scientists are writing software to crunch data related to solar energy research. Looking even further into the future, the UWI team has introduced children as young as eight to programming.&lt;/p&gt;
+
+&lt;p&gt;UWI also serves as host to LinuxBarbados. The group is organized by &lt;a href=&quot;http://www.meetup.com/LinuxBarbados/members/143194822/&quot;&gt;Maurice Beckles&lt;/a&gt;, a Barbados-based open source enthusiast and IT technician at UWI. If you’re in Barbados, be sure to ask him about his sink-or-swim introduction to Linux when he worked at a bank!&lt;/p&gt;
+
+&lt;p&gt;Notice the pattern: The conference (RubyCaribe) focuses on ChicagoRuby’s core strength, Ruby. The monthly user group, LinuxBarbados, is a vehicle for exploring a wide range of topics including Linux, Ruby, embedded devices, and anything related to open source.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;A better title for this post might have been &lt;em&gt;One Way to Grow a User Group&lt;/em&gt;. Every group will grow differently depending on its particular strengths and interests. Of course, groups that grow are likely to have a few things in common. When a group is built on the pillars of consistency and teamwork, they are likely to succeed in a big way.&lt;/p&gt;
+
+</description>
+        <pubDate>2014-05-30 17:34:00 -0500</pubDate>
+        <link>http://rayhightower.com/blog/2014/05/30/how-to-grow-a-user-group/</link>
+        <guid isPermaLink="true">http://rayhightower.com/blog/2014/05/30/how-to-grow-a-user-group/</guid>
+        
+        
+        <category>Community</category>
+        
+        <category>Education</category>
+        
+      </item>
+    
+      <item>
+        <title>Upgrading to Git 2.0</title>
+        <description>&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;/images/git_200.png&quot; /&gt;
+Developers of Git are making a serious effort to improve intuitiveness for first-time users. Of course, all users benefit from intuitive tools. When our tools &lt;em&gt;just work&lt;/em&gt;, we spend less time sifting through documentation and more time solving problems for our customers.
+&lt;!--more--&gt;
+###How to Upgrade
+If you’re on Mac OS X, make sure you’re using &lt;a href=&quot;/blog/2014/02/12/homebrew-fundamentals/&quot;&gt;Homebrew&lt;/a&gt;. It’s the easiest way to install and manage Unix libraries on the Mac.&lt;/p&gt;
+
+&lt;p&gt;It’s usually a good idea to check your current version before upgrading.&lt;/p&gt;
+
+&lt;p&gt;```bash
+$ git –version
+git version 1.9.2&lt;/p&gt;
+
+&lt;p&gt;$ &lt;/p&gt;
+
+&lt;p&gt;```
+Next, make sure that Homebrew is current.&lt;/p&gt;
+
+&lt;p&gt;```bash
+$ brew doctor&lt;/p&gt;
+
+&lt;p&gt;Warning: Your Homebrew is outdated.
+You haven’t updated for at least 24 hours, this is a long time in brewland!
+To update Homebrew, run &lt;code&gt;brew update&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;$ &lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;My Homebrew was outdated, so I used &lt;code&gt;brew update&lt;/code&gt; to grab the new packages.&lt;/p&gt;
+
+&lt;p&gt;```bash
+$ brew update
+Updated Homebrew from b46160b8 to afff2b23.
+==&amp;gt; New Formulae
+aces_container                    git-number                      picolisp
+apache-spark                    homebrew/versions/mongodb24       probatron4j&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;$ &lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;Next, use Homebrew to upgrade Git.&lt;/p&gt;
+
+&lt;p&gt;```bash
+$ brew upgrade git
+==&amp;gt; Upgrading 1 outdated package, with result:
+git 2.0.0
+==&amp;gt; Upgrading git
+==&amp;gt; Downloading https://downloads.sf.net/project/machomebrew/Bottles/git-2.0.0.mavericks.bottle.tar.gz
+######################################################################## 100.0%
+==&amp;gt; Pouring git-2.0.0.mavericks.bottle.tar.gz
+==&amp;gt; Caveats
+The OS X keychain credential helper has been installed to:
+  /usr/local/bin/git-credential-osxkeychain&lt;/p&gt;
+
+&lt;p&gt;The ‘contrib’ directory has been installed to:
+  /usr/local/share/git-core/contrib&lt;/p&gt;
+
+&lt;p&gt;Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d&lt;/p&gt;
+
+&lt;p&gt;zsh completion has been installed to:
+  /usr/local/share/zsh/site-functions
+==&amp;gt; Summary
+🍺  /usr/local/Cellar/git/2.0.0: 1324 files, 31M&lt;/p&gt;
+
+&lt;p&gt;$ 
+```&lt;/p&gt;
+
+&lt;p&gt;Finished. Let’s check the Git version to confirm that the upgrade went properly.&lt;/p&gt;
+
+&lt;p&gt;```bash
+$ git –version
+git version 2.0.0&lt;/p&gt;
+
+&lt;p&gt;$ &lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;Future articles will examine the this latest version of Git in detail. For now, enjoy!&lt;/p&gt;
+</description>
+        <pubDate>2014-05-30 11:33:00 -0500</pubDate>
+        <link>http://rayhightower.com/blog/2014/05/30/upgrading-to-git-2-dot-0/</link>
+        <guid isPermaLink="true">http://rayhightower.com/blog/2014/05/30/upgrading-to-git-2-dot-0/</guid>
+        
+        
+        <category>Education</category>
+        
+        <category>Git</category>
+        
+      </item>
+    
+      <item>
+        <title>Recursion and Memoization</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;To iterate is human, to recurse divine.
+ &lt;br /&gt;
+~ L. Peter Deutsch&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Recursion is available in many high-level languages, including Ruby. Recursive solutions can be joyfully elegant. At the same time, the pursuit of elegance can lead to unexpected performance pitfalls.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, we can use optimization techniques to address performance problems before they occur. Memoization is one technique in our arsenal.
+&lt;!--more--&gt;
+###Before Memoization
+Memoization was designed to solve a particular kind of problem. Consider a method called &lt;code&gt;fibo(n)&lt;/code&gt; that calculates the &lt;em&gt;nth&lt;/em&gt; number of the &lt;a href=&quot;http://en.wikipedia.org/wiki/Fibonacci_number&quot;&gt;Fibonacci&lt;/a&gt; sequence.&lt;/p&gt;
+
+&lt;p&gt;```ruby
+# Calculate the nth Fibonacci number, f(n).
+def fibo (n)
+  if n &amp;lt;= 1
+    return n
+  else
+    value = fibo(n-1) + fibo(n-2)
+    return value
+  end
+end&lt;/p&gt;
+
+&lt;h1 id=&quot;display-the-fibonacci-sequence&quot;&gt;Display the Fibonacci sequence.&lt;/h1&gt;
+&lt;p&gt;(1..40).each do |number|
+  puts “fibo(#{number}) = #{fibo(number)}”
+end
+```&lt;/p&gt;
+
+&lt;p&gt;The example runs, but performance slows down as &lt;em&gt;n&lt;/em&gt; gets larger. Why? Because this method re-calculates all preceeding Fibonacci numbers every time it calculates a new &lt;code&gt;fibo(n)&lt;/code&gt;. When we calculate Fibonacci numbers manually, we know better. Humans are smart enough to refer to earlier work. But the &lt;code&gt;fibo(n)&lt;/code&gt; method does not manage time very well.&lt;/p&gt;
+
+&lt;p&gt;Is it possible for the &lt;code&gt;fibo(n)&lt;/code&gt; method to remember the results of earlier calculations so that it can avoid doing work that is already done? Yes, through &lt;a href=&quot;http://en.wikipedia.org/wiki/Memoization&quot;&gt;memoization&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;memoization&quot;&gt;Memoization&lt;/h3&gt;
+&lt;p&gt;Memoization means recording the results of earlier calculations so that we don’t have to repeat the calculations later. If our code depends on the results of earlier calculations, and if the same calculations are performed over-and-over again, then it makes sense to store interim results (jot results down on a ‘memo’ = memoization) so that we can avoid repeating the math. &lt;/p&gt;
+
+&lt;p&gt;The Fibonacci example can be improved through memoization as follows.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create a place to store temporary results.&lt;/li&gt;
+  &lt;li&gt;Before performing a calculation, find out if the calculation has
+already been done. If so, use the stored result.&lt;/li&gt;
+  &lt;li&gt;If this is our first time calculating a particular &lt;code&gt;fibo(n)&lt;/code&gt;, store
+the results for future use.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here’s how memoization is implemented in the Fibonacci example:&lt;/p&gt;
+
+&lt;p&gt;```ruby
+# Fibonacci numbers WITH memoization.&lt;/p&gt;
+
+&lt;h1 id=&quot;initialize-the-memoization-array&quot;&gt;Initialize the memoization array.&lt;/h1&gt;
+&lt;p&gt;@scratchpad = []
+@max_fibo_size = 50
+(1..@max_fibo_size).each do |i|
+  @scratchpad[i] = :notcalculated
+end&lt;/p&gt;
+
+&lt;h1 id=&quot;calculate-the-nth-fibonacci-number-fn&quot;&gt;Calculate the nth Fibonacci number, f(n).&lt;/h1&gt;
+&lt;p&gt;def fibo (n)
+  if n &amp;gt; @max_fibo_size
+    return “n must be #{@max_fibo_size} or less.”
+  elsif n &amp;lt;= 1
+    return n
+  elsif @scratchpad[n] != :notcalculated
+    return @scratchpad[n]
+  else
+    @scratchpad[n] = fibo(n-1) + fibo(n-2)
+    return @scratchpad[n]
+  end
+end&lt;/p&gt;
+
+&lt;h1 id=&quot;display-the-fibonacci-sequence-1&quot;&gt;Display the Fibonacci sequence.&lt;/h1&gt;
+&lt;p&gt;(1..50).each do |number|
+  puts “fibo(#{number}) = #{fibo(number)}”
+end
+```&lt;/p&gt;
+
+&lt;p&gt;Walking through the code… First we create a memoization array, a place to store the pre-calculated values. In this example, &lt;code&gt;@scratchpad[]&lt;/code&gt; serves as our memoization array.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;fibo(n)&lt;/code&gt; method is similar to the one in the earlier example, with a few subtle differences. First, we need to determine whether we’ve already calculated a particular value. Since we initialized all elements of the &lt;code&gt;@scratchpad&lt;/code&gt; array with the &lt;code&gt;:notcalculated&lt;/code&gt; symbol, it’s easy to figure out where work needs to be done. If a Fibonacci number &lt;code&gt;fibo(n)&lt;/code&gt; has already been calculated, we return the value stored at &lt;code&gt;@scratchpad[n]&lt;/code&gt;. Otherwise, we calculate the new &lt;code&gt;fibo(n)&lt;/code&gt; and store that value at &lt;code&gt;@scratchpad[n]&lt;/code&gt; for later use.&lt;/p&gt;
+
+&lt;h3 id=&quot;performance-comparison&quot;&gt;Performance Comparison&lt;/h3&gt;
+&lt;p&gt;The performance of the two programs is compared in this 1-minute video.&lt;/p&gt;
+
+&lt;center&gt;&lt;iframe src=&quot;//player.vimeo.com/video/91841948&quot; width=&quot;500&quot; height=&quot;313&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
+
+&lt;p&gt;As the video shows, memoization is a performance booster.&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-code&quot;&gt;Sample Code&lt;/h3&gt;
+&lt;p&gt;Sample code related to this article can be found on &lt;a href=&quot;https://github.com/RayHightower/fibonacci&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>2014-04-12 10:48:00 -0500</pubDate>
+        <link>http://rayhightower.com/blog/2014/04/12/recursion-and-memoization/</link>
+        <guid isPermaLink="true">http://rayhightower.com/blog/2014/04/12/recursion-and-memoization/</guid>
+        
+        
+        <category>Education</category>
+        
+        <category>Ruby</category>
+        
+      </item>
+    
+      <item>
+        <title>Fixing MacVim on OS X Mavericks</title>
+        <description>&lt;p&gt;Experience told me to delay upgrading to OS X Mavericks for as long as possible because the upgrade would likely break my dev environment. Sure enough, the upgrade broke &lt;a href=&quot;/blog/2013/01/12/why-i-use-vim/&quot;&gt;MacVim&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;```bash
+~$ which mvim&lt;/p&gt;
+
+&lt;p&gt;~$ 
+```&lt;/p&gt;
+
+&lt;p&gt;The ‘nix &lt;code&gt;which&lt;/code&gt; command returned a null response when asked about MacVim. Not cool, Mavericks! 
+&lt;!--more--&gt;
+Fortunately, I’m running &lt;a href=&quot;/blog/2014/02/12/homebrew-fundamentals/&quot;&gt;Homebrew&lt;/a&gt;. After the standard &lt;code&gt;brew doctor&lt;/code&gt; and &lt;code&gt;brew update&lt;/code&gt;, the following resolved the MacVim problem:&lt;/p&gt;
+
+&lt;p&gt;```bash
+~$ brew uninstall macvim
+Uninstalling /usr/local/Cellar/macvim/7.4-70…&lt;/p&gt;
+
+&lt;p&gt;~$ 
+```&lt;/p&gt;
+
+&lt;p&gt;followed by…&lt;/p&gt;
+
+&lt;p&gt;```bash
+~$ brew install macvim
+==&amp;gt; Downloading https://github.com/b4winckler/macvim/archive/snapshot-72.tar.gz
+######################################################################## 100.0%
+==&amp;gt; ./configure –with-features=huge –enable-multibyte –with-macarchs=x86_64 –enable-perlinterp –enable-rubyinterp –enable-tcli
+==&amp;gt; make
+==&amp;gt; Caveats
+.app bundles were installed.
+Run &lt;code&gt;brew linkapps&lt;/code&gt; to symlink these to /Applications.
+==&amp;gt; Summary
+🍺  /usr/local/Cellar/macvim/7.4-72: 1799 files, 28M, built in 37 seconds&lt;/p&gt;
+
+&lt;p&gt;~$ 
+```&lt;/p&gt;
+
+&lt;p&gt;And now…&lt;/p&gt;
+
+&lt;p&gt;```bash
+~$ which mvim
+/usr/local/bin/mvim&lt;/p&gt;
+
+&lt;p&gt;~$ 
+```&lt;/p&gt;
+
+&lt;p&gt;Whew. Homebrew saves the day again!&lt;/p&gt;
+
+</description>
+        <pubDate>2014-03-04 14:48:00 -0500</pubDate>
+        <link>http://rayhightower.com/blog/2014/03/04/fixing-macvim-on-osx-mavericks/</link>
+        <guid isPermaLink="true">http://rayhightower.com/blog/2014/03/04/fixing-macvim-on-osx-mavericks/</guid>
+        
+        
+        <category>Education</category>
+        
+        <category>OS X</category>
+        
+        <category>Vim</category>
+        
+      </item>
+    
+      <item>
+        <title>BeagleBone Black Running Ubuntu: Part1</title>
+        <description>&lt;p&gt;&lt;span class=&quot;caption-wrapper center&quot;&gt;&lt;img class=&quot;caption&quot; src=&quot;/images/beaglebone-black-ubuntu-ruby-rails.jpg&quot; width=&quot;&quot; height=&quot;&quot; alt=&quot;BeagleBone Black running Ubuntu, Ruby, &amp;amp; Rails.&quot; title=&quot;BeagleBone Black running Ubuntu, Ruby, &amp;amp; Rails.&quot; /&gt;&lt;span class=&quot;caption-text&quot;&gt;BeagleBone Black running Ubuntu, Ruby, &amp;amp; Rails.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The above screenshot shows a BeagleBone Black running Ubuntu, Ruby, and Rails. Why Ubuntu? The Bone comes &lt;a href=&quot;/blog/2013/05/22/beaglebone-black-running-ruby-on-rails/&quot;&gt;pre-installed with Ångström&lt;/a&gt;, and it boots as soon as you unbox it. Why not stick with Ångström? &lt;/p&gt;
+
+&lt;p&gt;My opinion: The factory standard is fine, but it’s always good to have options. Here’s why I decided to try Ubuntu on the BeagleBone Black…
+&lt;!--more--&gt;
+* Ubuntu documentation is plentiful. Books, blogs, and videos are readily available. 
+* The Ubuntu community is huge. When a dev runs into an Ubuntu-related snag, it’s likely that another dev has encountered a similar problem, and they can collaborate on a solution.
+* Ubuntu is the distro that I’m most familiar with. &lt;a href=&quot;http://wisdomgroup.com&quot;&gt;WisdomGroup&lt;/a&gt; uses Ubuntu for multiple projects. With a common operating system, knowledge gained in one environment is immediately useful in another.
+* Prepping for &lt;a href=&quot;/blog/2013/06/22/preparing-for-parallella-64-cores-installing-go-on-mac-os-x/&quot;&gt;Parallella&lt;/a&gt;, the 64-core single-board computer that will cost about two hundred bucks. The Parallella is currently in short supply. When it becomes available, it will run Ubuntu. Experience with other single-board computers, especially those running Ubuntu, will prove useful.&lt;/p&gt;
+
+&lt;p&gt;This article will show how to install Ubuntu on the BeagleBone Black. &lt;em&gt;Gotchas&lt;/em&gt; will be pointed out along the way. Where possible, I will explain the reasons behind my decisions so that you can make different choices if you like.&lt;/p&gt;
+
+&lt;p&gt;For a comparable examination of the Raspberry Pi, take a look at &lt;a href=&quot;/blog/2012/12/03/ruby-on-raspberry-pi/&quot;&gt;Ruby on Raspberry Pi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;first-gotcha-ubuntu-13-on-the-bone&quot;&gt;First Gotcha: Ubuntu 13 on the Bone&lt;/h3&gt;
+&lt;p&gt;As of this writing, Ubuntu 12 runs well on the BeagleBone Black, but Ubuntu 13 does not. My Ubuntu 13 installation appeared to be successful, but the Ubuntu 13 GUI hung up immediately after login. The Ubuntu 13 command line interface worked fine. &lt;/p&gt;
+
+&lt;p&gt;A quick search on Google reveals that others encountered similar roadblocks with version 13. One successful Bone/13 installation was used via SSH, not interactively via keyboard and GUI. Hopefully this will change with future updates. Or, since we’re dealing in the open source world, maybe I can pitch in and help.&lt;/p&gt;
+
+&lt;p&gt;Due to the issues encountered with version 13, everything in this article will focus on Ubuntu 12.&lt;/p&gt;
+
+&lt;h3 id=&quot;materials-needed-for-installing-ubuntu-12&quot;&gt;Materials Needed for Installing Ubuntu 12&lt;/h3&gt;
+&lt;p&gt;In addition to the BeagleBone Black, the following items should be gathered before installation:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Micro SD card of at least 8GB. It’s possible to perform the installation with a 4GB card, but that won’t leave much room for Ubuntu applications.&lt;/li&gt;
+  &lt;li&gt;SD card reader/writer. Recent versions of Apple’s MacBook Pro come with an SD reader/writer built in.&lt;/li&gt;
+  &lt;li&gt;SD to Micro-SD card adapter. The Bone is designed for micro SD, and the MacBook Pro is designed for full-sized SD. Some micro SD packages come with the adapter. &lt;/li&gt;
+  &lt;li&gt;A monitor that accepts HDMI input.&lt;/li&gt;
+  &lt;li&gt;USB keyboard and mouse.&lt;/li&gt;
+  &lt;li&gt;Micro HDMI to HDMI adapter. The Bone uses micro HDMI for video output, but your monitor probably uses full-sized HDMI.&lt;/li&gt;
+  &lt;li&gt;External 5V power adapter for the Bone. Personally, I trust the standard 5v power input more than I trust the power provided via USB. One never knows if USB can provide sufficient (and stable) amperage for a circuit board. Power fluctuations can lead to strange behavior, including video flickering.&lt;/li&gt;
+  &lt;li&gt;Ethernet cable with RJ-45 ends.&lt;/li&gt;
+  &lt;li&gt;A fast internet connection.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The standard &lt;a href=&quot;/sudo-disclaimer&quot;&gt;sudo disclaimer&lt;/a&gt; applies.&lt;/p&gt;
+
+&lt;h3 id=&quot;homebrew-required&quot;&gt;Homebrew Required&lt;/h3&gt;
+&lt;p&gt;Homebrew is the easiest way to install ‘nix utilities on Mac OS X. We need Homebrew in order to install some of the utilities needed to burn the SD card. The one-line Homebrew installation command is given on the  &lt;a href=&quot;http://brew.sh/&quot;&gt;Homebrew site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Each time we use Homebrew, we run &lt;code&gt;$ brew doctor&lt;/code&gt; and &lt;code&gt;$ brew update&lt;/code&gt; to make sure the packages are up-to-date.&lt;/p&gt;
+
+&lt;p&gt;```bash
+$ brew doctor
+Warning: Your Homebrew is outdated.
+You haven’t updated for at least 24 hours, this is a long time in brewland!
+To update Homebrew, run &lt;code&gt;brew update&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;$ brew update
+Updated Homebrew from a2e44659 to 4c7bc9ec.&lt;/p&gt;
+
+&lt;p&gt;$ brew doctor
+Your system is ready to brew.
+```&lt;/p&gt;
+
+&lt;h3 id=&quot;the-xz-extraction-utility&quot;&gt;The xz Extraction Utility&lt;/h3&gt;
+&lt;p&gt;Disk image files are downloaded in a compressed format. We need the &lt;code&gt;xz&lt;/code&gt; utility in order to extract the files into something usable. If you already have Homebrew installed, this command will install &lt;code&gt;xz&lt;/code&gt; for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;bash
+$ brew install xz
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;test-the-beaglebone-black-first&quot;&gt;Test the BeagleBone Black First&lt;/h3&gt;
+&lt;p&gt;Power up your BeagleBone Black and make sure it runs with the built-in Ångström Linux installation. One great thing about the Bone is that it will &lt;a href=&quot;/blog/2013/05/22/beaglebone-black-running-ruby-on-rails/&quot;&gt;boot to the Ångström GUI&lt;/a&gt; straight out of the box, with no prior configuration.&lt;/p&gt;
+
+&lt;p&gt;If the GUI boots, then you’re in good shape.&lt;/p&gt;
+
+&lt;p&gt;If the GUI doesn’t boot, it may have been damaged in a prior experiement. Embarassing note: I started looking for a way to install Ubuntu on the Bone because I broke my Ångström installation. What can I say… I learn more from destructive experiments. Faced with a non-booting Bone, I had two choices.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Re-build Ångström.&lt;/li&gt;
+  &lt;li&gt;Try something different, like Ubuntu.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Option two worked well!&lt;/p&gt;
+
+&lt;h3 id=&quot;prep-the-sd-card&quot;&gt;Prep the SD Card&lt;/h3&gt;
+&lt;p&gt;Apple’s Disk Utility is a convenient tool for wiping the SD card.  Standard warnings about any disk utility apply. Double-check everything, and make sure you’re wiping the right volume, or you could lose all of your data.&lt;/p&gt;
+
+&lt;p&gt;Next, download the Ubuntu 12.04 image from &lt;a href=&quot;http://www.armhf.com/index.php/boards/beaglebone-black/#precise&quot;&gt;http://armhf.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Extract the image using the &lt;code&gt;xz&lt;/code&gt; utility.
+&lt;code&gt;bash
+$ xz ubuntu-precise-12.04.3-armhf-3.8.13-bone30.img.xz
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The extracted image will have a &lt;code&gt;.img&lt;/code&gt; file extension. We will use the &lt;code&gt;dd&lt;/code&gt; utility to burn the disk image to the SD card. But first, we need to determine the designation of the SD card.&lt;/p&gt;
+
+&lt;h3 id=&quot;find-the-sd-card-designation&quot;&gt;Find the SD Card Designation&lt;/h3&gt;
+&lt;p&gt;In order to burn the SD card, we need to make sure we target it correctly. Here’s how to figure out which device to target.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ diskutil list&lt;/code&gt; will show all of the partitions mounted on the system.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;bash
+$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *500.3 GB   disk0
+   1:                        EFI                         209.7 MB   disk0s1
+   2:                  Apple_HFS Macintosh HD            499.4 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *8.0 GB     disk1
+&lt;/code&gt;
+I happen to know that my SD Card is 8.0 GB in capacity, and my system also has a 500 GB SSD. The goal is to burn the SD card while leaving the 500 GB SSD (home of the Mac OS X operating system and all of my data) intact. From the &lt;code&gt;$ diskutil list&lt;/code&gt; report, I can see that the SD card’s designation &lt;em&gt;in my system&lt;/em&gt; is &lt;code&gt;/dev/disk1&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note the italicized words &lt;em&gt;in my system&lt;/em&gt;. Your system is probably different, especially if you have a DVD drive or a second hard drive. I have neither of those. The SD card’s designation will be different in each system where it is mounted depending on the number and location of the drives that are already there.&lt;/p&gt;
+
+&lt;p&gt;Now that we know the SD card’s designation, we can unmount it. We unmount the drive (but leave the card inserted in the reader) so that it can be written with the Ubuntu disk image.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;bash
+$ diskutil unmountDisk /dev/disk1
+Unmount of all volumes on disk1 was successful
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Looks like the SD card was unmounted successfully. Now we can write the
+Ubuntu image with the &lt;code&gt;dd&lt;/code&gt; utility.&lt;/p&gt;
+
+&lt;h3 id=&quot;writing-the-ubuntu-image&quot;&gt;Writing the Ubuntu Image&lt;/h3&gt;
+&lt;p&gt;The following command will write the decompressed Ubuntu image to the SD
+card.&lt;/p&gt;
+
+&lt;p&gt;```bash
+$ sudo dd bs=1m if=ubuntu-precise-12.04.3-armhf-3.8.13-bone30.img of=/dev/disk1&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;Note that it may take up to an hour for the image to be written. &lt;/p&gt;
+
+&lt;p&gt;One drawback of using the command line is that there is no gauge to tell you how much progress the utility is making. Fortunately, I stumbled upon a way to measure progress at &lt;a href=&quot;http://elinux.org&quot;&gt;eLinux.org&lt;/a&gt;. While the command line utility is running, and while that window has focus, type &lt;code&gt;control-T&lt;/code&gt;. A few seconds later, the terminal window will show a brief activity report.&lt;/p&gt;
+
+&lt;p&gt;Here’s a report from the first time I struck &lt;code&gt;control-T&lt;/code&gt; …&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;bash
+load: 2.03  cmd: dd 75608 uninterruptible 0.00u 0.54s
+40+0 records in
+39+0 records out
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;We can strike &lt;code&gt;control-T&lt;/code&gt; again to receive additional updates. The numbers will tell us if we are making progress. Don’t get carried away with &lt;code&gt;control-T&lt;/code&gt;. A watched pot never boils :-)&lt;/p&gt;
+
+&lt;h3 id=&quot;booting-with-the-new-sd-card&quot;&gt;Booting with the New SD Card&lt;/h3&gt;
+&lt;p&gt;The terminal will return to the command prompt after the Ubuntu image has been written to the SD card. Now it’s time to boot with the new image.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Eject the SD card from the Mac. &lt;/li&gt;
+  &lt;li&gt;Remove power from the BeagleBone Black, and insert the micro SD card.&lt;/li&gt;
+  &lt;li&gt;Note the location of the “boot” button on the Bone. It’s the micro switch closest to the USB port. We will need to hold this switch down while powering up the Bone.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A few notes about item #3. It takes some juggling to hold down a micro switch while plugging in power to the board. I found it easier to plug the power adapter into a powered-off surge suppressor, hold down the microswitch, and then power-on the surge suppressor with my elbow.  Sounds ridiculous, but it worked.&lt;/p&gt;
+
+&lt;p&gt;About sixty seconds after boot, the Linux penguin appeared in the upper left corner of the Bone display. And then the login prompt appeared.&lt;/p&gt;
+
+&lt;p&gt;Another note about the “boot” switch: It looks like the Bone will boot into the SD’s operating system (instead of the eMMC flash OS where Angstrom resides) without the micro switch if the switch was used in the previous boot. I haven’t rebooted enough times to test this thoroughly.&lt;/p&gt;
+
+&lt;h3 id=&quot;default-credentials-for-ubuntu-on-beaglebone-black&quot;&gt;Default Credentials for Ubuntu on BeagleBone Black&lt;/h3&gt;
+&lt;p&gt;Ubuntu’s default BeagleBone Black login credentials are shown here because I always end up hunting for these when I need them. It’s much easier to have information at one’s fingertips.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;bash
+login: ubuntu
+pw: ubuntu
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;end-of-part-one&quot;&gt;End of Part One&lt;/h3&gt;
+&lt;p&gt;This marks the end of part one of this series about BeagleBone Black and Ubuntu.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/2014/01/06/beaglebone-black-ubuntu-ruby-rails-part-2/&quot;&gt;Part two&lt;/a&gt; covers &lt;a href=&quot;/blog/2014/01/06/beaglebone-black-ubuntu-ruby-rails-part-2/&quot;&gt;Ruby on BeagleBone Black&lt;/a&gt;, with information about…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Getting the GUI running, including a disk resizing &lt;em&gt;gotcha&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Installing Ruby, including a Ruby Version Manager (RVM) &lt;em&gt;gotcha&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Installing Rails, and how to handle a JavaScript runtime &lt;em&gt;gotcha&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stay tuned!&lt;/p&gt;
+</description>
+        <pubDate>2014-01-02 15:59:00 -0500</pubDate>
+        <link>http://rayhightower.com/blog/2014/01/02/beaglebone-black-ubuntu-part-1/</link>
+        <guid isPermaLink="true">http://rayhightower.com/blog/2014/01/02/beaglebone-black-ubuntu-part-1/</guid>
+        
+        
+        <category>BeagleBone Black</category>
+        
+        <category>Linux</category>
+        
+        <category>OS X</category>
+        
+        <category>Rails</category>
+        
+        <category>Ruby</category>
+        
+      </item>
+    
+      <item>
+        <title>Upgrading Ruby With RVM</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://rvm.io&quot;&gt;Ruby Version Manager (RVM)&lt;/a&gt; is one of my favorite tools in the Ruby ecosystem.  Reason: RVM lets me experiment with Ruby and Rails at will. I don’t know about you, but my best experiments are full of risk so they eventually blow things up. When that happens, I can always recover the broken areas without wasting time on a full system restore.&lt;/p&gt;
+
+&lt;p&gt;Some devs choose to use another tool, &lt;a href=&quot;https://github.com/sstephenson/rbenv&quot;&gt;RBenv&lt;/a&gt;, that serves a purpose similar to RVM. I began working with RVM before the other tools existed, and since it has always worked well for me, I have no reason to switch.&lt;/p&gt;
+
+&lt;h4 id=&quot;ruby-200-p195&quot;&gt;Ruby 2.0.0-p195&lt;/h4&gt;
+&lt;p&gt;The latest patch of Ruby 2.0.0, p195, was released two days ago. Time to take it for a spin. RVM lets devs upgrade Ruby and manage gemsets seamlessly. Here’s how the process went.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;get-the-latest-rvm&quot;&gt;Get the Latest RVM&lt;/h4&gt;
+&lt;p&gt;Instructions for installing RVM are at &lt;a href=&quot;http://rvm.io&quot;&gt;http://rvm.io&lt;/a&gt;.
+If you already have RVM installed, you should confirm that you have the
+latest version.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;bash
+$ rvm get head
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;grab-the-ruby-patch&quot;&gt;Grab the Ruby Patch&lt;/h4&gt;
+&lt;p&gt;With the latest RVM installed, you can upgrade to the latest Ruby
+patch level.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;bash
+$ rvm upgrade 2.0.0
+Are you sure you wish to upgrade from ruby-2.0.0-p0 to ruby-2.0.0-p195? (Y/n): y
+Installing new ruby ruby-2.0.0-p195
+Searching for binary rubies, this might take some time.
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The process took at least twenty minutes on my system. I don’t have an exact time because I began working on other tasks during the upgrade, and when I looked back at the terminal window, the process was mostly complete, except for a few questions about gemsets…&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;bash
+Migrating gems from ruby-2.0.0-p0 to ruby-2.0.0-p195
+Are you sure you wish to MOVE gems from ruby-2.0.0-p0 to ruby-2.0.0-p195?
+This will overwrite existing gems in ruby-2.0.0-p195 and remove them from ruby-2.0.0-p0 (Y/n): y
+Moving gemsets...
+&lt;/code&gt;
+…and aliases, wrappers, and archiving my patchless Ruby 2.0.0.&lt;/p&gt;
+
+&lt;p&gt;```bash
+Do you wish to move over aliases? (Y/n): y
+Do you wish to move over wrappers? (Y/n): y
+Do you also wish to completely remove ruby-2.0.0-p0 (inc. archive)? (Y/n): y
+Removing ruby-2.0.0-p0……..
+Successfully migrated ruby-2.0.0-p0 to ruby-2.0.0-p195
+Upgrade complete!&lt;/p&gt;
+
+&lt;p&gt;$ 
+```&lt;/p&gt;
+
+&lt;p&gt;Upgrade complete. Now running the latest patch of Ruby 2.0.0-p195&lt;/p&gt;
+
+&lt;p&gt;```bash
+~$ rvm list&lt;/p&gt;
+
+&lt;p&gt;rvm rubies&lt;/p&gt;
+
+&lt;p&gt;macruby-0.12 [ i686 ]
+   ruby-1.8.7-p334 [ i686 ]
+   ruby-1.9.2-p290 [ x86&lt;em&gt;64 ]
+ * ruby-1.9.3-p385 [ x86&lt;/em&gt;64 ]
+   ruby-2.0.0-p195 [ x86_64 ]&lt;/p&gt;
+
+&lt;h1 id=&quot;current&quot;&gt;=&amp;gt; - current&lt;/h1&gt;
+&lt;p&gt;# =* - current &amp;amp;&amp;amp; default
+#  * - default&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;As a final option, I chose to make this latest Ruby patch my default.&lt;/p&gt;
+
+&lt;p&gt;```bash&lt;/p&gt;
+
+&lt;p&gt;~$ rvm use ruby-2.0.0 –default
+Using /Users/rth/.rvm/gems/ruby-2.0.0-p195&lt;/p&gt;
+
+&lt;p&gt;~$ rvm list&lt;/p&gt;
+
+&lt;p&gt;rvm rubies&lt;/p&gt;
+
+&lt;p&gt;macruby-0.12 [ i686 ]
+   ruby-1.8.7-p334 [ i686 ]
+   ruby-1.9.2-p290 [ x86&lt;em&gt;64 ]
+   ruby-1.9.3-p385 [ x86&lt;/em&gt;64 ]
+=* ruby-2.0.0-p195 [ x86_64 ]&lt;/p&gt;
+
+&lt;h1 id=&quot;current-1&quot;&gt;=&amp;gt; - current&lt;/h1&gt;
+&lt;p&gt;# =* - current &amp;amp;&amp;amp; default
+#  * - default&lt;/p&gt;
+
+&lt;p&gt;~$ 
+```
+And that’s it.&lt;/p&gt;
+
+</description>
+        <pubDate>2013-05-16 13:36:00 -0500</pubDate>
+        <link>http://rayhightower.com/blog/2013/05/16/upgrading-ruby-with-rvm/</link>
+        <guid isPermaLink="true">http://rayhightower.com/blog/2013/05/16/upgrading-ruby-with-rvm/</guid>
+        
+        
+        <category>Education</category>
+        
+        <category>Rails</category>
+        
+        <category>Ruby</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>BeagleBone Black Running Ubuntu: Part1</title>
+    <meta name="description" content="Thoughts about Ruby, Rails, iOS, the Internet of Things, software development, and business growth.">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://rayhightower.com/blog/2014/01/02/beaglebone-black-ubuntu-part-1/">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">RayHightower.com</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+          
+          <a class="page-link" href="/about/">About</a>
+          
+        
+          
+          <a class="page-link" href="/contact/index.html">Contact</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">BeagleBone Black Running Ubuntu: Part1</h1>
+    <p class="post-meta">Jan 2, 2014</p>
+  </header>
+
+  <article class="post-content">
+    <p><span class="caption-wrapper center"><img class="caption" src="/images/beaglebone-black-ubuntu-ruby-rails.jpg" width="" height="" alt="BeagleBone Black running Ubuntu, Ruby, &amp; Rails." title="BeagleBone Black running Ubuntu, Ruby, &amp; Rails." /><span class="caption-text">BeagleBone Black running Ubuntu, Ruby, &amp; Rails.</span></span></p>
+
+<p>The above screenshot shows a BeagleBone Black running Ubuntu, Ruby, and Rails. Why Ubuntu? The Bone comes <a href="/blog/2013/05/22/beaglebone-black-running-ruby-on-rails/">pre-installed with Ångström</a>, and it boots as soon as you unbox it. Why not stick with Ångström? </p>
+
+<p>My opinion: The factory standard is fine, but it’s always good to have options. Here’s why I decided to try Ubuntu on the BeagleBone Black…
+<!--more-->
+* Ubuntu documentation is plentiful. Books, blogs, and videos are readily available. 
+* The Ubuntu community is huge. When a dev runs into an Ubuntu-related snag, it’s likely that another dev has encountered a similar problem, and they can collaborate on a solution.
+* Ubuntu is the distro that I’m most familiar with. <a href="http://wisdomgroup.com">WisdomGroup</a> uses Ubuntu for multiple projects. With a common operating system, knowledge gained in one environment is immediately useful in another.
+* Prepping for <a href="/blog/2013/06/22/preparing-for-parallella-64-cores-installing-go-on-mac-os-x/">Parallella</a>, the 64-core single-board computer that will cost about two hundred bucks. The Parallella is currently in short supply. When it becomes available, it will run Ubuntu. Experience with other single-board computers, especially those running Ubuntu, will prove useful.</p>
+
+<p>This article will show how to install Ubuntu on the BeagleBone Black. <em>Gotchas</em> will be pointed out along the way. Where possible, I will explain the reasons behind my decisions so that you can make different choices if you like.</p>
+
+<p>For a comparable examination of the Raspberry Pi, take a look at <a href="/blog/2012/12/03/ruby-on-raspberry-pi/">Ruby on Raspberry Pi</a>.</p>
+
+<h3 id="first-gotcha-ubuntu-13-on-the-bone">First Gotcha: Ubuntu 13 on the Bone</h3>
+<p>As of this writing, Ubuntu 12 runs well on the BeagleBone Black, but Ubuntu 13 does not. My Ubuntu 13 installation appeared to be successful, but the Ubuntu 13 GUI hung up immediately after login. The Ubuntu 13 command line interface worked fine. </p>
+
+<p>A quick search on Google reveals that others encountered similar roadblocks with version 13. One successful Bone/13 installation was used via SSH, not interactively via keyboard and GUI. Hopefully this will change with future updates. Or, since we’re dealing in the open source world, maybe I can pitch in and help.</p>
+
+<p>Due to the issues encountered with version 13, everything in this article will focus on Ubuntu 12.</p>
+
+<h3 id="materials-needed-for-installing-ubuntu-12">Materials Needed for Installing Ubuntu 12</h3>
+<p>In addition to the BeagleBone Black, the following items should be gathered before installation:</p>
+
+<ul>
+  <li>Micro SD card of at least 8GB. It’s possible to perform the installation with a 4GB card, but that won’t leave much room for Ubuntu applications.</li>
+  <li>SD card reader/writer. Recent versions of Apple’s MacBook Pro come with an SD reader/writer built in.</li>
+  <li>SD to Micro-SD card adapter. The Bone is designed for micro SD, and the MacBook Pro is designed for full-sized SD. Some micro SD packages come with the adapter. </li>
+  <li>A monitor that accepts HDMI input.</li>
+  <li>USB keyboard and mouse.</li>
+  <li>Micro HDMI to HDMI adapter. The Bone uses micro HDMI for video output, but your monitor probably uses full-sized HDMI.</li>
+  <li>External 5V power adapter for the Bone. Personally, I trust the standard 5v power input more than I trust the power provided via USB. One never knows if USB can provide sufficient (and stable) amperage for a circuit board. Power fluctuations can lead to strange behavior, including video flickering.</li>
+  <li>Ethernet cable with RJ-45 ends.</li>
+  <li>A fast internet connection.</li>
+</ul>
+
+<p>The standard <a href="/sudo-disclaimer">sudo disclaimer</a> applies.</p>
+
+<h3 id="homebrew-required">Homebrew Required</h3>
+<p>Homebrew is the easiest way to install ‘nix utilities on Mac OS X. We need Homebrew in order to install some of the utilities needed to burn the SD card. The one-line Homebrew installation command is given on the  <a href="http://brew.sh/">Homebrew site</a>.</p>
+
+<p>Each time we use Homebrew, we run <code>$ brew doctor</code> and <code>$ brew update</code> to make sure the packages are up-to-date.</p>
+
+<p>```bash
+$ brew doctor
+Warning: Your Homebrew is outdated.
+You haven’t updated for at least 24 hours, this is a long time in brewland!
+To update Homebrew, run <code>brew update</code>.</p>
+
+<p>$ brew update
+Updated Homebrew from a2e44659 to 4c7bc9ec.</p>
+
+<p>$ brew doctor
+Your system is ready to brew.
+```</p>
+
+<h3 id="the-xz-extraction-utility">The xz Extraction Utility</h3>
+<p>Disk image files are downloaded in a compressed format. We need the <code>xz</code> utility in order to extract the files into something usable. If you already have Homebrew installed, this command will install <code>xz</code> for you.</p>
+
+<p><code>bash
+$ brew install xz
+</code></p>
+
+<h3 id="test-the-beaglebone-black-first">Test the BeagleBone Black First</h3>
+<p>Power up your BeagleBone Black and make sure it runs with the built-in Ångström Linux installation. One great thing about the Bone is that it will <a href="/blog/2013/05/22/beaglebone-black-running-ruby-on-rails/">boot to the Ångström GUI</a> straight out of the box, with no prior configuration.</p>
+
+<p>If the GUI boots, then you’re in good shape.</p>
+
+<p>If the GUI doesn’t boot, it may have been damaged in a prior experiement. Embarassing note: I started looking for a way to install Ubuntu on the Bone because I broke my Ångström installation. What can I say… I learn more from destructive experiments. Faced with a non-booting Bone, I had two choices.</p>
+
+<ol>
+  <li>Re-build Ångström.</li>
+  <li>Try something different, like Ubuntu.</li>
+</ol>
+
+<p>Option two worked well!</p>
+
+<h3 id="prep-the-sd-card">Prep the SD Card</h3>
+<p>Apple’s Disk Utility is a convenient tool for wiping the SD card.  Standard warnings about any disk utility apply. Double-check everything, and make sure you’re wiping the right volume, or you could lose all of your data.</p>
+
+<p>Next, download the Ubuntu 12.04 image from <a href="http://www.armhf.com/index.php/boards/beaglebone-black/#precise">http://armhf.com</a>.</p>
+
+<p>Extract the image using the <code>xz</code> utility.
+<code>bash
+$ xz ubuntu-precise-12.04.3-armhf-3.8.13-bone30.img.xz
+</code></p>
+
+<p>The extracted image will have a <code>.img</code> file extension. We will use the <code>dd</code> utility to burn the disk image to the SD card. But first, we need to determine the designation of the SD card.</p>
+
+<h3 id="find-the-sd-card-designation">Find the SD Card Designation</h3>
+<p>In order to burn the SD card, we need to make sure we target it correctly. Here’s how to figure out which device to target.</p>
+
+<p><code>$ diskutil list</code> will show all of the partitions mounted on the system.</p>
+
+<p><code>bash
+$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *500.3 GB   disk0
+   1:                        EFI                         209.7 MB   disk0s1
+   2:                  Apple_HFS Macintosh HD            499.4 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *8.0 GB     disk1
+</code>
+I happen to know that my SD Card is 8.0 GB in capacity, and my system also has a 500 GB SSD. The goal is to burn the SD card while leaving the 500 GB SSD (home of the Mac OS X operating system and all of my data) intact. From the <code>$ diskutil list</code> report, I can see that the SD card’s designation <em>in my system</em> is <code>/dev/disk1</code>.</p>
+
+<p>Note the italicized words <em>in my system</em>. Your system is probably different, especially if you have a DVD drive or a second hard drive. I have neither of those. The SD card’s designation will be different in each system where it is mounted depending on the number and location of the drives that are already there.</p>
+
+<p>Now that we know the SD card’s designation, we can unmount it. We unmount the drive (but leave the card inserted in the reader) so that it can be written with the Ubuntu disk image.</p>
+
+<p><code>bash
+$ diskutil unmountDisk /dev/disk1
+Unmount of all volumes on disk1 was successful
+</code></p>
+
+<p>Looks like the SD card was unmounted successfully. Now we can write the
+Ubuntu image with the <code>dd</code> utility.</p>
+
+<h3 id="writing-the-ubuntu-image">Writing the Ubuntu Image</h3>
+<p>The following command will write the decompressed Ubuntu image to the SD
+card.</p>
+
+<p>```bash
+$ sudo dd bs=1m if=ubuntu-precise-12.04.3-armhf-3.8.13-bone30.img of=/dev/disk1</p>
+
+<p>```</p>
+
+<p>Note that it may take up to an hour for the image to be written. </p>
+
+<p>One drawback of using the command line is that there is no gauge to tell you how much progress the utility is making. Fortunately, I stumbled upon a way to measure progress at <a href="http://elinux.org">eLinux.org</a>. While the command line utility is running, and while that window has focus, type <code>control-T</code>. A few seconds later, the terminal window will show a brief activity report.</p>
+
+<p>Here’s a report from the first time I struck <code>control-T</code> …</p>
+
+<p><code>bash
+load: 2.03  cmd: dd 75608 uninterruptible 0.00u 0.54s
+40+0 records in
+39+0 records out
+</code></p>
+
+<p>We can strike <code>control-T</code> again to receive additional updates. The numbers will tell us if we are making progress. Don’t get carried away with <code>control-T</code>. A watched pot never boils :-)</p>
+
+<h3 id="booting-with-the-new-sd-card">Booting with the New SD Card</h3>
+<p>The terminal will return to the command prompt after the Ubuntu image has been written to the SD card. Now it’s time to boot with the new image.</p>
+
+<ol>
+  <li>Eject the SD card from the Mac. </li>
+  <li>Remove power from the BeagleBone Black, and insert the micro SD card.</li>
+  <li>Note the location of the “boot” button on the Bone. It’s the micro switch closest to the USB port. We will need to hold this switch down while powering up the Bone.</li>
+</ol>
+
+<p>A few notes about item #3. It takes some juggling to hold down a micro switch while plugging in power to the board. I found it easier to plug the power adapter into a powered-off surge suppressor, hold down the microswitch, and then power-on the surge suppressor with my elbow.  Sounds ridiculous, but it worked.</p>
+
+<p>About sixty seconds after boot, the Linux penguin appeared in the upper left corner of the Bone display. And then the login prompt appeared.</p>
+
+<p>Another note about the “boot” switch: It looks like the Bone will boot into the SD’s operating system (instead of the eMMC flash OS where Angstrom resides) without the micro switch if the switch was used in the previous boot. I haven’t rebooted enough times to test this thoroughly.</p>
+
+<h3 id="default-credentials-for-ubuntu-on-beaglebone-black">Default Credentials for Ubuntu on BeagleBone Black</h3>
+<p>Ubuntu’s default BeagleBone Black login credentials are shown here because I always end up hunting for these when I need them. It’s much easier to have information at one’s fingertips.</p>
+
+<p><code>bash
+login: ubuntu
+pw: ubuntu
+</code></p>
+
+<h3 id="end-of-part-one">End of Part One</h3>
+<p>This marks the end of part one of this series about BeagleBone Black and Ubuntu.</p>
+
+<p><a href="/blog/2014/01/06/beaglebone-black-ubuntu-ruby-rails-part-2/">Part two</a> covers <a href="/blog/2014/01/06/beaglebone-black-ubuntu-ruby-rails-part-2/">Ruby on BeagleBone Black</a>, with information about…</p>
+
+<ul>
+  <li>Getting the GUI running, including a disk resizing <em>gotcha</em>.</li>
+  <li>Installing Ruby, including a Ruby Version Manager (RVM) <em>gotcha</em>.</li>
+  <li>Installing Rails, and how to handle a JavaScript runtime <em>gotcha</em>.</li>
+</ul>
+
+<p>Stay tuned!</p>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">RayHightower.com</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li><a href="mailto:"></a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/rayhightower">
+              <span class="icon  icon--github">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+                </svg>
+              </span>
+
+              <span class="username">rayhightower</span>
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/rayhightower">
+              <span class="icon  icon--twitter">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                  c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+                </svg>
+              </span>
+
+              <span class="username">rayhightower</span>
+            </a>
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">Thoughts about Ruby, Rails, iOS, the Internet of Things, software development, and business growth.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
