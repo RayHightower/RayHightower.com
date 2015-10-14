@@ -5,7 +5,9 @@ date: 2015-05-06 18:41:03 -0500
 comments: true
 categories: [ Business ]
 ---
-{% imgcap right /images/berkshire_hathaway_50th.jpg 40,000 shareholders in Omaha. %}
+
+{% include image.html img="/images/berkshire_hathaway_50th.jpg" caption="40,000 shareholders in Omaha." %}
+
 >Hi, I'm Warren. He's Charlie. He can hear, I can see. We work well together.
 ><br/>&nbsp;<br/>
 >~Warren Buffett,<br/>at the start of the 2015<br/>Berkshire Hathaway annual meeting
@@ -62,9 +64,9 @@ When 40,000 investment-minded people gather, rich conversations will happen. Aft
 ### 5k Run
 About 1,000 people gathered for the 5k _Invest in Yourself_ run on Sunday morning. The weather was perfect.
 
-{% imgcap /images/berkshire_hathaway_5k.jpg 5k runners gather at the start. %}
+{% include image.html img=" /images/berkshire_hathaway_5k.jpg 5k runners gather at the start. %}
 
-{% imgcap /images/berkshire_hathaway_5k_finishers.jpg 5k finishers queue up for swag. %}
+{% include image.html img="/images/berkshire_hathaway_5k_finishers.jpg" caption="5k finishers queue up for swag." %}
 
 ### Looking Forward to the Next One
 The Berkshire Hathaway annual meeting offers an inspiring, powerful learning experience each year. I look forward to the next one.

@@ -6,7 +6,7 @@ comments: true
 categories: [ IoT, Parallella ]
 published: true
 ---
-{% imgcap middle /images/parallella_3d_print_blue1647.jpg Parallella with a 3D-printed case. %}
+{% include image.html img="/images/parallella_3d_print_blue1647.jpg" caption="Parallella with a 3D-printed case." %}
 
 Every visit to [BLUE1647](http://blue1647.com) is full of pleasant surprises. There’s new equipment, a new opportunity to learn new technology, new people to learn from, or all of the above.
 
@@ -20,7 +20,7 @@ The 3D printers at BLUE1647 are available to any member. Talk to [Rashad Glover]
 ### What to Know about 3D Printing
 Printing any object in three dimensions takes a _long_ time. The case in the photo took over four hours to print. The [MakerBot Thingiverse](http://www.thingiverse.com/) has a wide variety of STL files to choose from. [This particular STL file](http://www.thingiverse.com/thing:273701/) was created by Ben Reed, a maker in Calgary, Alberta, Canada.
 
-{% imgcap middle /images/blue1647_glover_3d_printer.jpg Industrial engineer Rashad Glover prepares the STL files for the 3D printer. %}
+{% include image.html img="/images/blue1647_glover_3d_printer.jpg" caption="Industrial engineer Rashad Glover prepares the STL files for the 3D printer." %}
 
 ### STL File Internals
 Instructions for 3D printing an object are stored in a [STereoLithography (STL)](http://bit.ly/1FFzX20) file. Open an STL file in [your favorite text editor](http://rayhightower.com/blog/2013/01/12/why-i-use-vim/) and you'll see something like this:

@@ -5,14 +5,14 @@ date: 2015-05-22 11:34:16 -0500
 comments: true
 categories: [ Business ]
 ---
-{% imgcap center /images/good_to_great_blackbox.png What happens inside the black box? %}
+{% include image.html img="/images/good_to_great_blackbox.png" caption="What happens inside the black box?" %}
 
 Good is the enemy of great. If a company faces dire circumstances, managers must change because the alternative is death. But if circumstances are good (or even _okay_) managers can coast along indefinitely. A good company can be lulled into a state of complacency instead of achieving greatness.
 
 So how does a good company become great?
 <!--more-->
 ### Greatness Defined
-{% imgcap right /images/good_to_great.jpg %}
+{% include image.html img="/images/good_to_great.jpg" %}
 A team led by author [Jim Collins](http://www.jimcollins.com/) spent five years examining publicly traded companies to determine why some companies make the leap to greatness while others remain simply good. Collins and his team published their findings in the book [Good to Great](http://www.amazon.com/Good-Great-Social-Sectors-Monograph-ebook/dp/B0058DRTGC/).
 
 The study only focused on publicly traded companies since their financial data is readily available. The team defined great companies as those that beat the general stock market by an average of seven times (7x) over fifteen years. This is better than double the results delivered by some of the world’s greatest companies, including Intel, Coca-Cola, and General Electric.
@@ -33,7 +33,7 @@ The hedgehog is less clever. It has one (and only one) very effective plan: To r
 The fox has many plans. The hedgehog has one plan. In the fable, simplicity triumphs over cleverness. The hedgehog wins.
 
 ### Hedgehogs and Business
-{% imgcap right /images/hedgehog_concept.png %}
+{% include image.html img="/images/hedgehog_concept.png" %}
 The Good to Great team discovered that great companies are like the hedgehog. Great companies focus on the one thing that they are good at. Further, great companies only fix their focus after an honest and serious examination of their strengths & weaknesses. The best focal point lies at the intersection of three interlocking rings:
 
 * **Deep Passion**. What does the company feel deeply passionate about? What gives them that “I can’t believe I get paid to do this” feeling?
@@ -58,7 +58,7 @@ Investor Warren Buffett says this about Wells Fargo: "They stick with what they 
 ### The Stockdale Paradox
 Admiral Jim Stockdale was the highest ranking U.S. military officer captured during the Vietnam War. During eight years of imprisonment, he and his fellow soldiers were tortured repeatedly and forced to participate in propaganda films as “well treated” prisoners. The prisoners had no idea whether they would survive to see their families again. Stockdale survived, and after his release, the Admiral and his wife co-authored an account of his ordeal in the book [In Love and War](http://www.amazon.com/Love-War-Familys-Sacrifice-Vietnam/dp/0060153180/).
 
-{% imgcap center /images/stockdale_paradox.png %}
+{% include image.html img="/images/stockdale_paradox.png" %}
 
 ### Optimism and Discouragement
 Imprisonment is far more serious than anything most business execs will ever face. Still, the Good to Great team and Admiral Stockdale were able to draw parallels between growing a company and surviving life as a POW. For example, the Admiral observed that optimists had the hardest time in prison. Optimistic prisoners always believed “we’ll be released next Christmas” only to be let down year after year. Many optimists eventually died heartbroken in prison.
