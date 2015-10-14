@@ -5,7 +5,9 @@ date: 2014-01-15 13:49
 comments: true
 categories: [ Business, UX ]
 ---
-{% imgcap right /images/ford-model-t-1910.jpg 1910 Ford Model T %}
+
+{% include image.html img="/images/ford-model-t-1910.jpg" caption="1910 Ford Model T" %}
+
 >If I had asked people what they wanted, they would have asked for a faster horse. 
 >
 >~Henry Ford

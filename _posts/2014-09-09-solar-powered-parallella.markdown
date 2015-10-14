@@ -5,7 +5,8 @@ date: 2014-09-09 09:18
 comments: true
 categories: [ High Performance Computing, IoT, Parallella ]
 ---
-{% imgcap middle /images/parallella_solar.jpg Give solar power to your Parallella with a few simple components. %}
+
+{% include image.html img="/images/parallella_solar.jpg" caption="Give solar power to your Parallella with a few simple components." %}
 
 This article describes a simple hardware hack: Making the [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/) run on solar energy. 
 
@@ -27,7 +28,7 @@ Can a cell phone solar charger be hacked to power Parallella? Yes!
 ###Building the Hybrid Cable
 Here's how to get started...
 
-{% imgcap middle /images/parallella_usb_solar.jpg Making the connections. %}
+{% include image.html img="/images/parallella_usb_solar.jpg" caption="Making the connections." %}
 
 * First, get an off-the-shelf solar device capable of providing 5 volts at 2 amperes. Many cell phone solar chargers will do this, but some will only provide 1 ampere of current. You will need 2 amperes. As of this writing, Amazon sells solar cell phone chargers for about $35.00. Note that the model shown in this article combines a photovoltaic panel with a lithium ion battery. Energy provided by the sun can be stored by the battery for later use.
 
@@ -41,7 +42,7 @@ Here's how to get started...
 
 You're done! Plug everything in and watch your Parallella boot up. Note that this configuration will also power the Parallella's cooling fan.
 
-{% imgcap middle /images/parallella_solar_complete.jpg Parallella running on solar power. %}
+{% include image.html img="/images/parallella_solar_complete.jpg" caption="Parallella running on solar power." %}
 
 ###Proof of Concept
 It probably doesn’t make sense to call this a project. It's more of a proof of concept. Scaling up will cost money and time. But the benefits of solar energy, including cost savings and reduced carbon footprint, make this a worthwhile path to pursue.

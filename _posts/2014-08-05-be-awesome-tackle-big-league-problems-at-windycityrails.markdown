@@ -5,7 +5,9 @@ date: 2014-08-05 16:21
 comments: true
 categories: [ Community, Education, Rails, Ruby ]
 ---
-{% imgcap right /images/big_league_problems_windycityrails.jpg Be awesome. %}
+
+{% include image.html img="/images/big_league_problems_windycityrails.jpg" caption="Be awesome." %}
+
 Do you see yourself in any of these scenarios?
 
 * You have already built a successful Rails app. Now that you're "done", you know you can make it better, but you're not sure how. You want to take your skills to the next level.

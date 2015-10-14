@@ -5,7 +5,9 @@ date: 2014-02-22 16:41
 comments: true
 categories: [ Education ]
 ---
-{% imgcap right /images/linux-penguin.png The Linux penguin. %}
+
+{% include image.html img="/images/linux-penguin.png" caption="The Linux penguin." %}
+
 Entrepreneurs, especially those outside of software development, may find this article useful.
 
 ###When Performance Matters

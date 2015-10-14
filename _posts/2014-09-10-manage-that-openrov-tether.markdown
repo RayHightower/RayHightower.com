@@ -5,7 +5,9 @@ date: 2014-09-10 18:40
 comments: true
 categories: [ IoT, OpenROV ]
 ---
-{% imgcap right /images/openrov_tether_management_slip_ring.jpg Tether management, one way that works. %}
+
+{% include image.html img="/images/openrov_tether_management_slip_ring.jpg" caption="Tether management, one way that works." %}
+
 _Note: This article has been updated with more photos and details describing slip ring installation._
 
 Youthful exuberance drove me to pilot my [OpenROV](/blog/2014/06/16/citizen-science-with-openrov/) before I built a good tether management system. Bad idea! It's better to have a tether management plan (any plan) before you pilot your OpenROV.
@@ -15,17 +17,20 @@ This article describes a tether management system that works for me. Other OpenR
 ###Off-the-Shelf Parts
 This tether management system is constructed entirely from off-the-shelf parts. The main component is an [extension cord reel sold by Home Depot](http://www.homedepot.com/p/KAB-Enterprise-Co-Ltd-20-ft-16-3-Cord-Reel-with-4-Outlets-CR002/100661463) for about $14.00. Buy it, gut it, add the slip ring using three screws (also from Home Depot) and you’re good to go.
 <!--more-->
-{% imgcap middle /images/openrov_lake_michigan.png Exploring Lake Michigan with OpenROV. %}
+
+{% include image.html img="/images/openrov_lake_michigan.png" caption="Exploring Lake Michigan with OpenROV." %}
 
 ###Slip Ring
-{% imgcap right /images/adafruit_slip_ring.jpg Adafruit slip ring. %}
+
+{% include image.html img="/images/adafruit_slip_ring.jpg" caption="Adafruit slip ring." %}
+
 The slip ring is central to this solution. A slip ring allows an electrical spool to spin while electrical contacts remain intact. This slip ring was purchased from [Adafruit](https://www.adafruit.com/products/736?gclid=CJDMiPma1cACFQoEaQod1iwAFQ) for about $18.00.
 
 
 ###How to Install the Slip Ring
 First, pull the entire orange cable out of the extension cord reel. It would be great to keep the whole orange cable as part of the tether, but then we wouldn’t have room for the original tether (twisted pair). Cut the orange cable so that only one meter remains attached to the reel assembly.
 
-{% imgcap /images/openrov_tether_management_internals.jpg Front view, back view, internal view. %}
+{% include image.html img="/images/openrov_tether_management_internals.jpg" caption="Front view, back view, internal view." %}
 
 Next, take the extension cord reel apart. Two phillips-head screws hold the device together. Remove the two screws, and the two orange disks will fall apart.
 

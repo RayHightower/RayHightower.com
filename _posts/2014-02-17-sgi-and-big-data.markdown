@@ -5,7 +5,9 @@ date: 2014-02-17 14:46
 comments: true
 categories: [ Community, High Performance Computing ]
 ---
-{% imgcap right /images/sgi-logo-1990s.png SGI's logo from the 1990s. %}
+
+{% include image.html img="/images/sgi-logo-1990s.png" caption="SGI's logo from the 1990s." %}
+
 [Silicon Graphics International Corporation (SGI)](http://sgi.com) computers rendered the special effects for the original [Jurassic Park](http://en.wikipedia.org/wiki/Jurassic_Park) movie. Computer enthusiasts coveted SGI machines throughout the 1990s. 
 
 But success in the computer industry is fleeting. A few years after Jurassic Park, a convergence of tech advances (Moore's Law, x86 architecture, and Linux) made it possible for commodity PCs to perform as well as SGI's premium workstations. Wall Street traders and other power users abandoned workstations in favor of Linux-based PCs. High-end makers like SGI fell on hard times.

@@ -5,7 +5,9 @@ date: 2014-08-19 16:44
 comments: true
 categories: [ BeagleBone Black, Community, IoT, Linux, Node, OpenROV ]
 ---
-{% imgcap right /images/openrov_rth.jpg OpenROV fully assembled. %}
+
+{% include image.html img="/images/openrov_rth.jpg" caption="OpenROV fully assembled." %}
+
 I know this problem can be solved. I just haven’t figured it out yet, and I need help from the [OpenROV](http://openrov.com/) community to do so.
 
 _Update: The OpenROV community delivered. Solution: [ESC Programming and Calibration for OpenROV](/blog/2014/08/21/esc-programming-and-calibration-for-openrov/)._
@@ -33,7 +35,8 @@ When the cockpit software is not running (and the Google Chrome browser is compl
 Interesting behavior!
 
 ###Double-Checking the ESC Settings
-{% imgcap right /images/esc_program_card.jpg ESC Program Card %}
+
+{% include image.html img="/images/esc_program_card.jpg" caption="ESC Program Card" %}
 During troubleshooting, my first step was to double-check the electronic speed controller (ESC) settings. Setting the ESCs with the beep-and-button-push method was time consuming. And I was concerned that I may have made a mistake in counting the beeps.
 
 Solution: I bought an ESC program card. Amazon sells them for less than fifteen dollars, well worth the price when you consider the peace of mind that the card brings. The program card shows each ESC setting with a clear 7-segment LED display, much easier than counting beeps!
@@ -43,7 +46,7 @@ According to the program card, all of the ESC settings are correct.
 ###Using a Power Supply Instead of Batteries
 All of the time spent troubleshooting drained the OpenROV batteries. So I devised a way to apply power directly to the OpenROV without batteries.
 
-{% imgcap middle /images/openrov_power_supply.jpg Directly connected to power supply. %}
+{% include image.html img="/images/openrov_power_supply.jpg" caption="Directly connected to power supply." %}
 
 The photo reveals the random condition of my work surface, so here's a verbal description of this hack:
 

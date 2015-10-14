@@ -5,7 +5,8 @@ date: 2014-08-21 16:27
 comments: true
 categories: [ BeagleBone Black, IoT, OpenROV ]
 ---
-{% imgcap middle /images/openrov_esc.jpg Three ESCs, one for each motor. Each ESC has a switch and a power/signal connector. %}
+
+{% include image.html img="/images/openrov_esc.jpg" caption="Three ESCs, one for each motor. Each ESC has a switch and a power/signal connector." %}
 
 ###ESCs: New Experience for Me
 Electronic speed controllers (ESCs) were completely new to me when I first assembled my [OpenROV](/blog/2014/06/16/citizen-science-with-openrov/). This article documents my initial misunderstanding (and eventual understanding) of ESCs so that future builders can move forward with fewer glitches.
@@ -35,7 +36,9 @@ The pilot's finger moves a controller lever. The lever position gets sent to sof
 In summary, we use ESCs so that OpenROV pilots can have greater control over movement.
 
 ###How to Re-Check ESC Programming
-{% imgcap right /images/esc_program_card.jpg ESC program card. %}
+
+{% include image.html img="/images/esc_program_card.jpg" caption="ESC program card." %}
+
 Those of you with ESC experience already know about ESC program cards. I first learned about the cards while researching this problem. Amazing devices! Yes, it is possible to program ESCs using the series of button pushes and beeps in the OpenROV instructions. That's what I did, and it works. But a program card is faster. Amazon sells ESC program cards for less than fifteen dollars each. Well worth the investment, especially if you're programming ESCs for several OpenROVs.
 
 ###ESC Calibration Gotcha
@@ -43,7 +46,7 @@ ESC calibration was tricky for me because turning on any of the three ESC switch
 
 So here's what I had to do. 
 
-{% imgcap right /images/openrov_esc_switch_labels.jpg ESC switch labels. %}
+{% include image.html img="/images/openrov_esc_switch_labels.jpg" caption="ESC switch labels." %}
 
 * First, I took everything apart, while keeping the electronic leads (those which had already been soldered) intact. I needed to do this so I could see where each wire was going.
 * Next, I labeled the back of each ESC switch with its corresponding ESC number. I did not want to go through the disassembly step again! The Brother P-Touch label maker was perfect for this step.
@@ -52,7 +55,7 @@ So here's what I had to do.
 ###Modified Calibration Steps
 Here are the OpenROV calibration steps, with slight tweaks based on my personal experience.
 
-{% imgcap right /images/openrov_calibration_sliders.jpg Click "Diagnostics" from the OpenROV cockpit. %}
+{% include image.html img="/images/openrov_calibration_sliders.jpg" caption="Click 'Diagnostics' from the OpenROV cockpit." %}
 
 0. Each ESC switch has a red reset button. To turn the ESC on, move its slider switch toward the red reset button. The off position is in the opposite direction.
 1. With all of the ESCs switched off, go ahead and power up the OpenROV. The motors should remain stationary at this point. Connect with the cockpit software and open the diagnostic pane. 
@@ -63,7 +66,8 @@ Here are the OpenROV calibration steps, with slight tweaks based on my personal 
 6. Move the slider back to the middle (or click the "0"). 
 7. Repeat these steps with the next ESC until all three ESCs are done.
 
-{% imgcap right /images/openrov_lake_michigan_2.jpg OpenROV meets Lake Michigan. %}
+{% include image.html img="/images/openrov_lake_michigan_2.jpg" caption="OpenROV meets Lake Michigan." %}
+
 After calibration:
 
 * With all three ESCs powered on, the motors remained stationary, as expected.

@@ -5,6 +5,7 @@ date: 2013-12-12 22:22
 comments: true
 categories: [ Community, Education, High Performance Computing ]
 ---
+
 {% include image.html img="/images/cray-1.jpg" title="Cray-1 at the Swiss Federal Institute of Technology." caption="Cray-1 at the Swiss Federal Institute of Technology." %}
 
 >Anyone can build a fast CPU. The trick is to build a fast system. 

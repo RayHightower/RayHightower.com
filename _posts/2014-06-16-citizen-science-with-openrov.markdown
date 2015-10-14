@@ -8,12 +8,13 @@ categories: [ Arduino, BeagleBone Black, Community, IoT, Linux, OpenROV ]
 >In the early days of robots people said, 'Oh, let's build a robot' and what's the first thought? You make a robot look like a human and do human things. That's so 1950s. We are so past that. 
 ><br/>~Neil deGrasse Tyson
 
-{% imgcap right /images/openrov-uw.jpg OpenROV: Underwater robot running Node.js. %}
+{% include image.html img="/images/openrov-uw.jpg" caption="OpenROV: Underwater robot running Node.js." %}
+
 [OpenROV](http://openrov.com) is an underwater robot, roughly the size of a toaster, and definitely not human-shaped. The device is controlled through a Node.js-based web app. Former NASA researcher Eric Stackpole and Make Magazine columnist David Lang are on a mission to democratize ocean exploration in the same way that Jobs and Woz sparked the democratization of  computing. Eric and David pooled their talents to launch OpenROV, building on the foundation laid by Moore’s Law and the open source software movement. 
 
 OpenROV's ingredients are an impressive mix of open source goodness...
 
-{% imgcap right /images/BeagleBoneBlack_Linux_Nodejs.jpg BeagleBone Black running Linux & Node.js. %}
+{% include image.html img="/images/BeagleBoneBlack_Linux_Nodejs.jpg" caption="BeagleBone Black running Linux & Node.js." %}
 
 * BeagleBone Black - an open-source single-board computer, smaller than a deck of cards, running Linux.
 * Linux - specifically, the Ubuntu distribution.
@@ -26,7 +27,9 @@ The OpenROV team has released all of their [schematics and source code](https://
 Eric and David were kind enough to invite me to their lab/manufacturing facility in Berkeley, California recently. Thank you, OpenROV makers!
 
 ###Remotely Operated Vehicles 
-{% imgcap right /images/controller.jpg Laptop, browser, and game controller. %}
+
+{% include image.html img="/images/controller.jpg" caption="Laptop, browser, and game controller." %}
+
 ROV is short for remotely operated vehicle, an underwater robot. Scientists use ROVs to study marine life. Oil companies use ROVs for underwater construction and inspections. Industry-grade ROVs are priced at $30,000 on the low-end, while a [custom ROV can cost several million dollars](http://www.mbari.org/twenty/Tiburon.htm). 
 
 The OpenROV team was convinced that they could design and build an ROV small enough to fit in a suitcase, and easy enough for a citizen scientist to assemble and maintain. Targeting the general public meant achieving a relatively low price point: under one thousand dollars ($1,000.00). 

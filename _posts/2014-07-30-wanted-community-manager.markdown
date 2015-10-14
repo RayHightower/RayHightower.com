@@ -5,7 +5,9 @@ date: 2014-07-30 12:43
 comments: true
 categories: [ Community ]
 ---
-{% imgcap right /images/chicagoruby_community.png Jamming together. Growing together. %}
+
+{% include image.html img="/images/chicagoruby_community.png" caption="Jamming together. Growing together." %}
+
 WisdomGroup is hiring a Community Manager (CM) to help run our user groups and conferences. This is a part-time independent contractor position, mostly remote, with some on-site work during meetings and conferences. The position could become full-time depending on results produced and community growth.
 
 ###Smart People, Growing Together

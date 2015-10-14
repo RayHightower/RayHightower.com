@@ -5,7 +5,8 @@ date: 2014-01-06 02:31
 comments: true
 categories: [ BeagleBone Black, Linux, Node, Rails, Ruby ]
 ---
-{% imgcap right /images/ruby-rails-ubuntu-beaglebone-black.png Ruby. Rails. Ubuntu. BeagleBone Black. %}
+
+{% include image.html img="/images/ruby-rails-ubuntu-beaglebone-black.png" caption="Ruby. Rails. Ubuntu. BeagleBone Black." %}
 
 Part one of this series shows [how to install Ubuntu on the BeagleBone Black](/blog/2014/01/02/beaglebone-black-ubuntu-part-1/). We used a MacBook Pro to burn an Ubuntu disk image onto an SD card, and then we booted a BeagleBone Black from the image we created.
 
@@ -200,7 +201,7 @@ I prefer to use the Ruby Version Manager (RVM) for bouncing between Ruby version
 
 This image shows the checkbox mentioned in the quote. It's inside of the lower red rectangle.
 
-{% imgcap /images/rvm-ubuntu-run-command_as_login-shell.jpg RVM: Run command as login shell. %}
+{% include image.html img="/images/rvm-ubuntu-run-command_as_login-shell.jpg" caption="RVM: Run command as login shell." %}
 
 Details are in the RVM support article [Integrating RVM with gnome-terminal](http://rvm.io/integration/gnome-terminal).
 
@@ -208,7 +209,9 @@ Details are in the RVM support article [Integrating RVM with gnome-terminal](htt
 Ruby installation initially failed (speculation) because the Bone went into power save mode during the installation process. Ruby installed successfully on the second try when I kept the machine awake by moving the mouse. This _power save hypothesis_ has not been thoroughly tested. 
 
 ###Gotcha: Rails Installation
-{% imgcap right /images/nodejs-white.png Node.js on BeagleBone Black. %}
+
+{% include image.html img="/images/nodejs-white.png" caption="Node.js on BeagleBone Black." %}
+
 Rails needs a JavaScript runtime in order to function. Here are two ways to meet this requirement: 
 
 * Install Node.js, or 
