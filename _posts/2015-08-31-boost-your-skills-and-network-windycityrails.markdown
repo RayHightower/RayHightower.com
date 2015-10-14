@@ -7,7 +7,9 @@ categories: [ Community ]
 ---
 WindyCityRails is on track to sell out this year. You could be part of the group that achieves the goal. Use discount code CHICAGORUBY for $50 off before 9/5/2015. [Register now](https://www.windycityrails.org/register/).
 <!--more-->
+
 ### New to Rails?
+
 What if you're new to Rails? Should you attend? Yes. WindyCityRails is one of the best ways to build your network of fellow professionals. Our skills get stronger when we challenge each other in positive ways. 
 
 ### Rails Veteran?
@@ -31,7 +33,9 @@ Open source is even more exciting when you give back to the community. Braintree
 <center><iframe src="https://player.vimeo.com/video/134859517" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 <br/>&nbsp;
 <br/>&nbsp;
+
 ### Smart People. Learning Together.
+
 When smart people challenge each other to grow, great things happen. Add your brain to the mix, and let's grow together. Use the promo code CHICAGORUBY to save $50 when you [register now](https://www.windycityrails.org/register/).
 
 See you on Sept 17th!

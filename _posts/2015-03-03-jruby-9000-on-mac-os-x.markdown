@@ -5,7 +5,9 @@ date: 2015-03-03 14:42:57 -0600
 comments: true
 categories: [ Ruby ]
 ---
-{% imgcap right /images/jruby_on_jvm.png JRuby. Ruby on the JVM. %}
+
+{% include image.html img="/images/jruby_on_jvm.png" caption="JRuby. Ruby on the JVM." %}
+
 Moore’s Law is about to run into a wall. Therefore, anything that software developers can learn about concurrency will be critical in coming years. Enter [JRuby 9000](http://www.jruby.org/).
 
 ### What is JRuby?
