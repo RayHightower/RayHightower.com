@@ -5,7 +5,8 @@ date: 2013-11-01 00:15
 comments: true
 categories: [Ruby, RubyMotion]
 ---
-{% imgcap right /images/time-machine-backup-disks.png Redundancy rocks. %}
+{% include image.html img="/images/time-machine-backup-disks.png" caption="Redundancy rocks." %} 
+
 [RubyMotion](/blog/2012/10/29/building-ios-apps-with-ruby-motion/)'s OS X support enabled me to solve a small problem yesterday.  Here's the story.
 
 ###Background on Backup
@@ -18,7 +19,7 @@ USB-attached drives work great with Time Machine. I found that Time Machine was 
 ###Disconnecting USB in a Hurry
 My only problem with USB-attached drives comes when I need to leave my desk in a hurry. You may have seen this message before:
 
-{% imgcap /images/disk-not-ejected-properly.png In a hurry to eject? %}
+{% include image.html img="/images/disk-not-ejected-properly.png" caption="In a hurry to eject?" %} 
 
 All three of my USB drives are attached through a single USB hub. Yanking the cable while running for a meeting is… bad! Forgetting to eject even one of the USB drives is also bad.
 

@@ -5,7 +5,8 @@ date: 2013-10-30 17:22
 comments: true
 categories: [Arduino, Education, Rails, Ruby]
 ---
-{% imgcap right /images/arduino-youth-program.png Arduino %}
+{% include image.html img="/images/arduino-youth-program.png" title="Arduino" caption="Arduino" %} 
+
 Planet Earth is facing a shortage of people who make things. People like scientists, software developers, architects, and  engineers. People who use their brains and hands to make greatness happen.
 
 To increase the world's supply of problem solvers, the organizers of [WindyCityRails](http://windycityrails.org) partnered with a group of energetic college students, the founders of [Monkey Bars](http://hackthemonkey.com). The result: Together, we launched the first WindyCityRails Youth Program featuring the Arduino microcontroller.

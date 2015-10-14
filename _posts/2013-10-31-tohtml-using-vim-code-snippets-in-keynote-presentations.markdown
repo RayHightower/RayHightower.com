@@ -120,7 +120,7 @@ Save the new buffer as `~/Desktop/convertedstuff.html` or any other file name th
 
 Open the converted file in a web browser.
 
-{% imgcap middle /images/rakefile-browser.png Rakefile in Chrome. %}
+{% include image.html img="/images/rakefile-browser.png" caption="Rakefile in Chrome." %} 
 
 Copy and paste the text from the browser into Keynote.
 
@@ -133,7 +133,7 @@ If the code looks washed out when you paste it into Keynote, you have a few alte
 ###The Finished Slide
 Here's what the finished product looks like. All the clarity of syntax-highlighted text. You can even adjust font size at will using the Keynote inspector. All set for the presentation.
 
-{% imgcap middle /images/osxfinished.png The final snippet, in Keynote. %}
+{% include image.html img="/images/osxfinished.png" caption="The final snippet, in Keynote." %} 
 
 ###Easier Way?
 Can this process be simplified? If you know the answer, feel free to mention it in the comments below. Thanks!

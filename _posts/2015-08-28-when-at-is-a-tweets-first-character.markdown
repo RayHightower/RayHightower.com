@@ -5,7 +5,7 @@ date: 2015-08-28 15:59:01 -0500
 comments: true
 categories: [ Community ]
 ---
-{% img right /images/at_sign.png %}
+<img src="/images/at_sign.png" align="right">
 
 Something we should know about putting an "@" in the first character position on Twitter...
 

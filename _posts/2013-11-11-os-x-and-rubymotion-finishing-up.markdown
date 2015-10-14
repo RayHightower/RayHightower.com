@@ -5,7 +5,8 @@ date: 2013-11-11 19:03
 comments: true
 categories: [ OS X, RubyMotion ]
 ---
-{% imgcap right /images/show-package-contents.png %}
+{% include image.html img="/images/show-package-contents.png" caption="" %} 
+
 There is something I neglected to cover in a previous blog post, [Building an OS X App With RubyMotion](/blog/2013/11/01/building-an-os-x-app-with-rubymotion/). Once you've written the OS X app, where do you find the executable, and how do you add it to the `Applications` folder on the Mac?
 
 Long-time Mac enthusiasts may already know how to do this. The information is included here for completeness.
@@ -28,6 +29,6 @@ It doesn't really matter whether we copy the file or move it.  RubyMotion create
 ###Launch at Login
 I want the EjectDisks utility to be always available, so it would be good to have it launch automatically at login. That behavior is managed in the `Users and Groups` preference pane, shown below:
 
-{% imgcap /images/launch-at-login.png %}
+{% include image.html img="/images/launch-at-login.png" caption="" %} 
 
 Click the `+` sign, navigate to the app you want to launch at login time (in this case, EjectDisks) and select it. Done.
