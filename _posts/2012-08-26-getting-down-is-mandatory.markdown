@@ -5,7 +5,9 @@ date: 2012-08-26 16:55
 comments: true
 categories: [Business]
 ---
-{% img right /images/climber.jpg 'No Shortcuts to the Top by Ed Viesturs' 'Book cover: No Shortcuts to the Top by Ed Viesturs' %}
+
+{% include image.html img="/images/climber.jpg" caption="No Shortcuts to the Top by Ed Viesturs" %}
+
 [Charlie Rose](http://www.charlierose.com/) is an amazing journalist. His interviews are eclectic and rich. During his interview with mountain climber Ed Viesturs, I was struck by the parallels between mountain climbing and business achievement.
 
 ####Managing Risk, Ignoring Critics

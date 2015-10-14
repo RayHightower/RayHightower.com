@@ -5,7 +5,7 @@ date: 2014-02-06 18:17
 comments: true
 categories: [ Ruby ]
 ---
-{% img right /images/rubinius.png %}
+{% include image.html img="/images/rubinius.png" %}
 [Rubinius](http://rubini.us/) is an implementation of the Ruby language designed for concurrency. The lead developer of Rubinius, [Brian Shirai](http://twitter.com/brixen), will present Rubinius at ChicagoRuby on March 4, 2014. ChicagoRuby will follow-up with a Rubinius-themed hack night on March 12th. [Details](http://www.meetup.com/ChicagoRuby/events/114749352/).
 
 To prepare for the Rubinius events, some people may choose to install Rubinius locally. RVM makes the process smooth.

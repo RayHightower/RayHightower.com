@@ -16,7 +16,7 @@ A quick way to launch a “Hello World!” page via GitHub Pages...
 
 * Create the repo where you want to publish a GitHub page. For example, `random-repo`. Be sure to make the repo public, and don't initialize it with a README file.
 
-{% img middle /images/github-create-random-repo.png %}
+{% include image.html img=" middle /images/github-create-random-repo.png %}
 
 * Clone the repo on your local machine.
 
@@ -34,7 +34,7 @@ $ cd random-repo
 
 $ 
 
-{% img middle /images/github-clone-random-repo.png %}
+{% include image.html img="/images/github-clone-random-repo.png" %}
 
 ```
 Don't worry about the "cloned an empty repository" message. We'll add something very soon!
@@ -86,7 +86,7 @@ $
 
 * Open a web browser and navigate to `http://your-github-user-name.github.io/random-repo`. For the example in this article, use [http://rayhightower.github.io/random-repo](http://rayhightower.github.io/random-repo). You should see the words "Hello World" in the browser window. 
 
-{% img middle /images/github-browser-random-repo.png %}
+{% include image.html img="/images/github-browser-random-repo.png" %}
 
 Congrats on your success!
 

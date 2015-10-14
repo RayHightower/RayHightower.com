@@ -6,7 +6,7 @@ comments: true
 published: false
 categories: [ Rails, Ruby ]
 ---
-{% img right /images/ninefold-logo.png %}
+{% include image.html img="/images/ninefold-logo.png" %}
 [Ninefold](https://ninefold.com/) is a Rails hosting platform based in Australia. The company is backed by [Maquarie Telcom](http://www.macquarietelecom.com/).
 
 I first met the Ninefold team at RailsConf 2014 in Chicago. I'm in San Francisco this week for RubyMotion #Inspect and related events, so I took the time to stop by their San Francisco office. Now it's time to take the service for a spin.
