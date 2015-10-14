@@ -5,7 +5,8 @@ date: 2015-03-06 13:02:53 -0600
 comments: true
 categories: [ Education ]
 ---
-{% imgcap right /images/html5_css3_imagineshop.jpg HTML5 & CSS3 %}
+{% include image.html img="/images/html5_css3_imagineshop.jpg" caption="HTML5 & CSS3" %}
+
 The biggest challenge for a software developer: Absorbing the latest knowledge while simultaneously keeping clients happy. Where does the time go? 
 
 Fortunately, when it comes to HTML5 and CSS3, a UK-based publisher has released a just-the-facts guide that may help. At 127 pages, the entire publication (they call it a _bookazine_) can be devoured in a single day. Imagine Publishing's _HTML5 & CSS3: The Complete Manual_ is well worth the time investment.
