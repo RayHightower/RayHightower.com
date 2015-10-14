@@ -13,6 +13,7 @@ You can participate even if you’re not in Tokyo. Parallella owners around the 
 
 This article includes detailed steps plus a few _gotchas_.
 <!--more-->
+
 ### First: Why?
 Some problems are too thorny for a typical computer to solve in a reasonable amount of time. Supercomputers might solve these problems quicker, but they cost _millions of dollars_. Solution: Link a bunch of $100, 18-core Parallella computers together via the Internet to amplify our compute power while saving money. This shared computing technique has worked in the past:
 
@@ -41,6 +42,7 @@ I don't know if that will change.
 [Download the Resin.io image](http://supercomputer.io/) from the Supercomputer.io site. [Resin.io](http://resin.io/) has created a special SD-card image (using Docker) for this project. As you can see below, I stored mine in a directory called `~/Downloads/Parallella$`.
 
 ``` bash
+
 ~/Downloads/Parallella$ ls -al
 total 2678784
 drwxr-xr-x   3 rth  staff         102 May 26 10:53 .

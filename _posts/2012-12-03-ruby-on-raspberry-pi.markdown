@@ -14,6 +14,7 @@ You can buy a Raspberry Pi for $35.00.
 #### Will it Run Ruby?
 When my Raspberry Pi arrived, I was curious: Will it run Ruby? How about Rails?  This article describes my experience with RVM, Ruby, and Rails on a Raspberry Pi, along with the "gotchas" I encountered along the way.
 <!--more-->
+
 #### Why Raspberry Pi?
 Raspberry Pi was created by a group of UK educators and engineers with a concern: Inexpensive hobbyist computers like the old Commodore 64 no longer exist. Game consoles continue to get better, but there is no replacement for the Commodore. As a result, young people who _might_ become developers get introduced to the profession as gamers or users of Word or Excel. They begin as consumers, not creators. Sad news, because creators shape the world we all enjoy. 
 
