@@ -64,7 +64,7 @@ When 40,000 investment-minded people gather, rich conversations will happen. Aft
 ### 5k Run
 About 1,000 people gathered for the 5k _Invest in Yourself_ run on Sunday morning. The weather was perfect.
 
-{% include image.html img=" /images/berkshire_hathaway_5k.jpg 5k runners gather at the start. %}
+{% include image.html img="/images/berkshire_hathaway_5k.jpg" caption="5k runners gather at the start." %}
 
 {% include image.html img="/images/berkshire_hathaway_5k_finishers.jpg" caption="5k finishers queue up for swag." %}
 
