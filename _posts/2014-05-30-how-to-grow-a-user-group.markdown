@@ -11,6 +11,7 @@ Today, the _new crew_ has grown ChicagoRuby to over 2,700 members. The group hos
 
 How does ChicagoRuby do it? Through consistency, teamwork, iteration, and learning from mistakes.
 <!--more-->
+
 ###Be Consistent With Meetings
 Consistency is very difficult in the beginning, especially on that night when only three people show up for the meeting. I have hosted a 3-person ChicagoRuby meeting before. Consistency is hard, and it is also the most important factor in user group success.
 
