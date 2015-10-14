@@ -6,6 +6,7 @@ comments: true
 categories: [ Community ]
 ---
 {% img right /images/at_sign.png %}
+
 Something we should know about putting an "@" in the first character position on Twitter...
 
 ### Limited Visibility
