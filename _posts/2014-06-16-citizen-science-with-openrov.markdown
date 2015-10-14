@@ -55,7 +55,7 @@ Amusingly, successful citizen scientists can be outwitted by their own expertise
 Shifting back to the 21st century: Thousands of citizen scientists are using OpenROV to explore oceans and lakes more thoroughly than ever before.
 
 ###Open Source On-Site
-{% imgcap right /images/ui-discussion-2.jpg Enthusiasts collaborate on the next UI. %}
+{% include image.html img="/images/ui-discussion-2.jpg" caption="Enthusiasts collaborate on the next UI." %}
 On the day I visited the OpenROV factory, other underwater enthusiasts were on-site, working with company engineers on product improvements. One enthusiast is a professional pilot of manned submersibles, underwater vehicles large enough to hold people. This pilot has traveled as deep as 2,000 meters below the ocean's surface! "We're always looking at amperage", she said in a discussion with another enthusiast. A spike in amperage could indicate a ground fault, and batteries drain rapidly when that happens. You do not want to be stuck underwater when the batteries run out.
 
 Another member of the open source community, an engineering veteran with decades of experience at [Apple](http://apple.com) and [Oracle](http://oracle.com), translates the operator's feedback into code that might drive the next OpenROV user interface. 
@@ -63,7 +63,7 @@ Another member of the open source community, an engineering veteran with decades
 That's how open source works at OpenROV. 
 
 ###Hardware Testing
-{% imgcap right /images/testing-motor-controller.jpg Testing new hardware. %}
+{% include image.html img="/images/testing-motor-controller.jpg" caption="Testing new hardware." %}
 I offered to leave when the OpenROV team prepared to test some new components. After working in tech for decades, I've learned to respect a company's right to protect secrets. 
 
 "You forget that this is all open source," they told me. "The schematics are already online, so there's nothing to hide. Come and watch the test." 

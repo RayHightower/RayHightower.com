@@ -5,7 +5,9 @@ date: 2014-12-30 17:44
 comments: true
 categories: [ Business ]
 ---
-{% imgcap right /images/owc_ssd.jpg MacBook Pro SSD, next to a nickel. %}
+
+{% include image.html img="/images/owc_ssd.jpg" caption="MacBook Pro SSD, next to a nickel." %}
+
 Every computer user has to deal with this at some point. Your machine runs out of storage space: hard drive, SSD, or whatever mass storage you happen to use. In my case, the 512GB SSD in my early 2013 MacBook Pro was over 90% full. Time for an upgrade.
 
 Fortunately (and contrary to what the Apple literature says) it is possible to upgrade the SSD in a MacBook Pro. RAM is different because the MBP's RAM is soldered to the logic board. But the SSD plugs into a socket. The SSD upgrade path is well-documented on YouTube and elsewhere.

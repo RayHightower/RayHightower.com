@@ -5,7 +5,9 @@ date: 2015-02-18 15:15:25 -0600
 comments: true
 categories: [ Community, Education ]
 ---
-{% imgcap right /images/sicp.jpg SICP %}
+
+{% include image.html img="/images/sicp.jpg" caption="SICP" %}
+
 Veteran developer [Dave Astels](http://twitter.com/dastels) is leading a [Structure and Interpretation of Computer Programs (SICP) study group](https://www.eventbrite.com/e/sicp-chicago-w-dave-astels-tickets-15525870296) for the next ten months. The Massachusetts Institute of Technology uses SICP as the text for one of its early computer science courses. Session one of Dave’s group starts today at 6pm. For any developer who wants to ramp up in skill, the SICP study group is an excellent opportunity to do so.
 
 MIT makes the [entire text of SICP](http://mitpress.mit.edu/sicp/) available online for free. Or you can buy a paper version of the book at Amazon.
@@ -30,7 +32,7 @@ _Update: Some members of the SICP study group had success installing `mit-scheme
 
 Alternative solution: Grab a pre-compiled binary from the [MIT/GNU Scheme](http://www.gnu.org/software/mit-scheme/) site. The `mit-scheme-9.2-x86-64.dmg` disk image was the right one for my early 2013 MacBook Pro. Your system may be different.
 
-{% imgcap middle /images/gnu_float.png Opening the MIT/GNU Scheme disk image. %}
+{% include image.html img="/images/gnu_float.png" caption="Opening the MIT/GNU Scheme disk image." %}
 
 To install, drag the `MIT/GNU Scheme.app` icon into the Applications folder on the Mac.
 

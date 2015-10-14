@@ -5,7 +5,9 @@ date: 2014-10-21 09:44
 comments: true
 categories: [ Community, OpenROV ]
 ---
-{% imgcap right /images/geekfest.png Geekfest: Tuesdays at Groupon. %}
+
+{% include image.html img="/images/geekfest.png" caption="Geekfest: Tuesdays at Groupon." %}
+
 [Geekfest](http://www.meetup.com/Geekfest/events/207936312/) is a weekly event hosted by Groupon's engineering team. Every Tuesday at lunchtime, the company invites members of the tech community to present topics that are interesting to a technical audience. 
 
 I wish to express my thanks to Groupon for inviting me to present [OpenROV](/blog/2014/06/16/citizen-science-with-openrov/) at today's Geekfest. 

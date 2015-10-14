@@ -5,7 +5,9 @@ date: 2014-11-16 15:01
 comments: true
 categories: [ Community, OpenROV ]
 ---
-{% imgcap right /images/ignite_logo_200.jpg Ignite. 15 seconds per slide. %}
+
+{% include image.html img="/images/ignite_logo_200.jpg" caption="Ignite. 15 seconds per slide." %}
+
 [Ignite](http://igniteshow.com/) is a presentation format where the slides advance automatically every 15 seconds whether the presenter is ready or not. Twenty slides, 15 seconds each, five minutes total. Presenters are challenged to present their ideas quickly and clearly before the time runs out.
 
 Ignite is similar to [Pecha Kucha](http://www.pechakucha.org). The two formats differ only in slide duration (20 seconds per slide with Pecha Kucha).

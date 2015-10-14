@@ -6,7 +6,9 @@ comments: true
 categories: [ Linux, Raspberri Pi ]
 published: true
 ---
-{% imgcap right /images/raspberry_pi_2_model_b.jpg Raspberry Pi 2 Model B %}
+
+{% include image.html img="/images/raspberry_pi_2_model_b.jpg" caption="Raspberry Pi 2 Model B" %}
+
 The [Raspberry Pi Foundation](http://www.raspberrypi.org/) has upped their entry in the single-board computer competition. Raspberry Pi 2 Model B boasts a quad core ARM CPU and 1GB of RAM. More important: Benchmarks show that the board is 6x faster than the previous model. And the performance bump has been achieved while the price remains low: Roughly $45.
 
 Getting the board up and running is easier, too. You can buy a pre-built Linux image on micro SD. Or you can [download the New Out Of the Box (NOOBS) image](http://www.raspberrypi.org/downloads/) yourself. Depending on the speed of your internet connection, you can be up in running in less than an hour.
@@ -41,7 +43,7 @@ $ startx
 ```
 And your desktop will look something like this.
 
-{% imgcap middle /images/raspberry_pi_2_model_b_ruby.jpg Screenshot: Raspberry Pi 2 Model B %}
+{% include image.html img="middle /images/raspberry_pi_2_model_b_ruby.jpg" caption="Screenshot: Raspberry Pi 2 Model B" %}
 
 
 ### Running Ruby, Rails

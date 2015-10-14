@@ -6,7 +6,9 @@ comments: true
 published: false
 categories: [ Other Languages ]
 ---
-{% imgcap right /images/rust_logo.png Rust is fast. %}
+
+{% include image.html img="/images/rust_logo.png" caption="Rust is fast." %}
+
 >Rust is a work-in-progress and may do anything it likes up to and including eating your laundry.
 >&nbsp;<br/>
 ><br/>~Disclaimer from the Rust home page

@@ -18,7 +18,8 @@ The RubyCaribe team has achieved eight years of success with [WindyCityRails](ht
 
 It's too soon for RubyCaribe, right now. But we will get there.
 
-{% imgcap right /images/LinuxBarbados-tux-logo_300.png LinuxBarbados.org %}
+{% include image.html img="/images/LinuxBarbados-tux-logo_300.png" caption="LinuxBarbados.org" %}
+
 ###Upside: LinuxBarbados
 While planning RubyCaribe, our team began an amazing relationship with the University of the West Indies at Cave Hill ([UWI](http://www.cavehill.uwi.edu/)). We collaborated with UWI to create [LinuxBarbados](http://linuxbarbados.org). The monthly LinuxBarbados meetings are an exciting way to grow your open source software and hardware skills. Discussions cover Linux, Parallella, Raspberry Pi, Ruby, Java... and more.
 

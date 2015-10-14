@@ -7,7 +7,8 @@ categories: [ Community, OpenROV ]
 ---
 [RubyCaribe](http://rubycaribe.com) (pronounced ka-REEB) is a conference for intermediate and advanced software developers who use Ruby. The conference will be held January 27 - 31, 2015 in Barbados. January is a beautiful time to visit the Caribbean, especially if you’re coming from a colder part of the planet.
 
-{% imgcap right /images/barbados_caribbean_map.png Barbados. You could be here in January. %}
+{% include image.html img="/images/barbados_caribbean_map.png" caption="Barbados. You could be here in January." %}
+
 Intermediate and advanced software developers will find RubyCaribe valuable because...
 
 * Each RubyCaribe session features a 30- to 45-minute presentation followed by a *2-hour deep-dive lab*. Learning is reinforced throughout.
@@ -17,7 +18,7 @@ Intermediate and advanced software developers will find RubyCaribe valuable beca
 Each RubyCaribe lab will be led by experts in machine learning, mobile app development (iOS and Android), web development, and functional programming. The inventor of [RubyMotion](http://rubymotion.com), [Laurent Sansonetti](https://twitter.com/lrz), will lead the RubyMotion lab. If you already have experience with Ruby or Rails, RubyCaribe will take your skills to the next level.
 
 ###Bonus: OpenROV and Node.js
-{% imgcap right /images/openrov_rubycaribe.jpg OpenROV. Linux and Node.js. %}
+{% include image.html img="/images/openrov_rubycaribe.jpg" caption="OpenROV. Linux and Node.js." %}
 [OpenROV](/blog/2014/06/16/citizen-science-with-openrov/) is an open source underwater robot running Linux and Node.js. During two evening sessions, you and your RubyCaribe colleagues will hack on OpenROV. The best developers are polyglot, right? On Friday afternoon, we will grab a boat for live ocean testing with a few OpenROV units. If you ever wanted to experiment with Node.js and IoT, RubyCaribe offers a great opportunity.
 
 ###University Collaboration
