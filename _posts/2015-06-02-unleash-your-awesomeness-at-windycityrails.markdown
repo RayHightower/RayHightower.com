@@ -5,7 +5,7 @@ date: 2015-06-02 15:09:06 -0500
 comments: true
 categories: [ Community, Education ]
 ---
-{% imgcap right /images/sphere_question.jpg Do you see yourself? %}
+{% include image.html img="/images/sphere_question.jpg" caption="Do you see yourself?" %}
 Are you driven to excel? Do you see yourself here?
 
 * **You have already built a successful Rails app**. Now that you're "done", you know you can make it better, but you're not sure how. You want to take your skills to the next level.

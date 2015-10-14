@@ -50,7 +50,7 @@ You'll see an animated graphic showing the Mandelbrot calculations in real time.
 So, what's a Mandelbrot set and why do we care?
 
 ### About Mandelbrot Sets
-{% imgcap middle /images/mandelbrot-parallella.jpg Mandelbrot example calculated by Parallella. %}
+{% include image.html img="/images/mandelbrot-parallella.jpg" caption="Mandelbrot example calculated by Parallella." %}
 
 >Clouds are not spheres, mountains are not cones, coastlines are not circles, and bark is not smooth, nor does lightning travel in a straight line.<br/>&nbsp;<br/>~Benoit Mandelbrot
 

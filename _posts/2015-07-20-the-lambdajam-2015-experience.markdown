@@ -5,7 +5,9 @@ date: 2015-07-20 09:41:04 -0500
 comments: true
 categories: [ Community, Functional Programming ]
 ---
-{% imgcap right /images/LambdaJam.png Lambda Jam 2015 %}
+
+{% include image.html img="/images/LambdaJam.png" caption="Lambda Jam 2015" %}
+
 Working in software development is like being the proverbial kid in candy store. Every new language is a shiny and delicious thing. [Lambda Jam](http://lambdajam.com) (which bounces between Chicago and Melbourne) is a traveling candy store. And, like the kid in the candy store, I am sometimes distracted by tangential temptation.
 
 Most of my time is spent running [WisdomGroup](http://wisdomgroup.com), where we focus on Ruby and Swift. We're object-oriented all the way. Given that, why would I want to attend a functional programming conference like Lambda Jam? For the brain-stretching experience. If your background is anything like mine, you might enjoy it, too. Here’s why.
