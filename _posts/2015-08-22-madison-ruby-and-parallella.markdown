@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Madison Ruby and Parallella (with Video)"
+title: "Madison+ Ruby and Parallella (with Video)"
 date: 2015-08-22 09:47:45 -0500
 comments: true
 categories: [ Community, Parallella ]
