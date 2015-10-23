@@ -16,6 +16,7 @@ The above Henry Ford quote is often cited in presentations about innovation. The
 
 That's one way to interpret Ford's quote. Last night, I was introduced to another view.
 <!--more-->
+
 ###Parse the Quote Differently, Don't Ignore it
 Last night's [IxDA Chicago](http://www.ixdachicago.org) meeting featured a presentation by [Chris Holmes](http://chris-holmes.com), who shared a different view of the Ford quote. If we focus on improving the speed of horses (perhaps through nutrition or better horse shoes) very little improvement can be achived.
 
