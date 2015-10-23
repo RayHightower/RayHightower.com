@@ -10,9 +10,11 @@ published: true
 
 <img src="/images/just_enough_research.jpg" alt="Just Enough Research" align="right">
 
-It is popular to view entrepreneurs as risk takers. After 20+ years running WisdomGroup, I’m not sure that’s an accurate view. The successful entrepreneurs I know will reduce risk before launching a venture.
+It is popular to view entrepreneurs as risk takers. After 20+ years running WisdomGroup, I’m not sure that’s an accurate view. From what I've observed, successful entrepreneurs will reduce risk before launching a venture.
 
-Pothole metaphor: When most people see a road full of potholes, they avoid the road. But an entrepreneur, looking at the same pothole-filled road, will devise ways to navigate over and around the obstacles. Some people avoid risk outright. Entrepreneurs reduce risk through creativity.
+### Pothole Metaphor
+
+When most people see a road full of potholes, they avoid the road. But an entrepreneur, looking at the same pothole-filled road, will devise ways to navigate over and around the obstacles. Some people avoid risk outright. Entrepreneurs reduce risk through creativity.
 
 ### Risks in Software Development
 
