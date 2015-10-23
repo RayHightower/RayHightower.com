@@ -2,6 +2,7 @@
 layout: page
 title: "404 Error: Page not found."
 footer: false
+published: false
 ---
 
   <p>&#8220;404&#8221; is a short-hand way to say &#8220;the web server can&#8217;t find the page you&#8217;re looking for.&#8221; Here&#8217;s what we can do about it:</p>
