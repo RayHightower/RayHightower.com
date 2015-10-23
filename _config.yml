@@ -1,6 +1,6 @@
 # Site settings
 title: RayHightower.com
-description: Thoughts about Ruby, Rails, iOS, the Internet of Things, software development, and business growth.
+description: Thoughts about Ruby, Rails, iOS, the Internet of Things (IoT), software development, and business growth.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rayhightower.com" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:day/:title/
