@@ -4,7 +4,7 @@ title: "Speaking"
 footer: true
 ---
 
-Recent speaking history (Links point to slides and videos):
+Recent speaking history (links point to slides and videos):
 
 * Parallella, RubyConf Colombia, Medellín, Colombia
 * [Parallella, 18-core Supercomputer](/blog/2015/08/22/madison-ruby-and-parallella/), Madison+ Ruby - Madison, WI, USA
