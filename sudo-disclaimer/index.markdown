@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Sudo Disclaimer"
+title: 
 comments: false
 sharing: true
 footer: false
 ---
 ###You Could Destroy Everything With Sudo
 
-{% include image.html align="right" img="/images/sudo-make-me-a-sandwich.png" caption="Sudo, courtesy of XKCD.com." alt="Sudo, courtesy of XKCD.com." %}
+{% include image.html align="right" img="/images/sudo-make-me-a-sandwich.png" caption="Sudo, illustrated by XKCD.com." alt="Sudo, illustrated by XKCD.com." %}
 
 Some of posts on this blog will ask you to use the `sudo` command. Sudo endows users with great power. 
 
