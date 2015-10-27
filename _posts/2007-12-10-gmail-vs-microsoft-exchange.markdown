@@ -10,11 +10,16 @@ _Note: This article was originally posted on the [WisdomGroup](http://wisdomgrou
 When [Arizona State University](http://asu.edu/news/stories/200610/20061010_asugmail.htm) shifted 65,000 users from their in-house email system to GMail, support calls went down and savings went up. The move saves the University $400,000 per year. Does it still make sense to have an in-house email server?
 
 #### Four-Minute Video Description
+
 Adrian Sannier, Information Technology Officer at ASU, outlines the problem and solution in this 4-minute video.
 
 <center><object width="325" height="275"><param name="movie" value="http://www.youtube.com/v/_x2fJRW_vvQ&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/_x2fJRW_vvQ&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="325" height="275"></embed></object> </center>
 <!-- more -->
+&nbsp;<br/>
+&nbsp;<br/>
+
 #### Migrating from Exchange
+
 WisdomGroup migrated to GMail in November 2007 after nine years with [Microsoft Exchange](http://www.microsoft.com/exchange/default.mspx). The biggest benefits for WisdomGroup include:
 
 * *Savings in time & money*. Every email system requires periodic maintenance and troubleshooting. Letting another entity manage our email means that we don't have to manage it ourselves. Therefore we can focus on client projects.
@@ -25,4 +30,5 @@ WisdomGroup migrated to GMail in November 2007 after nine years with [Microsoft 
 * *No Multi-Bucket Manual Archiving*. Outlook may have given you the message "Would you like to automatically archive your email?" or something similar. When you archive in Outlook/Exchange, you end up with multiple buckets of old email. This is cumbersome when you want to search for an old message because you have to search each and every old bucket separately. GMail stores all of your messages in one huge bucket for easier (and faster) searching. 
 
 #### When to Outsource
+
 If fighting spam has become a commodity service, why not outsource it? That way, your company can focus on those things that add value to the products and services you sell to your customers. Do you really want to spend time maintaining a mail server? Or do you want to spend time growing your company?
