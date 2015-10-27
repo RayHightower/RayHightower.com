@@ -15,8 +15,11 @@ If you’re a developer itchin’ to ramp up your Ruby skills, Chicago is a grea
 
 The newest locations on ChicagoRuby's monthly list are BLUE1647 and 1871.
 <!--more-->
+
 ### ChicagoRuby: BLUE1647
+
 {% include image.html img="/images/blue1647.jpg" caption="BLUE1647" %}
+
 [BLUE 1647](http://www.blue1647.com/) is an amazing maker space on Chicago’s South Side, in the Pilsen neighborhood. The leadership of BLUE1647 invited ChicagoRuby to host our first meeting in the space on March 19, 2015. The presenter, [John Contreras](https://twitter.com/johnnycon) of [Matchup](http://matchup.io), took us through the nuances of Rails background processing.
 
 [Rebecca Miller-Webster](https://twitter.com/rmillerwebster) of [thoughtbot](http://thoughtbot.com) will present at our next BLUE1647 meeting on April 17, 2015.
@@ -24,10 +27,13 @@ The newest locations on ChicagoRuby's monthly list are BLUE1647 and 1871.
 Check the [ChicagoRuby calendar](http://meetup.com/chicagoruby) for details and to RSVP.
 
 ### ChicagoRuby: 1871
+
 {% include image.html img="/images/1871.jpg" caption="1871" %}
+
 [1871](http://www.1871.com) was an early player in Chicago's startup incubator industry. Community leaders at 1871 invited ChicagoRuby to lead some Ruby-oriented sessions at the incubator. [Marty Lavin](http://www.meetup.com/ChicagoRuby/members/1345203/) will lead our first 1871 event on April 30, 2015.
 
 ### Organizer Team
+
 Eleven (yes, eleven!) organizers work in concert to make ChicagoRuby run well. Current members of the organizer team are:
 
 * [Ginny Hendry](http://twitter.com/ginnyhendry) - Started and co-organizes the ChicagoRuby Hack Nights.
@@ -45,6 +51,7 @@ Eleven (yes, eleven!) organizers work in concert to make ChicagoRuby run well. C
 ChicagoRuby excels because the work is shared amongst many people. Hats off to our [Organizer Alumni](http://www.chicagoruby.org/about/organizers/) too!
 
 ### Something For You
+
 As of this writing, ChicagoRuby manages six events per month. You are certain to find something that fits you.
 
 * **ChicagoRuby: Elmhurst** - The first ChicagoRuby location. Meeting space provided by one of our members, Lee DeForest of DeForest Group.
