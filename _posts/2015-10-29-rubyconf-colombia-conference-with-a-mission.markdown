@@ -33,7 +33,7 @@ The conference organizers were kind enough to invite me to speak at this inaugur
 
 RubyConf Colombia was my first visit to South America, and my longest visit to a predominantly Spanish-speaking region. So it was important to get out and see some of the surrounding area, not just bury my head in my laptop.
 
-A small group of us visited the Parque Arvi Nature Reserve just outside of Medellin. Getting to the park required a journey by cable car. The cable cars travel above mountainside neighborhoods and wide stretches fo forest. The views are beautiful.
+A small group of us visited the [Parque Arvi Nature Reserve](http://discovercolombia.com/arvi-park-green-lung-of-medellin-colombia-2/) just outside of Medellin. Getting to the park required a journey by cable car. The cable cars travel above mountainside neighborhoods and wide stretches forest. The views are beautiful.
 
 
 {% include image.html img="images/colombia_cable_car.jpg" caption="Cable cars over local neighborhoods." %} 
