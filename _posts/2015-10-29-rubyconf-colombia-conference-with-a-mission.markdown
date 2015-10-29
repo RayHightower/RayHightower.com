@@ -8,7 +8,7 @@ published: true
 ---
 >Let’s talk about software and leave our past behind.<br/>~Juan Pablo Buritica
 
-[Juan Pablo Buritica](https://twitter.com/buritica) and his team from [Ride](http://ride.com) organized [RubyConf Colombia](http://www.rubyconf.co/) in Medellin this month. The organizers ran JSConf Colombia concurrently with the Ruby conference. What a feat of logistical legerdemain!
+[Juan Pablo Buritica](https://twitter.com/buritica) and his team from [Ride](http://ride.com) organized [RubyConf Colombia](http://www.rubyconf.co/) in Medellín this month. The organizers ran JSConf Colombia concurrently with the Ruby conference. What a feat of logistical legerdemain!
 
 Yes, the technical presentations were powerful. Even more inspiring: RubyConf Colombia is a technical conference with a mission to change the reputation of Colombia.
 
@@ -33,14 +33,14 @@ The conference organizers were kind enough to invite me to speak at this inaugur
 
 RubyConf Colombia was my first visit to South America, and my longest visit to a predominantly Spanish-speaking region. So it was important to get out and see some of the surrounding area, not just bury my head in my laptop.
 
-A small group of us visited the [Parque Arvi Nature Reserve](http://discovercolombia.com/arvi-park-green-lung-of-medellin-colombia-2/) just outside of Medellin. Getting to the park required a journey by cable car. The cable cars travel above mountainside neighborhoods and wide stretches forest. The views are beautiful.
+A small group of us visited the [Parque Arvi Nature Reserve](http://discovercolombia.com/arvi-park-green-lung-of-medellin-colombia-2/) just outside of Medellín. Getting to the park required a journey by cable car. The cable cars travel above mountainside neighborhoods and wide stretches forest. The views are beautiful.
 
 
 {% include image.html img="images/colombia_cable_car.jpg" caption="Cable cars over local neighborhoods." %} 
 
 ### The Best Vegetarian Burger
 
-Even with my long list of allergies, I was able to find great food in Medellin. For example, the best vegetarian burger ever conceived by humans was served to me at Veg Station on Calle 10. The photo does not do this meal justice!
+Even with my long list of allergies, I was able to find great food in Medellín. For example, the best vegetarian burger ever conceived by humans was served to me at [Veg Station](https://www.facebook.com/vegstationmedellin) on Calle 10. The photo does not do this meal justice!
 
 {% include image.html img="images/colombia_veg_burger.jpg" caption="Amazing Veggie Burger" %} 
 
