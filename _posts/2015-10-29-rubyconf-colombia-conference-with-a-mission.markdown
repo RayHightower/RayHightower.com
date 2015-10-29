@@ -36,7 +36,7 @@ RubyConf Colombia was my first visit to South America, and my longest visit to a
 A small group of us visited the [Parque Arvi Nature Reserve](http://discovercolombia.com/arvi-park-green-lung-of-medellin-colombia-2/) just outside of Medellín. Getting to the park required a journey by cable car. The cable cars travel above mountainside neighborhoods and wide stretches forest. The views are beautiful.
 
 
-{% include image.html img="images/colombia_cable_car.jpg" caption="Cable cars over local neighborhoods." %} 
+{% include image.html img="images/colombia_cable_car_2.jpg" caption="Cable cars over local neighborhoods." %} 
 
 ### The Best Vegetarian Burger
 
