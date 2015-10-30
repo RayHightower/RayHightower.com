@@ -35,9 +35,11 @@ $ cd random-repo
 
 $ 
 
-{% include image.html img="/images/github-clone-random-repo.png" %}
 
 ```
+
+{% include image.html img="/images/github-clone-random-repo.png" %}
+
 Don't worry about the "cloned an empty repository" message. We'll add something very soon!
 
 * Create and checkout the `gh-pages` branch in the repo.
