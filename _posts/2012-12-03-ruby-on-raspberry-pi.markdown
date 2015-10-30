@@ -143,6 +143,7 @@ $ sleep 5; scrot ~/desktop.png
 ```
 
 <img src="/assets/raspberry-pi-analog-TV.jpg" width="400" align="right" title="Raspberry Pi Analog TV Monitor" alt="Raspberry Pi Analog TV Monitor" >
+
 #### Analog TV
 Don't laugh: I still have an old analog TV in my living room. It's twelve years old and it still works. Since Raspberry Pi comes with multiple video outupts, analog TVs are useful again.
 
