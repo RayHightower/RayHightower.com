@@ -11,7 +11,7 @@ footer: true
 
 ### Upcoming Presentations:
 
-* [Parallella, Supercomputing, and Ruby](http://confoo.ca/en/2016/session/parallella-supercomputing-and-ruby)<br/>ConFoo.CA - Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>
+* [Parallella, Supercomputing, and Ruby](http://confoo.ca/en/2016/session/parallella-supercomputing-and-ruby)<br/>ConFoo - Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>
 
 
 ### Additional Speaking History:
