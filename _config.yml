@@ -22,7 +22,7 @@ highlighter: pygments # default python pygments have been replaced by pygments.r
   
 
 # Disqus Comments
-disqus_short_name: rayhightower
+disqus_short_name: RayHightower
 # disqus_short_name:
 disqus_show_comment_count: false
 
