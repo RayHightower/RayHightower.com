@@ -3,11 +3,11 @@
     <loc>http://rayhightower.com{{site.baseurl}}{{include.entry.url}}</loc>
 
     {% if include.entry.changefreq %}
-      <changefreq>weekly</changefreq>
+      <changefreq>{{include.entry.changefreq}}</changefreq>
     {% endif %}
 
     {% if include.entry.priority %}
-      <priority>0.5</priority>
+      <priority>{{include.entry.priority}}</priority>
     {% endif %}
 
   </url>
