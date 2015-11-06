@@ -9,7 +9,7 @@ footer: true
 * [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
 * [Node.js Under Water (OpenROV)](/blog/2014/09/25/nodejs-under-water/)<br/>NYC Node.JS User Group - New York City, NY, USA<br/>&nbsp;<br/>
 * [Groupon: Node.js Under Water](/blog/2014/10/21/geekfest-and-openrov/)<br/>Geekfest, a weekly event by Groupon - Chicago, IL, USA<br/>&nbsp;<br/>
-* [Four Steps. Five Minutes](/blog/2012/08/31/four-steps-five-minutes/)<br/>Five-minute video summary of _The Four Steps to the Epiphany_ by Steve Blank<br/>Ignite Chicago - Chicago, IL, USA<br/>&nbsp;<br/>
+* [Four Steps. Five Minutes.](/blog/2012/08/31/four-steps-five-minutes/)<br/>Five-minute video summary of _The Four Steps to the Epiphany_ by Steve Blank<br/>Ignite Chicago - Chicago, IL, USA<br/>&nbsp;<br/>
 
 ### Upcoming Presentations:
 
