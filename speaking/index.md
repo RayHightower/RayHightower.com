@@ -4,6 +4,8 @@ title: "Speaking"
 footer: true
 ---
 
+Ray Hightower delivers presentations on technology and business growth. Want to invite him to speak at your event? You can reach him through the [contact form](/contact).
+
 ### Presentation Videos:
 
 * [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
@@ -28,9 +30,6 @@ footer: true
 * LinuxBarbados at University of the West Indies - Cave Hill, Barbados
 * Flourish Open Source Conference - University of Illinois at Chicago, IL, USA
 
-### Invitations
-
-Want to invite Ray Hightower to speak at your event? You can start with the [contact form](/contact).
 &nbsp;<br/>
 &nbsp;<br/>
 &nbsp;<br/>
