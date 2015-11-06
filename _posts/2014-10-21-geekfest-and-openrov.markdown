@@ -11,8 +11,10 @@ categories: [ Community, OpenROV ]
 [Geekfest](http://www.meetup.com/Geekfest/events/207936312/) is a weekly event hosted by Groupon's engineering team. Every Tuesday at lunchtime, the company invites members of the tech community to present topics that are interesting to a technical audience. 
 
 I wish to express my thanks to Groupon for inviting me to present [OpenROV](/blog/2014/06/16/citizen-science-with-openrov/) at today's Geekfest. 
+
 <!--more-->
-Slides appear below. Video will be posted as soon as it becomes available. Special thanks to [Chelsea Troy](http://chelseatroy.com/2014/10/21/geekfest-ray-hightower-dumps-a-robot-into-lake-michigan/) for creating a real-time blog post about the presentation.
+
+Slides and video appear below. Special thanks to [Chelsea Troy](http://chelseatroy.com/2014/10/21/geekfest-ray-hightower-dumps-a-robot-into-lake-michigan/) for creating a real-time blog post about the presentation.
 
 <center><iframe src="https://player.vimeo.com/video/123900588" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 

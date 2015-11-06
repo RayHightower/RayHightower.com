@@ -4,14 +4,16 @@ title: "Speaking"
 footer: true
 ---
 
-### Recent Presentation Videos:
+### Presentation Videos:
 
 * [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
-* [Node.js Under Water (OpenROV)](/blog/2014/09/25/nodejs-under-water/)<br/>NYC Node.JS User Group - New York City, NY, USA
+* [Node.js Under Water (OpenROV)](/blog/2014/09/25/nodejs-under-water/)<br/>NYC Node.JS User Group - New York City, NY, USA<br/>&nbsp;<br/>
+* [Groupon: Node.js Under Water](https://vimeo.com/123900588/)<br/>Groupon's Geekfest - Chicago, IL, USA<br/>&nbsp;<br/>
 
 ### Upcoming Presentations:
 
-* [Parallella, Supercomputing, and Ruby](http://confoo.ca/en/2016/session/parallella-supercomputing-and-ruby)<br/>ConFoo - Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>
+* [Parallella Overview](http://www.meetup.com/chicagoacm/)<br/>Association for Computing Machinery (ACM) - Chicago, IL, USA<br/>Dec 9, 2015<br/>&nbsp;<br/>
+* [Parallella, Supercomputing, and Ruby](http://confoo.ca/en/2016/session/parallella-supercomputing-and-ruby)<br/>ConFoo - Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>&nbsp;<br/>
 
 
 ### Additional Speaking History:
