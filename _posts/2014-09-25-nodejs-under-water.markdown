@@ -5,21 +5,25 @@ date: 2014-09-25 22:54
 comments: true
 categories: [ Node, OpenROV ]
 ---
-The [New York City Node JS Meetup](http://www.meetup.com/nodejs/events/206159562) asked me to speak about [OpenROV](http://rayhightower.com/blog/2014/06/16/citizen-science-with-openrov/) Wednesday evening. About eighty developers came out for the meeting. Thank you [Shutterstock](http://shutterstock.com), [Matt Walters](https://twitter.com/mateodelnorte), and all of the organizers for making it happen. Slides appear below.
+The [New York City Node JS Meetup](http://www.meetup.com/nodejs/events/206159562) asked me to speak about [OpenROV](http://rayhightower.com/blog/2014/06/16/citizen-science-with-openrov/) Wednesday evening. About eighty developers came out for the meeting. Thank you [Shutterstock](http://shutterstock.com), [Matt Walters](https://twitter.com/mateodelnorte), and all of the organizers for making it happen. 
 
-<center><script async class="speakerdeck-embed" data-id="25d9158026930132408f62c99fab29cb" data-ratio="1.75" src="//speakerdeck.com/assets/embed.js"></script></center>
-<!--more-->
-&nbsp;
-&nbsp;
-
-###Presentation Video
+### Presentation Video
 
 The following video is a rough draft, useful if you want to hear the dialog that went along with the slides. Lots of good questions from the audience. 
 
 <center><iframe width="560" height="315" src="//www.youtube.com/embed/rpvWg77EvrM?rel=0" frameborder="0" allowfullscreen></iframe></center>
 
-&nbsp;
-&nbsp;
+&nbsp;<br/>
+&nbsp;<br/>
+
+### Slides from SpeakerDeck
+
+Slides appear below.
+
+<center><script async class="speakerdeck-embed" data-id="25d9158026930132408f62c99fab29cb" data-ratio="1.75" src="//speakerdeck.com/assets/embed.js"></script></center>
+
+&nbsp;<br/>
+&nbsp;<br/>
 
 ###Next Step With OpenROV
 
