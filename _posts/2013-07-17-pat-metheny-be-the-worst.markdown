@@ -11,6 +11,8 @@ Pat Metheny encourages musicians to "be the worst" in whatever band they choose 
 
 Rather, he encourages us to surround ourselves with the best musicians we can find so that we can learn from them. The concept is explored further in the book [Apprenticeship Patterns](/blog/2013/02/17/apprenticeship-patterns-by-dave-h-hoover-and-adewale-oshineye/) by Dave Hoover and Ade Oshineye.
 
+<!--more-->
+
 I was reminded to be-the-worst while attending a conference this week, an event where I was surrounded by computer scientists with much more experience than me. I learned a lot his week. I will share details in a future post.
 
 In the meantime, I invite you to join me in a Pat Metheny learning exercise of your choice. Be the worst!

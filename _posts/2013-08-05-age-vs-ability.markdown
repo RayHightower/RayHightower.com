@@ -10,7 +10,9 @@ categories: [ Business, Education ]
 Age has little to do with ability. Every profession has examples of people who achieve goals even though others consider them _too young_ or _too old_. People who excel in the face of stereotypes are exciting to watch.
 
 _The Wall Street Journal_ listed some examples in a 1980s-era ad for United Technologies Corporation.
+
 <!--more-->
+
 >It's what you do - not when you do it.
 >
 >* Ted Williams, at age 42, slammed a home run in his last official at bat.

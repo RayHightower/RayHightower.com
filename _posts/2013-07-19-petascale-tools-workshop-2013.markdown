@@ -7,7 +7,9 @@ categories: [ Education, High Performance Computing ]
 published: true
 ---
 The [Petascale Tools Workshop](http://www.paradyn.org/CSCADS2013/index.html) is for computer scientists who create tools that enable apps to run efficiently on the world's fastest supercomputers. Supercomputer performance is measured in petaflops: 10<sup><sup>15</sup></sup> floating point operations per second. That's blazing speed, thousands of times faster than the fastest MacBook Pro. 
+
 <!--more-->
+
 [WisdomGroup](http://WisdomGroup.com) was invited to attend the workshop because we have a client client, [Texas A & M University](http://www.wisdomgroup.com/case-studies/texas-am-university/), operating in the high performance computing (HPC) space. As the only non-PhD in the room, I was given a chance to exercise Pat Metheny's [be-the-worst](/blog/2013/07/17/pat-metheny-be-the-worst/) philosophy in the extreme. The result: I learned things that will help WisdomGroup to deliver better solutions for our clients, especially the TAMU team. 
 
 ###One Megawatt = $1,000,000.00

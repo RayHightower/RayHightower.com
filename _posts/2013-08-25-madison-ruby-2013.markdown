@@ -13,7 +13,9 @@ By the way, Madison Ruby was a lot of fun, too!
 
 ### Speakers: Impressive and Accessible
 First, lets cover the obvious high points so we can focus on those things that make Madison Ruby unique. Organizers [Jim](https://twitter.com/jremsikjr) & [Jen Remsik](https://twitter.com/JenRemsik) have solidified their reputation for choosing engaging, well-prepared speakers. The Remsik network of speakers includes accomplished developers from around the world. Many are published authors. Some, like [Danielle Lee](http://madisoncircusspace.com/) and [Martin Atkins](https://twitter.com/marteeeen), excel in fields outside of software development. 
+
 <!--more-->
+
 What the presenters have in common: All are high achievers. All are inspiring. All take time to stick around after their time on stage to interact with attendees. That kind of interaction makes the Madison Ruby community work.
 
 ### Community in Madison

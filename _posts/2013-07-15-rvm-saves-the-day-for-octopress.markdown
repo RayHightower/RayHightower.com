@@ -25,7 +25,9 @@ $
 ```
 
 Not good. What happened?
+
 <!--more-->
+
 ###The Problem
 From the error message, it appeared that my current version of Bundler was incompatible with Octopress. Googling for the error message (a favorite trick) was unhelpful. Had to try a different line of attack.
 
