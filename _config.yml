@@ -34,4 +34,6 @@ google_analytics_tracking_id: UA-330946-28
 twitter_user:
 twitter_tweet_button: true
   
+feed:
+  path: atom.xml
 
