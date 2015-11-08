@@ -6,6 +6,7 @@ comments: true
 categories: [ Community ]
 ---
 WindyCityRails is on track to sell out this year. You could be part of the group that achieves the goal. Use discount code CHICAGORUBY for $50 off before 9/5/2015. [Register now](https://www.windycityrails.org/register/).
+
 <!--more-->
 
 ### New to Rails?
