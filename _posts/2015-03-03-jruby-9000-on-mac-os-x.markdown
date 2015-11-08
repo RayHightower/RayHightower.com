@@ -16,7 +16,9 @@ JRuby is an implementation of the Ruby programming language that runs on the Jav
 * Reaping the performance benefits that come from decades of JVM tuning.
 * The ability to call time-tested Java libraries from Ruby programs.
 * The performance benefits that come from concurrency, built into the JVM.
+
 <!-- more -->
+
 ### Installing JRuby 9000 on OS X
 Grab the latest `.tar` file from [JRuby Downloads](http://jruby.org/download) and extract it by double-clicking on it. As of this writing, the latest version was `jruby-bin-9.0.0.0.pre1.tar.gz`.
 
