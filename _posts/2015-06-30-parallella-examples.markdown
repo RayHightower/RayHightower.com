@@ -8,7 +8,9 @@ categories: [ Parallella ]
 >Performance is of paramount importance in parallel programming. The reason we are in the game of writing parallel programs is either to solve a problem faster than on a serial computer, or to solve a larger problem than could previously be done.<br/>&nbsp;<br/>~D. Thiébaut, author<br/>&nbsp;Parallel Programming in C for the Transputer
 
 Some developers buy a Parallella board because they already know parallel programming. They knew what to do with the device the moment they laid eyes on it. Others (like me) are relatively new to parallel programming. We see Parallella as an inexpensive tool for hands-on learning.
+
 <!--more-->
+
 ### Starting Questions
 A first-time Parallella user might ask questions like:
 
