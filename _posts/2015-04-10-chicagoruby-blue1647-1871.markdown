@@ -14,6 +14,7 @@ categories: [ Community ]
 If you’re a developer itchin’ to ramp up your Ruby skills, Chicago is a great place to be. The local Ruby user group, [ChicagoRuby](http://www.chicagoruby.org), continues to expand in time, space, expertise, and numbers. The group is over 3,200 strong, with six events each month _plus_ the annual [WindyCityRails](http://windycityrails.org) conference. 
 
 The newest locations on ChicagoRuby's monthly list are BLUE1647 and 1871.
+
 <!--more-->
 
 ### ChicagoRuby: BLUE1647
