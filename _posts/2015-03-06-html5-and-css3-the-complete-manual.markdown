@@ -12,7 +12,9 @@ The biggest challenge for a software developer: Absorbing the latest knowledge w
 Fortunately, when it comes to HTML5 and CSS3, a UK-based publisher has released a just-the-facts guide that may help. At 127 pages, the entire publication (they call it a _bookazine_) can be devoured in a single day. Imagine Publishing's _HTML5 & CSS3: The Complete Manual_ is well worth the time investment.
 
 _Note: A version of this article also appears in the [Book Reviews section of ChicagoRuby.org](http://www.chicagoruby.org/book-reviews/archives/2015/03/06/html5-css3-the-complete-manual/)_.
+
 <!--more-->
+
 ### This Book's Best Feature
 One thing I like about this book: Nothing is assumed. All explanations are clearly presented from square one. The introduction even defines the terms _hypertext_ and _responsive design_ in words that could easily be hijacked for your next presentation to non-technical management.
 
