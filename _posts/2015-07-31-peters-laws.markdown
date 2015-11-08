@@ -11,7 +11,9 @@ The Laws:
 
 <ol start="1">
 <li>If anything can go wrong, Fix It!  (To hell with Murphy!)</li>
+
 <!--more-->
+
 <li>When given a choice-Take Both!</li>
 <li>Multiple projects lead to multiple successes.</li>
 <li>Start at the top then work your way up.</li>
