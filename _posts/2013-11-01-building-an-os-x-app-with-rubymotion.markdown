@@ -15,7 +15,9 @@ No matter how much money we spend on computers, the data we create is worth more
 My backup system starts with Apple's [Time Machine](http://www.apple.com/findouthow/mac/#timemachinebasics), which handles first level backups painlessly in the background. Time machine is even more effective when multiple disks are used. I like to combine that with online solutions. Redundancy is a good thing.
 
 USB-attached drives work great with Time Machine. I found that Time Machine was inconsistent over WiFi, and when it failed, troubleshooting took too much time. That was a few years ago and things have probably improved since then. I've never had to troubleshoot a USB-attached Time Machine drive. USB just works. Except when it doesn't. And that's where RubyMotion proved helpful.
+
 <!--more-->
+
 ###Disconnecting USB in a Hurry
 My only problem with USB-attached drives comes when I need to leave my desk in a hurry. You may have seen this message before:
 

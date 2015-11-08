@@ -8,7 +8,9 @@ categories: [Business, Education]
 From a video interview with Steve Jobs:
 >When you grow up you tend to get told that the world is the way it is, and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life. Have fun. Save a little money.
 
->That's a very limited life. Life can be much broader once you discover one simple fact.<!--more--> 
+>That's a very limited life. Life can be much broader once you discover one simple fact.
+
+<!--more--> 
 
 >Everything around you that you call life was made up by people who are no smarter than you. And you can change it. You can influence it. You can build your own things that other people can use.
 

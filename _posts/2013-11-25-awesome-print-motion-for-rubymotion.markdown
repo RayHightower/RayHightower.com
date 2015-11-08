@@ -36,7 +36,9 @@ UIView(#9d820c0)]
 ```
 
 This blob of text is difficult for the human brain to parse. Now, let's try it with the `awesome_print_motion` gem.
+
 <!--more-->
+
 ```ruby
 (UIView(#9d820c0, [[0.0, 0.0], ...)> ap(self.subviews)
 [

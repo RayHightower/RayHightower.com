@@ -8,7 +8,9 @@ categories: [Education, Vim]
 While finishing my presentation for the upcoming [Chippewa Valley Code Camp](http://chippewavalleycodecamp.com/), I decided to add some blocks of code to my slides. I forgot the name of the tool I used for my last slide deck, and it took several minutes of Google-fu to find it. 
 
 Google led me back to `:TOhtml`. Whew! I'm documenting `:TOhtml` here to avoid wasting time with a future search.
+
 <!--more-->
+
 ###Start With a Block of Code
 Fire up Vim and drop the block of code you want to convert into a new Vim buffer. In this example, I've created a sample [RubyMotion](/blog/2012/10/29/building-ios-apps-with-ruby-motion/) OS X app, and I want to show the contents of the Rakefile.
 

@@ -13,7 +13,9 @@ Long-time Mac enthusiasts may already know how to do this. The information is in
 
 ###Find, Drag, and Drop
 First thing to note: A Mac app named [random-app].app is actually a directory, even though it appears to be a file when viewed in the `Applications` folder. If you're curious, right-click on any app in the `Applications` folder and choose `Show Package Contents` from the speed menu.
+
 <!--more-->
+
 After compilation, RubyMotion puts all of the executables in the app's `build/` directory. Using Finder, drag the folder named `[your-app-name].app` into the `Applications` folder.
 
 Or, if you prefer the command line…

@@ -12,6 +12,7 @@ Planet Earth is facing a shortage of people who make things. People like scienti
 To increase the world's supply of problem solvers, the organizers of [WindyCityRails](http://windycityrails.org) partnered with a group of energetic college students, the founders of [Monkey Bars](http://hackthemonkey.com). The result: Together, we launched the first WindyCityRails Youth Program featuring the Arduino microcontroller.
 
 <!--more-->
+
 ###Video Summary
 Here's the launch video:
 

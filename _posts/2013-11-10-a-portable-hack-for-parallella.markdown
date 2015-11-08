@@ -12,6 +12,7 @@ categories: [BeagleBone Black, Education, High Performance Computing, Parallella
 
 ###Inspiration in a Suitcase
 The HP 5036 Microprocessor Lab gave me my first exposure to assembler language. I was eighteen, working my first software internship, and loving every minute of it. When I devised ways to complete my _regular work_ faster than management expected, I had some time on my hands. So I spent time learning assembler with the HP 5036.
+
 <!--more-->
 
 {% include image.html img="/images/hp-5036.png" caption="HP 5036 Microprocessor Lab" %} 
