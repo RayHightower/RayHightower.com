@@ -12,7 +12,9 @@ My primary code-writing tools are:
 * [Vim](http://code.google.com/p/macvim/) for Ruby, [RubyMotion](/blog/2012/10/29/building-ios-apps-with-ruby-motion/), and everything else.
 
 Here are my reasons for using Vim, in priority order: 
+
 <!--more-->
+
 1. Vim is everywhere. I can find Vim on any &#39;nix-based machine: Unix, Linux, or OSX. I spend most of my time on OSX and the Ubuntu distribution of Linux. When I started experimenting with [Raspberry Pi](/blog/2012/12/03/ruby-on-raspberry-pi/), it was pleasant to know that Vim was already there. Having a common editor on multiple platforms makes it easier to bounce between them.
 
 2. Vim has history. I tried TextMate when I first heard about Ruby. Questions about TextMate's future caused me to look for an alternative. Vim's 20-year history and the [Vim community](http://www.vim.org/community.php) convinced me that the editor would be available for many years to come.
