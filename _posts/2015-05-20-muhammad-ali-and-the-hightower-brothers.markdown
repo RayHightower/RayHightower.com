@@ -10,7 +10,9 @@ categories: [ Business ]
 These photos were taken in 1972 or '73 with an old Polaroid camera. During a family road trip, my parents arranged a visit to [Muhammad Ali](http://muhammadali.com/)’s training camp in Deer Lake, Pennsylvania. Dad was a big boxing fan. Mom... tolerated the three males in our household.
 
 How fast was Ali in his prime? Very fast. One photo shows him evading a punch from my brother, Edward, who was about seven at the time. I distracted the Champ with a handshake. Hightowers always work together.
+
 <!--more-->
+
 Our family didn’t receive any special treatment from the Champ. As I recall (through the eyes of my eight-year-old self) Ali interacted with everyone in the training camp that day. And I hear that he enjoys people just as much today.
 
 There are many reasons to admire Ali. Among them are his discipline, courage, and effective marketing.
