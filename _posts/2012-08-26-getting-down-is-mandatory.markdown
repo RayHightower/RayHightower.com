@@ -10,30 +10,31 @@ categories: [Business]
 
 [Charlie Rose](http://www.charlierose.com/) is an amazing journalist. His interviews are eclectic and rich. During his interview with mountain climber Ed Viesturs, I was struck by the parallels between mountain climbing and business achievement.
 
-####Managing Risk, Ignoring Critics
+### Managing Risk, Ignoring Critics
 “People say that I’m a very conservative and cautious climber,” says Viesturs. “It’s true, and I’m happy about that because it’s a risky arena and it’s about managing the risk and being smart and being patient. The people who criticize me have no idea what they’re talking about. They’ve never climbed an 8,000-foot peak. So they’re either jealous or bored. My goal is to be alive. And I don’t care about critics.”
 
 _Business Parallel:_ Our most successful entrepreneurs press onward in the face of criticism.
 
 <!-- more -->
-####Life and Death, Navigating Change
+
+### Life and Death, Navigating Change
 Climbers operate in an environment where sound preparation and conditioning makes the difference between life and death. True, some unprepared climbers find that they must simply turn around and go back home. On one peak in the Himalayas, [Annaperna](http://en.wikipedia.org/wiki/Annapurna), one out of every two climbers dies while attempting the climb.
 
 Changes in snow conditions and weather are the biggest threats to success. A climber must be very aware of the deadly combination of heavy snow and strong wind: Avalanche conditions. With the right combination of heavy snow and strong wind, a climber moving about in the wrong spot (or any spot) can trigger an avalanche.
 
 _Business Parallel:_ Changes in business climate can make the difference between massive success and crushing defeat. It all depends on how well you respond to (or even better, anticipate) change.
 
-####Getting Down is Mandatory
+### Getting Down is Mandatory
 Along the pathway to success, Viesturs has tasted bitter setbacks. During a climb of Mount Everest, he and his team were 300 feet from the summit. And then he noticed a change in the weather. Conditions were ripe for a potential avalanche. He realized that if the team pressed on to the top of the mountain, they wouldn’t have time to make it down. His trademark phrase came from this experience: “Getting to the summit is optional, getting down is mandatory. It has to be a round trip.” Viesturs and team turned around and they went back home. And they lived to scale Everest another day.
 
 _Business Parallel:_ One doesn’t have to bet the company on every new business initiative. Testing takes time, but the wisdom absorbed from test results can increase the odds of success.
 
-####Having the Right Goals
+### Having the Right Goals
 It’s good to be aggressive about achieving goals. But sometimes we need to shift our goals backwards in favor of human compassion. Viesturs and Rose recounted a story about a climber who lay injured along the pathway toward a mountain peak. Over forty (40) climbers passed the injured climber without offering assistance. Each felt that the climber was so badly injured that he was going to die anyway. Besides, they had goals to achieve.
 
 _Business Parallel:_ If you’re a successful entrepreneur and you’re rolling in dough, when was the last time you spent time teaching our youth how to follow in your footsteps?
 
-####Why Climbing Fascinates Us
+### Why Climbing Fascinates Us
 Toward the end of the interview, Rose asks, "What is it about mountain climbing that captures our imagination?"
 
 Viesturs’ response:
