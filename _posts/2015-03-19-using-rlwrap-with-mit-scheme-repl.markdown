@@ -11,7 +11,9 @@ Users of the Linux or OS X command line know that they can hit the up arrow to v
 For example, hitting the up arrow in the Scheme REPL gives us this non-useful result: `^[[A`. The previous command is not repeated.
 
 How do we add up-arrow functionality to the `mit-scheme` REPL? By using `rlwrap`.
+
 <!--more-->
+
 ### Installing rlwrap
 On Mac OS X with [Homebrew](/blog/2014/02/12/homebrew-fundamentals/), first update Homebrew with `$ brew update`.
 
