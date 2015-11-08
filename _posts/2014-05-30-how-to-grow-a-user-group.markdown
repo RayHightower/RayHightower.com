@@ -10,6 +10,7 @@ The current team of [ChicagoRuby](http://chicagoruby.org) organizers assumed lea
 Today, the _new crew_ has grown ChicagoRuby to over 2,700 members. The group hosts three meetups every month, and the downtown meetings consistently max out the 100-person RSVP limit. Bonus: ChicagoRuby hosts two conferences, [WindyCityRails](http://windycityrails.org) in Chicago and [RubyCaribe](http://rubycaribe.com) on the Caribbean island of Barbados.
 
 How does ChicagoRuby do it? Through consistency, teamwork, iteration, and learning from mistakes.
+
 <!--more-->
 
 ###Be Consistent With Meetings

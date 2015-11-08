@@ -12,7 +12,9 @@ Dotfiles, the configuration files used by Unix-like machines, can become disorga
 * Use Git to manage the `~/.dotfiles` directory, and share it on GitHub.
 
 Dotfiles are normally hidden when you try to view them in the Mac OS X Finder. To view them from the command prompt, use `$ ls -al`.
+
 <!--more-->
+
 ```bash
 ~/.dotfiles[master]$ ls -al
 total 40

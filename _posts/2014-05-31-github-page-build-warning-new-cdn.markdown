@@ -8,7 +8,9 @@ categories: [ Git ]
 The `RayHightower.com` blog is built on [Octopress](http://octopress.org/) and hosted on [GitHub Pages](https://pages.github.com/). Recently, after I deployed a site update, GitHub emailed me a `Page build warning` message. Since this was _just a warning_, I ignored it while I attacked more pressing tasks (not always a good idea).
 
 Today I finally took the time to research the topic so I could figure out what to do next. This article is the result of that research.
+
 <!--more-->
+
 ##What the Message Means
 Here are the important points of the of the `Page build warning` message:
 

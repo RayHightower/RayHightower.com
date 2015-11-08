@@ -15,7 +15,9 @@ David Lang is a maker. After a stint with a struggling Silicon Valley startup, D
 The book starts off like a novel, with the exploration of the mysterious Hall City Cave and an 1840s-era gold robbery. Fast-forward to the present day where a multi-disciplinary team of makers joins forces to create an inexpensive vehicle for underwater exploration.
 
 The author was not a born maker. But through force of will, discipline, and the right mentorship, he grew from non-maker to co-founder of the OpenROV company in roughly one year. 
+
 <!--more-->
+
 ###Making is a Team Sport 
 _Zero to Maker_ will not teach you how to use tools, what to make, or what manuals to read. But it will put you on the path to learning. For example, the author shares his first experience at a [Maker Faire](http://makerfaire.com/), a gathering for people who make things. Many of the exhibitors have spent decades honing their skills, while some are brand new and full of enthusiasm. Everyone shares knowledge in the Maker community. And as a result, everyone grows.
 

@@ -12,6 +12,8 @@ categories: [ Arduino, BeagleBone Black, Community, IoT, Linux, OpenROV ]
 
 [OpenROV](http://openrov.com) is an underwater robot, roughly the size of a toaster, and definitely not human-shaped. The device is controlled through a Node.js-based web app. Former NASA researcher Eric Stackpole and Make Magazine columnist David Lang are on a mission to democratize ocean exploration in the same way that Jobs and Woz sparked the democratization of  computing. Eric and David pooled their talents to launch OpenROV, building on the foundation laid by Moore’s Law and the open source software movement. 
 
+<!--more-->
+
 OpenROV's ingredients are an impressive mix of open source goodness...
 
 {% include image.html img="/images/BeagleBoneBlack_Linux_Nodejs.jpg" caption="BeagleBone Black running Linux & Node.js." %}

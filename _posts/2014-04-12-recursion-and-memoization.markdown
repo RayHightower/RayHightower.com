@@ -12,7 +12,9 @@ categories: [ Education, Ruby ]
 Recursion is available in many high-level languages, including Ruby. Recursive solutions can be joyfully elegant. At the same time, the pursuit of elegance can lead to unexpected performance pitfalls.
 
 Fortunately, we can use optimization techniques to address performance problems before they occur. Memoization is one technique in our arsenal.
+
 <!--more-->
+
 ###Before Memoization
 Memoization was designed to solve a particular kind of problem. Consider a method called `fibo(n)` that calculates the _nth_ number of the [Fibonacci](http://en.wikipedia.org/wiki/Fibonacci_number) sequence.
 

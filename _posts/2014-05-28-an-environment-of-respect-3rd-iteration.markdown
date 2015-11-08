@@ -6,7 +6,9 @@ comments: true
 categories: [ Community ]
 ---
 Last week, [Coraline Ehmke](https://twitter.com/bantik) and [Liz Abinante](https://twitter.com/feministy) met with three members of the WindyCityRails organizer team: [Kevin Zolkiewicz](https://twitter.com/zolk), [Alonda McCree](https://twitter.com/themccreefiles), and me. Good dialog. End result: The updated [WindyCityRails Code of Conduct](http://www.windycityrails.org/code-of-conduct/).
+
 <!--more-->
+
 Harassment is a serious issue, and a 140-character tweet will not do the discussion justice. Therefore, the ChicagoRuby organizers have created multiple communication channels for this issue:
 
 

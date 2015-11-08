@@ -10,7 +10,9 @@ categories: [ Rails, Ruby ]
 [Ninefold](https://ninefold.com/) is a Rails hosting platform based in Australia. The company is backed by [Maquarie Telcom](http://www.macquarietelecom.com/).
 
 I first met the Ninefold team at RailsConf 2014 in Chicago. I'm in San Francisco this week for RubyMotion #Inspect and related events, so I took the time to stop by their San Francisco office. Now it's time to take the service for a spin.
+
 <!--more-->
+
 These experiments were conducted with Ruby 2.1.1 and Rails 4.0.4. Destructive testing has always been my best instructor, so I used [RVM](/blog/2013/05/16/upgrading-ruby-with-rvm/) to create a special gemset for Ninefold experiments.
 
 ```bash
