@@ -15,7 +15,9 @@ categories: [ Business ]
 [Berkshire Hathaway](http://berkshirehathaway.com) held its 50th annual shareholder meeting on May 2, 2015. The company is a lesson in successful capitalism. Chairman Warren Buffett and vice chairman Charlie Munger have built the most successful investment partnership in human history. The list of wholly-owned Berkshire subsidiaries includes GEICO, Fruit of the Loom, Brooks Shoes, and See's Candies. The company also owns large percentages of Coca Cola (9.16%), American Express (14.9%), IBM (7.82%), and Wells Fargo (9.01%).
 
 Over 40,000 shareholders attended Saturday's annual meeting. What draws so many shareholders to Omaha every year? The opportunity to learn.
+
 <!--more-->
+
 ### The Meeting, In a Nutshell
 The formal shareholders meeting only lasts fifteen minutes, from 3:30pm to 3:45pm. For the rest of the day (excluding an hour for lunch) Buffett (age 84) and Munger (age 91) answer questions from journalists, financial analysts, and randomly selected members of the audience. 
 
