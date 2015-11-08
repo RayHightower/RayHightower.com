@@ -11,7 +11,9 @@ categories: [ Community, Functional Programming ]
 Working in software development is like being the proverbial kid in candy store. Every new language is a shiny and delicious thing. [Lambda Jam](http://lambdajam.com) (which bounces between Chicago and Melbourne) is a traveling candy store. And, like the kid in the candy store, I am sometimes distracted by tangential temptation.
 
 Most of my time is spent running [WisdomGroup](http://wisdomgroup.com), where we focus on Ruby and Swift. We're object-oriented all the way. Given that, why would I want to attend a functional programming conference like Lambda Jam? For the brain-stretching experience. If your background is anything like mine, you might enjoy it, too. Here’s why.
+
 <!--more-->
+
 ### Motivation: Parallelism and Concurrency
 One immediate reason to explore FP: The impending end of Moore's Law.  For over half a century we've taken it for granted that we could double the number of transistors on a wafer every 18 months or so. But the laws of physics are catching up to us, and now we need to create new ways to boost computer performance. Two potential performance boosters: Parallelism and concurrency.
 
