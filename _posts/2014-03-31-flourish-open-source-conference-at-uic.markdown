@@ -8,7 +8,9 @@ categories: [ Community, Education ]
 [Flourish](http://flourishconf.com) is an open source conference to be held at the University of Illinois at Chicago on Saturday, April 5, 2014. The conference is run by university students and tickets are free.
 
 Why go to Flourish? Because...
+
 <!--more-->
+
 * You like open source.
 * You want to know more about open source.
 * You want to meet people who are passionate about open source.
