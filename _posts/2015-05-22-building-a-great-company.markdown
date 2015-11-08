@@ -10,7 +10,9 @@ categories: [ Business ]
 Good is the enemy of great. If a company faces dire circumstances, managers must change because the alternative is death. But if circumstances are good (or even _okay_) managers can coast along indefinitely. A good company can be lulled into a state of complacency instead of achieving greatness.
 
 So how does a good company become great?
+
 <!--more-->
+
 ### Greatness Defined
 {% include image.html img="/images/good_to_great.jpg" %}
 A team led by author [Jim Collins](http://www.jimcollins.com/) spent five years examining publicly traded companies to determine why some companies make the leap to greatness while others remain simply good. Collins and his team published their findings in the book [Good to Great](http://www.amazon.com/Good-Great-Social-Sectors-Monograph-ebook/dp/B0058DRTGC/).
