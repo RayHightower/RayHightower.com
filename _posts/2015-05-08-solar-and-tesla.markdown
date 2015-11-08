@@ -10,6 +10,7 @@ categories: [ Business, Solar ]
 >~Elon Musk
 
 Elon Musk shared some interesting thoughts during the April 30th announcement for [Tesla Energy](http://www.teslamotors.com/powerwall). Two charts stood out in particular.
+
 <!--more-->
 
 ### Solar Panels Required
