@@ -25,7 +25,9 @@ $
 ```
 
 What unknown language? Something was fishy. Fortunately, `pygments` is an open source plugin. Solving the problem was non-trivial, but doable.
+
 <!--more-->
+
 ###Exploring Pygments Internals
 Google, Stack Overflow, and the Octopress documentation gave clues on where to explore. Adding a few lines to `source/plugins/pygments_code.rb` provided insights on what `pygments` was "thinking".
 

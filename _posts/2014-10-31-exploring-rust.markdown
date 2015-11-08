@@ -15,7 +15,9 @@ categories: [ Other Languages ]
 
 ###Why Rust?
 Rust is ...
+
 <!--more-->
+
 ###Current Environment
 All of the steps in this article were performed on a MacBook Pro running OS X Yosemite (10.10).
 

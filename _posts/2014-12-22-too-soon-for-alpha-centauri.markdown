@@ -8,7 +8,9 @@ categories: [ Community ]
 Bad news&#58; I have decided to cancel [RubyCaribe](http://rubycaribe.com) for 2015. Ticket sales are insufficient to cover the cost of the event. ~~Every person who bought a ticket will receive a full refund.~~ All tickets sales have been refunded.
 
 Barbados is a beautiful island nation with welcoming people, a university that leads in multiple technical areas, and a thriving economy. The RubyCaribe (pronounced ka-REEB) organizers will make the event happen in some form at some point in the future. Just not now.
+
 <!--more--> 
+
 ###Alpha Centauri
 NASA has launched successful missions to the Moon, Mars, and other bodies in our solar system. NASA would like to visit Alpha Centauri, 4.4 light years away. But they will only launch an Alpha Centauri mission after key prerequisites (maybe the theoretical [Alcubierre drive](http://en.wikipedia.org/wiki/Alcubierre_drive)) are in place.
 

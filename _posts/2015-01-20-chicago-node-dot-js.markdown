@@ -13,6 +13,7 @@ The [Chicago Node.js](http://www.meetup.com/Chicago-Nodejs/events/203711262/) us
 Every version of this talk is tailored to the audience. This version focuses on OpenROV hardware components since this group certainly knows Node.js. Information has been added on hardware gotchas and tether management.
 
 Thank you Chicago Node.js organizers and members for having me.
+
 <!--more-->
 
 <center><script async class="speakerdeck-embed" data-id="b51c86f083270132a7cc1ade27531f87" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>

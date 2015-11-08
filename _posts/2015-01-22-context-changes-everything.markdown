@@ -12,7 +12,9 @@ A few hours ago, Google sent me a reminder about today's [LinuxBarbados](http://
 {% include image.html img="/images/GH_time_zone_arrow.png" caption="What time is it when the time zone is unknown?" %}
 
 Google's automated reminder said `3pm - 4pm` with no time zone reference. How confusing! Members of the group received the same automated reminder with the same information, regardless of time zone. A small change, displaying the time as `3pm - 4pm (CST)` would solve the problem.
+
 <!--more-->
+
 ### Other Context Examples
 When people speak with each other directly, context is implied. But when communication happens in printed form, it's helpful to have the context in print, too. For example:
 

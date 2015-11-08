@@ -10,7 +10,9 @@ Google Search stopped working on [RayHightower.com](), so it was necessary to fi
 
 ###Why Lunr.js?
 I don’t want to be dependent on a third party search tool any more. Any time the third party provider choose to change their API, search breaks on my site. But with my own tool, I control what gets upgraded and when. Things work more smoothly that way.
+
 <!--more-->
+
 ###Getting Started
 
 

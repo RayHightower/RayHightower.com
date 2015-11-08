@@ -10,7 +10,9 @@ It is always good to start the new year with something inspirational. [Technicon
 <center><iframe name="windowlessjet" src="//player.vimeo.com/video/78458486" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 How can a plane with no windows offer better views for passengers?
+
 <!--more-->
+
 ###Windows vs Fuselage Strength
 When we add a window to the fuselage of an airplane, we reduce the strength of the fuselage. Glass is weaker than aluminum. So aircraft engineers need to make up for the lost strength. The engineers might add a support structure, thicken the aluminum, or try a different alloy.
 
