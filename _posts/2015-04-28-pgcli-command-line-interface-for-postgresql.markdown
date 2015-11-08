@@ -14,7 +14,9 @@ Debugging is a fact of life when building apps with Rails or any other set of to
 * Syntax highlighting. Find gotchas quicker, just like you would in a text editor.
 
 Debugging is easier when you can look inside the black box.
+
 <!--more-->
+
 ### Installation
 To install `pgcli` on Mac OS X, use [Homebrew](/blog/2014/02/12/homebrew-fundamentals/):
 
