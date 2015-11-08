@@ -13,7 +13,8 @@ WisdomGroup is a member of the Leap Motion Developer Program. Check out this 1-m
 <center><iframe name="leapmotion" width="560" height="315" src="http://www.youtube.com/embed/_d6KuiuteIA?rel=0" frameborder="0" allowfullscreen></iframe></center>
 
 <!--more-->
-#### Why Leap Motion?
+
+### Why Leap Motion?
 Computers became easier to use when the mouse grew popular in the 1980s. Touchscreens offer another solution for the interaction riddle. The Leap Motion controller looks like another solution. 
 
 It's still very early for Leap Motion. New applications will be born through this device. Stay tuned!
