@@ -19,7 +19,9 @@ Do you see yourself in any of these scenarios?
 * Software development is relatively new to you, and you built a successful track record in another profession. You want to meet people who can help you accelerate through the beginner phase so you can launch something useful.
 
 Common thread: It's time to unleash the awesomeness in your bones. You want to take your skills to the next level, and you are ready to tackle _Big League Problems_. [WindyCityRails](http://windycityrails.org) is for you.
+
 <!--more-->
+
 ###What are Big League Problems?
 You might think of a big league problem as a good problem. For example, the Rails app you built is pulling in customers, and you're bumping into the limits of your software architecture. Who knew that so many people would buy from you? 
 

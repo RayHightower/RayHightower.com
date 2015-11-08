@@ -10,7 +10,9 @@ categories: [ BeagleBone Black, IoT, OpenROV ]
 
 ###ESCs: New Experience for Me
 Electronic speed controllers (ESCs) were completely new to me when I first assembled my [OpenROV](/blog/2014/06/16/citizen-science-with-openrov/). This article documents my initial misunderstanding (and eventual understanding) of ESCs so that future builders can move forward with fewer glitches.
+
 <!--more-->
+
 The photo at the top of this page shows an OpenROV controller board, a
 BeagleBone Black, and three ESCs. This article will focus on the ESCs.
 

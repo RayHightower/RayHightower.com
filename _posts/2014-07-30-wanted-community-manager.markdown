@@ -16,7 +16,9 @@ Our community philosophy:
 >When smart people challenge each other to grow, great things happen. 
 
 Our community track record is  covered in the article [How to Grow a User Group](/blog/2014/05/30/how-to-grow-a-user-group/).
+
 <!--more-->
+
 ###Responsibilities
 The CM will be responsible for the following:
 

@@ -18,7 +18,9 @@ Software image updates on the Beaglebone Black work flawlessly thanks to scripts
 What about the motors? The motors work, almost. Could it be the
 electronic speed control (ESC) settings, calibration, or less than
 perfect soldering? That's where I need help.
+
 <!--more-->
+
 ###Summary of Symptoms
 With the cockpit software running and attached to the OpenROV:
 

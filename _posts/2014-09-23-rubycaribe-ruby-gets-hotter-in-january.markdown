@@ -13,7 +13,9 @@ Intermediate and advanced software developers will find RubyCaribe valuable beca
 
 * Each RubyCaribe session features a 30- to 45-minute presentation followed by a *2-hour deep-dive lab*. Learning is reinforced throughout.
 * The venue, [Hilton Barbados Resort](http://www.hiltonbarbadosresort.com/), sits right on the ocean. Need a stretch break? Take a walk on the beach!
+
 <!--more-->
+
 ###Ramp Up Your Ruby Skills
 Each RubyCaribe lab will be led by experts in machine learning, mobile app development (iOS and Android), web development, and functional programming. The inventor of [RubyMotion](http://rubymotion.com), [Laurent Sansonetti](https://twitter.com/lrz), will lead the RubyMotion lab. If you already have experience with Ruby or Rails, RubyCaribe will take your skills to the next level.
 

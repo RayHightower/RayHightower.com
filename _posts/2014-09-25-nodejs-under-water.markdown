@@ -7,6 +7,8 @@ categories: [ Node, OpenROV ]
 ---
 The [New York City Node JS Meetup](http://www.meetup.com/nodejs/events/206159562) asked me to speak about [OpenROV](http://rayhightower.com/blog/2014/06/16/citizen-science-with-openrov/) Wednesday evening. About eighty developers came out for the meeting. Thank you [Shutterstock](http://shutterstock.com), [Matt Walters](https://twitter.com/mateodelnorte), and all of the organizers for making it happen. 
 
+<!--more-->
+
 ### Presentation Video
 
 The following video is a rough draft, useful if you want to hear the dialog that went along with the slides. Lots of good questions from the audience. 
