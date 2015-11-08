@@ -6,7 +6,9 @@ comments: true
 categories: [ Community ]
 ---
 If you have ever attended [WindyCityRails](http://windycityrails.org): Thank you for helping to make the event more exciting every year. Organizers strive to give developers actionable technical information in a conference format. So far, it's working!
+
 <!--more-->
+
 2015 marks our first year with a pre-conference survey. Length: Four questions. Answer as many as you like via the quick [online form](https://www.surveymonkey.com/r/XHF85YN).
 
 1. What web-related technologies are you most excited about this year?
