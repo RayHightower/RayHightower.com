@@ -15,3 +15,4 @@ Learn more at...
 * [SpeakerDeck](http://speakerdeck.com/rayhightower)
 * [Twitter](http://twitter.com/rayhightower)
 * [YouTube](http://youtube.com/wisdomgroupvideo)
+* [RSS Feed](/atom.xml)
