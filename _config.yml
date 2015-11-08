@@ -34,6 +34,9 @@ google_analytics_tracking_id: UA-330946-28
 twitter_user:
 twitter_tweet_button: true
   
+gems:
+  - jekyll-feed
+
 feed:
   path: atom.xml
 
