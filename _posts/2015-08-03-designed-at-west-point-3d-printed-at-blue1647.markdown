@@ -10,7 +10,9 @@ categories: [ IoT, Parallella ]
 Experimenting with [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/)? Then you might need a way to protect it. The original acrylic cases are no longer available. Fortunately, 3D printing offers a solid alternative.
 
 A highly-expandable 3D-printable case was designed by a team at the [United States Military Academy at West Point](http://westpoint.edu): Professor Suzanne J. Matthews and Master Machinist William (“Frank”) Blackmon. [Professor Matthews](http://www.suzannejmatthews.com/teaching.html) uses Parallella when teaching high-performance computing courses.
+
 <!--more-->
+
 ### Simple, Expandable Design
 The West Point case only has three parts! You combine the three parts at will to accommodate multiple Parallella cluster configurations. 
 
