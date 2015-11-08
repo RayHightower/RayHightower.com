@@ -12,7 +12,9 @@ published: true
 The [Raspberry Pi Foundation](http://www.raspberrypi.org/) has upped their entry in the single-board computer competition. Raspberry Pi 2 Model B boasts a quad core ARM CPU and 1GB of RAM. More important: Benchmarks show that the board is 6x faster than the previous model. And the performance bump has been achieved while the price remains low: Roughly $45.
 
 Getting the board up and running is easier, too. You can buy a pre-built Linux image on micro SD. Or you can [download the New Out Of the Box (NOOBS) image](http://www.raspberrypi.org/downloads/) yourself. Depending on the speed of your internet connection, you can be up in running in less than an hour.
+
 <!--more-->
+
 ### Easier Than Before
 Special note about the NOOBS image: You don't need a special utility to burn an SD card like before. The steps are:
 
