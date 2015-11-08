@@ -13,7 +13,9 @@ Veteran developer [Dave Astels](http://twitter.com/dastels) is leading a [Struct
 MIT makes the [entire text of SICP](http://mitpress.mit.edu/sicp/) available online for free. Or you can buy a paper version of the book at Amazon.
 
 Thank you [Brad’s Deals](http://www.bradsdeals.com/) and [Ken Walters](https://twitter.com/lostghost) for hosting the SICP group.
+
 <!--more-->
+
 ### Installing Scheme on Mac OS X
 Examples and exercises in SICP are written in Scheme, a dialect of the LISP programming language. As of this writing, installing `mit-scheme` via Homebrew _did not work for me_.
 
