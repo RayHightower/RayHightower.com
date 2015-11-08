@@ -12,9 +12,11 @@ categories: [ High Performance Computing, Parallella ]
 You can participate even if you’re not in Tokyo. Parallella owners around the world will connect their boards via the Internet to create the most efficient supercomputer on the planet. [Resin.io](http://resin.io/) has built a special micro-SD-card image (using [Docker](https://www.docker.com/)) so adding your Parallella to the mix is relatively quick. 
 
 This article includes detailed steps plus a few _gotchas_.
+
 <!--more-->
 
 ### First: Why?
+
 Some problems are too thorny for a typical computer to solve in a reasonable amount of time. Supercomputers might solve these problems quicker, but they cost _millions of dollars_. Solution: Link a bunch of $100, 18-core Parallella computers together via the Internet to amplify our compute power while saving money. This shared computing technique has worked in the past:
 
 * Through [Stanford Folding@home](https://folding.stanford.edu/), computer owners around the world are using excess CPU cycles to search for cures for diseases like Alzheimer’s, Huntington’s, and Parkinson's.
@@ -24,6 +26,7 @@ Some problems are too thorny for a typical computer to solve in a reasonable amo
 The benefits are clear. Let's get started.
 
 ### Materials Required
+
 {% include image.html img="/images/supercomputer-dot-io-logo.png" caption="Resin.io & Parallella" %}
 Here's what you need to participate:
 
@@ -34,11 +37,13 @@ Here's what you need to participate:
 This procedure is has been tested on Mac OS X Yosemite (10.10.3). Linux instructions are probably similar.
 
 ### _Gotcha:_ Headless Parallella
+
 Something that tripped me up until I learned more: A Parallella configured for Supercomputer.io will run headless. _There will be no HDMI output._ When my HDMI monitor showed `No Signal`, I thought that I had broken something. No worries. This is just a headless system.
 
 I don't know if that will change.
 
 ### Download the Image
+
 [Download the Resin.io image](http://supercomputer.io/) from the Supercomputer.io site. [Resin.io](http://resin.io/) has created a special SD-card image (using Docker) for this project. As you can see below, I stored mine in a directory called `~/Downloads/Parallella$`.
 
 ``` bash
@@ -54,6 +59,7 @@ drwx---r-x+ 86 rth  staff        2924 May 26 11:00 ..
 ```
 
 ### Prep for Burning the SD Card
+
 {% include image.html img="/images/micro_sd_plus_adapter.jpg" caption="Micro SD card and adapter." %}
 Burning the SD card took about sixteen minutes (once I got the procedure right, as described below). Suggestion: Start the burn process, make sure it's progressing, and then go work on something else. A watched pot never boils.
 
@@ -79,6 +85,7 @@ Insert your SD card into your Mac's SD card reader, and use the Mac OS X `diskut
 From this `diskutil` report, we can see that we want to burn the SD image to `/dev/disk2`. The other device is the hard drive for my primary machine. Burning the wrong device will destroy data.
 
 ### Burning the Card, Skipping the _Gotcha_
+
 To burn the SD card...
 
 1. Change into the directory where you downloaded the `resin.io` image.
@@ -114,13 +121,16 @@ If you want to make sure that `dd` is running properly, use OS X's `Activity Mon
 * `bs=1m` specifies the block size used for the destination file. 1 megabyte worked well on my machine.
 
 ### About the New Resin.io Image
+
 {% include image.html img="/images/parallella_resin_image_files.png" caption="Image files." %}
 The new image will be called `boot-parall` as shown in the diagram.  Depending on your particular image, your list of files may be the same as mine.
 
 ### Boot Parallella with the Resin.io Image
+
 Once the micro-SD card has been burned, eject it from the Mac and insert it into the Parallella. Then apply power to the Parallella.
 
 ### Working Headless
+
 As mentioned above, a Parallella configured this way will run headless, without HDMI output. So, how do you know if the Resin.io image is working? 
 
 First, get a network scanner and use it to locate your Parallella on your local area network. I use an iPad app called [Fing](https://itunes.apple.com/us/app/fing-network-scanner/id430921107?mt=8), but any good network scanner will do. Your Parallella will appear as `parallella-hdmi-resin`, along with its corresponding IP and MAC addresses.
@@ -163,6 +173,7 @@ Request timeout for icmp_seq 2
 ```
 
 ### Connect to Supercomputer.io
+
 After you have successfully connected your Parallella to your LAN and the Internet, visit [http://supercomputer.io/#/devices/](http://supercomputer.io/#/devices/) from a computer other than your Parallella (because the Parallella is headless). This page will tell you when your Parallella has connected to the Supercomputer.io mothership. 
 
 To do this, you will need the media access control (MAC) address (also known as the hardware address) for your Parallella's network interface. I used my network scanning tool, Fing, to find the MAC address for the Parallella. You should be able to do the same with your network scanning tool.
@@ -178,6 +189,7 @@ It took about 30 minutes for Supercomputer.io to recognize my Parallella. The su
 {% include image.html img="/images/parallella_device_connected.png" caption="Parallella connected w/MAC address and city. Celebrate!" %}
 
 ### What's Next?
+
 I'm not sure what's next for Supercomputer.io and Parallella. I would imagine that `Status = idle` will be replaced by something more interesting, and `images processed` will eventually be greater than zero.
 
 Engineers at Parallella and Resin.io have done a great job so far. Now, since it's likely that they enjoy ideas from the peanut gallery, here are a few suggestions for them:
