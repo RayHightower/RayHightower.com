@@ -8,6 +8,7 @@ categories: [ Git ]
 [GitHub Pages](https://pages.github.com/) lets any holder of a GitHub account host static HTML pages at no cost. The bigger benefit: Pages hosted at GitHub automatically become part of GitHub’s [content delivery network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network). People who visit your site will get faster page loads because of the CDN.
 
 This article focuses on interacting with GitHub Pages via Git at the command line. The browser-based automatic page generator is already well-documented. Another purpose of this post: To put useful information about GitHub Pages all in one post, so I won't have to go hunting around next time I forget this procedure!
+
 <!--more-->
 
 ### Quick Start
