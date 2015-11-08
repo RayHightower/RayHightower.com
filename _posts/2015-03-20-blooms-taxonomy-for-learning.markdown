@@ -14,7 +14,9 @@ Bloom's Taxonomy is a framework that breaks the learning process into stages. Ac
 Most of my formal education was science or engineering oriented. I regarded science and engineering as the pinnacle of learning. The extreme position of my youth: All logic fell within math and science, while history, language arts, and other non-science areas were just memorization. 
 
 Bloom's research pushed me beyond my original thinking. Memorization and creativity are vital to all areas of knowledge. Here's how.
+
 <!--more-->
+
 ### Learning Only Starts With Memorization
 All learning, at the very beginning, is memorization. For example, when we first learn mathematics, we start by memorizing the counting numbers (1, 2, 3, ...) and we eventually figure out that we can't count to infinity. Later we learn the four basic math operations (addition, subtraction, multiplication, division) and we learn how to apply these operations to word problems. Fast forward a few years, and we learn to apply differential equations to a skydiver falling to earth via parachute. Or we may create a mathematical spreadsheet model to decide whether to invest in a business.
 
