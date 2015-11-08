@@ -11,7 +11,9 @@ Teenagers are a tough audience. If you have ever spoken to a youth group, you kn
 Boy Scout [Troop 534 "Hey!"](http://troop534.org) asked me to speak at the Troop’s annual reunion breakfast this year.  I approached them with three stories centered around the theme of _Specialized Knowledge and the Courage to Execute_. What a boring title! But the three stories appealed to the group. Here’s a summary of the first story:
 
 >A tractor maker takes drastic action when when Enzo Ferrari (creator of the Ferrari sports car) pisses him off.
+
 <!--more-->
+
 Here's the 11-minute video:
 
 <center><iframe width="560" height="315" src="//www.youtube.com/embed/tWdFhEI6JiM?rel=0" frameborder="0" allowfullscreen></iframe></center>

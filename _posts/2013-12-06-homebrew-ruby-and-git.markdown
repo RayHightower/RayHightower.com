@@ -26,7 +26,9 @@ To update Homebrew, run `brew update`.
 ```
 
 `$ brew doctor` has spoken. Time to update Homebrew.
+
 <!--more-->
+
 ###Homebrew First. Git Later.
 Updating Homebrew is as simple as `$ brew update`, right?
 
