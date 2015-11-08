@@ -8,7 +8,9 @@ categories: [ Business ]
 What can we build with disposable electronics? An ad in the January 2014 issue of [Wired Magazine](http://wired.com) lets the reader change the color of a Moto X smartphone by pressing a colored circle on the page. This 20-second video shows the ad in operation followed by a glimpse of the inner workings. 
 
 <center><iframe width="640" height="480" src="//www.youtube.com/embed/MkphhEu44sA?rel=0" frameborder="0" allowfullscreen></iframe></center>
+
 <!--more-->
+
 ###Inner Workings
 Taking the ad apart required one simple tool, a pair of scissors. Here's what's inside:
 

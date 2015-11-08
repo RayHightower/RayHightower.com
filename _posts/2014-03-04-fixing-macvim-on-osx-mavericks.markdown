@@ -14,7 +14,9 @@ Experience told me to delay upgrading to OS X Mavericks for as long as possible 
 ```
 
 The 'nix `which` command returned a null response when asked about MacVim. Not cool, Mavericks! 
+
 <!--more-->
+
 Fortunately, I’m running [Homebrew](/blog/2014/02/12/homebrew-fundamentals/). After the standard `brew doctor` and `brew update`, the following resolved the MacVim problem:
 
 

@@ -13,7 +13,9 @@ categories: [ Community, High Performance Computing ]
 But success in the computer industry is fleeting. A few years after Jurassic Park, a convergence of tech advances (Moore's Law, x86 architecture, and Linux) made it possible for commodity PCs to perform as well as SGI's premium workstations. Wall Street traders and other power users abandoned workstations in favor of Linux-based PCs. High-end makers like SGI fell on hard times.
 
 Today, SGI is fighting back. The company is blending x86, Linux, and (buzzword alert) big data to attack the high performance computing market. The vision was presented at this month's [Chicago ACM](http://www.meetup.com/chicagoacm/events/163287562/) meeting by Brian Freed, VP of Strategy for SGI.
+
 <!--more-->
+
 ###What is Big Data?
 Freed shared a definition of big data from [Edd Dumbill's O'Reilly Radar article](http://strata.oreilly.com/2012/01/what-is-big-data.html). Big data is characterized by volume (lots of it), variety (it's unstructured), and velocity (the data changes quickly).
 

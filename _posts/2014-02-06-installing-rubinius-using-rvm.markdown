@@ -9,7 +9,9 @@ categories: [ Ruby ]
 [Rubinius](http://rubini.us/) is an implementation of the Ruby language designed for concurrency. The lead developer of Rubinius, [Brian Shirai](http://twitter.com/brixen), will present Rubinius at ChicagoRuby on March 4, 2014. ChicagoRuby will follow-up with a Rubinius-themed hack night on March 12th. [Details](http://www.meetup.com/ChicagoRuby/events/114749352/).
 
 To prepare for the Rubinius events, some people may choose to install Rubinius locally. RVM makes the process smooth.
+
 <!--more-->
+
 ###RVM Recap
 [Ruby Version Manager (RVM)](http://rayhightower.com/blog/2013/05/16/upgrading-ruby-with-rvm/) is an awesome tool that enables developers to:
 

@@ -16,7 +16,9 @@ There may be some wordsmithing and typo-correction this week, but the final vers
 * Respect. Everybody is treated with respect. No threats are made.
 
 You have already read the most important part of this post. The rest tells how the code came to be.
+
 <!--more-->
+
 ###First Person Singular
 Normally, when discussing WindyCityRails and ChicagoRuby, I shine the light on the organizers as a team (we) rather than on myself. WindyCityRails is blessed with a great team of organizers. We pool our talents to get things done.
 

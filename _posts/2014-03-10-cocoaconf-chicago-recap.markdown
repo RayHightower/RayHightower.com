@@ -15,7 +15,9 @@ categories: [ Community, iOS ]
 Early adopters on Apple's Mac OS X and iOS platforms flock to [CocoaConf](http://cocoaconf.com/), a multi-city conference for developers. Tickets are slightly easier to get than [WWDC](http://en.wikipedia.org/wiki/Wwdc); CocoaConf consistently sells out. 
 
 CocoaConf's presenters are practicing developers, actively building real software every day. They come to CocoaConf to share their experiences in a wonderful upward-spiral of technical learning. Here are a few highlights from the latest CocoaConf, held March 7-8 near Chicago.
+
 <!--more-->
+
 ###Customers Will Pay for Services
 [Justin Williams](https://twitter.com/justin) kicked things off with a keynote titled _10 Things I Think I Think_. Williams recently acquired [Glassboard](http://glassboard.com/), so his developer skills are blended with the insights of a business owner. His list of ten included one approach to making money from mobile apps: Forget about selling a million copies in the App Store. Instead, create a service, charge a monthly fee for the service, and give the app away for free so customers can engage with the service. Engaged customers will continue to pay the monthly fee. When customers are served well, they will pay.
 

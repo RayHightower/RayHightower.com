@@ -16,7 +16,9 @@ The Chicago chapter of the Association for Computing Machinery ([Chicago ACM](ht
 
 ###10x => High Performance Computing
 Kalwani began his talk by drawing a distinction between _supercomputing_ and _high performance computing (HPC)_. Supercomputing is the buzzword that everyone knows, but the word implies that the designers are focused only on improving CPU performance. Such narrow focus could cause us to ignore important subsystems. For example, if engineers focus strictly on CPU performance, applications that are CPU-bound will quickly encounter I/O bottlenecks. High performance computing takes the entire system into account: CPU, I/O, cache, memory... anything that can influence performance. 
+
 <!--more-->
+
 This article will use the terms _supercomputing_ and _high performance computing_ interchangably because we are discussing the field in general. In an engineering document, the distinction would be more important.
 
 By definition, supercomputers perform at least ten times faster than the current state-of-the art. The definition is a moving target. The processor in today's smartphone would have been considered a high performance computer a decade ago.

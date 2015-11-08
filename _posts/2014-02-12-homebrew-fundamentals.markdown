@@ -19,7 +19,9 @@ Before package managers, developers who needed a particular library would have t
 * Resolve dependencies manually.
 
 Manually, manually, manually... The old way was long and error-prone. [Max Howell](https://twitter.com/mxcl) created Homebrew to download, compile, and resolve dependencies automatically. Now developers can focus more attention on solving problems that are directly related to their work.
+
 <!--more-->
+
 ###How to Install Homebrew
 
 {% include image.html img="/images/xcode-app-store.png" caption="Homebrew depends on Xcode." %}

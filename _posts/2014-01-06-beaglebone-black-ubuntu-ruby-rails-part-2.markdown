@@ -16,7 +16,9 @@ This post, part two, covers the installation of the Ubuntu GUI, Ruby, and Rails.
 
 ###Gotcha: Partition Size
 At the end of [part one](/blog/2014/01/02/beaglebone-black-ubuntu-part-1/), we successfully booted the Bone with the Ubuntu command line interface. Now it's time to add the GUI. Two things to know about the Ubuntu GUI installation...
+
 <!--more-->
+
 * The partition we created on the SD card (in part one) is too small to hold the Ubuntu GUI. Solution: The SD card has some extra room, and we can re-size the partition. 
 * We can install the Ubuntu GUI with a single line command. But it takes an hour for the Bone to download, compile, and install all of the GUI libraries.
 

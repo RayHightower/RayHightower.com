@@ -12,7 +12,9 @@ The frank and earnest exchange of ideas was educational. Some of the feedback wa
 However, I paid special attention to the negative feedback because it surprised me. Surprise happens when I face something that I do not understand. When I encounter something that I do not understand, there's an opportunity for learning.
 
 So I did what I always do when I need to learn more. I spoke with people who know more than me.
+
 <!--more-->
+
 ###Wise Counsel
 Several people in our industry were generous when I asked for advice. One technology veteran summed it up this way: 
 
