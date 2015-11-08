@@ -10,15 +10,17 @@ If you are fortunate enough to work in the technology industry, you do not need 
 
 Yes, you will have to define _it_ for yourself.
 
-####ChiPMA – Product Management
+### ChiPMA – Product Management
 A few years ago I had the pleasure of hearing [Suneel Gupta](http://www.youtube.com/watch?v=igsvMAU5POY) speak at a Chicago Product Management Association meeting hosted by Pathfinder Development. Three points raised during Gupta’s talk:
 
 * Conditions are never perfect. So start now.
 * What does _start_ mean? Figure that out, and draw out the plan.
 * If you suck at first, keep going.
 * Conditions are never perfect.
+
 <!-- more -->
-####Learning From History
+
+### Learning From History
 Gupta is a student of history. He began the talk by drawing parallels between today’s startup culture and the early days of powered flight.
 
 In the late 1800s, Samuel Pierpont Langley was an accomplished engineer with great connections to money and resources. One of his lifelong goals was to develop a vehicle for powered flight. He built several successful models, hired the smartest collaborators he could find, and he even raised $50k (in 1898 dollars) from investors. Newspaper reporters followed his entourage as they conducted experiments. Surely, this team of thoroughbreds would solve the flight puzzle.
@@ -27,14 +29,14 @@ But most people have never heard of Langley. Somewhere in Ohio, far from the new
 
 Why did the Wright Brothers win? They never waited for perfect conditions. The Wright Brothers did what they could with the resources they had at the time. Maybe constraints are advantages in disguise.
 
-####Draw Out the Plan
+### Draw Out the Plan
 Everybody has dreams. Something magical happens when we take the time to map out our dreams on paper.
 
 Gupta’s example: Jack Dorsey, creator of Twitter. Dorsey drew the first mock-up for Twitter on paper. And then he showed it to people. Some laughed. Many gave feedback. He used the feedback to hone the idea into a viable product.
 
 Until you put the idea on paper (or some other medium) so you can show it to potential customers and collaborators, you’ll never get the feedback you need to improve.
 
-####Keep Going
+### Keep Going
 Gupta and his brother had an idea. They wanted to create videos about the first wave of Indians to move to America. They approached Hollywood experts about creating the videos.
 
 "You’ll need at least $1 million," they were told. Much too expensive. Most people fold when facing a million dollar wall.
@@ -43,7 +45,7 @@ But Suneel and his brother made their own videos with the equipment they had ava
 
 Spielberg viewed the videos and he gave the brothers clear, actionable feedback. They made improvements. And they learned something interesting about Spielberg in the process: Even Spielberg starts with a loose cut sometimes! When Spielberg has a fresh idea that he’s trying to communicate, he will grab a hand-held camera, shoot the idea (no matter how rough) and show it to his team. If a picture is a thousand words, then a video is… you get the idea.
 
-####Teachers & Parents Ignite Our Passion
+### Teachers & Parents Ignite Our Passion
 Gupta shared a story about his 7th grade social studies class. The class watched a film of JFK delivering his inaugural speech in 1960. Gupta was moved. At the end of the film, the teacher informed that class that JFK had not written the speech. The author was Ted Sorensen, a man whom Kennedy called his _intellectual blood bank_.
 
 In 7th grade, Gupta had found his calling. He would become a speech writer.

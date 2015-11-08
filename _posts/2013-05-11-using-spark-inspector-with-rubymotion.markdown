@@ -7,7 +7,9 @@ categories: [Ruby, RubyMotion, iOS]
 published: false
 ---
 [Spark Inspector](http://sparkinspector.com) is a runtime debugger for iOS apps. It visually shows the windows and views of an iOS app so developers can see what's going on in real time. The tool was originally designed for devs using Xcode and Objective-C. This week, I learned that RubyMotion developers can use it too! Here's how.
+
 <!--more-->
+
 This article is based on a [gist posted by Ben Gotow](https://gist.github.com/bengotow/5552322).
 
 ####Pong Returns

@@ -12,6 +12,7 @@ categories: [Education, Linux, OS X, Rails, Ruby, Vim]
 The Elmhurst [ChicagoRuby](http://chicagoruby.org) meetings are always a source of unexpected learning. Today ChicagoRuby welcomed [Andy Lester](http://twitter.com/petdance), creator of Ack. Andy released Ack 2.0 two days ago. He shared some of the latest features in an impromptu demo.
 
 <!--more-->
+
 ####Why Ack?
 Have you ever been working on a project, only to be interrupted when you need to look for something? It could be a method name, a variable declaration, or a string of text in a comment. A minor distraction costs you the time it takes to search plus the time required to re-focus.
 

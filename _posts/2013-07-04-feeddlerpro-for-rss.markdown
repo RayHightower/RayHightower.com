@@ -11,7 +11,9 @@ Yes, the name appears misspelled. But [FeeddlerPro](https://itunes.apple.com/us/
 
 ###Second Choice
 [Feed Wrangler](/blog/2013/06/21/replacing-google-reader-with-feed-wrangler/) was a close second. I like Feed Wrangler's minimalist approach to RSS. However, the app is missing a few features that FeeddlerPro already has baked in.
+
 <!--more-->
+
 ###Server-Side Synchronization
 Of course, an RSS client is nothing without the server-side to keep everything synchronized. I chose [The Old Reader](http://theoldreader.com) because it syncs between iPhone, iPad, and web without extra fluff. 
 

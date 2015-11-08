@@ -9,7 +9,9 @@ categories: [ Business, Education ]
 Google Reader, the RSS product, shuts down on July 1st. I consume most news via RSS, and the ability to sync multiple RSS clients between iPhone, iPad, and desktop with Google Reader in the background saved time while keeping me informed. Finding a replacement is critical.
 
 Fortunately, strong alternatives are emerging. [Feed Wrangler](http://feedwrangler.net) is a Google Reader replacement by independent developer [David Smith](http://david-smith.org). Here are my first impressions. 
+
 <!--more-->
+
 ###Pros
 After using the service for a few hours, I can already see some things that I like. Specifically:
 

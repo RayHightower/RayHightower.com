@@ -10,7 +10,9 @@ published: true
 A man found a cocoon of an emperor moth. He took it home so that he could watch the moth come out of the cocoon. On the day a small opening appeared, he sat and watched the moth for several hours as the moth struggled to force its body through that little hole. 
 
 Then it seemed to stop making any progress. It appeared as if it had gotten as far as it could and it could go no farther. It just seemed to be stuck.
+
 <!--more-->
+
 ###Kindness
 Then the man, in his kindness, decided to help the moth, so he took a pair of scissors and snipped off the remaining bit of the cocoon. The moth then emerged easily. But it had a swollen body and small, shriveled wings. The man continued to watch the moth because he expected that, at any moment, the wings would enlarge and expand to be able to support the body, which would contract in time. Neither happened! In fact, the little moth spent the rest of its life crawling around with a swollen body and shriveled body and shriveled wings. It never was able to fly.
 

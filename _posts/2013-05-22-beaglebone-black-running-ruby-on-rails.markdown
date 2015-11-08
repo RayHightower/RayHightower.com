@@ -17,7 +17,9 @@ BeagleBone Black runs Linux right out of the box. Steps required:
 * Add power via the mini-USB port or the 5v power connection. 
 
 After a few minutes of boot time, we have a fully-functioning Linux computer with a GUI, Firefox browser, and other tools.
+
 <!--more-->
+
 The BeagleBone Black has 2GB of flash storage on the board, and part
 of that is used for Linux. Here's a screenshot after just a few minutes of ownership.
 

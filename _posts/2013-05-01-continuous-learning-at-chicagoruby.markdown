@@ -9,7 +9,9 @@ published: false
 Why does [ChicagoRuby](http://chicagoruby.org) appeal to the developer community? One reason: The group strives to learn from past mistakes.
 
 WisdomGroup assumed leadership of ChicagoRuby about a month after we became involved. We are grateful for the trust that the community has placed in us. One day we almost lost that trust.
+
 <!--more-->
+
 ####Restrictive Guidelines
 A member of our community approached me with some legitimate concerns about ChicagoRuby’s speaker guidelines. Could the guidelines be too restrictive? Maybe. In order to answer that, we have to look at some history.
 

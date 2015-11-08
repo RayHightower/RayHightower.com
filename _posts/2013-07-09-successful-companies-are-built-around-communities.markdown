@@ -9,7 +9,9 @@ published: true
 [Seth Godin](http://www.sethgodin.com) is on a mission. Technology enables us to form communities that stretch beyond traditional boundaries like age and social status. Godin is convinced that revolutions within and between communities will yield huge opportunities for those who have the courage to take action. Don’t waste the revolution!
 
 I had the opportunity to hear Godin speak at a Chicago area event some time ago. This post was inspired by the presentation.
+
 <!--more-->
+
 ###Recognizing Change
 Humans rarely recognize change when we’re in the middle of it. We’re too busy living! One example from Chicago history: The advent of the skyscraper. On the surface, a skyscraper is just a tall building… big deal. However, in hindsight we can see that the skyscraper (and the Chicago school of architecture) in the late 1880s led to the expansion of cities. Cities became magnets for [knowledge workers](http://en.wikipedia.org/wiki/Knowledge_worker). As cities grew to accommodate more people, political power shifted away from farms and toward urban areas. Professional service firms, companies that exist to make other companies better, blossomed & grew. We continue to feel the effects of this trend today, over a century later.
 

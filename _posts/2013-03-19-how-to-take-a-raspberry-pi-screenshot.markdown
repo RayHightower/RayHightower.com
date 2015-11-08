@@ -6,7 +6,9 @@ comments: true
 categories: [Linux, Raspberry Pi]
 ---
 After you get a [Raspberry Pi](/blog/2012/12/03/ruby-on-raspberry-pi/) up and running, you may want to take a few screenshots so you can share the experience with others. Here's how.
+
 <!--more-->
+
 ####Install Scrot
 First, install the screenshot utility, `scrot`. Open up the LXTerminal
 and type the following at the prompt:

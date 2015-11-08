@@ -11,6 +11,7 @@ Some devs choose to use another tool, [RBenv](https://github.com/sstephenson/rbe
 
 ####Ruby 2.0.0-p195
 The latest patch of Ruby 2.0.0, p195, was released two days ago. Time to take it for a spin. RVM lets devs upgrade Ruby and manage gemsets seamlessly. Here's how the process went.
+
 <!--more-->
 
 ####Get the Latest RVM
