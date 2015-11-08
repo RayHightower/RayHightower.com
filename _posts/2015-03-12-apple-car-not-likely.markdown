@@ -9,7 +9,9 @@ categories: [ Business ]
 ><br/>~Charlie Munger, Vice Chairman, Berkshire Hathaway
 
 Some journalists speculate that [Apple is building a car](http://9to5mac.com/2015/02/19/apple-electric-car-team/) because they recently hired some automotive engineers away from Tesla. My prediction: Apple is _not_ building a car. Apple might build a device that plays a major role in the automotive marketplace. But a fully assembled automobile is too far outside the company's _circle of competence_, as Charlie Munger might say. Apple succeeds because the company maintains disciplined focus within its circle of competence.
+
 <!--more-->
+
 ### AppleTV as an Example
 Case in point: AppleTV. Pundits predicted an AppleTV with a large LCD display, in a form factor that might be built by Samsung or Sony. But instead, Apple created a black set-top box about the size of a hockey puck. Apple focused on those parts of the television ecosystem that are most closely tied to their circle of competence:
 
