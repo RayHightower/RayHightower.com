@@ -11,7 +11,9 @@ published: true
 Every visit to [BLUE1647](http://blue1647.com) is full of pleasant surprises. There’s new equipment, a new opportunity to learn new technology, new people to learn from, or all of the above.
 
 I recently bought a second [Parallella](/blog/2015/05/27/massively-parallel-parallella/) for a WisdomGroup project. Since it's important to protect the device with a case, this seemed like a good time to try one of the 3D printers at BLUE1647. The result is in the photo, above.
+
 <!--more-->
+
 ### Why 3D Printing Matters
 The current state of 3D printing feels like laser printing in the 1980s. Back then, laser printers were big and expensive. Sharing the printer among many users made the cost easier to justify. 3D printers are in a similar position in the year 2015. And, as with most new technology, prices are on a downward slope. 
 
