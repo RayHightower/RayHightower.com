@@ -6,6 +6,7 @@ comments: true
 categories: [ Business, Education ]
 published: true
 ---
+
 >First rule of user research: Never ask anyone what they want.<br/>~Erika Hall, author of “Just Enough Research"
 
 <img src="/images/just_enough_research.jpg" alt="Just Enough Research" align="right">

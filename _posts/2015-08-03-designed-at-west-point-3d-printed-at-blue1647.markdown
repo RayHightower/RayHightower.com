@@ -5,6 +5,7 @@ date: 2015-08-03 21:50:00 -0500
 comments: true
 categories: [ IoT, Parallella ]
 ---
+
 {% include image.html img="/images/westpoint-parallella-green.jpg" caption="Designed at West Point. 3D-printed at BLUE1647 in Chicago." %}
 
 Experimenting with [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/)? Then you might need a way to protect it. The original acrylic cases are no longer available. Fortunately, 3D printing offers a solid alternative.
