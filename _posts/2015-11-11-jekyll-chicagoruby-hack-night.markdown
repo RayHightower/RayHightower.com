@@ -13,8 +13,9 @@ As software developers, we have a ton of stuff to learn. Our learning is reinfor
 
 Jekyll is a static HTML page generator. Jekyll includes tools that accelerate the blogging process, especially for people who know Ruby, because Jekyll is written Ruby.
 
-So why not use a CMS like Wordpress? There's nothing wrong with Wordpress. But CMS-generated pages will always be served slower because of the calls to the database. But static HTML pages are just sitting on the storage device, ready to be propelled across the internet when
-requested.
+### Why Not CMS?
+
+So why not use a content management system (CMS) like Wordpress? There's nothing wrong with Wordpress. But CMS-generated pages will always be served slower because of the calls to the database. But static HTML pages are just sitting on the storage device, ready to be propelled across the internet as requested.
 
 Sometimes you want a CMS. Other times, you need the speed of statically generated pages. It all depends on the objective of the project.
 
