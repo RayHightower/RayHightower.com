@@ -32,4 +32,3 @@ Every hack night starts with 10 to 15 minutes of introduction, followed by two h
 Any time you attend a ChicagoRuby event, like a hack night, feel free to share feedback with the [organizer team](http://www.chicagoruby.org/contact/). Your insights will help to make ChicagoRuby better for all members.
 
 Thank you!
-
