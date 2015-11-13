@@ -12,7 +12,9 @@ Here’s a 2-minute video recap of WindyCityRails 2015:
 <center><iframe name="wcr2015-recap" src="https://player.vimeo.com/video/141427471?color=f00004&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 &nbsp;<br/>
 [Presentation videos](https://www.windycityrails.org/videos/2015/) are available for all to see.
+
 <!--more--> 
+
 ### Thank You Team
 
 Thank you to every member of the organizer team for making the conference a success. Specifically:
