@@ -9,9 +9,11 @@ published: true
 
 ### Thank You
 
-First things first: Thank you to the RubyConf organizers for the chance to do a lightning talk this year. Slides appear below:
+First things first: Thank you to the RubyConf organizers for inviting me to the lightning talk stage this year. Slides appear below:
 
 <center><script async class="speakerdeck-embed" data-id="c5458ed0047c42b387329bd274f4d8d7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
+
+Summarizing the Parallella in a 5-minute lightning talk presented a challenge. I had to skip some details. If your appetite has been stimulated and you'd like to know more, read on!
 
 ### More Details on Parallella
 
