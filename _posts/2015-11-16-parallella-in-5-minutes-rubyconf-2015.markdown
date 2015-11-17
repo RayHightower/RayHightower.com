@@ -17,7 +17,7 @@ First things first: Thank you to the RubyConf organizers for inviting me to the 
 
 Summarizing Parallella in a 5-minute lightning talk presented a challenge. I had to skip some details. If your appetite has been stimulated and you'd like to know more, here are some resources for you:
 
-* [Madison Ruby](http://rayhightower.com/blog/2015/08/22/madison-ruby-and-parallella/)
+* Deeper description of Parallella in a 25-minute video from [Madison+ Ruby](http://rayhightower.com/blog/2015/08/22/madison-ruby-and-parallella/) in August 2015.
 * [Parallella Quick Start Guide](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/)
 * [Parallella Site](http://parallella.org/)
 
