@@ -16,6 +16,7 @@ Ray Hightower delivers presentations on technology and business growth. Want to 
 
 ### Upcoming Presentations:
 
+* [Ruby and the Internet of Things](http://www.meetup.com/ChicagoRuby/events/221411673/)<br/>ChicagoRuby User Group in Chicago, IL, USA<br/>Dec 1, 2015<br/>&nbsp;<br/>
 * [Parallella Overview](http://www.meetup.com/chicagoacm/)<br/>Association for Computing Machinery (ACM) - Chicago, IL, USA<br/>Dec 9, 2015<br/>&nbsp;<br/>
 * [Parallella, Supercomputing, and Ruby](http://confoo.ca/en/2016/session/parallella-supercomputing-and-ruby)<br/>ConFoo - Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>&nbsp;<br/>
 
