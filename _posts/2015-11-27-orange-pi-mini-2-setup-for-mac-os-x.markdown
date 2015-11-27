@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orange Pi Mini 2 Setup for Mac OS X"
+title: "Orange Pi Setup for Mac OS X"
 date: 2015-11-27 14:03:11 -0500
 comments: true
 categories: [ Education, IoT ]
