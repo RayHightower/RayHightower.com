@@ -30,7 +30,9 @@ To take a screenshot of the whole screen:
 
 ```bash
 $ sudo scrot
+
 ```
+
 By default, the screenshot will be stored in the current directory in a file named for the numerical date and time with a `.png` extension.
 
 To take a screenshot after a 10-second delay:
@@ -41,13 +43,15 @@ $ sudo scrot -d10
 
 ```
 
-Ten seconds later, the image will appear in the target directory.
+Ten seconds later, the image file will appear in the target directory.
 
 
 ### SCP: To Copy the Screenshots to Your Mac
+
 The following commands worked on a MacBook Pro running OS X Yosemite. Your mileage may vary. And the [sudo disclaimer](/sudo-disclaimer/) applies.
 
 ``` bash
+
 ~$ scp orangepi@192.168.11.137:~/2015-11-10-125641_1280x720_scrot.png ~/Desktop/orange1.png
 orangepi@192.168.11.137's password:
 2015-11-10-125641_1280x720_scrot.png                                           100%  230KB 230.0KB/s   00:00
@@ -139,12 +143,13 @@ $ diskutil list
    1:                      Linux                         43.0 MB    disk1s1
    2:                      Linux                         3.6 GB     disk1s2
 
-$ diskutil list
+$ 
 
 ```
 
 ### Gotcha: The Disk You Inserted...
+
 As soon as the disk image finished writing to the SD card, a dialog box popped up with the following error message: `The disk you inserted was not readable by this computer.`
 
-I hit `eject` and I removed the SD card from my Mac. When I inserted the microSD card into the OrangePi Mini 2, the board booted immediately. No idea why we got the error message. Did the Mac suddenly realize that it had been formatting a Linux image all along? Who knows! The important thing: The new image boots the Orange Pi successfully.
+What to do? Ignore the message, hit `eject`, and remove the SD card from your Mac. When you insert the microSD card into the OrangePi Mini 2, the board should boot immediately. No idea why the error message popped up, and your mileage may vary. Did the Mac suddenly realize that it had been formatting a Linux image all along? Who knows! The important thing: The new image boots the Orange Pi successfully.
 
