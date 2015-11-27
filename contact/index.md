@@ -4,7 +4,7 @@ title: "Contact"
 footer: false
 ---
 <div id="wufoo-r7w8p9">
-What's the best way to reach Ray Hightower? <a href="http://wisdomgroup.wufoo.com/forms/r7w8p9">This form</a>.
+What's the best way to reach Ray Hightower? <a href="http://wisdomgroup.wufoo.com/forms/r7w8p9">This form</a>!
 </div>
 <script type="text/javascript">var r7w8p9;(function(d, t) {
 var s = d.createElement(t), options = {
