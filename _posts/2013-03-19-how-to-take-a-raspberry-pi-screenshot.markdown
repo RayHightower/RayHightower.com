@@ -19,18 +19,22 @@ $ sudo apt-get install scrot
 
 ####Use Scrot
 To take a screenshot of the whole screen:
+
 ```bash
 $ sudo scrot
 ```
 By default, the screenshot will be stored in the current directory in a file named for the numerical date and time with a `.png` extension.
 
 To take a screenshot after a 10-second delay:
+
 ```bash
 $ sudo scrot -d10
 ```
 
 ####Learn More About Scrot
+
 To display a list of Scrot commands:
+
 ```bash
 $ sudo scrot -h
 ```

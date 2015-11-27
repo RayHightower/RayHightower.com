@@ -1,30 +1,150 @@
 ---
 layout: post
-title: "Parallella in 5 Minutes at RubyConf 2015"
-date: 2015-11-16 14:03:11 -0500
+title: "Orange Pi Mini 2 Setup for Mac OS X"
+date: 2015-11-27 14:03:11 -0500
 comments: true
-categories: [ Education, Parallella ]
+categories: [ Education, IoT ]
 published: true
 ---
+Raspberry Pi was the original low-cost single board computer. Competing products followed, including [Beaglebone Black](/blog/2014/01/02/beaglebone-black-ubuntu-part-1/), [Parallella](/blog/2015/08/22/madison-ruby-and-parallella/), and now [Orange Pi](http://www.orangepi.org/).
 
-### Thank You Organizers!
+The official Orange Pi instructions assume that the user is working on a Windows-based machine. This blog post applies to Mac OS X.
 
-First things first: Thank you to the RubyConf organizers for inviting me to the lightning talk stage this year. Slides and video appear below:
+### Overview
+OS = [Lubuntu](http://lubuntu.net/)
+Default credentials:
 
-<center><script async class="speakerdeck-embed" data-id="c5458ed0047c42b387329bd274f4d8d7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
+* Username: `orangepi`
+* password: `orangepi`
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/v4j-uj_r1xg" frameborder="0" allowfullscreen></iframe></center>
+OrangePi boots really fast. I’m not sure whether this is due to the speed of the SD card, the lightness of the Lubuntu operating system, or both.
 
-### More Details on Parallella
+Clock Speed??
 
-Summarizing Parallella in a 5-minute lightning talk presented a challenge. I had to skip some details. If your appetite has been stimulated and you'd like to know more, here are some resources for you:
+<!--more-->
 
-* 25-minute video from [Madison+ Ruby](http://rayhightower.com/blog/2015/08/22/madison-ruby-and-parallella/) in August 2015. Also answers why WisdomGroup experiments with Parallella.
+### Screenshots w/Scrot
+The Orange Pi Linux image comes with [Scrot](/blog/2013/03/19/how-to-take-a-raspberry-pi-screenshot/), a tool for capturing screenshots. To use Scrot, 
 
-* [Parallella Quick Start Guide](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/). One of many "getting started" guides.
+To take a screenshot of the whole screen:
 
-* [Solar Powered Parallella](/blog/2014/09/09/solar-powered-parallella/). Details on how to rig a USB/power cable and hand-held solar panel to power Parallella.
+```bash
+$ sudo scrot
+```
+By default, the screenshot will be stored in the current directory in a file named for the numerical date and time with a `.png` extension.
 
-* Official [Parallella Site](http://parallella.org/). Great forum discussions.
+To take a screenshot after a 10-second delay:
 
-Doing something interesting with Parallella? Feel free to [dash me a message](/contact). If there's a good fit, you might be invited to present at [ChicagoRuby](http://chicagoruby.org)!
+``` bash
+
+$ sudo scrot -d10
+
+```
+
+Ten seconds later, the image will appear in the target directory.
+
+
+### SCP: To Copy the Screenshots to Your Mac
+The following commands worked on a MacBook Pro running OS X Yosemite. Your mileage may vary. And the [sudo disclaimer](/sudo-disclaimer/) applies.
+
+``` bash
+~$ scp orangepi@192.168.11.137:~/2015-11-10-125641_1280x720_scrot.png ~/Desktop/orange1.png
+orangepi@192.168.11.137's password:
+2015-11-10-125641_1280x720_scrot.png                                           100%  230KB 230.0KB/s   00:00
+
+~$ 
+
+```
+
+### How to Burn the SD Card
+
+
+
+### Grab the Linux SD Image
+
+``` bash
+
+$ brew install xz
+==> Downloading https://homebrew.bintray.com/bottles/xz-5.2.1.yosemite.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring xz-5.2.1.yosemite.bottle.tar.gz
+🍺  /usr/local/Cellar/xz/5.2.1: 59 files, 1.7M
+
+$ xz -d Lubuntu_1404_For_OrangePi2-mini2_v0_8_0_.img.xz
+
+$ ls -al
+total 7168000
+drwxr-xr-x    3 rth  staff         102 Nov  9 21:14 .
+drwx---r-x+ 114 rth  staff        3876 Nov  9 21:25 ..
+-rw-r-----    1 rth  staff  3670016000 Nov  9 21:08 Lubuntu_1404_For_OrangePi2-mini2_v0_8_0_.img
+
+$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *960.2 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS MacSSD                  959.3 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *7.9 GB     disk1
+   1:                 DOS_FAT_32 NO NAME                 7.9 GB     disk1s1
+
+```
+
+From the `diskutil` report, we can see that the designation for the SD
+card is `/dev/disk1`. Unmount the SD card image.
+
+``` bash
+$ diskutil unmountDisk /dev/disk1
+Unmount of all volumes on disk1 was successful
+
+```
+
+``` bash
+$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *960.2 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS MacSSD                  959.3 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *7.9 GB     disk1
+   1:                 DOS_FAT_32 NO NAME                 7.9 GB     disk1s1
+
+```
+   
+
+
+``` bash
+
+$ sudo dd if=Lubuntu_1404_For_OrangePi2-mini2_v0_8_0_.img of=/dev/disk1 bs=1m
+Password:
+3500+0 records in
+3500+0 records out
+3670016000 bytes transferred in 2366.903418 secs (1550556 bytes/sec)
+
+$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *960.2 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS MacSSD                  959.3 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *7.9 GB     disk1
+   1:                      Linux                         43.0 MB    disk1s1
+   2:                      Linux                         3.6 GB     disk1s2
+
+$ diskutil list
+
+```
+
+### Gotcha: The Disk You Inserted...
+As soon as the disk image finished writing to the SD card, a dialog box popped up with the following error message: `The disk you inserted was not readable by this computer.`
+
+I hit `eject` and I removed the SD card from my Mac. When I inserted the microSD card into the OrangePi Mini 2, the board booted immediately. No idea why we got the error message. Did the Mac suddenly realize that it had been formatting a Linux image all along? Who knows! The important thing: The new image boots the Orange Pi successfully.
+
