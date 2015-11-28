@@ -4,7 +4,7 @@ title: "Orange Pi Setup for Mac OS X"
 date: 2015-11-27 14:03:11 -0500
 comments: true
 categories: [ Education, IoT ]
-published: true
+published: false
 ---
 Raspberry Pi was the original low-cost single board computer. Competing products followed, including [Beaglebone Black](/blog/2014/01/02/beaglebone-black-ubuntu-part-1/), [Parallella](/blog/2015/08/22/madison-ruby-and-parallella/), and now [Orange Pi](http://www.orangepi.org/).
 
