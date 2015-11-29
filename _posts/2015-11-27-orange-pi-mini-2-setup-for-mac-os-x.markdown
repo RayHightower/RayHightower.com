@@ -4,7 +4,7 @@ title: "Orange Pi Setup for Mac OS X"
 date: 2015-11-27 14:03:11 -0500
 comments: true
 categories: [ Education, IoT ]
-published: false
+published: true
 ---
 
 {% include image.html img="images/orangepi.jpg" caption="Orange Pi" %} 
@@ -24,7 +24,6 @@ Orange Pi runs [Lubuntu](http://lubuntu.net/), a lightweight version of the Unbu
 
 OrangePi boots really fast. I’m not sure whether this is due to the speed of the SD card, the lightness of the Lubuntu operating system, or both.
 
-
 ### Grab the Linux SD Image
 
 Download the Lubuntu image from the [Orange Pi website](http://www.orangepi.org/downloadresources/). I'm using the Orange Pi 2 Mini 2. You will need to download the image that is appropriate for your particular Orange Pi.
@@ -43,16 +42,34 @@ $ brew install xz
 
 ```
 
+You can then decompress the Lubuntu image file using `xz`.
 
 ``` bash
 
 $ xz -d Lubuntu_1404_For_OrangePi2-mini2_v0_8_0_.img.xz
+
+```
+
+Once decompression is complete, the new file will have the `.imb` extension.
+
+
+``` bash
 
 $ ls -al
 total 7168000
 drwxr-xr-x    3 rth  staff         102 Nov  9 21:14 .
 drwx---r-x+ 114 rth  staff        3876 Nov  9 21:25 ..
 -rw-r-----    1 rth  staff  3670016000 Nov  9 21:08 Lubuntu_1404_For_OrangePi2-mini2_v0_8_0_.img
+
+```
+
+### Choose Your SD Card Target
+
+This step is critical. When you write the Lubuntu image to your SD card, it's important to choose the correct SD card designation. Otherwise, you could overwrite the hard drive on your Mac.
+
+Here's how to get the correct designation for the SD card. First use `diskutil list` to show all of the drives on your Mac.
+
+``` bash
 
 $ diskutil list
 /dev/disk0
@@ -68,14 +85,16 @@ $ diskutil list
 
 ```
 
-From the `diskutil` report, we can see that the designation for the SD
-card is `/dev/disk1`. Unmount the SD card image.
+From the `diskutil` report, we can see that the designation for the SD card is `/dev/disk1`. Unmount the SD card image.
 
 ``` bash
+
 $ diskutil unmountDisk /dev/disk1
 Unmount of all volumes on disk1 was successful
 
 ```
+
+After you `unmount` the SD card, the `diskutil` report will appear unchanged. But we need to unmount the SD card so that we can write an image to it.
 
 ``` bash
 $ diskutil list
@@ -92,7 +111,7 @@ $ diskutil list
 
 ```
    
-
+With the SD card unmounted, write Lubuntu image as follows.
 
 ``` bash
 
@@ -101,6 +120,12 @@ Password:
 3500+0 records in
 3500+0 records out
 3670016000 bytes transferred in 2366.903418 secs (1550556 bytes/sec)
+
+```
+
+`$ diskutil list` will let you view the new partitions After the image has been written.
+
+``` bash
 
 $ diskutil list
 /dev/disk0
@@ -125,44 +150,12 @@ As soon as the disk image finished writing to the SD card, a dialog box popped u
 
 What to do? Ignore the message, hit `eject`, and remove the SD card from your Mac. When you insert the microSD card into the OrangePi Mini 2, the board should boot immediately. No idea why the error message popped up, and your mileage may vary. Did the Mac suddenly realize that it had been formatting a Linux image all along? Who knows! The important thing: The new image boots the Orange Pi successfully.
 
-### Screenshots w/Scrot
-The Orange Pi Linux image comes with [Scrot](/blog/2013/03/19/how-to-take-a-raspberry-pi-screenshot/), a tool for capturing screenshots. To use Scrot, 
+### To Boot Your Orange Pi
 
-To take a screenshot of the whole screen:
+Insert the micro-SD card into the Orange Pi's micro-SD card reader. Boot the Orange Pi, and it should come up farily rapidly. Congratulations!
 
-```bash
-$ sudo scrot
+### Next Steps
 
-```
-
-By default, the screenshot will be stored in the current directory in a file named for the numerical date and time with a `.png` extension.
-
-To take a screenshot after a 10-second delay:
-
-``` bash
-
-$ sudo scrot -d10
-
-```
-
-Ten seconds later, the image file will appear in the target directory.
-
-
-### SCP: To Copy the Screenshots to Your Mac
-
-The following commands worked on a MacBook Pro running OS X Yosemite. Your mileage may vary. And the [sudo disclaimer](/sudo-disclaimer/) applies.
-
-``` bash
-
-~$ scp orangepi@192.168.11.137:~/2015-11-10-125641_1280x720_scrot.png ~/Desktop/orange1.png
-orangepi@192.168.11.137's password:
-2015-11-10-125641_1280x720_scrot.png                                           100%  230KB 230.0KB/s   00:00
-
-~$ 
-
-```
-
-### How to Burn the SD Card
-
+So far the Orange Pi seems to behave similar to the Raspberry Pi or Beaglebone Black, except the Orange feels faster. This blogger should include benchmarks in a future Orange Pi post.
 
 
