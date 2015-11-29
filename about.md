@@ -15,4 +15,5 @@ Learn more at...
 * [SpeakerDeck](http://speakerdeck.com/rayhightower)
 * [Twitter](http://twitter.com/rayhightower)
 * [YouTube](http://youtube.com/wisdomgroupvideo)
+* [Onename Blockchain ID](https://onename.com/rayhightower)
 * [RSS Feed](/atom.xml)
