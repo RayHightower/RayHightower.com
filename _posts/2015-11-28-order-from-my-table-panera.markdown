@@ -20,12 +20,10 @@ Panera figured out a way to capitalize on the opportunity. When you log on to Pa
 
 ### Anticipating Customer Needs
 
-Panera’s offering is a brilliant example of anticipating customer needs, giving it to them, and getting paid. Here are some unspoken customer needs addressed by “Order from my table”:
+Panera’s offering is a brilliant example of anticipating a customer need, addressing the need, and getting paid. “Order from my table” addresses owner and customer needs as follows:
 
-“Order from my table” addresses owner and customer needs as follows:
-
-A customer on a laptop does not want to risk theft by walking to a cash register. Solution: Handle the whole transaction online, and bring the food to the customer.
-Restaurants need cash-producing tables in order to stay in business.
+* A customer on a laptop does not want to risk theft by walking to a cash register. Solution: Handle the whole transaction online, and bring the food to the customer.
+* Restaurants need cash-producing tables in order to stay in business.
 
 Great move, Panera!
 
