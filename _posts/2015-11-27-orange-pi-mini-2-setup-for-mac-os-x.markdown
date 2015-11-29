@@ -17,7 +17,7 @@ The official Orange Pi instructions assume that the user is working on a Windows
 
 ### Overview
 
-Orange Pi runs [Lubuntu](http://lubuntu.net/), a lightweight version of the Unbuntu Linux distribution. The default credentials are:
+Orange Pi runs [Lubuntu](http://lubuntu.net/), a lightweight version of the Ubuntu Linux distribution. The default credentials are:
 
 * Username: `orangepi`
 * password: `orangepi`
