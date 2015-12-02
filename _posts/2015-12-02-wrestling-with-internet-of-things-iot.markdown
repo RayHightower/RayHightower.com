@@ -21,7 +21,7 @@ It's easy to laugh at historical examples of obsolescence. What about obsolescen
 
 ### Video and Slides
 
-The topic is explored further in the following video and slides, presented at ChicagoRuby on December 1, 2015. Topic: [_Wrestling With the Internet of Things_](http://www.meetup.com/ChicagoRuby/events/221411673/).
+The topic was explored further at ChicagoRuby on December 1, 2015. Video and slides appeaer below. Topic: [_Wrestling With the Internet of Things_](http://www.meetup.com/ChicagoRuby/events/221411673/).
 
 <center><iframe src="https://player.vimeo.com/video/147613523?color=f00004&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
