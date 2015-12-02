@@ -8,6 +8,7 @@ Ray Hightower delivers presentations on technology and business growth. Want to 
 
 ### Presentation Videos:
 
+* [Wrestling With the Internet of Things](http://www.meetup.com/ChicagoRuby/events/221411673/)<br/>ChicagoRuby User Group in Chicago, IL, USA<br/>&nbsp;<br/>
 * [Parallella in Five Minutes](/blog/2015/11/16/parallella-in-5-minutes-rubyconf-2015/)<br/>RubyConf 2015 - San Antonio, TX, USA<br/>&nbsp;<br/>
 * [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
 * [Node.js Under Water (OpenROV)](/blog/2014/09/25/nodejs-under-water/)<br/>NYC Node.JS User Group - New York City, NY, USA<br/>&nbsp;<br/>
@@ -16,7 +17,6 @@ Ray Hightower delivers presentations on technology and business growth. Want to 
 
 ### Upcoming Presentations:
 
-* [Ruby and the Internet of Things](http://www.meetup.com/ChicagoRuby/events/221411673/)<br/>ChicagoRuby User Group in Chicago, IL, USA<br/>Dec 1, 2015<br/>&nbsp;<br/>
 * [Parallella: Supercomputer for Embedded Systems](http://www.meetup.com/chicagoacm/events/226990986/)<br/>Association for Computing Machinery (ACM) - Chicago, IL, USA<br/>Dec 9, 2015<br/>&nbsp;<br/>
 * [Parallella, Supercomputing, and Ruby](http://confoo.ca/en/2016/session/parallella-supercomputing-and-ruby)<br/>ConFoo - Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>&nbsp;<br/>
 
