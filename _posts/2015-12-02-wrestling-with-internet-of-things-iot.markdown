@@ -12,3 +12,6 @@ Slides from yesterday's ChicagoRuby meeting. Topic: [_Wrestling With the Interne
 
 <!--more-->
 
+Thank you [ThoughtWorks](http://thoughtworks.com) for hosting and providing food. Thanks to my fellow ChicagoRuby organizers for putting me on the agenda.
+
+
