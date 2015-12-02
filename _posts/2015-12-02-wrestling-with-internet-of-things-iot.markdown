@@ -15,6 +15,8 @@ A professional must be a continuous student. A professional who stops learning w
 
 For example, early computers were only accessible to the elite few because they were big and expensive. But today, billions of people have access to computing through mobile phones. Many aspects of computing have become commoditized. Any professional operating under the old glass house model is obsolete.
 
+A more recent example of commoditization: Any web developer who only builds online brochures has been commoditized by Wordpress and Squarespace.
+
 It's easy to laugh at historical examples of obsolescence. What about obsolescence yet to come? What are we doing to keep ourselves from falling out-of-date?
 
 <!--more-->
