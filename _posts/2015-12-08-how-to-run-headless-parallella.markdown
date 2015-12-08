@@ -4,7 +4,7 @@ title: "How to Run a Headless Parallella"
 date: 2015-12-08 14:03:11 -0500
 comments: true
 categories: [ Education, IoT, Parallella ]
-published: true
+published: false
 ---
 
 Running a system "headless" simply means running it without a display, keyboard, and mouse. Most servers run headless because you rarely need to interact with them directly. Once a server is configured and launched, it should, in theory, run indefiniately.
@@ -93,6 +93,8 @@ Setting up xvfb (2:1.15.1-0ubuntu2) ...
 ### Minor Gotcha
 
 Note that the `X` in `Xvfb` is capitalized.
+
+``` bash
 
 $ which xvfb
 xvfb: Command not found.
