@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Designed at West Point. 3D Printed at BLUE1647."
-date: 2015-08-03 21:50:00 -0500
+date: 2015-08-03 11:50:00 -0500
 comments: true
 categories: [ IoT, Parallella ]
 ---
