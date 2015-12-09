@@ -6,7 +6,7 @@ permalink: /about/
 
 Raymond T. Hightower is a software developer, founder of [WisdomGroup](http://wisdomgroup.com), organizer of [ChicagoRuby](http://chicagoruby.org), and producer of [WindyCityRails](http://windycityrails.org), [WindyCityThings](http://windycitythings.com), & [RubyCaribe](http://rubycaribe.com). He is currently exploring parallelism and the Internet of Things.
 
-Hightower has traveled to every state in the USA and most continents on planet Earth. He is a scuba diver, martial artist, marathon runner, pseudo piano player, and Eagle Scout. He earned his Bachelors in Computer Science from the University of Illinois at Chicago.
+Hightower has visited every state in the USA and most continents on planet Earth. He is a scuba diver, martial artist, marathon runner, pseudo piano player, and Eagle Scout. He earned his Bachelors in Computer Science from the University of Illinois at Chicago.
 
 Hightower blogs and [speaks](/speaking) on technology and business growth.
 
