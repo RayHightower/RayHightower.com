@@ -19,4 +19,4 @@ Slides from the talk appear below.
 
 ### Learning About Parallelism
 
-Moore’s Law is running out. If developers want to extract more performance out of our silicon wafers, we need to explore new programming paradigms like parallelism. The Parallella single board computer offers an inexpensive way for devs to experiment with parallel programming theory. Check it out!
+Moore’s Law is running out. If developers want to extract more performance out of our silicon wafers, we need to explore new programming paradigms like parallelism. The Parallella single board computer offers an inexpensive way for devs to experiment with parallel programming theory. You can [get started with Parallella here](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/). Check it out!
