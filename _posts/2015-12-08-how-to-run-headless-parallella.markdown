@@ -75,7 +75,7 @@ The GUI `XClock` should appear on your Mac display. Success!
 
 ### Setting Up Xvfb
 
-Xvfb is the X virtual frame buffer. It lets you view the Parallella’s frame buffer through X, either locally or remotely. To set it up, first install `Xvfb` on the Parallella.
+`Xvfb` is the X virtual frame buffer. It lets you view the Parallella’s frame buffer through X, either locally or remotely. To set it up, first install `Xvfb` on the Parallella.
 
 ``` bash
 
@@ -116,5 +116,13 @@ $
 ```
 
 I don't know why this is true. I only know that it caught me. Now it won't catch you!
+
+
+### Eliminating Barriers to Entry
+
+I am grateful to other members of the Parallella community who write
+articles and blog posts about their experiences with the device.
+Together, we are working to make parallel programming accessible
+to as many people as possible. Maybe you will contribute next? I look forward to reading about your work with Parallella and parallel programming in general.
 
 
