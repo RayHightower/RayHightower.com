@@ -4,20 +4,28 @@ title: "How to Run a Headless Parallella"
 date: 2015-12-08 14:03:11 -0500
 comments: true
 categories: [ Education, IoT, Parallella ]
-published: false
+published: true
 ---
 
-Running a system "headless" simply means running it without a display, keyboard, and mouse. Most servers run headless because you rarely need to interact with them directly. Once a server is configured and launched, it should, in theory, run indefiniately.
+### Why Headless?
 
-You might choose to run Parallella in a headless configuration if you have several of the devices that you want to run at the same time.
+Running a computer "headless" means running it with no display, no keyboard, no mouse. The only directly attached cables are power and a network connection. 
 
-These instructions should work with other Linux/Unix systems with minor modifications depending on the distro.
+Why would you run a computer headless? Headless configurations are typically used in a data center with hundreds of servers and limited space. Since a well-running server rarely needs direct interaction, you can save space (and money) by skipping the monitor/mouse/keyboard installation, and only connecting these devices when needed.
+
+Even better: Don't connect via USB/HDMI. Why spend time walking to a server and connecting via USB when you can connect electronically over the network? Headless servers rock!
+
+This post tells how to connect to a headless Parallella from a Mac. The procedure should work with other Linux/Unix systems with minor minor modifications, depending on the distribution in use.
 
 <!--more-->
 
 ### Install XQuartz
 
-Download and install [XQuartz](http://www.xquartz.org/) onto the Mac OS X machine. XQuartz will give your Mac the X Window environment needed for this process to work. No XQuartz, no Unix windows.
+(You can skip this step if you're connecting from a Unix or Linux system.)
+
+If you only want to run terminal-based programs via `ssh`, you will not need to install XQuartz. Installing XQuartz will let you run the Parallella's GUI programs on your Mac.
+
+Mac OS X is a variation of Unix, but it does not include the Unix X Window environment. Download and install [XQuartz](http://www.xquartz.org/) onto the Mac OS X machine. XQuartz will give your Mac the X Window environment needed for this process to work. No XQuartz, no Unix windows.
 
 ### Configure Host Machine (Parallella) to Allow X Over SSH
 
@@ -102,7 +110,7 @@ xvfb: Command not found.
 $ which Xvfb
 /usr/bin/Xvfb
 
-$
+$ 
 
 ```
 
