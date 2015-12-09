@@ -21,19 +21,19 @@ This post tells how to connect to a headless Parallella from a Mac. The procedur
 
 ### Install XQuartz
 
-(You can skip this step if you're connecting from a Unix or Linux system.)
+(You can skip this step if you're connecting from a Unix or Linux system. Linux/Unix already have X Window installed. Mac OS X does not.)
 
-If you only want to run terminal-based programs via `ssh`, you will not need to install XQuartz. Installing XQuartz will let you run the Parallella's GUI programs on your Mac.
+If you only want to run terminal-based programs via `ssh`, you will not need to install XQuartz. Since Parallella's GUI programs are X Window based, installing XQuartz will let you run the Parallella's GUI programs on your Mac.
 
-Mac OS X is a variation of Unix, but it does not include the Unix X Window environment. Download and install [XQuartz](http://www.xquartz.org/) onto the Mac OS X machine. XQuartz will give your Mac the X Window environment needed for this process to work. No XQuartz, no Unix windows.
+Mac OS X is a variation of Unix, but it does not include the Unix X Window environment. Download and install [XQuartz](http://www.xquartz.org/) onto the Mac OS X machine. XQuartz will give your Mac the X Window environment needed for this process to work.
 
 ### Configure Host Machine (Parallella) to Allow X Over SSH
 
-Open `/etc/ssh/ssh_config`
+The file `/etc/ssh/ssh_config` controlls the behavior of the SSH server on the Parallella. By default, SSH does now allow X Window information to flow to/from the Parallella. To enable X Window support, here's what you have to do.
 
-Two parameters in the `ssh_config` file need to be changed on the Parallella that you wish to connect to:
+(Be sure to read the [sudo disclaimer](/sudo-disclaimer) before executing the rest of these instructions. We’re using `sudo` in this case because `ssh_config` can only be modified with root priviledges.)
 
-Be sure to read the [sudo disclaimer](/sudo_disclaimer) before executing the rest of these instructions. We’re using `sudo` in this case because `ssh_config` can only be modified with root priviledges.
+First, Open `/etc/ssh/ssh_config` in a text editor like Vim. You'll need to use `sudo` so that the file system allows you to write the file after you modify it.
 
 ``` bash
 
@@ -41,7 +41,7 @@ $ sudo vim /etc/ssh/ssh_config
 
 ```
 
-Add the following lines to the bottom of the `ssh_config` file on the Parallella:
+Two parameters in the `ssh_config` file need to be changed on the Parallella host. Add the following lines to the bottom of the `ssh_config` file on the Parallella:
 
 ``` bash
 
@@ -50,8 +50,7 @@ Add the following lines to the bottom of the `ssh_config` file on the Parallella
 
 ```
 
-And be sure to save the file.
-And re-start the Parallella so that the new parameters can take effect (RTH: or do something else besides restart?).
+Save the file and re-start the Parallella so that the new parameters can take effect.
 
 ### Confirm the X Window Connection
 
@@ -59,18 +58,20 @@ To test the new configuration, first log into the Parallella from the Mac using 
 
 ``` bash
 
-~$ ssh -X linaro@192.168.11.147
-linaro@192.168.11.147's password:
+~$ ssh -X linaro@[IP address of the Parallella]
+linaro@[IP address of the Parallella]'s password:
 
 ```
 
-And then run an X Window program like `xclock`.
+And then, from a Mac terminal window, run an X Window program like `xclock`.
 
 ``` bash
 
 $ xclock
 
 ```
+
+The GUI `XClock` should appear on your Mac display. Success!
 
 ### Setting Up Xvfb
 
@@ -100,7 +101,7 @@ Setting up xvfb (2:1.15.1-0ubuntu2) ...
 
 ### Minor Gotcha
 
-Note that the `X` in `Xvfb` is capitalized.
+Here's something weird. When you install `Xvfb` on the Parallella via `sudo apt-get`, the `x` is lower case. But after installation, when you run the program from the Parallella's command line, the `X` in `Xvfb` is capitalized.
 
 ``` bash
 
@@ -113,5 +114,7 @@ $ which Xvfb
 $ 
 
 ```
+
+I don't know why this is true. I only know that it caught me. Now it won't catch you!
 
 
