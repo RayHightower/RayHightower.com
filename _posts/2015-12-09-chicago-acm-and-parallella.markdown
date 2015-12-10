@@ -1,21 +1,23 @@
 ---
 layout: post
-title: "Chicago ACM and Parallella"
+title: "ACM Chicago and Parallella"
 date: 2015-12-09 04:03:11 -0500
 comments: true
 categories: [ Community, Education, IoT, Parallella ]
 published: true
 ---
 
-### ChicagoACM: Thanks!
+### ACM Chicago: Thanks!
 
-Thank you to the [Chicago Chapter of the Association for Computing Machinery (Chicago ACM)](http://www.meetup.com/chicagoacm/) for inviting me to present _Parallella: Supercomputer for Embedded Systems_ at the December 2015 meeting.
+Thank you to the [Chicago Chapter of the Association for Computing Machinery (ACM Chicago)](http://www.meetup.com/chicagoacm/) for inviting me to present _Parallella: Supercomputer for Embedded Systems_ at the December 2015 meeting.
 
-Slides from the talk appear below.
+<!--more-->
+
+Slides and video appear below.
 
 <center><script async class="speakerdeck-embed" data-id="d61a045b60b84e2aba01b5584bc5b982" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
 
-<!--more-->
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/YgLF1xU8wDY" frameborder="0" allowfullscreen></iframe></center>
 
 ### Learning About Parallelism
 
