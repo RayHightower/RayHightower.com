@@ -15,9 +15,8 @@ Ray Hightower delivers presentations on technology and business growth. Want to 
 * [Groupon: Node.js Under Water](/blog/2014/10/21/geekfest-and-openrov/)<br/>Geekfest, a weekly event by Groupon - Chicago, IL, USA<br/>&nbsp;<br/>
 * [Four Steps. Five Minutes.](/blog/2012/08/31/four-steps-five-minutes/)<br/>Five-minute video summary of _The Four Steps to the Epiphany_ by Steve Blank<br/>Ignite Chicago - Chicago, IL, USA<br/>&nbsp;<br/>
 
-### Upcoming Presentations:
+### Upcoming:
 
-* [Parallella: Supercomputer for Embedded Systems](http://www.meetup.com/chicagoacm/events/226990986/)<br/>Association for Computing Machinery (ACM) - Chicago, IL, USA<br/>Dec 9, 2015<br/>&nbsp;<br/>
 * [Parallella, Supercomputing, and Ruby](http://confoo.ca/en/2016/session/parallella-supercomputing-and-ruby)<br/>ConFoo - Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>&nbsp;<br/>
 
 
@@ -26,6 +25,7 @@ Ray Hightower delivers presentations on technology and business growth. Want to 
 * RubyConf Colombia - Medellín, Colombia
 * in5 hub Innovation Hub - Dubai, UAE
 * DevNights at The Cribb - Dubai, UAE
+* Association for Computing Machinery (ACM) - Chicago, IL, USA
 * Rubyfuza - Cape Town, South Africa
 * Aloha Ruby - Honolulu, HI, USA
 * CloudCamp Chicago Developer Night - Chicago, IL, USA
