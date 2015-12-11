@@ -8,9 +8,9 @@ Ray Hightower delivers presentations on technology and business growth. Want to 
 
 ### Presentation Videos:
 
+* [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
 * [Wrestling With the Internet of Things](/blog/2015/12/02/wrestling-with-internet-of-things-iot/)<br/>ChicagoRuby User Group in Chicago, IL, USA<br/>&nbsp;<br/>
 * [Parallella in Five Minutes](/blog/2015/11/16/parallella-in-5-minutes-rubyconf-2015/)<br/>RubyConf 2015 - San Antonio, TX, USA<br/>&nbsp;<br/>
-* [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
 * [Node.js Under Water (OpenROV)](/blog/2014/09/25/nodejs-under-water/)<br/>NYC Node.JS User Group - New York City, NY, USA<br/>&nbsp;<br/>
 * [Groupon: Node.js Under Water](/blog/2014/10/21/geekfest-and-openrov/)<br/>Geekfest, a weekly event by Groupon - Chicago, IL, USA<br/>&nbsp;<br/>
 * [Four Steps. Five Minutes.](/blog/2012/08/31/four-steps-five-minutes/)<br/>Five-minute video summary of _The Four Steps to the Epiphany_ by Steve Blank<br/>Ignite Chicago - Chicago, IL, USA<br/>&nbsp;<br/>
