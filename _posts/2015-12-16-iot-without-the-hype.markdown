@@ -13,7 +13,7 @@ Every great technology started as a toy. People played with kites and paper airp
 
 ### Toys Become Useful Products
 
-Today, IoT enthusiasts fly toy drones, while professional photographers use similar devices to capture breathtaking photos. IoT youth groups build and compete with toy robots, while warehouse managers use industrial versions of the same robot to reduce costs and speed up delivery times.
+Today, IoT enthusiasts fly toy drones, while professional photographers use similar devices to capture breathtaking photos. IoT youth groups build and compete with toy robots, while warehouse managers use industrial versions of the same robots to reduce costs and speed up delivery times.
 
 The Internet of Things is grown up and ready to do real work. All it needs is you.
 
