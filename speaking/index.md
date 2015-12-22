@@ -4,7 +4,7 @@ title: "Speaking"
 footer: true
 ---
 
-Ray Hightower delivers presentations on technology and business growth. Want to invite him to speak at your event? You can reach him through the [contact form](/contact).
+Ray Hightower delivers presentations on technology and business growth. If you would like to invite him to speak at your event, you can reach him through the [contact form](/contact).
 
 ### Presentation Videos:
 
