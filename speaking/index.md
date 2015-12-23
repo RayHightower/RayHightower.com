@@ -17,6 +17,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Upcoming:
 
+* [Ruby Rogues Podcast](https://devchat.tv/ruby-rogues/)<br/>Ruby Rogues is a weekly panel discussion about programming.<br/>Feb 2, 2016<br/>&nbsp;<br/>
 * [Parallella, Supercomputing, and Ruby](http://confoo.ca/en/2016/session/parallella-supercomputing-and-ruby)<br/>ConFoo - Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>&nbsp;<br/>
 
 
