@@ -22,7 +22,10 @@ try { r7w8p9 = new WufooForm();r7w8p9.initialize(options);r7w8p9.display(); } ca
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
 
-### Mailing Address
+
+### Old School Contact Info
+
+Fastest contact happens through email and the contact form (above). Old school methods are available, and _slower_.
 
 Raymond T. Hightower<br/>
 President<br/>
@@ -30,9 +33,7 @@ WisdomGroup<br/>
 27 North Wacker Drive, Suite 406<br/>
 Chicago, IL 60606<br/>
 USA<br/>
-
-### Phone
-
-+1.312.842.2200
+&nbsp;<br/>
+Ph: +1.312.842.2200
 
 
