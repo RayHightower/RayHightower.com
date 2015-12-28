@@ -31,6 +31,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 * Aloha Ruby<br/>Honolulu, HI, USA<br/>&nbsp;<br/>
 * CloudCamp Chicago Developer Night<br/>Chicago, IL, USA<br/>&nbsp;<br/>
 * LinuxBarbados at University of the West Indies<br/>Cave Hill, Barbados<br/>&nbsp;<br/>
+* Ignite RubyConf<br/>San Diego, CA, USA<br/>&nbsp;<br/>
 * Flourish Open Source Conference - University of Illinois<br/>Chicago, IL, USA<br/>&nbsp;<br/>
 
 &nbsp;<br/>
