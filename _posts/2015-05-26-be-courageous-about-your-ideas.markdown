@@ -5,7 +5,7 @@ date: 2015-05-26 19:54:21 -0500
 comments: true
 categories: [ Business ]
 ---
-{% include image.html img="/images/godfather_pacino_coppola.jpg" caption="Godfather: Pacino and Coppola" %}
+<img src="/images/godfather_pacino_coppola.jpg" alt="Godfather: Pacino and Coppola" align="right">
 
 >Things that get you fired when you’re young are the same things you win awards for when you’re old. You have to be courageous about your ideas. When you come up with something good, that means it’s different from what they expect so they’re likely to fire you. Years later (if you survive) they’ll bring it out as one of the great things that you did. <br/>~Francis Ford Coppola, Director<br/>&nbsp;The Godfather
 

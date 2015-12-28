@@ -5,12 +5,13 @@ date: 2015-05-29 14:51:18 -0500
 comments: true
 categories: [ Community ]
 ---
-{% include image.html img="/images/trinity_high_school_river_forest.jpg" caption="Tinity High School" %}
+<img src="/images/trinity_high_school_river_forest.jpg" alt="Tinity High School" align="right">
 
 &nbsp;<br/>
 
->What what waht what is the toughest obstacle you have ever faced in business, and how did you deal with it?<br/>~Student at Trinity High School<br/>&nbsp;River Forest, IL, USA
+>What is the toughest obstacle you have ever faced in business, and how did you deal with it?<br/>&nbsp;<br/>~Student at Trinity High School<br/>&nbsp;River Forest, IL, USA
 
+<br/>&nbsp;<br/>
 [Trinity High School](http://www.trinityhs.org/) invited me to speak to two of their student groups this morning. The first, _Information Technology in the Greater Society_ (ITGS), is a project-based class where students explore multiple facets of the information technology industry: Web development, digital editing, open source, and related areas. The second group, _Students Working to Advance Trinity’s Technology_ (SWAT), lives up to its name by ensuring that students and faculty make full use of the technology deployed by the school.
 
 <!--more-->

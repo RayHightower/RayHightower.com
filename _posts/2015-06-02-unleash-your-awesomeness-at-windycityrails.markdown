@@ -5,16 +5,17 @@ date: 2015-06-02 15:09:06 -0500
 comments: true
 categories: [ Community, Education ]
 ---
-{% include image.html img="/images/sphere_question.jpg" caption="Do you see yourself?" %}
+<img src="/images/sphere_question.jpg" alt="Do you see yourself?" align="right">
+
 Are you driven to excel? Do you see yourself here?
 
 * **You have already built a successful Rails app**. Now that you're "done", you know you can make it better, but you're not sure how. You want to take your skills to the next level.
 
-<!--more-->
-
 * **You recently graduated** from [Dev Bootcamp](http://devbootcamp.com), [Starter League](http://thestarterleague.com), [Mobile Makers](http://www.mobilemakers.co/) or another school. You're ready to meet and interact with your next generation of mentors.
 
 * **You are no longer a beginner**. You have seen _advanced_ developers in action, and you are determined to get there yourself.
+
+<!--more-->
 
 * **You are a beginner who learns quickly**. Maybe you're a seasoned professional with a track record in another field. You want to meet people (perhaps mentors?) who can help you accelerate through the beginner phase so you can launch something useful on the web.
 
