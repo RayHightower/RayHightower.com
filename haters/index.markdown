@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: nonav
 title: "Haters..."
 comments: false
 sharing: false
