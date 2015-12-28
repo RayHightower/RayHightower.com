@@ -7,9 +7,9 @@ categories: [ Business, Education ]
 published: true
 ---
 
->First rule of user research: Never ask anyone what they want.<br/>~Erika Hall, author of “Just Enough Research"
-
 <img src="/images/just_enough_research.jpg" alt="Just Enough Research" align="right">
+
+>First rule of user research: Never ask anyone what they want.<br/>~Erika Hall, author of “Just Enough Research"
 
 It is popular to view entrepreneurs as risk takers. After 20+ years running WisdomGroup, I’m not sure that’s an accurate view. From what I've observed, successful entrepreneurs will reduce risk before launching a venture. Consider a road full of potholes. Most people would avoid such a road. But if the benefits at the end of the road are big enough, an entrepreneur will devise ways to navigate over and around the obstacles. 
 
@@ -20,6 +20,8 @@ Some people avoid risk outright. Entrepreneurs reduce risk through creativity.
 One risk in software development: What if the software solves a problem that nobody cares about? You could spend millions of dollars building software that never generates a return on investment.
 
 [Just Enough Research](http://abookapart.com/products/just-enough-research) by Erika Hall offers ways to study users so that software makers can build products that meet user needs. When needs are met, people will buy.
+
+<!--more-->
 
 ### Observation Beats Asking
 

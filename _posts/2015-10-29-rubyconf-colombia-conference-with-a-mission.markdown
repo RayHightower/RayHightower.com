@@ -12,6 +12,8 @@ published: true
 
 Yes, the technical presentations were powerful. Even more inspiring: RubyConf Colombia is a technical conference with a mission to change the reputation of Colombia.
 
+<!--more-->
+
 ### Confronting the Problem Head-On
 
 Juan Pablo confronted the problem directly in his opening remarks at the conference. He acknowledged that Colombia has a troubled past, and some people would like to permanently tie Colombia to that past. But the past is not the future. People in Juan Pablo’s generation are aggressively improving things for themselves and for future Colombians. RubyConf Colombia is one example of their work.

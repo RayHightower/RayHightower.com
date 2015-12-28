@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Streaming"
+listme: false
 footer: true
 ---
 

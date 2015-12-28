@@ -6,7 +6,7 @@ comments: true
 categories: [ Community, Functional Programming ]
 ---
 
-{% include image.html img="/images/LambdaJam.png" caption="Lambda Jam 2015" %}
+<img src="/images/LambdaJam.png" alt="Lambda Jam 2015" align="right">
 
 Working in software development is like being the proverbial kid in candy store. Every new language is a shiny and delicious thing. [Lambda Jam](http://lambdajam.com) (which bounces between Chicago and Melbourne) is a traveling candy store. And, like the kid in the candy store, I am sometimes distracted by tangential temptation.
 

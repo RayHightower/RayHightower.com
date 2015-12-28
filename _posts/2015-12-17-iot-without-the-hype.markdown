@@ -7,17 +7,15 @@ categories: [ Community, Education, IoT ]
 published: true
 ---
 
-### It Starts With Toys
-
 Every great technology started as a toy. People played with kites and paper airplanes for thousands of years before the Wright Brothers achieved powered flight. Ada Lovelace and Charles Babbage toyed with the analytical engine over a hundred years before the digital computer.
+
+<!--more-->
 
 ### Toys Become Useful Products
 
 Today, IoT enthusiasts fly toy drones, while professional photographers use similar devices to capture breathtaking photos. IoT youth groups build and compete with toy robots, while warehouse managers use industrial versions of the same robots to reduce costs and speed up delivery times.
 
 The Internet of Things is grown up and ready to do real work. All it needs is you.
-
-<!--more-->
 
 Slides and video appear below.
 

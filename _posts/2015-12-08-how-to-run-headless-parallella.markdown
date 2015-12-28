@@ -7,17 +7,17 @@ categories: [ Education, IoT, Parallella ]
 published: true
 ---
 
-### Why Headless?
+### Why Headless? 
 
 Running a computer "headless" means running it with no display, no keyboard, no mouse. The only directly attached cables are power and a network connection. 
 
 Why would you run a computer headless? Headless configurations are typically used in a data center with hundreds of servers and limited space. Since a well-running server rarely needs direct interaction, you can save space (and money) by skipping the monitor/mouse/keyboard installation, and only connecting these devices when needed.
 
+<!--more-->
+
 Even better: Don't connect via USB/HDMI. Why spend time walking to a server and connecting via USB when you can connect electronically over the network? Headless servers rock!
 
 This post tells how to connect to a headless Parallella from a Mac. The procedure should work with other Linux/Unix systems with minor minor modifications, depending on the distribution in use.
-
-<!--more-->
 
 ### Install XQuartz
 
