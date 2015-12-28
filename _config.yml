@@ -24,9 +24,9 @@ highlighter: pygments # default python pygments have been replaced by pygments.r
   
 
 # Disqus Comments
-disqus_short_name: RayHightowet
+disqus_short_name: RayHightower
 # disqus_short_name:
-disqus_show_comment_count: false
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-330946-28
