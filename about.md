@@ -20,4 +20,5 @@ Learn more at...
 * [Twitter](http://twitter.com/rayhightower)
 * [YouTube](http://youtube.com/wisdomgroupvideo)
 * [Onename Blockchain ID](https://onename.com/rayhightower)
+* [Orate Speaker Profile](https://www.orate.me/speakers/825-ray-hightower)
 * [RSS Feed](/atom.xml)
