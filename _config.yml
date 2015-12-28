@@ -8,6 +8,8 @@ permalink: /blog/:year/:month/:day/:title/
 twitter_username: rayhightower
 github_username:  
 
+excerpt_link: "Continue reading &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: redcarpet
@@ -39,4 +41,12 @@ gems:
 
 feed:
   path: atom.xml
+author:
+  name:           'Raymond T. Hightower'
+  url:            https://twitter.com/rayhightower
+
+paginate:         5
+
+github:
+  repo:           https://github.com/rayhightower
 
