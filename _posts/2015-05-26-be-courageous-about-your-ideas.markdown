@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Be Courageous About Your Ideas"
-date: 2015-05-26 19:54:21 -0500
+date: 2015-05-26 09:54:21 -0500
 comments: true
 categories: [ Business ]
 ---
