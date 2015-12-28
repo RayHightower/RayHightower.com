@@ -25,7 +25,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 ### Old School Contact Info
 
-Fastest contact happens through email and the contact form (above). Old school methods are available, and _slower_.
+You'll get a faster response through email and/or the contact form (above). Old school methods are available, and _slower_.
 
 Raymond T. Hightower<br/>
 President<br/>
