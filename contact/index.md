@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Contact Ray Hightower"
+layout: default
+title: "Contact"
 footer: false
 ---
 <div id="wufoo-r7w8p9">
