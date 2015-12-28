@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: nonav
 title: "Oops... 404 Error: Page not found."
 footer: false
 published: true
