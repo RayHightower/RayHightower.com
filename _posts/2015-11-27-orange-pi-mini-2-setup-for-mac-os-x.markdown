@@ -7,8 +7,6 @@ categories: [ Education, IoT ]
 published: true
 ---
 
-{% include image.html img="images/orangepi.jpg" caption="Orange Pi" %} 
-
 Raspberry Pi was the original low-cost single board computer. Competing products followed, including [Beaglebone Black](/blog/2014/01/02/beaglebone-black-ubuntu-part-1/), [Parallella](/blog/2015/08/22/madison-ruby-and-parallella/), and recently, [Orange Pi](http://www.orangepi.org/).
 
 The official Orange Pi instructions assume that the user is working on a Windows-based machine. This blog post shows how to prepare an SD-card image using Mac OS X. As with all instruction sets on this blog, the [sudo disclaimer](/sudo-disclaimer/) applies.
