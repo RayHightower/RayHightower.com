@@ -5,10 +5,10 @@ date: 2014-06-16 17:46
 comments: true
 categories: [ Arduino, BeagleBone Black, Community, IoT, Linux, OpenROV ]
 ---
->In the early days of robots people said, 'Oh, let's build a robot' and what's the first thought? You make a robot look like a human and do human things. That's so 1950s. We are so past that. 
-><br/>~Neil deGrasse Tyson
+<img src="/images/openrov-uw.jpg" alt="OpenROV: Underwater robot running Node.js." align="right">
 
-{% include image.html img="/images/openrov-uw.jpg" caption="OpenROV: Underwater robot running Node.js." %}
+>In the early days of robots people said, 'Oh, let's build a robot' and what's the first thought? You make a robot look like a human and do human things. That's so 1950s. We are so past that. 
+><br/>&nbsp;<br/>~Neil deGrasse Tyson
 
 [OpenROV](http://openrov.com) is an underwater robot, roughly the size of a toaster, and definitely not human-shaped. The device is controlled through a Node.js-based web app. Former NASA researcher Eric Stackpole and Make Magazine columnist David Lang are on a mission to democratize ocean exploration in the same way that Jobs and Woz sparked the democratization of  computing. Eric and David pooled their talents to launch OpenROV, building on the foundation laid by Moore’s Law and the open source software movement. 
 

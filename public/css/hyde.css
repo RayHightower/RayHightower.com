@@ -85,6 +85,27 @@ html {
 
 }
 
+.sidebar-about p {
+  font-size: 0.75rem;
+}
+
+/* Featured section */
+.sidebar-featured h4 {
+  color: #fff;
+  margin-top: 0;
+  /* font-family: "Arvo", serif; */
+  /* font-size: 3.25rem; */
+  font-size: 1.00rem;
+
+}
+
+.sidebar-featured ul {
+  font-size: 0.8rem;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
