@@ -31,7 +31,9 @@ Developers, designers, entrepreneurs, and investors all find value in WindyCityR
 ### Hands On Learning w/Braintree
 Open source is even more exciting when you give back to the community. Braintree is running an Open Source Lounge that will show you how.
 <br/>&nbsp;
-<center><iframe src="https://player.vimeo.com/video/134859517" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe src="https://player.vimeo.com/video/134859517" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 <br/>&nbsp;
 <br/>&nbsp;
 

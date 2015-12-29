@@ -7,11 +7,14 @@ categories: [ Business ]
 ---
 What can we build with disposable electronics? An ad in the January 2014 issue of [Wired Magazine](http://wired.com) lets the reader change the color of a Moto X smartphone by pressing a colored circle on the page. This 20-second video shows the ad in operation followed by a glimpse of the inner workings. 
 
-<center><iframe width="640" height="480" src="//www.youtube.com/embed/MkphhEu44sA?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe width="640" height="480" src="//www.youtube.com/embed/MkphhEu44sA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <!--more-->
 
-###Inner Workings
+### Inner Workings
+
 Taking the ad apart required one simple tool, a pair of scissors. Here's what's inside:
 
 * Four 3-volt CR2025 lithium coin batteries. This kind of battery is commonly used to power the remote key fob for an automobile. Walgreens sells these batteries.
@@ -23,7 +26,8 @@ Taking the ad apart required one simple tool, a pair of scissors. Here's what's 
  
 This assembly is more expensive than a typical full-page ad, but probably not by much. Mildly amusing to play with, and fun to take apart. Yes, the advertisers succeded in grabbing my attention.
 
-###Advertising ROI?
+### Advertising ROI?
+
 A famous ad expert once remarked, "Half the money I spend on advertising is wasted. The trouble is I don't know which half." Is the Moto X ad useful or wasted?
 
 An observation: I played with this paper gadget for a good ten minutes and I took the thing apart _before_ I considered reading the ad copy. Maybe the color change is too distracting for the ad to be effective? Maybe the temptation to disassemble the ad is too distracting, too.

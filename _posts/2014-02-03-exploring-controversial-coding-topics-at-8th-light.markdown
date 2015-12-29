@@ -9,7 +9,9 @@ categories: [ Business, Community ]
 
 <!--more-->
 
-<center><iframe src="//player.vimeo.com/video/84793305" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe src="//player.vimeo.com/video/84793305" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ###Topics Covered
 Some of the topics covered during the discussion:

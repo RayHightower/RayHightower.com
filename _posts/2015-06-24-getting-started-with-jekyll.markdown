@@ -25,8 +25,12 @@ This blog's migration from Octopress to Jekyll is underway. Iâ€™ll post when itâ
 <center><script async class="speakerdeck-embed" data-id="5d549813f5db469a974423257d1c734e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
 &nbsp;<br/>
 This 82-second video shows how to launch a Jekyll site with the default template.
-<center><iframe width="665" height="420" src="https://www.youtube.com/embed/2KHQ3o9b2wk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></center>
+<br/>&nbsp;<br/>
+<div class="video-container">
+<center><iframe width="665" height="420" src="https://www.youtube.com/embed/2KHQ3o9b2wk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 &nbsp;<br/>
 
 ### Thanks, Octopress!
+
 I am grateful to the Octopress community for introducing me to static page generators. Jekyll is the next logical step for me. And, since technology is always changing, it will be exciting to learn what's next.

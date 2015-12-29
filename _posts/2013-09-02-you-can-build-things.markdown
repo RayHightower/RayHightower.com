@@ -18,6 +18,8 @@ From a video interview with Steve Jobs:
 
 Check out the video:
 
-<center><iframe width="560" height="315" src="//www.youtube.com/embed/UvEiSa6_EPA?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe width="560" height="315" src="//www.youtube.com/embed/UvEiSa6_EPA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
