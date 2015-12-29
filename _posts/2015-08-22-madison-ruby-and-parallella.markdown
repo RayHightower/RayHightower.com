@@ -14,7 +14,10 @@ The [Madison+ Ruby](http://madisonpl.us/ruby/) organizers invited me to present 
 
 <!--more-->
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/BHZCCUEzK0s" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BHZCCUEzK0s" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <br/>&nbsp;
 <br/>&nbsp;
 <center><script async class="speakerdeck-embed" data-id="cf2abfd4752a417ca7b399761af38e2a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
