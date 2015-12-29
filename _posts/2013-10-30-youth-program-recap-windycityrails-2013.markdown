@@ -16,7 +16,9 @@ To increase the world's supply of problem solvers, the organizers of [WindyCityR
 ###Video Summary
 Here's the launch video:
 
-<center><iframe src="//player.vimeo.com/video/74022351" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe src="//player.vimeo.com/video/74022351" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ###Results
 The youth who participated in the program were engaged and enthusiastic. The Monkey Bars team introduced the youth to the Arduino micro-controller and related hardware.  
