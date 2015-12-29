@@ -10,7 +10,9 @@ published: true
 
 WisdomGroup is a member of the Leap Motion Developer Program. Check out this 1-minute video.
 
-<center><iframe name="leapmotion" width="560" height="315" src="http://www.youtube.com/embed/_d6KuiuteIA?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe name="leapmotion" width="560" height="315" src="http://www.youtube.com/embed/_d6KuiuteIA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <!--more-->
 

@@ -12,7 +12,9 @@ WisdomGroup is hiring a [web design intern](https://jobs.chicagoruby.org/jobs/10
 
 Great design is functional and inspiring. Autodesk captures the idea in this ad from several years ago:
 
-<center><iframe name="autodesk" width="560" height="315" src="http://www.youtube.com/embed/jrK4rTkKLDg?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe name="autodesk" width="560" height="315" src="http://www.youtube.com/embed/jrK4rTkKLDg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <!--more-->
 

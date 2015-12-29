@@ -13,7 +13,9 @@ When [Arizona State University](http://asu.edu/news/stories/200610/20061010_asug
 
 Adrian Sannier, Information Technology Officer at ASU, outlines the problem and solution in this 4-minute video.
 
-<center><object width="325" height="275"><param name="movie" value="http://www.youtube.com/v/_x2fJRW_vvQ&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/_x2fJRW_vvQ&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="325" height="275"></embed></object> </center>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_x2fJRW_vvQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <!-- more -->
 
