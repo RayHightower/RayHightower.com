@@ -7,6 +7,8 @@ categories: [ High Performance Computing, IoT, Parallella ]
 ---
 {% include image.html img="images/parallella_screenshot.png" caption="Parallella screenshot, 1080p." %} 
 
+_Update: Here's a [25-minute video intro to Parallella](/blog/2015/08/22/madison-ruby-and-parallella/)._
+
 Parallella is a single-board supercomputer smaller than a deck of cards. While today’s fastest laptops contain four processor cores, Parallella has _eighteen_ (2 [ARM](http://arm.com/) cores plus an [Epiphany](http://www.adapteva.com/epiphanyiii/) chip with 16 [RISC](http://en.wikipedia.org/wiki/Reduced_instruction_set_computing) cores). The maker of Parallella, [Adapteva](http://adapteva.com), is on a mission to democratize parallel computing. The company's tag line is _Supercomputing for Everyone_.
 
 <!--more-->

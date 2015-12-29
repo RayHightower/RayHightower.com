@@ -28,3 +28,8 @@ The [Madison+ Ruby](http://madisonpl.us/ruby/) organizers invited me to present 
 [Madison+ Ruby](/blog/2013/08/25/madison-ruby-2013/) has delivered a great experience for five years. Sadly, 2015 marks the last year for the conference. They will be missed.
 
 Thank you Jim and Jen Remsik for a great conference. I wish you well with everything you choose to do in coming years.
+
+### More on Parallella
+
+Future computers will achieve faster performance through parallelism. If you want to learn more about this trend, consider exploring Parallella for yourself. The <a href="/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/">Parallella Quick Start Guide</a> might be useful.
+
