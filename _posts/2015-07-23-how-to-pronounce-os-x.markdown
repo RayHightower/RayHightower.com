@@ -9,6 +9,8 @@ What's the correct way to pronounce the name of Apple's Macintosh operating syst
 
 <!--more-->
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sLKOXi9SZgQ?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLKOXi9SZgQ?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Note the difference between "OS X" with an upper-case "X" vs "OS x" with a lower-case "x".
