@@ -30,7 +30,9 @@ I solved the problem about a year ago by writing a command line tool that ejects
 ###Ejecting in a Hurry
 `EjectDisks` is a simple OS X program written with the RubyMotion toolchain for Mac OS X. It uses the `osx-status-bar-app-template` gem created by [Elliott Draper](https://github.com/kickcode/osx-status-bar-app-template). Here's a 10-second demo.
 
-<center><iframe name="eject-disks-osx" src="//player.vimeo.com/video/78349497" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe name="eject-disks-osx" src="//player.vimeo.com/video/78349497" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ###The Code
 The latest version of the EjectDisk code is on [GitHub](https://github.com/RayHightower/EjectDisks). The `app_delegate.rb` file appears below.
