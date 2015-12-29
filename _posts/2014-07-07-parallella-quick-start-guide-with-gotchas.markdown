@@ -60,7 +60,7 @@ Note: You might need different files depending on the current date (Parallella s
 
 Insert your SD card into your Mac's SD card reader, and use the Mac OS X `diskutil list` command to determine the designation of the SD card. If you use portable hard drives with your primary machine, the SD card designation could change from time to time, so it's important to perform this step each time you burn a card.
 
-{% highlight bash %}
+``` bash
 
 $ diskutil list
 /dev/disk0
@@ -76,8 +76,7 @@ $ diskutil list
 
 $  
 
-{% endhighlight %}
-
+```
 
 From this `diskutil` report, we can see that we want to burn the SD image to `/dev/disk1`. The other device is the hard drive for my primary machine. Burning the wrong device means destroying data. 
 
@@ -89,7 +88,8 @@ To burn the SD card...
 
 To execute the above steps as `bash` commands, do the following:
 
-{% highlight bash %}
+
+``` bash
 
 $ cd [directory containing the ubuntu image file]
 
@@ -99,8 +99,8 @@ Unmount of all volumes on disk1 was successful
 $ sudo dd if=ubuntu-14.04-140611.img of=/dev/disk1 bs=64k
 Password:
 
-{% endhighlight %} 
- 
+```
+
 The `dd` command takes a _long_ time to run, over 56 minutes on my machine. Here's a quick run-through of the command options:
 
 * `sudo` gives you [super powers](/sudo-disclaimer/). 
@@ -109,11 +109,11 @@ The `dd` command takes a _long_ time to run, over 56 minutes on my machine. Here
 * `of=` specifies the output file. We know that the SD card is located at `/dev/disk` so that's where the results of this command are headed.  Note that your destination directory may differ from this one.
 * `bs=` specifies the block size used for the destination file.
 
-###About Block Size
+### About Block Size
 
 The Mac section of the official Parallella guide recommends a block size of size of 1 megabyte, while the Linux instructions recommend 64 kilobytes (the option `bs=64k` in the `dd` command). I initially used `bs=1m` on my Mac, and I ran into problems. When I used `bs=64k`, everything worked fine. Note that I eventually traced my problem to something other than block size (details below) but since the 64k setting still works, I've left it intact. If I find out why Linux and OS X are using different block sizes, I'll post the information here.
 
-###Checking dd Progress
+### Checking dd Progress
 
 {% include image.html img="images/dd_progress.png" caption="Activity Monitor" %} 
 
@@ -121,7 +121,8 @@ Waiting an hour for the `dd` command to run can be disconcerting because the mac
 
 Here's how to check progress. Run Apple's `Activity Monitor`, and look for `dd` on the list of processes, as shown in the Activity Monitor screenshot. The number of bytes written will increase slowly while `dd` burns the Ubuntu image onto the SD card. With the current version of Ubuntu, roughly 7.4GB will be written to the SD. At completion, `dd` will disappear from the Activity Monitor list and you'll see the following at the command line.
 
-{% highlight bash %}
+
+``` bash
 
 $ sudo dd if=ubuntu-14.04-140611.img of=/dev/disk1 bs=64k
 Password:
@@ -131,15 +132,15 @@ Password:
 
 $ 
 
-{% endhighlight %} 
+```
 
 As you can see from the report, it took 3363.824531 seconds (just over 56 minutes) for `dd` to burn the Ubuntu image onto the SD card. That's a long time to wait with zero feedback. Activity Monitor will tell you what's going on.
 
-###Confirm Partitions
+### Confirm Partitions
 
 To confirm that the partitions have been created and that Ubuntu has been written to the SD card, use `diskutil list` again.
 
-{% highlight bash %}
+``` bash
 
 $ diskutil list
 /dev/disk0
@@ -156,13 +157,13 @@ $ diskutil list
 
 $ 
 
-{% endhighlight %} 
+```
 
 As expected, `/dev/disk0` remains unchanged. We want it that way because that's where our primary machine's operating system resides. `/dev/disk1` (your actual SD card designation may be different) is the target disk we're after. Two new partitions are on the SD card, a FAT32 partition named `BOOT` and a Linux partition.
 
 Next we need to copy some supporting files to the new `BOOT` partition.
 
-###Copying Additional Files to the SD Card
+### Copying Additional Files to the SD Card
 
 Now that Ubuntu resides on the SD card, it's time to add the files that support HDMI video and the FPGAs. Here's how.
 
@@ -174,7 +175,7 @@ I don't know why two different designations are used for the same SD card. I onl
 
 Before we copy over the files, let's see what's on the `BOOT` partition on the SD card.
 
-{% highlight bash %}
+``` bash
 
 ~$ cd /Volumes/BOOT/
 
@@ -189,13 +190,14 @@ drwxrwxrwx  1 rth   staff   512 Jul  5 23:44 .fseventsd
 
 /Volumes/BOOT$ 
 
-{% endhighlight %} 
+```
 
-###Gotcha #1: The FPGA Bitstream File
+### Gotcha #1: The FPGA Bitstream File
 
 First, change into the directory where you stored the additional Parallella files, and copy the FPGA bitstream file to `/Volumes/BOOT`.
 
-{% highlight bash %}
+
+``` bash
 
 $ cp parallella_e16_hdmi_gpiose_7010.bit.bin /Volumes/BOOT/
 
@@ -205,7 +207,7 @@ $ mv parallella_e16_hdmi_gpiose_7010.bit.bin parallella.bit.bin
 
 $ 
 
-{% endhighlight %} 
+```
 
 First gotcha: I made the mistake of simply copying the `parallella_e16_hdmi_gpiose_7010.bit.bin` file without renaming it to `parallella.bit.bin`. Parallella will only boot when it sees a file with this filename on the SD card's `BOOT` partition. The original file name will probably change as the software gets updated. With each change, we will need to make sure that the file is renamed `parallella.bit.bin` on the Parallella.
 
