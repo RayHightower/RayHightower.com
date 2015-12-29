@@ -31,9 +31,13 @@ Members of the class paired with each other. We shared solutions and advice. In 
 ### Pong in RubyMotion
 Since my day job revolves around Ruby, it made sense to re-write the exercise in [RubyMotion](http://rayhightower.dev/blog/2012/10/29/building-ios-apps-with-ruby-motion/). Here are video clips of my two solutions. The first was written in Objective-C during the Mobile Makers course. The second was written in RubyMotion.
 
-<center><iframe name="pong-oc" width="560" height="315" src="http://www.youtube.com/embed/9LETiMdi9jQ?rel=0" frameborder="0" allowfullscreen></iframe></iframe></center>
+<div class="video-container">
+<iframe name="pong-oc" width="560" height="315" src="http://www.youtube.com/embed/9LETiMdi9jQ?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<center><iframe name="pong-rm" width="560" height="315" src="http://www.youtube.com/embed/Lt-JKqiA_fg?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe name="pong-rm" width="560" height="315" src="http://www.youtube.com/embed/Lt-JKqiA_fg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 As expected, the two solutions look similar. Source code is on GitHub: 
 
