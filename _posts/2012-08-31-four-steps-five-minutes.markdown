@@ -7,7 +7,9 @@ categories: [Business]
 ---
 Nine out of ten startups fail in the first year. Why? More important, what can we do to improve the odds? Entrepreneur Steve Blank might have an answer, expressed in his book _The Four Steps to the Epiphany_. Key points from the book are summarized in this 5-minute video.
 
-<center><iframe name="foursteps" width="560" height="349" src="http://www.youtube.com/embed/uIYUTKP1pl8?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe name="foursteps" width="560" height="349" src="http://www.youtube.com/embed/uIYUTKP1pl8?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <!-- more -->
 
