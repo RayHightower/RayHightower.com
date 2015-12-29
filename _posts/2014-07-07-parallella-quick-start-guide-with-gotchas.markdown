@@ -213,11 +213,11 @@ First gotcha: I made the mistake of simply copying the `parallella_e16_hdmi_gpio
 
 Obvious in hindsight, but it took me awhile to track that one down!
 
-###Copy the Last Two Files
+### Copy the Last Two Files
 
 Two files were decompressed from `kernel-hdmi-default.tgz`: `devicetree.dtb` and `uImage`. Change into the directory where the files were decompressed, and copy them to `/Volumes/BOOT`.
 
-{% highlight bash %}
+``` bash
 
 $ cp devicetree.dtb /Volumes/BOOT/
 
@@ -225,11 +225,11 @@ $ cp uImage /Volumes/BOOT/
 
 $ 
 
-{% endhighlight %} 
+```
 
 Here’s what the BOOT partition should look like when you’re done..
 
-{% highlight bash %}
+``` bash
 
 /Volumes/BOOT$ ls -al
 total 12853
@@ -248,32 +248,32 @@ drwxrwxrwx  1 rth   staff      512 Jul  6 12:11 .fseventsd
 
 /Volumes/BOOT$ 
 
-{% endhighlight %} 
+```
 
 {% include image.html img="images/eject_boot.png" caption="Eject the SD card." %} 
 
-###Eject the SD Card, Insert in Parallella
+### Eject the SD Card, Insert in Parallella
 
 Now you're ready to eject the SD card from the Mac and insert it in the Parallella. Plug in the HDMI cable, keyboard, mouse, and Ethernet connection. Power up the Parallella, and welcome to the next _gotcha_.
 
-###Gotcha #2: Powered USB Required
+### Gotcha #2: Powered USB Required
 
 Parallella booted to a beautiful GUI, but the system would not respond to the keyboard or mouse. After swapping a few keyboard/mouse combinations, I finally tried a powered USB hub. The powered hub worked.
 
 Through trial and error I learned that the Parallella can handle a single keyboard plugged into the micro-USB port. However, if two devices are plugged in via USB, a powered hub is required. A passive USB hub will not work. A combination keyboard, one with both a keyboard and a trackpad, will also need a powered USB hub.
 
-###Default Login Credentials
+### Default Login Credentials
 
 Default login credentials for Parallella are...
 
 * username = linaro
 * password = linaro
 
-###SSH, Vim, Git, etc.
+### SSH, Vim, Git, etc.
 
 You can SSH into the Parallella from the network...
 
-{% highlight bash %}
+``` bash
 
 ~$ ssh linaro@192.168.11.133
 linaro@192.168.11.133's password:
@@ -283,11 +283,11 @@ Welcome to Linaro 14.04 (GNU/Linux 3.12.0-g0bc9c3a-dirty armv7l)
 Last login: Sun Jul  6 17:34:17 2014 from wisdomgroup-mbp13
 linaro-nano:~> 
 
-{% endhighlight %} 
+```
 
 ... Vim is operational...
 
-{% highlight bash %}
+``` bash
 
 linaro-nano:~> which vim
 /usr/bin/vim
@@ -295,11 +295,11 @@ linaro-nano:~> vim --version
 VIM - Vi IMproved 7.4 (2013 Aug 10, compiled Jan  2 2014 19:49:14)
 linaro-nano:~> 
 
-{% endhighlight %} 
+```
 
 ... and Git works fine.
 
-{% highlight bash %}
+``` bash
 
 linaro-nano:~> which git
 /usr/bin/git
@@ -307,12 +307,12 @@ linaro-nano:~> git --version
 git version 1.9.1
 linaro-nano:~>
 
-{% endhighlight %} 
+```
 
-###Scrot for Screenshots
+### Scrot for Screenshots
 
 If you want to take a screenshot of the Parallella display, use `scrot`. It comes with the Ubuntu installation. Type `scrot` at the command line and hit enter. Five seconds later, the entire screen will be captured and stored in a file called `[time stamp]_1920x1080_scrot.png` in the current directory.
 
-###Conclusion
+### Conclusion
 
 After waiting a year for Parallella to arrive, I'm excited to have the device up and running. Future posts will explore the "why?" behind parallel computing. Thanks Adapteva for helping to democratize supercomputing. Awesome times are ahead!
