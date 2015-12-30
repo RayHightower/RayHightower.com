@@ -27,65 +27,7 @@ There is another way to look at the power problem. Consider it from the perspect
 Rubyists are familiar with the saying &#34;[constraints are liberating](http://gettingreal.37signals.com/ch03_Embrace_Constraints.php)&#34;, popularized by 37signals. Since power limitations are real constraints, our next step is to figure out how to extract the best results allowed within the constraints.
 
 ###Top Five
-Supercomputer scientists are as competitive as olympic athletes. As of June 2013, the five fastest machines in the world are:
-
-<center>
-<table class="table table-condensed">
-	<thead>
-	<tr>
-		<th width="50">Rank</th>
-		<th width="75">Site</th>
-		<th width="100" style="text-align: right;">Cores</th>
-		<th width="75" style="text-align: right;">Rmax (PF/s)</th>
-		<th width="75" style="text-align: right;">Power (MW)</th>
-	</tr>
-	</thead>
-
-	<tr class="sublist odd">
-		<td><span class="badge">1</span></td>
-		<td>China</td>
-		<td style="text-align: right;">3,120,000</td>
-		<td style="text-align: right;">33.9</td>
-		<td style="text-align: right;">17.8</td>
-	</tr>
-
-	<tr class="sublist even">
-		<td><span class="badge">2</span></td>
-		<td>USA</td>
-		<td style="text-align: right;">560,640</td>
-		<td style="text-align: right;">17.5</td>
-		<td style="text-align: right;">8.2</td>
-	</tr>
-
-	<tr class="sublist odd">
-		<td><span class="badge">3</span></td>
-		<td>USA</td>
-		<td style="text-align: right;">1,572,864</td>
-		<td style="text-align: right;">17.2</td>
-		<td style="text-align: right;">7.9</td>
-	</tr>
-
-	<tr class="sublist even">
-		<td><span class="badge">4</span></td>
-		<td>Japan</td>
-		<td style="text-align: right;">705,024</td>
-		<td style="text-align: right;">10.5</td>
-		<td style="text-align: right;">12.6</td>
-	</tr>
-
-	<tr class="sublist odd">
-		<td><span class="badge">5</span></td>
-		<td>USA</td>
-		<td style="text-align: right;">786,432</td>
-		<td style="text-align: right;">8.6</td>
-		<td style="text-align: right;">3.9</td>
-	</tr>
-</table>
-</center>
-
-&nbsp;<br/>
-Scientists determine Rmax by running the [LINPACK](http://en.wikipedia.org/wiki/LINPACK_benchmarks) benchmark. [Top500.org](http://top500.org) has more information about the fastest
-machines.
+Supercomputer scientists are as competitive as olympic athletes. The fastest machines in the world are listed at [Top500.org](http://top500.org). Standard metrics for performance are contained in the [LINPACK](http://en.wikipedia.org/wiki/LINPACK_benchmarks) benchmarks.
 
 ###Digging Deeper
 Some of the biggest performance gains can be realized through more efficient software. Most supercomputers run some distribution of Linux. Some teams of researchers focus on ways to optimize the Linux kernel for supercomputing.
