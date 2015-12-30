@@ -49,7 +49,7 @@ jQuery(function() {
           $search_results.append(appendString);
         });
       } else {
-        $search_results.html('<li>No results found. Please check spelling, spacing, yada...</li>');
+        $search_results.html('<li>No results found.<br/>Please check spelling, spacing, yada...</li>');
       }
     });
   }
