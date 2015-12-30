@@ -8,7 +8,7 @@ published: true
 ---
 If you own a restaurant that offers WiFi, it can be frustrating to have “customers” camp out at a table all day using the WiFi and buying little. As an owner, you can get mad. Or you can come up with a way to capitalize on the opportunity.
 
-Panera found a way.
+Panera found a way to profit from the opportunity.
 
 <!--more-->
 
