@@ -3,7 +3,7 @@ layout: default
 title: Archive
 ---
 
-## Blog Posts
+## Blog Archive
 
 <div id="blog-archives">
 {% for post in site.posts reverse %}
