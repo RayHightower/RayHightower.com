@@ -20,5 +20,15 @@ If you have concerns in this area, please feel free to use one of the channels. 
 
 Thank you Coraline and Liz for your work in making this happen. And thank you [Ken Walters](https://twitter.com/lostghost) of [Brad’s Deals](http://twitter.com/bradsdeals) for facilitating the meeting.
 
+### History (updated 31Dec2015)
+
+For a brief history of how this issue evolved, take a look at...
+
+* [An Environment of Respect](/blog/2014/01/21/an-environment-of-respect/)
+* [An Environment of Respect, 2nd Iteration](/blog/2014/01/28/an-environment-of-respect-2nd-iteration/)
+* [An Environment of Respect, 3rd Iteration](/blog/2014/05/28/an-environment-of-respect-3rd-iteration/) (this article)
+
+### Next Steps
+
 Now, let’s go write some code!
 
