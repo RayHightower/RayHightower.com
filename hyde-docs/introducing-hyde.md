@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: nonav
 title: Introducing Hyde
 ---
 
