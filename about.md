@@ -19,6 +19,6 @@ Learn more at...
 * [SpeakerDeck](http://speakerdeck.com/rayhightower)
 * [Twitter](http://twitter.com/rayhightower)
 * [YouTube](http://youtube.com/wisdomgroupvideo)
+* [Speaker Profile (Orate)](https://www.orate.me/speakers/825-ray-hightower)
 * [Onename Blockchain ID](https://onename.com/rayhightower)
-* [Orate Speaker Profile](https://www.orate.me/speakers/825-ray-hightower)
 * [RSS Feed](/atom.xml)
