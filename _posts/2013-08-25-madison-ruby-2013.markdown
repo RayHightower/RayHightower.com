@@ -5,7 +5,7 @@ date: 2013-08-25 01:14
 comments: true
 categories: [ Community, Education, Ruby ]
 ---
-{% include image.html img="/images/madison-ruby.png" title="Madison Ruby 2011 T-Shirt Design by Mike Rohde" caption="Madison Ruby 2011 T-Shirt Design by Mike Rohde" %} 
+<img style="margin-left:20px" src="/images/madison-ruby.png" alt="Madison Ruby 2011 T-Shirt Design by Mike Rohde" align="right">
 
 [Madison Ruby](http://madisonruby.com) 2013 was held this weekend. The conference attracts smart, intellectually curious people who are thirsty to learn more. 
 
