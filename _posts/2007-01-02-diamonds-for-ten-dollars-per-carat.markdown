@@ -15,6 +15,7 @@ Woolworth's and Fats Waller are long gone, but Waller's tounge-in-cheek predicti
 <!-- more -->
 
 ### Yes, They're Real
+
 The diamonds I'm talking about are chemically identical to diamonds found in the mines of South Africa, Canada, and other spots around the world. I'm not talking about cubic zirconium. I mean man-made diamonds that are arguably superior to diamonds found in mines. Mined diamonds occur in nature, and they are formed when carbon is exposed to millions of years of heat and pressure beneath the earth's surface. Volcanic activity can play a role. As natural diamonds form and harden, they tend to envelope impurities within. These impurities, (the diamond industry calls them "inclusions") can greatly reduce the value of a diamond.
 
 But man-made diamonds contain zero inclusions.
