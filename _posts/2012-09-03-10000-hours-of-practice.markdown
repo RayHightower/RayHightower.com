@@ -10,7 +10,7 @@ In the book _Outliers_, author Malcolm Gladwell observes that it takes roughly t
 
 Gladwell studied the lives of extremely successful people to find out how they achieved success. This article will review a few examples from Gladwell’s research, and conclude with some thoughts for moving forward.
 
-<!-- more -->
+<!--more-->
 
 ### Violins in Berlin
 

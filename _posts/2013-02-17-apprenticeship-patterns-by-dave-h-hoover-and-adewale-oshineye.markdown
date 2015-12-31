@@ -13,7 +13,7 @@ Blogger's Note: This review of the book _Apprenticeship Patterns_ by [Dave H. Ho
 ### A New Profession
 Software development is among the newest of professions – roughly 70 years old depending on what you consider to be the beginning. The field is in a constant state of flux. New languages, new theories, new ways of communicating with clients… the list seems endless. How does a new developer keep up? How does a seasoned developer avoid growing stale?
 
-<!-- more -->
+<!--more-->
 
 ### How to Excel
 Apprenticeship Patterns was written as a guide for developers who want to excel throughout their careers. You might think of the book as a compilation of design patterns applied to human beings. Yes, the book is suitable for new developers. But seasoned people will find value as well. One useful pattern for veterans: Share What You Learn. All of us see old ideas through fresh glasses when we’re questioned about them. “When one person teaches, two people learn,” says the book.

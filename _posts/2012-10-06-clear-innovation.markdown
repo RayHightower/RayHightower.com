@@ -7,7 +7,7 @@ categories: [Business]
 ---
 Some organizations are innovative, while others are just lucky. How can you tell the difference? I would submit that longevity is a great divider between true innovators and those who are just lucky. An organization that generates new ideas time after time breaks the statistical rules that define luck. These are the organizations worthy of study.
 
-<!-- more -->
+<!--more-->
 
 ### 150+ Years of Innovation
 Corning entered the glass business over 150 years ago. At that time, the art of glassmaking had remained largely unchanged since the time of the Roman Empire. Glassmaking was a craft, an art handed down from father to son for generations, and glassmaking techniques were closely guarded secrets.

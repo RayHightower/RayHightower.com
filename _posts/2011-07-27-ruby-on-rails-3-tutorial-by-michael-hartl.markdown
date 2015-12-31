@@ -14,7 +14,7 @@ Ruby on Rails 3 Tutorial is well suited for beginning Ruby on Rails developers. 
 * Sometimes, as we become more advanced, we miss fundamentals along the way. Ruby on Rails 3 Tutorial will help to fill in the gaps.
 * It is possible to know a concept so well that you can’t express it in words. If you’re an advanced developer, and you need to explain a concept to someone less advanced, you might not have the words to express your thoughts. This book can give you good building blocks for your explanations.
 
-<!-- more -->
+<!--more-->
 
 Like most Rails books, this one starts with a few paragraphs about the Ruby language and the Rails framework. This book differs from some others because the author strives to build good craftsmanship practices in the reader. The earliest chapters introduce source code version control (using Git and GitHub), test driven development (using RSpec), and cloud hosting (using Heroku). By chapter two, the reader has already created and pushed to a GitHub repo. Very effective, very clear.
 

@@ -17,7 +17,7 @@ Adrian Sannier, Information Technology Officer at ASU, outlines the problem and 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_x2fJRW_vvQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<!-- more -->
+<!--more-->
 
 &nbsp;<br/>
 &nbsp;<br/>

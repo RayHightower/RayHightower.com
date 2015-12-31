@@ -14,7 +14,7 @@ $ rake ctags
 ### Make Ctags Better With Automation
 Ctags make writing code more efficient. But we shouldn't have to type `$ rake ctags` every time we create a new RubyMotion project. This article shows how to use a shell script to generate ctags automatically every time you create a new RubyMotion app. 
 
-<!-- more -->
+<!--more-->
 
 ### How Ctags Save Time
 Ctags can save you time. For example, when creating a new class called `HomeViewController` that inherits from `UIViewController`, typing the first view characters of the superclass will produce the drop-down shown below.

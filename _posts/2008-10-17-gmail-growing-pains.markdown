@@ -9,7 +9,7 @@ _Note: This article was originally posted on the [WisdomGroup](http://wisdomgrou
 
 WisdomGroup is both a proponent and a [user of GMail](/blog/2007/12/10/gmail-vs-microsoft-exchange/). Of course, the service is not perfect, as proven during yesterday's GMail outage. "It's only affecting a small number of users" is hardly consolation when you're one of the affected users.
 
-<!-- more -->
+<!--more-->
 
 ### Sys Admin Anger
 One angry systems administrator posted this message in the [Google Apps Discussion Group](http://groups.google.com/group/hosted-the-basics/browse_thread/thread/4465cc3272db6728?hl=en)

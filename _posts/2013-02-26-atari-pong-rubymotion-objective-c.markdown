@@ -18,7 +18,7 @@ I recently completed the [iOS Accelerated](http://mobilemakers.co/ios-accelerate
 * Keep score.
 * Let one or two players control the paddles via touch.
 
-<!-- more -->
+<!--more-->
 
 ### Questions to Consider
 How do you determine whether the pixels of the ball have collided with the pixels of a paddle? What about wall collisions? When a collision occurs, where should the ball bounce next? As with any application, there are many details to consider. 

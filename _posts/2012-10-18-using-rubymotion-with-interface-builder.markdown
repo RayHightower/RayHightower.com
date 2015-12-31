@@ -11,7 +11,7 @@ categories: [iOS, RubyMotion, Xcode]
 
 This article will show how to use Xcode's Interface Builder to create a basic UI for a RubyMotion application.
 
-<!-- more -->
+<!--more-->
 
 <img src="/assets/fizzbuzzrm.png" width = "200" align = "right" alt="Interface Builder with RubyMotion" title="Interface Builder with RubyMotion">
 

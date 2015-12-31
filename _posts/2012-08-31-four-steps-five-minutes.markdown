@@ -11,11 +11,11 @@ Nine out of ten startups fail in the first year. Why? More important, what can w
 <iframe name="foursteps" width="560" height="349" src="http://www.youtube.com/embed/uIYUTKP1pl8?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<!-- more -->
-
 ### About the Author of _The Four Steps to the Epiphany_
 
 <a href="http://steveblank.com">Steve Blank</a> worked in, owned, or managed eight different silicon valley startups in the course of twenty years. His eighth startup was very successful; he was able to exit with enough money to retire. At that point, Blank began to reflect on the successes and failures of the various startups he had been involved with. Reflection led to lectures at Stanford, Berkeley, and Columbia. Notes from his lectures evolved into the book: _The Four Steps to the Epiphany_.
+
+<!--more-->
 
 Blank noticed that startups went through predictable patterns of success or failure. Yes, there are multiple paths to failure, but there are fewer paths to success. Blank believes he has found a success path that applies to most startups.
 

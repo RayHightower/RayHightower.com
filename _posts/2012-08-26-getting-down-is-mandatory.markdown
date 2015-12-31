@@ -15,7 +15,7 @@ categories: [Business]
 
 _Business Parallel:_ Our most successful entrepreneurs press onward in the face of criticism.
 
-<!-- more -->
+<!--more-->
 
 ### Life and Death, Navigating Change
 Climbers operate in an environment where sound preparation and conditioning makes the difference between life and death. True, some unprepared climbers find that they must simply turn around and go back home. On one peak in the Himalayas, [Annaperna](http://en.wikipedia.org/wiki/Annapurna), one out of every two climbers dies while attempting the climb.
