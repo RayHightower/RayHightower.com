@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Geekfest &amp; OpenROV"
+title: "Geekfest and OpenROV"
 date: 2014-10-21 09:44
 comments: true
 categories: [ Community, OpenROV ]
