@@ -6,7 +6,7 @@ comments: true
 categories: [ Community, Parallella ]
 ---
 
-<img src="/images/parallella_perspective_250_bw.jpg" alt="images/parallella_perspective_250_bw.jpg" align="right">
+<img style="margin-left:20px" src="/images/parallella_perspective_250_bw.jpg" alt="images/parallella_perspective_250_bw.jpg" align="right">
 
 [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/) is a single-board computer roughly the size of a credit card or Raspberry Pi. It runs Linux. It has 18 processor cores, two ARM and sixteen RISC. You can buy this device online for about $150.00.
 
