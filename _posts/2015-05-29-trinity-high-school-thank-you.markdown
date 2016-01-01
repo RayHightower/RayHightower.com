@@ -5,7 +5,7 @@ date: 2015-05-29 14:51:18 -0500
 comments: true
 categories: [ Community ]
 ---
-<img src="/images/trinity_high_school_river_forest.jpg" alt="Tinity High School" align="right">
+<img style="margin-left:20px" src="/images/trinity_high_school_river_forest.jpg" alt="Tinity High School" align="right">
 
 &nbsp;<br/>
 

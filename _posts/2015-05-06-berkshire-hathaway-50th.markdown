@@ -6,7 +6,7 @@ comments: true
 categories: [ Business ]
 ---
 
-{% include image.html img="/images/berkshire_hathaway_50th.jpg" caption="40,000 shareholders in Omaha." %}
+<img style="margin-left:20px" src="/images/berkshire_hathaway_50th.jpg" alt="40,000 shareholders in Omaha." align="right">
 
 >Hi, I'm Warren. He's Charlie. He can hear, I can see. We work well together.
 ><br/>&nbsp;<br/>

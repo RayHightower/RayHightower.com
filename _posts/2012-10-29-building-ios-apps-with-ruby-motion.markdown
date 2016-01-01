@@ -8,9 +8,9 @@ categories: [iOS, Ruby, RubyMotion]
 
 Special thanks to the organizers of [MagicRuby](http://magic-ruby.com/) and [Aloha Ruby](http://aloharubyconf.com/) for inviting me to present RubyMotion at their respective conferences. [Confreaks](http://confreaks.com/videos/1245-aloharuby2012-building-ios-apps-with-rubymotion) recorded video at the Aloha Ruby event.
 
-<center>
+<div class="video-container">
 <iframe name="rubymotionaloha" width="560" height="315" src="http://www.youtube.com/embed/3gCsen5Zs4s" frameborder="0" allowfullscreen></iframe>
-</center>
+</div>
 
 The fizzbuzz sample code can be found on [GitHub](https://github.com/RayHightower/fizzbuzzrm). Slides are on [SpeakerDeck](https://speakerdeck.com/rayhightower/building-ios-apps-with-rubymotion).
 

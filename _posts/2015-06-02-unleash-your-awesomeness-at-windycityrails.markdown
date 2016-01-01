@@ -5,7 +5,7 @@ date: 2015-06-02 15:09:06 -0500
 comments: true
 categories: [ Community, Education ]
 ---
-<img src="/images/sphere_question.jpg" alt="Do you see yourself?" align="right">
+<img style="margin-left:20px" src="/images/sphere_question.jpg" alt="Do you see yourself?" align="right">
 
 Are you driven to excel? Do you see yourself here?
 

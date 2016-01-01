@@ -6,7 +6,7 @@ comments: true
 categories: [ Education ]
 published: true
 ---
-<a href="/images/blooms_taxonomy_thumb.png" onclick="window.open('/images/blooms_taxonomy.png','popup','width=770,height=548,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/images/blooms_taxonomy_thumb.png" border="0" alt="Bloom's Taxonomy" name="image" class="right" width="250" height="162" title="Bloom's Taxonomy" /></a>
+<a href="/images/blooms_taxonomy_thumb.png" onclick="window.open('/images/blooms_taxonomy.png','popup','width=770,height=548,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img style="margin-left:20px" align="right" src="/images/blooms_taxonomy_thumb.png" border="0" alt="Bloom's Taxonomy" name="image" class="right" width="250" height="162" title="Bloom's Taxonomy" /></a>
 
 Bloom's Taxonomy is a framework that breaks the learning process into stages. According to Bloom, learning begins with rote memorization and the process progresses upward until we can apply what we've learned in creative new ways.
 
