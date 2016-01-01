@@ -5,7 +5,7 @@ date: 2014-12-22 12:07
 comments: true
 categories: [ Community ]
 ---
-Bad news&#58; I have decided to cancel [RubyCaribe](http://rubycaribe.com) for 2015. Ticket sales are insufficient to cover the cost of the event. ~~Every person who bought a ticket will receive a full refund.~~ All tickets sales have been refunded.
+Bad news&#58; I have decided to cancel [RubyCaribe](http://rubycaribe.com) for 2015. Ticket sales are insufficient to cover the cost of the event. <strike>Every person who bought a ticket will receive a full refund.</strike> All tickets sales have been refunded.
 
 Barbados is a beautiful island nation with welcoming people, a university that leads in multiple technical areas, and a thriving economy. The RubyCaribe (pronounced ka-REEB) organizers will make the event happen in some form at some point in the future. Just not now.
 

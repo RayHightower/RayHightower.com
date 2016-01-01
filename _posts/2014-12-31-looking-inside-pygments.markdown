@@ -9,7 +9,10 @@ This blog uses [pygments.rb](https://rubygems.org/gems/pygments.rb) for syntax h
 
 Full disclosure: Pygments didn't simply stop working. I applied updates related to Octopress and Lunr.js, and then it stopped working. So the root cause is me! Rather than back-out the updates, I decided to push forward because Lunr.js will improve the search experience for visitors. Search options will be discussed in a future post.
 
-###Starting With the Error Message
+<!--more-->
+
+### Starting With the Error Message
+
 As with all [Octopress](http://octopress.org/) based blogs, the `$ rake generate` command creates a new set of static pages every time the command gets run. Normally the process is smooth. Here's the error message that resulted this morning.
 
 ``` bash
@@ -26,9 +29,8 @@ $
 
 What unknown language? Something was fishy. Fortunately, `pygments` is an open source plugin. Solving the problem was non-trivial, but doable.
 
-<!--more-->
+### Exploring Pygments Internals
 
-###Exploring Pygments Internals
 Google, Stack Overflow, and the Octopress documentation gave clues on where to explore. Adding a few lines to `source/plugins/pygments_code.rb` provided insights on what `pygments` was "thinking".
 
 ``` ruby
@@ -54,7 +56,8 @@ end
 
 ```
 
-###Observing the Results, Applying a Solution
+### Observing the Results, Applying a Solution
+
 Next step: Run `$ rake generate` and see what happens. Turns out that the lastest version of `pygments` halted for two reasons:
 
 * Some of my older blog posts did not contain a space between the triple-backtick characters and the name of the language being highlighted. Earlier versions of `pygments` did not care, but the current version is a stickler.
