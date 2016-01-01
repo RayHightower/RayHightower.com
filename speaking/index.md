@@ -24,8 +24,8 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 ### Additional Speaking History:
 
 * RubyConf Colombia<br/>Medellín, Colombia<br/>&nbsp;<br/>
-* in5 hub Innovation Hub<br/>Dubai, UAE<br/>&nbsp;<br/>
-* DevNights at The Cribb<br/>Dubai, UAE<br/>&nbsp;<br/>
+* in5 hub Innovation Hub <br/>Dubai, UAE<br/>&nbsp;<br/>
+* DevNights at The Cribb <br/>Dubai, UAE<br/>&nbsp;<br/>
 * Association for Computing Machinery (ACM)<br/>Chicago, IL, USA<br/>&nbsp;<br/>
 * Rubyfuza<br/>Cape Town, South Africa<br/>&nbsp;<br/>
 * Aloha Ruby<br/>Honolulu, HI, USA<br/>&nbsp;<br/>
@@ -33,12 +33,3 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 * LinuxBarbados at University of the West Indies<br/>Cave Hill, Barbados<br/>&nbsp;<br/>
 * Ignite RubyConf<br/>San Diego, CA, USA<br/>&nbsp;<br/>
 * Flourish Open Source Conference - University of Illinois<br/>Chicago, IL, USA<br/>&nbsp;<br/>
-
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-
-
