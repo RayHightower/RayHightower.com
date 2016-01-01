@@ -6,7 +6,7 @@ comments: true
 categories: [ Education, iOS, Objective-C ]
 ---
 
-{% include image.html img="/images/cocoaconf-mug.png" caption="Official Cocoaconf Mug" %} 
+{% include image.html img="/images/cocoaconf-mug.png" %} 
 
 "Hey Nerd!"
 

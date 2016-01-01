@@ -7,7 +7,7 @@ categories: [ Business, Education ]
 published: true
 ---
 
-<img src="/images/just_enough_research.jpg" alt="Just Enough Research" align="right">
+<img style="margin-left:20px" src="/images/just_enough_research.jpg" alt="Just Enough Research" align="right">
 
 >First rule of user research: Never ask anyone what they want.<br/>~Erika Hall, author of “Just Enough Research"
 

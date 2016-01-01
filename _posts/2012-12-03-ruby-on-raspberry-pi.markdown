@@ -6,22 +6,25 @@ comments: true
 categories: [Raspberry Pi, Rails, Ruby]
 ---
 
-<img src="/assets/raspberry_pi_iphone.jpg" width="400" align="right" title="Raspberry Pi Circuit Board" alt="Raspberry Pi Circuit Board">
+<img style="margin-left:20px" src="/assets/raspberry_pi_iphone.jpg" width="400" align="right" title="Raspberry Pi Circuit Board" alt="Raspberry Pi Circuit Board">
 Raspberry Pi is a single-board computer roughly the size of a deck of cards. It's equipped with an ARM processor that runs Linux. USB ports let you attach a keyboard and mouse. Video is supported via HDMI and RCA. Storage is handled by SD cards. There's an Ethernet port. 
 
 You can buy a Raspberry Pi for $35.00.
 
 ### Will it Run Ruby?
+
 When my Raspberry Pi arrived, I was curious: Will it run Ruby? How about Rails?  This article describes my experience with RVM, Ruby, and Rails on a Raspberry Pi, along with the "gotchas" I encountered along the way.
 
 <!--more-->
 
 ### Why Raspberry Pi?
+
 Raspberry Pi was created by a group of UK educators and engineers with a concern: Inexpensive hobbyist computers like the old Commodore 64 no longer exist. Game consoles continue to get better, but there is no replacement for the Commodore. As a result, young people who _might_ become developers get introduced to the profession as gamers or users of Word or Excel. They begin as consumers, not creators. Sad news, because creators shape the world we all enjoy. 
 
 Creators get stronger when they have tools for learning, play, and [10,000 hours of practice](/blog/2012/09/03/10000-hours-of-practice/). Enter Raspberry Pi. It's a tiny, inexpensive computer. It runs open source software so it is highly accessible to curious minds that are eager to learn, practice, and play.
 
 ### Yes, It Will Run Ruby
+
 Here's a screenshot from my Raspberry Pi with the Midori web browser, RVM, Ruby 1.9.3-p327, Rails 3.2.9, Vim 7.3, and other tools. In this shot, I'm using the Pi's HDMI output to drive a 1080p monitor.
 
 <img src="/assets/RaspberryPi-Desktop.png" width="800" align="middle" title="Raspberry Pi 1080p HDMI Monitor" alt="Raspberry Pi 1080p HDMI Monitor" >
@@ -29,6 +32,7 @@ Here's a screenshot from my Raspberry Pi with the Midori web browser, RVM, Ruby 
 Yes, this tiny, $35 device will drive a monitor at full 1080p HD.
 
 ### Getting Started
+
 Here's what you need to get Ruby running on your Raspberry Pi.
 
 * 1 Raspberry Pi with 512MB RAM or more. I bought mine from [Newark/element14](http://newark.com).
@@ -44,6 +48,7 @@ Here's what you need to get Ruby running on your Raspberry Pi.
 The Pi makers have tested the device with SD cards as large as 32GB, even though 4GB is recommended. Personally, I prefer the larger cards because they allow more room for experiments.
 
 ### Prepping the SD Card
+
 The Pi's operating system boots from the SD card. There are several methods for prepping the SD card with the Raspberry Pi system. The easiest: Buy a Pi with a pre-configured SD card. 
 
 My Pi arrived before the pre-configured SD card. I'm a little bit impatient when it comes to new gadgets, so I decided to prep an old SD card of my own.
@@ -59,6 +64,7 @@ References:
 Prepping an SD card takes a _long_ time. In my case, it took 23 minutes from the time I executed the SD write command (`$ sudo dd...`) to the completion of the process. It was a little disconcerting because the system didn't do anything during that time. No feedback whatsoever. Sounds like an opportunity for a pull request!
 
 ### Starting the System
+
 To start your Raspberry Pi system:
 
 * Plug the SD card, USB keyboard & mouse, Ethernet cable, and video cable (HDMI or RCA) into their corresponding sockets.
@@ -80,6 +86,7 @@ $ startx
 ```
 
 ### Ruby with RVM
+
 I am a big fan of [Ruby Version Manager (RVM)](http://rvm.io). I learn best when I break things. RVM's handling of Ruby versions and gemsets enables me to recover rapidly and well. 
 
 This command will install the latest stable versions of RVM and Ruby:
@@ -91,6 +98,7 @@ $ curl -L https://get.rvm.io | bash -s stable --ruby
 It took over an hour for Ruby to compile on my Pi. The read/write speed of my SD card (Class 4) could have been a factor. I have a faster (Class 10) SD card on order.
 
 ### Installing Rails
+
 First, make sure you're using the version of Ruby you want to use.
 
 ``` bash
@@ -113,6 +121,7 @@ $ gem install rails
 
 
 ### Gotchas
+
 The installation process was relatively smooth. Still, here are a few gotchas I encountered with the Pi:
 
 * I already mentioned this, but it's worth repeating: It took 23 minutes to write the SD card, and there was no feedback along the way. This wasn't a big deal since I had been pre-warned by one of the wikis.
@@ -125,6 +134,7 @@ The installation process was relatively smooth. Still, here are a few gotchas I 
 Overall, the gotchas were minor.
 
 ### For Screenshots, Try Scrot
+
 To take screenshots of the Raspberry Pi desktop, I used Scrot (SCReenshOT). Here's how to install Scrot:
 
 ```
@@ -143,9 +153,10 @@ To pause five seconds before taking the screenshot:
 $ sleep 5; scrot ~/desktop.png
 ```
 
-<img src="/assets/raspberry-pi-analog-TV.jpg" width="400" align="right" title="Raspberry Pi Analog TV Monitor" alt="Raspberry Pi Analog TV Monitor" >
+<img style="margin-left:20px" src="/assets/raspberry-pi-analog-TV.jpg" width="400" align="right" title="Raspberry Pi Analog TV Monitor" alt="Raspberry Pi Analog TV Monitor" >
 
 ### Analog TV
+
 Don't laugh: I still have an old analog TV in my living room. It's twelve years old and it still works. Since Raspberry Pi comes with multiple video outupts, analog TVs are useful again.
 
 Here's Raspberry Pi running with my old analog TV as a monitor. Reminds me of the Commodore 64 days!
@@ -153,6 +164,7 @@ Here's Raspberry Pi running with my old analog TV as a monitor. Reminds me of th
 Raspberry Pi will work with a wide range of monitors, from HDMI to ancient analog. That makes the Pi accessible to a large audience of hobbyists and developers. 
 
 ### Conclusion
+
 Raspberry Pi will never replace my primary machine because it's too slow. But it is certainly fast enough for learning. It meets the goals set forth by the engineering team. 
 
 I am excited by the learning opportunities offered by Raspberry Pi. To the Raspberry Pi Foundation: Thank you for an impressive device. I wish you much success. 

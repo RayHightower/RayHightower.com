@@ -9,7 +9,8 @@ _Blogger's Note from Feb2013: This article was originally posted on the [WisdomG
 
 >If Woolworth's sold diamond rings, you'd have a million of 'em baby!<br/> ~Fats Waller, Piano composer/performer, circa 1915
 
-<img src="/images/diamond.jpg" width="300" height="190" align="right" alt="Diamonds for Ten Dollars Per Carat" title="Diamonds for Ten Dollars Per Carat">
+<img style="margin-left:20px" src="/images/diamond.jpg" width="300" height="190" align="right" alt="Diamonds for Ten Dollars Per Carat" title="Diamonds for Ten Dollars Per Carat">
+
 Woolworth's and Fats Waller are long gone, but Waller's tounge-in-cheek prediction will come to pass in the next few years. Diamonds will sell for $10.00 per carat in the year 2015. Advances in the fabrication of synthetic/cultured diamonds will drive down the price and value of these "precious" gems. At the same time, the needs of computer manufacturers and huge economies of scale will make it worthwhile for diamond fabricators to roll out cheap diamonds by the pound. 
 
 <!--more-->

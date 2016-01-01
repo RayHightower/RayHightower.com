@@ -14,6 +14,8 @@ It is gratifying to know that learning something tangentially related to Ruby wi
 ### Passing Arguments
 For example, what happens when we pass arguments to a process, Ruby or otherwise? How do the arguments get there? Storimer offers a 1-line Ruby program called `argv.rb` that we can use to play with the ARGV array:
 
+<!--more-->
+
 ``` bash
 ~/Code/Ruby/apps/sandbox$ echo 'p ARGV' > argv.rb
 
@@ -23,7 +25,6 @@ For example, what happens when we pass arguments to a process, Ruby or otherwise
 ~/Code/Ruby/apps/sandbox$ 
 
 ```
-<!--more-->
 
 Once we have our hands on the ARGV array, we can parse it and manipulate it at will.
 
