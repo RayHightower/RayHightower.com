@@ -4,6 +4,8 @@ title: "Speaking"
 footer: true
 ---
 
+<img style="margin-left:20px;" src="/images/parallella_hightower_2015.png" alt="parallella madison ruby" align="right" />
+
 Ray Hightower delivers presentations on technology and business growth. If you would like to invite him to speak at your event, you can reach him through the [contact form](/contact).
 
 ### Presentation Videos:
