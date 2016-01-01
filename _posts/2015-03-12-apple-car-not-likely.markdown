@@ -6,9 +6,11 @@ comments: true
 categories: [ Business ]
 ---
 >You have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose. And that’s as close to certain as any prediction that you can make. You have to figure out where you’ve got an edge. And you’ve got to play within your own circle of competence.
-><br/>~Charlie Munger, Vice Chairman, Berkshire Hathaway
+><br/><br/>~Charlie Munger, Vice Chairman, Berkshire Hathaway
 
-Some journalists speculate that [Apple is building a car](http://9to5mac.com/2015/02/19/apple-electric-car-team/) because they recently hired some automotive engineers away from Tesla. My prediction: Apple is _not_ building a car. Apple might build a device that plays a major role in the automotive marketplace. But a fully assembled automobile is too far outside the company's _circle of competence_, as Charlie Munger might say. Apple succeeds because the company maintains disciplined focus within its circle of competence.
+Some journalists speculate that [Apple is building a car](http://9to5mac.com/2015/02/19/apple-electric-car-team/) because they recently hired some automotive engineers away from Tesla. 
+
+My prediction: Apple is _not_ building a car. Apple might build a device that plays a major role in the automotive marketplace. But a fully assembled automobile is too far outside the company's _circle of competence_, as Charlie Munger might say. Apple succeeds because the company maintains disciplined focus within its circle of competence.
 
 <!--more-->
 

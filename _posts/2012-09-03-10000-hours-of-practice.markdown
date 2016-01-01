@@ -5,7 +5,8 @@ date: 2012-09-03 00:46
 comments: true
 categories: [Business]
 ---
-<img src="/images/outliers.jpg" width="200" height="302" align="right" alt="Outliers by Malcolm Gladwell" title="Outliers by Malcolm Gladwell">
+<img style="margin-left:20px" src="/images/outliers.jpg" width="200" height="302" align="right" alt="Outliers by Malcolm Gladwell" title="Outliers by Malcolm Gladwell">
+
 In the book _Outliers_, author Malcolm Gladwell observes that it takes roughly ten thousand hours of practice to achieve mastery in a field. How does Gladwell arrive at this conclusion? And, if the conclusion is true, how can we leverage this idea to achieve greatness in our professions?
 
 Gladwell studied the lives of extremely successful people to find out how they achieved success. This article will review a few examples from Gladwell’s research, and conclude with some thoughts for moving forward.
