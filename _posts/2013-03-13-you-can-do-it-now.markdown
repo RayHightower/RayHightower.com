@@ -5,7 +5,7 @@ date: 2013-03-13 15:31
 comments: true
 categories: [Business, Education]
 ---
-<img src="/images/do_it_now.jpg" align="right" width="200" height="296" alt="You Can Do It Now" title="You Can Do It Now">
+<img style="margin-left:20px" src="/images/do_it_now.jpg" align="right" width="200" height="296" alt="You Can Do It Now" title="You Can Do It Now">
 If you are fortunate enough to work in the technology industry, you do not need permission to move forward. So do it now.
 
 Yes, you will have to define _it_ for yourself.
