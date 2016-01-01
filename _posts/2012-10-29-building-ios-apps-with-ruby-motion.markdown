@@ -11,6 +11,7 @@ Special thanks to the organizers of [MagicRuby](http://magic-ruby.com/) and [Alo
 <div class="video-container">
 <iframe name="rubymotionaloha" width="560" height="315" src="http://www.youtube.com/embed/3gCsen5Zs4s" frameborder="0" allowfullscreen></iframe>
 </div>
+<br/>&nbsp;
 
 The fizzbuzz sample code can be found on [GitHub](https://github.com/RayHightower/fizzbuzzrm). Slides are on [SpeakerDeck](https://speakerdeck.com/rayhightower/building-ios-apps-with-rubymotion).
 
