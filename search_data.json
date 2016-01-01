@@ -23,7 +23,7 @@ layout: null
       "content"	 : "{{page.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
       "url": " {{ page.url | xml_escape }}",
     }
-  {% endif %}
     {% unless forloop.last %},{% endunless %}
+  {% endif %}
   {% endfor %}
 }
