@@ -9,7 +9,7 @@ published: true
 
 <img style="margin-left:20px" src="/images/jekyll_github_lunrjs.png" align="right">
 
-This blog is built on three powerful open source tools:
+This blog is built on three powerful tools, commonly used in the open source community:
 
 * [Jekyll](/blog/2015/06/24/getting-started-with-jekyll/), the Ruby-based static page generator. 
 
