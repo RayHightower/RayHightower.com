@@ -15,19 +15,20 @@ It is popular to view entrepreneurs as risk takers. After 20+ years running Wisd
 
 Some people avoid risk outright. Entrepreneurs reduce risk through creativity.
 
+<!--more-->
+
 ### Risks in Software Development
 
 One risk in software development: What if the software solves a problem that nobody cares about? You could spend millions of dollars building software that never generates a return on investment.
 
 [Just Enough Research](http://abookapart.com/products/just-enough-research) by Erika Hall offers ways to study users so that software makers can build products that meet user needs. When needs are met, people will buy.
 
-<!--more-->
-
 ### Observation Beats Asking
 
 Humans are funny creatures. If someone asks us outright what we need, we don't always know how to answer.
 
 * It's difficult for us to observe ourselves; we're too close to the object of study. 
+
 * We don't always know the [list of available options](/blog/2014/01/15/henry-ford-faster-horse/). 
 
 The best user research is conducted by a curious yet non-judgmental third party. Interviews are helpful if the questions are open-ended and if the interviewer listens well.
@@ -49,10 +50,3 @@ Our competition is anything that the customer might do instead of buying our pro
 ### Conclusion
 
 _Just Enough Research_ is a worthwhile read for anyone who builds products. It's written for people in the web development industry, but the lessons apply to any product that a customer might buy.
-
-
-
-
-
-
-

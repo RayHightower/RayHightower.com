@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jekyll + GitHub + LunrJS"
+title: "Jekyll + GitHub + lunr.js"
 date: 2016-01-02 04:03:11 -0500
 comments: true
 categories: [ Community, Education, Git, LunrJS ]
@@ -9,15 +9,15 @@ published: true
 
 <img style="margin-left:20px" src="/images/jekyll_github_lunrjs.png" align="right">
 
-This builds on three powerful open source tools:
+This blog is based on three powerful open source tools:
 
 * [Jekyll](/blog/2015/06/24/getting-started-with-jekyll/), the Ruby-based static page generator. 
 
 * [GitHub](/blog/2015/07/22/github-pages-quick-start-guide/), the collaboration tool, used for hosting and its content delivery network. 
 
-* [LunrJS](http://lunrjs.com) to give your visitors fast search capabilities.
+* [lunr.js](http://lunrjs.com) to give visitors fast search capabilities.
 
-The topic was presented at ChicagoRuby: North Shore on Saturday, January 2, 2016. Slides appear below.
+The topic was presented at [ChicagoRuby: North Shore](http://www.meetup.com/ChicagoRuby/events/225788039/) on Saturday, January 2, 2016. Slides appear below.
 
 <!--more-->
 

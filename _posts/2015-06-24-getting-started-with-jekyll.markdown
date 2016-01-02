@@ -13,14 +13,16 @@ categories: [ Community, Ruby ]
 <!--more-->
 
 ### Why Jekyll?
-You may already know that RayHightower.com is powered by [Octopress](http://octopress.org) (as of the date of this article). Octopress sits on top of Jekyll. Recently, I discovered that Jekyll offers some advantages that will help this blog greatly, namely:
+
+<strike>You may already know that RayHightower.com is powered by [Octopress](http://octopress.org) (as of the date of this article).</strike> _Update: Migration complete!_ Octopress sits on top of Jekyll. Recently, I discovered that Jekyll offers some advantages that will help this blog greatly, namely: 
 
 * A larger community than Octopress. As Linus Torvalds says: With many eyeballs, all bugs are shallow.
 
 * Lots of templates. I am not a designer. Further, since this is a simple blog, an amazing design would be overkill. But the blog must look crisp and professional, right? Jekyll templates that meet my needs are widely available.
 
 ### Migration Happening Now
-This blog's migration from Octopress to Jekyll is underway. I’ll post when it’s done. In the meantime, take a look at the slides from the Jekyll presentation at ChicagoRuby.
+
+<strike>This blog's migration from Octopress to Jekyll is underway. I’ll post when it’s done.</strike> _Update: The migration from Octopress to Jekyll is complete, and you're reading it now!_ In the meantime, take a look at the slides from the Jekyll presentation at ChicagoRuby.
 
 <center><script async class="speakerdeck-embed" data-id="5d549813f5db469a974423257d1c734e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
 &nbsp;<br/>
