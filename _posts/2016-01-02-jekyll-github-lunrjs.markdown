@@ -15,7 +15,7 @@ This blog is built on three powerful tools, commonly used in the open source com
 
 * [GitHub](/blog/2015/07/22/github-pages-quick-start-guide/), the collaboration tool for developers. Also useful for hosting and its content delivery network. 
 
-* [lunr.js](http://lunrjs.com) to give visitors fast search capabilities. lunr.js is fast because search requests never hit the network. The entire search workflow happens in the browser.
+* [lunr.js](http://lunrjs.com), which gives visitors fast search capabilities. lunr.js is fast because search requests never hit the network. The entire search workflow happens in the browser.
 
 Members of [ChicagoRuby: North Shore](http://www.meetup.com/ChicagoRuby/events/225788039/) gathered on Saturday, January 2, 2016 to share experiences and ideas with these key tools. Slides appear below.
 
