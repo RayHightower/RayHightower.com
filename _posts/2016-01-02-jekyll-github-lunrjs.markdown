@@ -9,11 +9,11 @@ published: true
 
 <img style="margin-left:20px" src="/images/jekyll_github_lunrjs.png" align="right">
 
-This post tells how to combine three open source tools into a powerful blog or web site.
+This builds on three powerful open source tools:
 
-* [Jekyll](http://jekyllrb.com), the Ruby-based static page generator. 
+* [Jekyll](/blog/2015/06/24/getting-started-with-jekyll/), the Ruby-based static page generator. 
 
-* [GitHub](http://github.com), the collaboration tool, used for hosting and its content delivery network. 
+* [GitHub](/blog/2015/07/22/github-pages-quick-start-guide/), the collaboration tool, used for hosting and its content delivery network. 
 
 * [LunrJS](http://lunrjs.com) to give your visitors fast search capabilities.
 
