@@ -17,7 +17,7 @@ This blog is built on three powerful tools, commonly used in the open source com
 
 * [lunr.js](http://lunrjs.com) to give visitors fast search capabilities.
 
-The topic was presented at [ChicagoRuby: North Shore](http://www.meetup.com/ChicagoRuby/events/225788039/) on Saturday, January 2, 2016. Slides appear below.
+Members of [ChicagoRuby: North Shore](http://www.meetup.com/ChicagoRuby/events/225788039/) gathered on Saturday, January 2, 2016 to share ideas on effective ways to use the tools. Slides appear below.
 
 <!--more-->
 
