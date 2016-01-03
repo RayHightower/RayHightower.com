@@ -61,7 +61,7 @@ html {
 }
 @media (min-width: 48em) {
   .sidebar {
-    position: relative;
+    position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
@@ -100,7 +100,7 @@ html {
 }
 
 .sidebar-featured ul {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -120,6 +120,7 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+  text-color: blue;
 }
 
 /* Sticky sidebar
