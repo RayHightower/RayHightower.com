@@ -5,6 +5,7 @@ comments: false
 sharing: false
 footer: false
 ---
+
 _by Rudyard Kipling_
 
 If you can keep your head when all about you<br />

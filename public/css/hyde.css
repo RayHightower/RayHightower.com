@@ -120,7 +120,6 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
-  text-color: blue;
 }
 
 /* Sticky sidebar
