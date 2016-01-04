@@ -14,7 +14,7 @@ published: true
 </div> 
 
 <br/>
-Speed is one reason why this blog runs lunr.js. [Try it here](/search/). If you run a Jekyll-based blog, this post will tell you how to make lunr.js work for you. Gotchas (and solutions) are shared within.
+Speed is one reason why this blog runs lunr.js. [Try lunr.js search here](/search/). If you run a [Jekyll-based blog](/blog/2016/01/02/jekyll-github-lunrjs/), this post will tell you how to make lunr.js work for you. Gotchas (and solutions) are shared within.
 
 <!--more-->
 
@@ -32,15 +32,15 @@ Before we get into the details, let's review how `lunr.js` works from a big pict
 
 * When the user visits your Jekyll site, `_site/search_data.json` (the generated JSON file) gets downloaded in the background, along with the HTML, CSS, image, and other files that the user sees while viewing the site. The generated JSON file remains on the user's machine, stored by the browser.
 
-* When the user makes a search request, the `lunr.js` executable in the browser seaches the local copy of the generated JSON file. There's no need to request the file from the server because the browser already downloaded it in the background. Searches are fast because `lunr.js` only opens one local file.
+* When the user makes a search request, the `lunr.js` executable in the browser seaches the local copy of the generated JSON file. There's no need to request the file from the server because the browser already downloaded it in the background. Searches are fast because `lunr.js` only looks at one local file.
 
 Now, the details.
 
 ### Why JSON
 
-Why does `lunr.js` store data in a JavaScript object notation (JSON) file? My guess: Speed. JSON files only store keys and values. No fluff.
+Why does `lunr.js` store data in a JavaScript object notation (JSON) file? Primary reason: Speed. JSON files only contain keys and values. That's it.
 
-For example, let's look at a blog post from this site: [IoT Without the Hype](/blog/2015/12/17/iot-without-the-hype/). It gets generated like this in `_site/search_data`:
+For example, here's the JSON data for a blog post on this site: [IoT Without the Hype](/blog/2015/12/17/iot-without-the-hype/).
 
 ``` json
 
@@ -54,40 +54,92 @@ For example, let's look at a blog post from this site: [IoT Without the Hype](/b
 
 ```
 
-Here's the [entire `_site/search_data.json` file](/search_data.json) for RayHightower.com. This is the file that `lunr.js` searches to produce fast results for you.
+Take a look at the [current `_site/search_data.json` file](/search_data.json) for RayHightower.com. This is what `lunr.js` searches to produce fast results for visitors.
 
-Now, if you want to make lunr.js work for you, here's how to do it.
+Here's how to make lunr.js work for you.
 
 ### Download lunr.min.js (Minified)
 
 Download `lunr.min.js` from [lunrjs.com](http://lunrjs.com) and store it in the `/js/` directory of your Jekyll project. The `min` designation means that the file is _minified_. `lunr.js` consists of several JavaScript files that you can download and view individually if you're curious. However, when it's time to execute, the minified file will load and run faster because it's a single, smaller file.
 
-### Create search_data.json
+### Create /js/search.js
+
+Create a file called `/js/search.js`. This is a JavaScript program that calls `lunr.js` for search results. You will need to customize `search.js` for your Jekyll site by specifying the file names and field names that you're using.
+
+The following version of `/js/search.js` is currently in use at RayHightower.com. It's  customized for this site, and based on the resources listed at the end of this blog post. 
+
+``` javascript
+jQuery(function() {
+  // Initalize lunr with the fields to be searched.it will be searching on.
+  window.idx = lunr(function () {
+    this.field('id');
+    this.field('title');
+    this.field('content', { boost: 10 });
+    this.field('author');
+    this.field('categories');
+  });
+
+  // Download the data from the JSON file generated during 
+  // the $ jekyll build process
+  window.data = $.getJSON('/search_data.json');
+
+  // Wait for the data to load and add it to lunr
+  window.data.then(function(loaded_data){
+    $.each(loaded_data, function(index, value){
+      window.idx.add(
+        $.extend({ "id": index }, value)
+      );
+    });
+  });
+
+  // Event when the form is submitted
+  $("#site_search").submit(function(){
+      event.preventDefault();
+      var query = $("#search_box").val(); // Get the value for the text field
+      var results = window.idx.search(query); // Get lunr to perform a search
+      display_search_results(results); // Hand the results off to be displayed
+  });
+
+  function display_search_results(results) {
+    var $search_results = $("#search_results");
+
+    // Wait for data to load
+    window.data.then(function(loaded_data) {
+
+      // Are there any results?
+      if (results.length) {
+        $search_results.empty(); // Clear any old results
+
+        // Iterate over the results
+        results.forEach(function(result) {
+          var item = loaded_data[result.ref];
+
+          // Build a snippet of HTML for this result
+          var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
+
+          // Add it to the results
+          $search_results.append(appendString);
+        });
+      } else {
+        $search_results.html('<li>No results found.<br/>Please check spelling, spacing, yada...</li>');
+      }
+    });
+  }
+});
+
+```
+
+Note that `search.js` looks at fields defined by `search_data.json`. The `{ booste: 10 }` parameter tells lunr.js to give extra weight to words in the content section of each blog post. You might choose to boost a different field depending on what's most important on your blog or site.
+
+### Create the search_data.json Template
 
 Create a file called `/search_data.json` at the root of your Jekyll site, and fill it with the following `liquid` code:
 
+``` json
 
-<figure class="highlight"><pre><code class="language-text" data-lang="text">
+$ some bash stuff
 
----
-layout: null
----
-{
-  {% for post in site.posts %}
-
-    "{{ post.url | slugify }}": {
-      "title": "{{ post.title | xml_escape }}",
-      "content"	 : "{{post.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
-      "url": " {{ post.url | xml_escape }}",
-      "author": "{{ post.author | xml_escape }}",
-      "categories": "{% for category in post.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
-    }
-    {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-
-}
-
-</code></pre></figure>
+```
 
 The `/search_data.json` file tells Jekyll where to look and what to grab as it generates `_site/search_data.json`.
 
@@ -114,14 +166,9 @@ Here are the _gotchas_ that I encountered while getting lunr.js to work. Hope th
 
 * The biggest _gotcha_ for me: Figuring out where the lunr.js files should go, and figuring out what each file should contain. That's why the beginning of this article spends so much time describing the big picture. Once the big picture is clear, everything else falls into place.
 
-* The lunr.js documentation that I found shows how to build search data from blog posts, but not from the other pages on the site. I wanted to include [About](/about/), Speaking, and If in my results. I hacked my way to making it work in [`/search_data.json`](). Feel free to share if you know a cleaner way.
+* The lunr.js documentation that I found shows how to build search data from blog posts, but not from the other pages on the site. I wanted to include [About](/about/), Speaking, and If in my results. I hacked my way to making it work in [`/search_data.json`](https://raw.githubusercontent.com/RayHightower/rayhightower.github.io/master/search_data.json). It works for now, but I'm sure there's a better way.
 
-The second _gotcha_: Dealing with special characters in `_site/search_data.json` to ensure that lunr.js produces good search results. For example, searching for the term "Cape Town" initally produced zero results, even though the term exists on the [Speaking](/speaking) page for the site. To solve the problem, I had to cheat: I added a space after "Rubyfuza" on the Speaking page. This solution feels like a hack to me, so if you know of a cleaner way, feel free to mention it in the comments below.
-
-
-category vs categories
-stripping away quotation marks
-using a hybrid of search_data.json and posts.json
+The lunr.js engine appeared to ignore some results, until I dug deper into the problem. For example, searching for the term "Cape Town" initally produced zero results, even though the term exists on the [Speaking](/speaking) page. To solve the problem, I cheated: I added a space after "Rubyfuza" on the Speaking page. This solution feels like a hack to me. If you know of a cleaner way, feel free to mention it in the comments below.
 
 ### Acknowledgements
 
@@ -134,12 +181,4 @@ for Jekyll users.
 * [Katy DeCorah](http://katydecorah.com/code/lunr-and-jekyll/), [Kurtis Kemple](http://iamnotarealprogrammer.com/adding-site-search-with-lunr/), and [Josh Beam](http://frontendcollisionblog.com/javascript/jekyll/tutorial/2015/03/26/getting-started-with-a-search-engine-for-your-site-no-server-required.html) - bloggers who filled some of the gaps in my Jekyll knowledge.
 * [Official LunrJS documentation](http://lunrjs.com/) - the official
 resource.
-
-# Out-Takes
-
-### Why We Care About Speed and File Size
-
-Why do we care so much about speed? Why do we want to keep our file sizes small? Why does this matter, especially since computers keep getting faster?
-
-Two words: Mobile devices. Users on a mobile device may or may not be using a high bandwidth connection when they visit your Jekyll site. Keeping everything small and fast makes the experience better for the user.
 
