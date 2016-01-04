@@ -1,6 +1,5 @@
 jQuery(function() {
-  // Initalize lunr with the fields it will be searching on. I've given title
-  // a boost of 10 to indicate matches on this field are more important.
+  // Initialize lunr with the fields to be searched, plus the boost.
   window.idx = lunr(function () {
     this.field('id');
     this.field('title');
@@ -9,7 +8,7 @@ jQuery(function() {
     this.field('categories');
   });
 
-  // Download the data from the JSON file we generated
+  // Get the generated search_data.json file so lunr.js can search it locally.
   window.data = $.getJSON('/search_data.json');
 
   // Wait for the data to load and add it to lunr
@@ -46,10 +45,11 @@ jQuery(function() {
           // Build a snippet of HTML for this result
           var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
 
-          // Add it to the results
+          // Add the snippet to the collection of results.
           $search_results.append(appendString);
         });
       } else {
+        // If there are no results, let the user know.
         $search_results.html('<li>No results found.<br/>Please check spelling, spacing, yada...</li>');
       }
     });

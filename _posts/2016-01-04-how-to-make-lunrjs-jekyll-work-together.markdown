@@ -14,7 +14,7 @@ published: true
 </div> 
 
 <br/>
-Speed is one reason why this blog runs lunr.js. [Try lunr.js search here](/search/). If you run a [Jekyll-based blog](/blog/2016/01/02/jekyll-github-lunrjs/), this post will tell you how to make lunr.js work for you. Gotchas (and solutions) are shared within.
+Speed is one reason why this blog uses lunr.js for search. If you run a [Jekyll-based blog](/blog/2016/01/02/jekyll-github-lunrjs/), this post will tell you how to make lunr.js work for you. Gotchas (and solutions) are shared within.
 
 <!--more-->
 
@@ -32,7 +32,7 @@ Before we get into the details, let's review how `lunr.js` works from a big pict
 
 * When the user visits your Jekyll site, `_site/search_data.json` (the generated JSON file) gets downloaded in the background, along with the HTML, CSS, image, and other files that the user sees while viewing the site. The generated JSON file remains on the user's machine, stored by the browser.
 
-* When the user makes a search request, the `lunr.js` executable in the browser seaches the local copy of the generated JSON file. There's no need to request the file from the server because the browser already downloaded it in the background. Searches are fast because `lunr.js` only looks at one local file.
+* When the user makes a search request, the `lunr.js` executable in the browser searches the local copy of the generated JSON file, the one that was downloaded in the background. Searches are fast because `lunr.js` only looks at one local file.
 
 Now, the details.
 
@@ -40,7 +40,7 @@ Now, the details.
 
 Why does `lunr.js` store data in a JavaScript object notation (JSON) file? Primary reason: Speed. JSON files only contain keys and values. That's it.
 
-For example, here's the JSON data for a blog post on this site: [IoT Without the Hype](/blog/2015/12/17/iot-without-the-hype/).
+For example, here's the JSON data for one blog post on this site: [IoT Without the Hype](/blog/2015/12/17/iot-without-the-hype/).
 
 ``` json
 
@@ -54,9 +54,9 @@ For example, here's the JSON data for a blog post on this site: [IoT Without the
 
 ```
 
-Take a look at the [current `_site/search_data.json` file](/search_data.json) for RayHightower.com. This is what `lunr.js` searches to produce fast results for visitors.
+Every blog post has an entry like the one shown above. Take a look at the [current `_site/search_data.json` file](/search_data.json) for RayHightower.com. This is what `lunr.js` searches to produce fast results for visitors.
 
-Here's how to make lunr.js work for you.
+Now, here's how to make lunr.js work for you.
 
 ### Download lunr.min.js (Minified)
 
@@ -70,7 +70,7 @@ The following `/js/search.js` is currently in use at RayHightower.com. It's  cus
 
 ``` javascript
 jQuery(function() {
-  // Initalize lunr with the fields to be searched.
+  // Initialize lunr with the fields to be searched, plus the boost.
   window.idx = lunr(function () {
     this.field('id');
     this.field('title');
@@ -79,8 +79,7 @@ jQuery(function() {
     this.field('categories');
   });
 
-  // Download the data from the JSON file generated during 
-  // the $ jekyll build process
+  // Get the generated search_data.json file so lunr.js can search it locally.
   window.data = $.getJSON('/search_data.json');
 
   // Wait for the data to load and add it to lunr
@@ -192,11 +191,11 @@ And now you're done. At this point, you should be able to search your Jekyll-pow
 
 Here are the _gotchas_ that I encountered while getting lunr.js to work. Hope this saves you time:
 
-* The biggest _gotcha_ for me: Figuring out where the lunr.js files should go, and figuring out what each file should contain. That's why the beginning of this article spends so much time describing the big picture. Once the big picture is clear, everything else falls into place.
+* The biggest _gotcha_ for me: Figuring out how all of the lunr.js pieces fit together. Some of the steps seem non-sensical until the "why" behind each step is known. That's why the beginning of this article spends so much time describing the big picture. Once the big picture is clear, everything else falls into place.
 
-* The lunr.js documentation that I found shows how to build search data from blog posts, but not from the other pages on the site. I wanted to include [About](/about/), Speaking, and If in my results. I hacked my way to making it work in [`/search_data.json`](https://raw.githubusercontent.com/RayHightower/rayhightower.github.io/master/search_data.json). It works for now, but I'm sure there's a better way.
+* The lunr.js documentation that I found shows how to build search data from blog posts, but not from the other pages on the site. I wanted to include [About](/about/), [Speaking](/speaking/), and [If](/if-rudyard-kipling/) in my results. I hacked a solution in [`/search_data.json`](https://raw.githubusercontent.com/RayHightower/rayhightower.github.io/master/search_data.json). It works for now, but I'm sure there's a better way.
 
-The lunr.js engine appeared to ignore some results, until I dug deper into the problem. For example, searching for the term "Cape Town" initally produced zero results, even though the term exists on the [Speaking](/speaking) page. To solve the problem, I cheated: I added a space after "Rubyfuza" on the Speaking page. This solution feels like a hack to me. If you know of a cleaner way, feel free to mention it in the comments below.
+* The lunr.js engine appeared to ignore some results, until I dug deper into the problem. For example, searching for the term "Cape Town" initally produced zero results, even though the term exists on the [Speaking](/speaking) page. To solve the problem, I cheated: I added a space after "Rubyfuza" and before `<br/>` on the Speaking page. This solution feels like a hack to me. If you know of a cleaner way, feel free to mention it in the comments below.
 
 ### Acknowledgements
 
