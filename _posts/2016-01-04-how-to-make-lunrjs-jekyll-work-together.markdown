@@ -69,6 +69,7 @@ Create a file called `/js/search.js`. This is a JavaScript program that calls `l
 The following `/js/search.js` is currently in use at RayHightower.com. It's  customized for this site, and based on the resources listed at the end of this blog post. 
 
 ``` javascript
+
 jQuery(function() {
   // Initialize lunr with the fields to be searched, plus the boost.
   window.idx = lunr(function () {
@@ -116,10 +117,11 @@ jQuery(function() {
           // Build a snippet of HTML for this result
           var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
 
-          // Add it to the results
+          // Add the snippet to the collection of results.
           $search_results.append(appendString);
         });
       } else {
+        // If there are no results, let the user know.
         $search_results.html('<li>No results found.<br/>Please check spelling, spacing, yada...</li>');
       }
     });
@@ -128,7 +130,7 @@ jQuery(function() {
 
 ```
 
-Note that `search.js` looks at fields defined by `search_data.json`. The `{ booste: 10 }` parameter tells lunr.js to give extra weight to words in the content section of each blog post. You might choose to boost a different field depending on what's most important on your blog or site.
+Note that `search.js` looks at fields defined by `search_data.json`. The `{ boost: 10 }` parameter tells lunr.js to give extra weight to words in the content section of each blog post. You might choose to boost a different field depending on what's most important on your blog or site.
 
 ### Create the search_data.json Template
 
@@ -157,7 +159,7 @@ Every time you run Jekyll's build process, Jekyll will use `/search_data.json` t
 
 ### Create a Search Page
 
-Next, you need to create a place for the user to execute a search. The search page for this blog is located at [http://rayhightower.com/search/](/search/). The following snippet displays the search box, search button, and search results:
+Next, you need to create a page where the user can execute a search. The search page for this blog is located at [http://rayhightower.com/search/](/search/). The following snippet displays the search box, search button, and search results:
 
 ``` html
 ---
@@ -191,11 +193,11 @@ And now you're done. At this point, you should be able to search your Jekyll-pow
 
 Here are the _gotchas_ that I encountered while getting lunr.js to work. Hope this saves you time:
 
-* The biggest _gotcha_ for me: Figuring out how all of the lunr.js pieces fit together. Some of the steps seem non-sensical until the "why" behind each step is known. That's why the beginning of this article spends so much time describing the big picture. Once the big picture is clear, everything else falls into place.
+* The biggest _gotcha_ for me: Figuring out how all of the lunr.js pieces fit together. Some of the steps seem non-sensical until the "why" behind each step is known. That's why the beginning of this article addresses the big picture. Once the big picture is clear, everything else falls into place.
 
-* The lunr.js documentation that I found shows how to build search data from blog posts, but not from the other pages on the site. I wanted to include [About](/about/), [Speaking](/speaking/), and [If](/if-rudyard-kipling/) in my results. I hacked a solution in [`/search_data.json`](https://raw.githubusercontent.com/RayHightower/rayhightower.github.io/master/search_data.json). It works for now, but I'm sure there's a better way.
+* The lunr.js examples that I found show how to point `search_data.json` toward blog posts, but not the other pages on the site. I need to include [About](/about/), [Speaking](/speaking/), and [If](/if-rudyard-kipling/) in my results. I hacked a solution in [`/search_data.json`](https://raw.githubusercontent.com/RayHightower/rayhightower.github.io/master/search_data.json). The hack works for now, but I'm sure there's a better way.
 
-* The lunr.js engine appeared to ignore some results, until I dug deper into the problem. For example, searching for the term "Cape Town" initally produced zero results, even though the term exists on the [Speaking](/speaking) page. To solve the problem, I cheated: I added a space after "Rubyfuza" and before `<br/>` on the Speaking page. This solution feels like a hack to me. If you know of a cleaner way, feel free to mention it in the comments below.
+* The lunr.js engine appeared to ignore some results until I dug deper into the problem. For example, searching for the term "Cape Town" initially produced zero results, even though the term exists on the [Speaking](/speaking) page. To solve the problem, I cheated: I added a space after "Rubyfuza" and before `<br/>` on the Speaking page. This solution feels like a hack to me. If you know of a cleaner way, feel free to mention it in the comments below.
 
 ### Acknowledgements
 
