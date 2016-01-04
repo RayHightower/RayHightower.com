@@ -208,6 +208,6 @@ lunr.js.
 * [Jekyll Tips](http://jekyll.tips/tutorials/search/) - solid tutorials
 for Jekyll users.
 * [Katy DeCorah](http://katydecorah.com/code/lunr-and-jekyll/), [Kurtis Kemple](http://iamnotarealprogrammer.com/adding-site-search-with-lunr/), and [Josh Beam](http://frontendcollisionblog.com/javascript/jekyll/tutorial/2015/03/26/getting-started-with-a-search-engine-for-your-site-no-server-required.html) - bloggers who filled some of the gaps in my Jekyll knowledge.
-* [Official LunrJS documentation](http://lunrjs.com/) - the official
+* [Official lunr.js documentation](http://lunrjs.com/) - the official
 resource.
 
