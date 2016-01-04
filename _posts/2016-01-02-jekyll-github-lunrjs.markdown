@@ -11,7 +11,7 @@ published: true
 
 This blog is built on three powerful tools, commonly used in the open source community:
 
-* [Jekyll](/blog/2015/06/24/getting-started-with-jekyll/), the Ruby-based static page generator. Static pages are fast because there's no database to hit.
+* [Jekyll](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/), the Ruby-based static page generator. Static pages are fast because there's no database to hit.
 
 * [GitHub](/blog/2015/07/22/github-pages-quick-start-guide/), the collaboration tool for developers. Also useful for hosting and its content delivery network. 
 
