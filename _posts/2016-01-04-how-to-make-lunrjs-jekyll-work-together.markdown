@@ -66,11 +66,11 @@ Download `lunr.min.js` from [lunrjs.com](http://lunrjs.com) and store it in the 
 
 Create a file called `/js/search.js`. This is a JavaScript program that calls `lunr.js` for search results. You will need to customize `search.js` for your Jekyll site by specifying the file names and field names that you're using.
 
-The following version of `/js/search.js` is currently in use at RayHightower.com. It's  customized for this site, and based on the resources listed at the end of this blog post. 
+The following `/js/search.js` is currently in use at RayHightower.com. It's  customized for this site, and based on the resources listed at the end of this blog post. 
 
 ``` javascript
 jQuery(function() {
-  // Initalize lunr with the fields to be searched.it will be searching on.
+  // Initalize lunr with the fields to be searched.
   window.idx = lunr(function () {
     this.field('id');
     this.field('title');
@@ -133,32 +133,60 @@ Note that `search.js` looks at fields defined by `search_data.json`. The `{ boos
 
 ### Create the search_data.json Template
 
-Create a file called `/search_data.json` at the root of your Jekyll site, and fill it with the following `liquid` code:
+Create a file called `/search_data.json` at the root of your Jekyll site, and fill it with the following:
 
-``` json
+{% highlight js %}{% raw %}
+---
+layout: null
+---
+{
+  {% for post in site.posts %}
 
-$ some bash stuff
+    "{{ post.url | slugify }}": {
+      "title": "{{ post.title | xml_escape }}",
+      "content"	 : "{{post.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+      "url": " {{ post.url | xml_escape }}",
+      "author": "{{ post.author | xml_escape }}",
+      "categories": "{% for category in post.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+}
+{% endraw %}{% endhighlight %}
 
-```
-
-The `/search_data.json` file tells Jekyll where to look and what to grab as it generates `_site/search_data.json`.
+Every time you run Jekyll's build process, Jekyll will use `/search_data.json` to determine where to look and what to grab as it generates `_site/search_data.json`.
 
 ### Create a Search Page
 
-Next, you need to create a place for the user to execute a search. The search page for this blog is located at [http://rayhightower.com/search/](http://rayhightower.com/search/) and it contains the following:
+Next, you need to create a place for the user to execute a search. The search page for this blog is located at [http://rayhightower.com/search/](/search/). The following snippet displays the search box, search button, and search results:
 
 ``` html
+---
+layout: nonav
+title: Search
+---
+
+Powered by <a href="/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/">lunr.js</a>.
+
+<br/>&nbsp;
+<form action="get" id="site_search">
+<center>
+  <input style="font-size:20px;" type="text" id="search_box">
+  <input style="font-size:20px;" type="submit" value="Go!">
+</center>
+</form>
+<br/>&nbsp;
+<br/>&nbsp;
+
+<ul id="search_results"></ul>
+
+<script src="/js/lunr.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/js/search.js"></script>
 
 ```
 
-
-
-### Tokenization
-
-
-
-
-
+And now you're done. At this point, you should be able to search your Jekyll-powered blog using lunr.js.
 
 ### Gotchas
 
