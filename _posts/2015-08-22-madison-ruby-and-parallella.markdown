@@ -10,7 +10,7 @@ categories: [ Community, Parallella ]
 
 [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/) is a single-board computer roughly the size of a credit card or Raspberry Pi. It runs Linux. It has 18 processor cores, two ARM and sixteen RISC. You can buy this device online for about $150.00.
 
-The [Madison+ Ruby](http://madisonpl.us/ruby/) organizers invited me to present Parallella at the conference earlier today. Video and slides appear below.
+The [Madison+ Ruby](/blog/2013/08/25/madison-ruby-2013/) organizers invited me to present Parallella at the conference earlier today. Video and slides appear below.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ The [Madison+ Ruby](http://madisonpl.us/ruby/) organizers invited me to present 
 <br/>&nbsp;
 
 ### Thank You Madison+ Ruby
-[Madison+ Ruby](/blog/2013/08/25/madison-ruby-2013/) has delivered a great experience for five years. Sadly, 2015 marks the last year for the conference. They will be missed.
+Madison+ Ruby has delivered a great experience for five years. Sadly, 2015 marks the last year for the conference. They will be missed.
 
 Thank you Jim and Jen Remsik for a great conference. I wish you well with everything you choose to do in coming years.
 
