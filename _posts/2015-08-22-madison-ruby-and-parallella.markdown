@@ -15,7 +15,7 @@ The [Madison+ Ruby](http://madisonpl.us/ruby/) organizers invited me to present 
 <!--more-->
 
 <div class="video-container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/BHZCCUEzK0s" frameborder="0" allowfullscreen></iframe>
+<iframe id="parallella-madison" width="640" height="360" src="https://www.youtube.com/embed/BHZCCUEzK0s?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <br/>&nbsp;
