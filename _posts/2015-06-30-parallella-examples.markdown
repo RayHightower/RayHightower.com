@@ -12,6 +12,7 @@ Some developers buy a Parallella board because they already know parallel progra
 <!--more-->
 
 ### Starting Questions
+
 A first-time Parallella user might ask questions like:
 
 * How do you get Parallella up and running? Covered in the [Parallella Quick Start Guide](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/). _Gotchas_ are included to save us time.
@@ -21,9 +22,11 @@ A first-time Parallella user might ask questions like:
 To help answer the second set of questions, [Adapteva](http://adapteva.com) gathered some examples that you can run on your own Parallella. 
 
 ### Community Examples on GitHub
+
 The [parallella-examples repo on GitHub](https://github.com/parallella/parallella-examples) is a great place to start. As of this writing, the examples include matrix multiplication, [ray tracing](https://en.wikipedia.org/wiki/Ray_tracing), and [Mandelbrot sets](http://mathworld.wolfram.com/MandelbrotSet.html). Given the active nature of open source, more examples may appear by the time you read this. Future examples might be created by you!
 
 ### Switching to TTY on Parallella
+
 Some of the examples will not run on the Parallella's Linux X Window desktop. Instead, TTY (teletype) mode is required. I will update this article when I find out why we need TTY. In the meantime, here's how to switch to TTY mode and back on Parallella: 
 
 * Switch to TTY by pressing `Ctrl` + `Alt` + `F2`.
@@ -35,6 +38,7 @@ Some of the examples will not run on the Parallella's Linux X Window desktop. In
 Interesting observation: On my Parallella, pressing `Ctrl` + `Alt` + `F[any number except 7]` shifts the device to TTY mode. Only `Ctrl` + `Alt` + `F7` switches it back to X Window.
 
 ### Running the Mandelbrot Example
+
 To run the Mandelbrot example, switch to TTY mode and then...
 
 ```bash
@@ -52,8 +56,10 @@ You'll see an animated graphic showing the Mandelbrot calculations in real time.
 So, what's a Mandelbrot set and why do we care?
 
 ### About Mandelbrot Sets
+
 {% include image.html img="/images/mandelbrot-parallella.jpg" caption="Mandelbrot example calculated by Parallella." %}
 
+<br/>&nbsp;
 >Clouds are not spheres, mountains are not cones, coastlines are not circles, and bark is not smooth, nor does lightning travel in a straight line.<br/>&nbsp;<br/>~Benoit Mandelbrot
 
 A Mandelbrot set is a group of numbers that displays a certain unusual property. Each member of the set is based on a calculation performed on the previous member, and an infinite number of members can be plotted within a finite area of a plane. Since humans are visual, we can easily recognize a Mandelbrot set that has been plotted on a graph, like the Mandelbrot diagram in this article. 
