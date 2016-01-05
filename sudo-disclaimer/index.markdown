@@ -1,13 +1,17 @@
 ---
 layout: page
-title: 
+title: Sudo is Powerful
 comments: false
 sharing: true
 footer: false
 ---
-###You Could Destroy Everything With Sudo
+<br/>&nbsp;<br/>
 
 {% include image.html align="right" img="/images/sudo-make-me-a-sandwich.png" caption="Sudo, illustrated by XKCD.com." alt="Sudo, illustrated by XKCD.com." %}
+
+_At right: Sudo, illustrated by XKCD.com._
+
+`sudo` is like a sharp knife. Use with care.
 
 Some of posts on this blog will ask you to use the `sudo` command, available with Linux, Unix, and OS X. Sudo endows users with great power. 
 
