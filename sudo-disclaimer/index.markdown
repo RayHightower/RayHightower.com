@@ -9,7 +9,7 @@ footer: false
 
 {% include image.html align="right" img="/images/sudo-make-me-a-sandwich.png" caption="Sudo, illustrated by XKCD.com." alt="Sudo, illustrated by XKCD.com." %}
 
-_At right: Sudo, illustrated by XKCD.com._
+_At right: Sudo, illustrated by [XKCD.com](http://xkcd.com)._
 
 `sudo` is like a sharp knife. Use with care.
 
