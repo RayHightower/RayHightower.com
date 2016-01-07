@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Record Screencasts With or Without QuickTime"
-date: 2016-01-07 04:03:11 -0500
+date: 2016-01-09 04:03:11 -0500
 comments: true
 categories: [ Community, Education ]
 published: false
