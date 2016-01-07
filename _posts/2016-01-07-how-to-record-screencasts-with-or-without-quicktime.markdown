@@ -7,18 +7,20 @@ categories: [ Community, Education ]
 published: false
 ---
 
-Live coding in front of an audience can be exciting, except when  it’s not. Make one typo during your demo and you could spend the rest of your time troubleshooting in front of hundreds of onlookers. How embarrassing!
+Live coding in front of an audience can be exciting, except when it's not. Make one typo during your demo and you could spend the rest of your time troubleshooting in front of hundreds of onlookers. How embarrassing!
 
 ### Feel the Pain and Fix It
 
-Yes, I’ve been there, and it hurts. After a painful live coding mishap in front of an audience, I vowed to skip the typos by using video where possible.
+I've been there, and it hurts. One day, after a painful live coding mishap in front of a live audience, I vowed to squash all typos by using video instead of live typing. This post includes two screen recording techniques that work for me.
 
-### Faster and Easier
+<!--more-->
 
-Screen recordings are faster and easier than I thought. This post includes two techniques for screen recording:
+### Two Techniques
 
-* Using Apple’s QuickTime
-* Using an HDMI Recorder
+Screen recordings are faster and easier than I thought. This post includes two techniques for recording screen activity:
+
+* Using Apple’s [QuickTime](http://www.apple.com/quicktime/), pre-installed on most Mac computers.
+* Using a $150 HDMI recorder, the [Elgato Game Capture HD](https://www.elgato.com/en/gaming/gamecapture-hd)
 
 ### Using QuickTime
 
@@ -48,7 +50,9 @@ Personally, I think that short (less than 30 seconds) videos are better for a li
 
 Best Buy sells an HDMI recorder for about a hundred bucks. It accepts HDMI input, sends HDMI output, and it sits between the source of your HDMI video and the monitor.
 
-I banged my head against the wall for several days, looking at multiple video software solutions for Linux on the Parallella. None of the “solutions” worked as required. But the hardware solution, for only $100 at Best Buy, worked immediately.
+I banged my head against the wall for several days, looking at multiple video software solutions for Linux on the Parallella. None of the “solutions” worked as required. But the hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately.
+
+<img src=/images/elgato_parallella_800.jpg alt="Parallella with Elgato Game Capture HD 60" >
 
 So if you’re recording screencasts on Linux, save yourself a headache and use the HDMI capture device.
 
