@@ -4,7 +4,7 @@ title: "How to Record Screencasts With or Without QuickTime"
 date: 2016-01-07 04:03:11 -0500
 comments: true
 categories: [ Community, Education ]
-published: true
+published: false
 ---
 
 Live coding in front of an audience can be exciting, except when it's not. Make one typo during your demo and you could spend the rest of your time troubleshooting in front of hundreds of onlookers. How embarrassing!
