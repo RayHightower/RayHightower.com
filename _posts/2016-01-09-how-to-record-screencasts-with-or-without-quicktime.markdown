@@ -7,11 +7,12 @@ categories: [ Community, Education ]
 published: false
 ---
 
-Live coding in front of an audience can be exciting, except when it's not. Make one typo during your demo and you could spend the rest of your time troubleshooting in front of hundreds of onlookers. How embarrassing!
+Live coding in front of an audience can be exciting, except when there's a glitch. Make one typo during your demo and you could spend the rest of the presentation troubleshooting, while _hundreds of onlookers_ watch you struggle. Not fun. I've been there, and it hurts.
+
+Why type in front of an audience, anyway? The critical part of software development is the _thinking_, not the _typing_. 
 
 ### Feel the Pain and Fix It
-
-I've been there, and it hurts. One day, after a painful live coding mishap in front of a live audience, I vowed to squash all typos by using video instead of live typing. This post includes two screen recording techniques that work for me.
+One day, after a live coding mishap in front of a live audience, I vowed to squash all typos by using video instead of live typing. This post describes two screen recording techniques that work for me: Apple's QuickTime, and the Elgato Game Capture HD60.
 
 <!--more-->
 
