@@ -26,7 +26,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 ### Old School Contact Info
 
-You'll get a faster response through email and/or the contact form (above). Old school methods are available, and _slower_.
+You'll get a faster response through email or the contact form (both go to email). Old school methods are _slower_.
 
 Ph: +1.312.842.2200<br/>
 &nbsp;<br/>
