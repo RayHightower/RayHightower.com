@@ -44,7 +44,7 @@ If you have a Mac with QuickTime installed, you have everything you need. Yes, t
 
 ### Shorter Videos are Better
 
-Personally, I think that short (less than 30 seconds) videos are better for a live presentation. 30 seconds is enough time to demonstrate a point, but not so long that the audience gets bored. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 30-second videos, separated by other material.
+Personally, I think that short (less than 30 seconds) videos are better for a live presentation. 30 seconds is enough time to demonstrate a point, but not so long that the audience gets bored. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 30-second videos (some via QuickTime, others recorded with hardware) separated by other material.
 
 ### When QuickTime is Unavailable: HDMI Recorder
 
@@ -54,7 +54,7 @@ I banged my head against the wall for several days, looking at multiple video so
 
 <img src=/images/elgato_parallella_800.jpg alt="Parallella with Elgato Game Capture HD 60" >
 
-So if you’re recording screencasts on Linux, save yourself a headache and use the HDMI capture device.
+So if you’re recording screen activity on Parallella running Linux, save yourself a headache and use the HDMI capture device.
 
 ### Bottom Line: More Engaging Presentations
 
