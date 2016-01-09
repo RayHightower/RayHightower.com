@@ -21,7 +21,11 @@
   font-size: 12px;
 }
 
-.sidebar-socmed i {
-  color: grey;
+.sidebar-socmed a {
+  color: #515151;
+}
+
+.sidebar-socmed a:hover {
+  color: #268bd2;
 }
 
