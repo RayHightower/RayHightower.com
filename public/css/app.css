@@ -21,7 +21,8 @@
   font-size: 12px;
 }
 
-.sidebar-socmed {
+.sidebar-socmed, {
   font-size: 12px;
+  text-color: red;
 }
 
