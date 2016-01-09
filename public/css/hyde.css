@@ -125,6 +125,11 @@ a.sidebar-nav-item:focus {
   color: #268bd2;
 }
 
+.sidebaqr-nav hr {
+  width: 20px;
+  text-align: center;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
