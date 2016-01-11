@@ -9,19 +9,13 @@ published: false
 
 Live coding in front of an audience can be exciting, except when there's a glitch. Make one typo during your demo and you could spend the rest of the presentation troubleshooting, while _hundreds of onlookers_ watch you struggle. Not fun. I've been there, and it hurts.
 
-Why type in front of an audience, anyway? The critical part of software development is the _thinking_, not the _typing_. 
+Why do we want to type in front of an audience, anyway? The critical part of software development is the _thinking_, not the _typing_. 
 
 ### Feel the Pain and Fix It
-One day, after a live coding mishap in front of a live audience, I vowed to squash all typos by using video instead of live typing. This post describes two screen recording techniques that work for me: Apple's QuickTime, and the Elgato Game Capture HD60.
+
+One day, after I caused a live coding hiccup in front of a live audience, I vowed to squash all typos by using video instead of live typing. This post describes two screen recording tools that work for me: [Apple's QuickTime](http://www.apple.com/quicktime/), and the [Elgato Game Capture HD60](https://www.elgato.com/en/gaming/gamecapture-hd).
 
 <!--more-->
-
-### Two Techniques
-
-Screen recordings are faster and easier than I thought. This post includes two techniques for recording screen activity:
-
-* Using Apple’s [QuickTime](http://www.apple.com/quicktime/), pre-installed on most Mac computers.
-* Using a $150 HDMI recorder, the [Elgato Game Capture HD](https://www.elgato.com/en/gaming/gamecapture-hd)
 
 ### Using QuickTime
 
@@ -35,27 +29,42 @@ If you have a Mac with QuickTime installed, you have everything you need. Yes, t
 
 4. Specify the area of the screen that you want to record.
 
-5. Click the Record button.
+5. Click the red Record button.
 
 6. Do your demo. In this example, I’m doing something random in the terminal window. It doesn’t matter what you do, everything within the selected recording area will be recorded.
 
-7. Click the Stop button when you’re done. _Gotcha: The first time I recorded, it took me several minutes to find the stop button! It’s on the top menu bar._
+7. Click the Stop button when you’re done. _Gotcha: The first time I recorded, it took me several minutes to find the stop button! It's the round black dot on the top menu bar._
 
 8. Save your video, and trim it as desired. In this case, I only wanted the first 19 seconds of the video.
 
 ### Shorter Videos are Better
 
-Personally, I think that short (less than 30 seconds) videos are better for a live presentation. 30 seconds is enough time to demonstrate a point, but not so long that the audience gets bored. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 30-second videos (some via QuickTime, others recorded with hardware) separated by other material.
+Personal preference: I think that short (less than 30 seconds) videos are better for a live presentation. 30 seconds is enough time to demonstrate a point, but not so long that the audience gets bored watching a video. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 30-second videos (some via QuickTime, others recorded with hardware) separated by other material.
 
-### When QuickTime is Unavailable: HDMI Recorder
+### Hardware for Recording HDMI Output
 
-Best Buy sells an HDMI recorder for about a hundred bucks. It accepts HDMI input, sends HDMI output, and it sits between the source of your HDMI video and the monitor.
-
+I ran into a brick wall while preparing a presentation on Parallella. The Linaro/Ubuntu distro of Linux does not have a Quicktime-like app that records video from the screen. good  I banged
 I banged my head against the wall for several days, looking at multiple video software solutions for Linux on the Parallella. None of the “solutions” worked as required. But the hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately.
+
+Best Buy sells an HDMI recorder for about $150. Installation is as simple as plug & play. It sits between the source of your HDMI video and the monitor.
+
 
 <img src=/images/elgato_parallella_800.jpg alt="Parallella with Elgato Game Capture HD 60" >
 
 So if you’re recording screen activity on Parallella running Linux, save yourself a headache and use the HDMI capture device.
 
 ### Bottom Line: More Engaging Presentations
+
+
+
+
+# Out-Takes
+
+### Two Techniques
+
+Screen recordings are faster and easier than I thought. This post includes two techniques for recording screen activity:
+
+* Using Apple’s [QuickTime](http://www.apple.com/quicktime/), pre-installed on most Mac computers.
+* Using a $150 HDMI recorder, the [Elgato Game Capture HD](https://www.elgato.com/en/gaming/gamecapture-hd)
+
 
