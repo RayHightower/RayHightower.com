@@ -5,7 +5,7 @@ date: 2007-01-02 00:55
 comments: true
 categories: [Business]
 ---
-_Blogger's Note from Feb2013: This article was originally posted on the [WisdomGroup](http://wisdomgroup.com) blog in Jan2007. In hindsight, my precicted timeline was too aggressive. However, the rest of the post remains sound._
+_Blogger's Note from Feb2013: This article was originally posted on the [WisdomGroup](http://wisdomgroup.com) blog in Jan2007. In hindsight, my predicted timeline was too aggressive. However, the rest of the post remains sound._
 
 >If Woolworth's sold diamond rings, you'd have a million of 'em baby!<br/> ~Fats Waller, Piano composer/performer, circa 1915
 
