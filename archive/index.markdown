@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Archive
+layout: nonav
+title: Blog Archive
 ---
-
-## Blog Archive
 
 <div id="blog-archives">
 {% for post in site.posts reverse %}
