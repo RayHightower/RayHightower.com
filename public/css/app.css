@@ -16,3 +16,16 @@
     width: 100%;
     height: 100%;
 }
+
+.sidebar-copyright {
+  font-size: 12px;
+}
+
+.sidebar-socmed a {
+  color: #515151;
+}
+
+.sidebar-socmed a:hover {
+  color: #268bd2;
+}
+

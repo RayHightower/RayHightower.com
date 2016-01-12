@@ -51,6 +51,11 @@ html {
  *
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
+ *
+ * RTH: Goal for responsive sidebar:
+ *   Move "sidebar-about" to the top.
+ *   Move "sidebar-featured" directly below "sidebar-about".
+ *   Move "sidebar-nav" and "sidebar-copyright" to bottom.
  */
 
 .sidebar {
@@ -80,9 +85,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Arvo", serif;
-  /* font-size: 3.25rem; */
   font-size: 1.50rem;
-
 }
 
 .sidebar-about p {
@@ -93,8 +96,6 @@ html {
 .sidebar-featured h4 {
   color: #fff;
   margin-top: 0;
-  /* font-family: "Arvo", serif; */
-  /* font-size: 3.25rem; */
   font-size: 1.00rem;
 
 }
@@ -109,6 +110,7 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
+  font-size: 0.75rem;
 }
 .sidebar-nav-item {
   display: block;
@@ -121,6 +123,11 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
   color: #268bd2;
+}
+
+.sidebaqr-nav hr {
+  width: 20px;
+  text-align: center;
 }
 
 /* Sticky sidebar

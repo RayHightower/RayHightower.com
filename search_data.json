@@ -15,7 +15,7 @@ layout: null
   {% endfor %}
 
   {% for page in site.pages %}
-    {% if page.url == '/speaking/index.html' or page.url == '/if-rudyard-kipling/index.html' or page.url == '/about/index.html' or page.url == '/contact/index.html' %}
+    {% if page.url == '/speaking/index.html' or page.url == '/if-rudyard-kipling/index.html' or page.url == '/about/index.html' or page.url == '/contact/index.html' or page.url == '/sudo-disclaimer/index.html' %}
       ,
 
       "{{ page.url | slugify }}":  {

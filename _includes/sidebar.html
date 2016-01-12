@@ -1,29 +1,19 @@
 <div class="sidebar">
   <div class="container"> <!-- remove sidebar-sticky to make room for more info -->
     <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
-      </h1>
-    </div>
-
-    <div class="sidebar-about">
       {% include about.html %}
     </div>
-
-    <hr style="color:#111; background-color:#330000; margin-right:10; text-align:right; width:80%;">
 
     <div class="sidebar-featured">
       {% include featured.html %}
     </div>
 
-    <hr style="color:#111; background-color:#330000; margin-right:10; text-align:right; width:80%;">
-
     <nav class="sidebar-nav">
       {% include navigation.html %}
     </nav>
 
-    <p style="font-size: 12px">&copy; {{ site.time | date: '%Y' }} Raymond T. Hightower. All rights reserved.</p>
+    <div class="sidebar-socmed">
+      {% include socmed.html %}
+    </div>
   </div>
 </div>
