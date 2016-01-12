@@ -34,11 +34,11 @@ If you have a Mac with QuickTime installed, you have everything you need. Yes, t
 
 4. Drag your mouse to specify the area of the screen that you want to record.
 
-5. Click the red Record button.
+5. Click the red `Record` button.
 
 6. Do your demo. It doesn’t matter what you do, everything within the selected recording area will be recorded.
 
-7. Click the Stop button when you’re done. _Gotcha: The first time I recorded with QuickTime, it took me several minutes to find the stop button! It's the round black dot on the top menu bar._
+7. Click the `Stop` button when you’re done. _Gotcha: The first time I recorded with QuickTime, it took me several minutes to find the stop button! It's the round black dot on the top menu bar._
 
 8. Save your video, and trim it as desired.
 
@@ -49,7 +49,7 @@ Congrats... no more live typing!
 
 ### Hardware for Recording HDMI Output
 
-Another _gotcha_: I banged my head against the wall for several days, looking at multiple screencast recording solutions for Linux on the Parallella. None of the software solutions worked as required. But one hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately: Elgato HD60.
+Another _gotcha_: I banged my head against the wall for several days, exploring multiple screencast recording alternatives for Linux on the Parallella. None of the software solutions worked as required. But one hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately: Elgato HD60.
 
 <img src=/images/elgato_parallella_800.jpg alt="Parallella with Elgato Game Capture HD 60" >
 
