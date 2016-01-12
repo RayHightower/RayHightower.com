@@ -53,7 +53,7 @@ Another _gotcha_: I banged my head against the wall for several days, exploring 
 
 <img src=/images/elgato_parallella_800.jpg alt="Parallella with Elgato Game Capture HD 60" >
 
-This image shows a Parallella (with green case supports), Elgato (rectangular with rounded corners), and an HDMI monitor.
+This image shows a Parallella (with green case supports), Elgato HD60 (rectangular with rounded corners), and an HDMI monitor.
 
 The Elgato even records screen activity from the Parallella's frame buffer. The Elgato can record anything that gets displayed on an HDMI monitor. Recording is easy because the Elgato sits right in the middle of the HDMI flow; it connects to the Parallella's HDMI output and the monitor's HDMI input. If you’re recording screen activity on Parallella running Linux, save yourself a headache and use an HDMI capture device like Elgato.
 
