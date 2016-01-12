@@ -61,6 +61,6 @@ The Elgato even records screen activity from the Parallella's frame buffer. The 
 
 Personal preference: I think that short (less than 30 seconds) videos are better for a live presentation. Thirty seconds is enough time to demonstrate a point, but not so long that the audience gets bored watching a video. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 10- to 30-second videos showing prime number calculations. Some are recorded via QuickTime, others with the Elgato hardware. The videos are woven together with other material.
 
-### Bottom Line: More Engaging Presentations
+### More Value for the Audience
 
 Typing in front of a live audience presents challenges. It can be powerful, but like any live performance, it needs to be virtually flawless in order to work well. The important part of software development is the _thinking_, not the _typing_. When we record the typing in advance, we reduce the risk of glitches and we deliver more value for the audience. 
