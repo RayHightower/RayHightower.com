@@ -7,60 +7,60 @@ categories: [ Community, Education ]
 published: true
 ---
 
-Live coding in front of an audience can be exciting, except when there's a glitch. Make one typo during your demo and you could spend the rest of the presentation troubleshooting, while _hundreds of onlookers_ watch you struggle. Not fun. I've been there, and it hurts.
-
-Why do we want to type in front of an audience, anyway? The critical part of software development is the _thinking_, not the _typing_. 
+<img style="margin-left:20px" src="/images/quicktime_logo.png" alt="Record screencasts with Apple QuickTime" align="right">
+Live coding in front of an audience can be exciting, except when there's a glitch. Make one typo during your demo and you could spend the rest of the presentation troubleshooting while _hundreds of onlookers_ watch you struggle. Not fun. I've been there, and it hurts.
 
 ### Feel the Pain and Fix It
 
-One day, after I caused a live coding hiccup in front of a live audience, I vowed to squash all typos by using video instead of live typing. This post describes two screen recording tools that work for me: [Apple's QuickTime](http://www.apple.com/quicktime/), and the [Elgato Game Capture HD60](https://www.elgato.com/en/gaming/gamecapture-hd).
+One day, after causing a live coding hiccup during a presentation, I vowed to squash all typos by recording my demos in advance instead of live typing. Tools of choice: 
+
+* For software recording, [Apple's QuickTime](http://www.apple.com/quicktime/)
+
+* For hardware recording, [Elgato Game Capture HD60](https://www.elgato.com/en/gaming/gamecapture-hd)
+
+This post shows how QuickTime and Elgato can work for you.
 
 <!--more-->
 
 ### Using QuickTime
 
-If you have a Mac with QuickTime installed, you have everything you need. Yes, there are other screencast tools out there. I use QuickTime because it’s simple and it comes pre-installed on the Mac.
+If you have a Mac with QuickTime installed, you have everything you need. Yes, there are other screencast tools out there. I use QuickTime because it’s simple and it comes pre-installed on the Mac. Here's a procedure that works:
 
-1. Setup your desktop exactly as you want it to be recorded.
+1. Setup your desktop exactly as you want it to appear in the recording.
 
 2. Go into your `Applications` folder and start QuickTime.
 
-3. Choose File | New Screen Recording. Decide whether you want to include audio with your recording. I rarely include audio because most of my screen recordings are for live presentations where I will be present and speaking to the audience.
+3. Choose `File` | `New Screen Recording`. Decide whether to include audio with your recording. I rarely include audio because most of my screen recordings are for live presentations where I will be present and speaking to a live audience.
 
-4. Specify the area of the screen that you want to record.
+4. Drag your mouse to specify the area of the screen that you want to record.
 
 5. Click the red Record button.
 
-6. Do your demo. In this example, I’m doing something random in the terminal window. It doesn’t matter what you do, everything within the selected recording area will be recorded.
+6. Do your demo. It doesn’t matter what you do, everything within the selected recording area will be recorded.
 
-7. Click the Stop button when you’re done. _Gotcha: The first time I recorded, it took me several minutes to find the stop button! It's the round black dot on the top menu bar._
+7. Click the Stop button when you’re done. _Gotcha: The first time I recorded with Quicktime, it took me several minutes to find the stop button! It's the round black dot on the top menu bar._
 
-8. Save your video, and trim it as desired. In this case, I only wanted the first 19 seconds of the video.
+8. Save your video, and trim it as desired.
 
-### Shorter Videos are Better
+9. If you're using Apple's Keynote presentation software, you can add
+   the video to your presentation via drag & drop. 
 
-Personal preference: I think that short (less than 30 seconds) videos are better for a live presentation. Thirty seconds is enough time to demonstrate a point, but not so long that the audience gets bored watching a video. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 30-second videos (some via QuickTime, others recorded with hardware described below) woven together with other material.
+Congrats... no more live typing!
 
 ### Hardware for Recording HDMI Output
 
-I banged my head against the wall for several days, looking at multiple screencst recording solutions for Linux on the Parallella. None of the software solutions worked as required. But one hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately: Elgato HD60.
+Another _gotcha_: I banged my head against the wall for several days, looking at multiple screencst recording solutions for Linux on the Parallella. None of the software solutions worked as required. But one hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately: Elgato HD60.
 
 <img src=/images/elgato_parallella_800.jpg alt="Parallella with Elgato Game Capture HD 60" >
 
-The Elgato even records screen activity from the Parallella's frame buffer. Recording is easy because the device sits between the Parallella's HDMI output and the HDMI input on the monitor. If you’re recording screen activity on Parallella running Linux, save yourself a headache and use an HDMI capture device.
+This image shows a Parallella (with green case supports), Elgato (rectangular with rounded corners), and an HDMI monitor.
+
+The Elgato even records screen activity from the Parallella's frame buffer. Anything that gets displayed on an HDMI monitor can be recorded by the Elgato. Recording is easy because the Elgato connects to the Parallella's HDMI output and the monitor's HDMI input. If you’re recording screen activity on Parallella running Linux, save yourself a headache and use an HDMI capture device like Elgato.
+
+### Shorter Videos are Better
+
+Personal preference: I think that short (less than 30 seconds) videos are better for a live presentation. Thirty seconds is enough time to demonstrate a point, but not so long that the audience gets bored watching a video. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 10- to 30-second videos (some via QuickTime, others recorded with hardware described below) woven together with other material.
 
 ### Bottom Line: More Engaging Presentations
 
-
-
-
-# Out-Takes
-
-### Two Techniques
-
-Screen recordings are faster and easier than I thought. This post includes two techniques for recording screen activity:
-
-* Using Apple’s [QuickTime](http://www.apple.com/quicktime/), pre-installed on most Mac computers.
-* Using a $150 HDMI recorder, the [Elgato Game Capture HD](https://www.elgato.com/en/gaming/gamecapture-hd)
-
-
+Why do we want to type in front of an audience, anyway? The important part of software development is the _thinking_, not the _typing_. Record the typing in advance, and you'll present with higher confidence in your demos.
