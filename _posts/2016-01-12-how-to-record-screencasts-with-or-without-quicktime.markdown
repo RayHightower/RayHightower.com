@@ -38,7 +38,7 @@ If you have a Mac with QuickTime installed, you have everything you need. Yes, t
 
 6. Do your demo. It doesn’t matter what you do, everything within the selected recording area will be recorded.
 
-7. Click the Stop button when you’re done. _Gotcha: The first time I recorded with Quicktime, it took me several minutes to find the stop button! It's the round black dot on the top menu bar._
+7. Click the Stop button when you’re done. _Gotcha: The first time I recorded with QuickTime, it took me several minutes to find the stop button! It's the round black dot on the top menu bar._
 
 8. Save your video, and trim it as desired.
 
@@ -49,18 +49,18 @@ Congrats... no more live typing!
 
 ### Hardware for Recording HDMI Output
 
-Another _gotcha_: I banged my head against the wall for several days, looking at multiple screencst recording solutions for Linux on the Parallella. None of the software solutions worked as required. But one hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately: Elgato HD60.
+Another _gotcha_: I banged my head against the wall for several days, looking at multiple screencast recording solutions for Linux on the Parallella. None of the software solutions worked as required. But one hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately: Elgato HD60.
 
 <img src=/images/elgato_parallella_800.jpg alt="Parallella with Elgato Game Capture HD 60" >
 
 This image shows a Parallella (with green case supports), Elgato (rectangular with rounded corners), and an HDMI monitor.
 
-The Elgato even records screen activity from the Parallella's frame buffer. Anything that gets displayed on an HDMI monitor can be recorded by the Elgato. Recording is easy because the Elgato connects to the Parallella's HDMI output and the monitor's HDMI input. If you’re recording screen activity on Parallella running Linux, save yourself a headache and use an HDMI capture device like Elgato.
+The Elgato even records screen activity from the Parallella's frame buffer. The Elgato can record anything that gets displayed on an HDMI monitor. Recording is easy because the Elgato connects to the Parallella's HDMI output and the monitor's HDMI input. If you’re recording screen activity on Parallella running Linux, save yourself a headache and use an HDMI capture device like Elgato.
 
 ### Shorter Videos are Better
 
-Personal preference: I think that short (less than 30 seconds) videos are better for a live presentation. Thirty seconds is enough time to demonstrate a point, but not so long that the audience gets bored watching a video. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 10- to 30-second videos (some via QuickTime, others recorded with hardware described below) woven together with other material.
+Personal preference: I think that short (less than 30 seconds) videos are better for a live presentation. Thirty seconds is enough time to demonstrate a point, but not so long that the audience gets bored watching a video. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 10- to 30-second videos showing prime number calculations. Some are recorded via QuickTime, others with the Elgato hardware. The videos are woven together with other material.
 
 ### Bottom Line: More Engaging Presentations
 
-Why do we want to type in front of an audience, anyway? The important part of software development is the _thinking_, not the _typing_. Record the typing in advance, and you'll present with higher confidence in your demos.
+Typing in front of a live audience presents challenges. It can be powerful, but like any live performance, it needs to be virtually flawless in order to work well. The important part of software development is the _thinking_, not the _typing_. When we record the typing in advance, we reduce the risk of glitches and we deliver more value for the audience. 
