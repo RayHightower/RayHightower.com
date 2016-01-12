@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to Record Screencasts With or Without QuickTime"
-date: 2016-01-09 04:03:11 -0500
+date: 2016-01-12 04:03:11 -0500
 comments: true
 categories: [ Community, Education ]
-published: false
+published: true
 ---
 
 Live coding in front of an audience can be exciting, except when there's a glitch. Make one typo during your demo and you could spend the rest of the presentation troubleshooting, while _hundreds of onlookers_ watch you struggle. Not fun. I've been there, and it hurts.
@@ -39,19 +39,15 @@ If you have a Mac with QuickTime installed, you have everything you need. Yes, t
 
 ### Shorter Videos are Better
 
-Personal preference: I think that short (less than 30 seconds) videos are better for a live presentation. 30 seconds is enough time to demonstrate a point, but not so long that the audience gets bored watching a video. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 30-second videos (some via QuickTime, others recorded with hardware) separated by other material.
+Personal preference: I think that short (less than 30 seconds) videos are better for a live presentation. Thirty seconds is enough time to demonstrate a point, but not so long that the audience gets bored watching a video. This [Parallella presentation](/blog/2015/08/22/madison-ruby-and-parallella/) includes multiple 30-second videos (some via QuickTime, others recorded with hardware described below) woven together with other material.
 
 ### Hardware for Recording HDMI Output
 
-I ran into a brick wall while preparing a presentation on Parallella. The Linaro/Ubuntu distro of Linux does not have a Quicktime-like app that records video from the screen. good  I banged
-I banged my head against the wall for several days, looking at multiple video software solutions for Linux on the Parallella. None of the “solutions” worked as required. But the hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately.
-
-Best Buy sells an HDMI recorder for about $150. Installation is as simple as plug & play. It sits between the source of your HDMI video and the monitor.
-
+I banged my head against the wall for several days, looking at multiple screencst recording solutions for Linux on the Parallella. None of the software solutions worked as required. But one hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately: Elgato HD60.
 
 <img src=/images/elgato_parallella_800.jpg alt="Parallella with Elgato Game Capture HD 60" >
 
-So if you’re recording screen activity on Parallella running Linux, save yourself a headache and use the HDMI capture device.
+The Elgato even records screen activity from the Parallella's frame buffer. Recording is easy because the device sits between the Parallella's HDMI output and the HDMI input on the monitor. If you’re recording screen activity on Parallella running Linux, save yourself a headache and use an HDMI capture device.
 
 ### Bottom Line: More Engaging Presentations
 
