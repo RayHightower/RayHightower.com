@@ -115,6 +115,14 @@ html {
   margin: 0;
 }
 
+.sidebar-events section {
+  background-color: white;
+  padding: 20px;
+  border-color: gray;
+  border-width: 5px;
+  margin: 5px;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
