@@ -145,6 +145,12 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* experiment: will this make featured disappear?
+@media (max-width: 48em) {
+  .sidebar-featured {
+    display: none;
+  }
+ */
 
 /* Container
  *
