@@ -118,9 +118,9 @@ html {
 .sidebar-events section {
   background-color: white;
   padding: 20px;
-  border-color: orange;
-  border-width: 5px;
-  margin: 15px;
+  border-radius: 5px;
+  width: 180px;
+  margin-bottom: 15px;
 }
 
 /* Sidebar nav */
@@ -144,6 +144,13 @@ a.sidebar-nav-item:focus {
 .sidebaqr-nav hr {
   width: 20px;
   text-align: center;
+}
+
+.sidebar-observations ul {
+  font-size: 0.75rem;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 /* Sticky sidebar
