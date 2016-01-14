@@ -17,7 +17,7 @@ Today, IoT enthusiasts fly toy drones, while professional photographers use simi
 
 The Internet of Things is grown up and ready to do real work. All it needs is you.
 
-Slides and video appear below.
+Slides appear below.
 
 <center><script async class="speakerdeck-embed" data-id="f8efff9826f149f99c5f404494d261f4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
 
