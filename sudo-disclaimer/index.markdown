@@ -9,9 +9,10 @@ footer: false
 
 {% include image.html align="right" img="/images/sudo-make-me-a-sandwich.png" caption="Sudo, illustrated by XKCD.com." alt="Sudo, illustrated by XKCD.com." %}
 
-_At right: Sudo, illustrated by [XKCD.com](http://xkcd.com)._
+_Illustration: Sudo, by [XKCD.com](https://xkcd.com/149/)._
 
-`sudo` is like a sharp knife. Use with care.
+`sudo` is like a sharp knife. When used properly, it can make your life
+easier.
 
 Some of posts on this blog will ask you to use the `sudo` command, available with Linux, Unix, and OS X. Sudo endows users with great power. 
 

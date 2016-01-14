@@ -54,7 +54,7 @@ Save the file and re-start the Parallella so that the new parameters can take ef
 
 ### Confirm the X Window Connection
 
-To test the new configuration, first log into the Parallella from the Mac using the `-X` flag like so:
+To test the new configuration, first log into the Parallella from the Mac using the `-X` flag (note that "X" is capitalized) like so:
 
 ``` bash
 
