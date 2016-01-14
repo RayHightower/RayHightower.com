@@ -59,7 +59,7 @@ html {
 
 }
 
-/* by RTH: Only show featured, social media, and events on iPad or bigger. */
+/* by RTH: Only show the following sections on iPad or bigger. */
 @media (max-width: 48em) {
   .sidebar-featured {
     display: none;
@@ -68,6 +68,12 @@ html {
     display: none;
   }
   .sidebar-events {
+    display: none;
+  }
+  .sidebar-observations {
+    display: none;
+  }
+  .sidebar-vim {
     display: none;
   }
 }

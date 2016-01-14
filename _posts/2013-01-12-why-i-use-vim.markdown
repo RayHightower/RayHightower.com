@@ -9,7 +9,7 @@ categories: [Education, Vim]
 My primary code-writing tools are:
 
 * [Xcode](https://developer.apple.com/xcode/) for Objective-C.
-* [Vim](http://code.google.com/p/macvim/) for Ruby, [RubyMotion](/blog/2012/10/29/building-ios-apps-with-ruby-motion/), and everything else.
+* [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) for Ruby, [RubyMotion](/blog/2012/10/29/building-ios-apps-with-ruby-motion/), and everything else.
 
 Here are my reasons for using Vim, in priority order: 
 
