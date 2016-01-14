@@ -118,9 +118,9 @@ html {
 .sidebar-events section {
   background-color: white;
   padding: 20px;
-  border-color: gray;
+  border-color: orange;
   border-width: 5px;
-  margin: 5px;
+  margin: 15px;
 }
 
 /* Sidebar nav */
