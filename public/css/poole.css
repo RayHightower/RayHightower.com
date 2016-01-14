@@ -59,8 +59,8 @@ html {
 
 }
 
-/* by RTH: Only show featured articles and social media icons on iPad or bigger. */
-@media (max-width: 38em) {
+/* by RTH: Only show featured, social media, and events on iPad or bigger. */
+@media (max-width: 48em) {
   .sidebar-featured {
     display: none;
   }
