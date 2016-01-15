@@ -9,7 +9,7 @@ Raymond T. Hightower is a software developer, founder of [WisdomGroup](http://wi
 
 Hightower launched WisdomGroup in 1994 as a network consulting firm. In response to client demand, WisdomGroup morphed into software development, building web and mobile applications for businesses. WisdomGroup gives back to the community through student internships, running user groups, and hosting conferences. The company is active in the USA and in the Caribbean.
 
-Hightower has visited every state in the USA and most continents on planet Earth. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his Bachelors in Computer Science at the University of Illinois at Chicago.
+Hightower is a scuba diver, marathon runner, skier, aspiring piano player, martial artist, Eagle Scout, and world traveler. He has visited every state in the USA and most continents on planet Earth. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his Bachelors in Computer Science at the University of Illinois at Chicago.
 
 Hightower blogs and [speaks](/speaking) on technology and business growth.
 
