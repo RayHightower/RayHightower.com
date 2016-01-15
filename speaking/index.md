@@ -17,9 +17,9 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 * [Groupon: OpenROV at Geekfest](/blog/2014/10/21/geekfest-and-openrov/)<br/>Geekfest, a weekly event by Groupon - Chicago, IL, USA<br/>&nbsp;<br/>
 * [Four Steps. Five Minutes.](/blog/2012/08/31/four-steps-five-minutes/)<br/>Five-minute video summary of _The Four Steps to the Epiphany_ by Steve Blank<br/>Ignite Chicago - Chicago, IL, USA<br/>&nbsp;<br/>
 
-### Podcasts:
+### Podcast Audio:
 
-* [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/20) by [ThoughtBot](http://thoughtbot.com)<br/>Multiple developers interviewed. Hightower's interview runs from 4:32 to 6:14 in the podcast. The other interviewees are worth hearing, too!
+* [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/20)<br/>Produced by [ThoughtBot](http://thoughtbot.com)<br/>Multiple developers interviewed at RubyConf 2012. Hightower's interview runs from 4:32 to 6:14 in the podcast. The other interviewees are worth hearing, too!
 
 ### Upcoming:
 
