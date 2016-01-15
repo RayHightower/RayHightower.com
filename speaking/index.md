@@ -19,7 +19,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Podcast Audio:
 
-* [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/20)<br/>Produced by [ThoughtBot](http://thoughtbot.com) at RubyConf 2012 in Denver, CO, USA. Multiple developers interviewed; Hightower's segment runs from 4:32 to 6:14.
+* [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/20)<br/>Produced by [thoughtbot](http://thoughtbot.com) at RubyConf 2012 in Denver, CO, USA. Multiple developers interviewed; Hightower's segment runs from 4:32 to 6:14.
 
 ### Upcoming:
 
@@ -31,7 +31,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 ### Additional Speaking History:
 
 * RubyConf Colombia<br/>Medellín, Colombia<br/>&nbsp;<br/>
-* in5 hub Innovation Hub <br/>Dubai, UAE<br/>&nbsp;<br/>
+* in5 hub Innovation Centre <br/>Dubai, UAE<br/>&nbsp;<br/>
 * DevNights at The Cribb <br/>Dubai, UAE<br/>&nbsp;<br/>
 * Association for Computing Machinery (ACM)<br/>Chicago, IL, USA<br/>&nbsp;<br/>
 * Rubyfuza <br/>Cape Town, South Africa<br/>&nbsp;<br/>
