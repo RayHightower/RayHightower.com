@@ -19,7 +19,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Podcast Audio:
 
-* [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/20)<br/>Produced by [ThoughtBot](http://thoughtbot.com)<br/>Multiple developers interviewed at RubyConf 2012. Hightower's interview runs from 4:32 to 6:14 in the podcast. The other interviewees are worth hearing, too!
+* [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/20)<br/>Produced by [ThoughtBot](http://thoughtbot.com) at RubyConf 2012 in Denver, CO, USA. Multiple developers interviewed; Hightower's segment runs from 4:32 to 6:14.
 
 ### Upcoming:
 
