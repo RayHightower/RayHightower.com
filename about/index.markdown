@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-<img style="margin-left:20px" src="/images/parallella_hopper_250.jpg" align="right" />
-
 Raymond T. Hightower is a software developer, founder of [WisdomGroup](http://wisdomgroup.com), organizer of [ChicagoRuby](http://chicagoruby.org), and producer of [WindyCityRails](http://windycityrails.org), [WindyCityThings](http://windycitythings.com), & [RubyCaribe](http://rubycaribe.com). He is currently exploring parallelism and the Internet of Things.
+
+<img style="margin-left:20px" src="/images/parallella_hopper_250.jpg" align="right" />
 
 Hightower launched WisdomGroup in 1994 as a network consulting firm. In response to client demand, WisdomGroup shifted into software development. WisdomGroup serves clients in multiple vertical markets such as [high-end engineering](http://www.wisdomgroup.com/case-studies/texas-am-university/), [online commerce](http://www.wisdomgroup.com/case-studies/singles-travel-international/), and [not-for-profit](http://www.wisdomgroup.com/case-studies/cathedralshelter/). The company gives back to the community through student internships, running user groups, and hosting conferences. The company is active in the USA and in the Caribbean.
 
