@@ -21,8 +21,8 @@ jQuery(function() {
   });
 
   // Event when the form is submitted
-  $("#site_search").submit(function(){
-      event.preventDefault(); // RTH: per Google, preventDefault() might be teh culprit in Firefox
+  $("#site_search").submit(function(event){
+      event.preventDefault(); // RTH: per Google, preventDefault() might be the culprit in Firefox
       var query = $("#search_box").val(); // Get the value for the text field
       var results = window.idx.search(query); // Get lunr to perform a search
       display_search_results(results); // Hand the results off to be displayed
