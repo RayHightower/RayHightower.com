@@ -93,7 +93,9 @@ jQuery(function() {
   });
 
   // Event when the form is submitted
-  $("#site_search").submit(function(){
+  // Note: An earlier version did not pass "event" to this function, and
+  // that caused problems with Firefox.
+  $("#site_search").submit(function(event){
       event.preventDefault();
       var query = $("#search_box").val(); // Get the value for the text field
       var results = window.idx.search(query); // Get lunr to perform a search
