@@ -93,8 +93,10 @@ jQuery(function() {
   });
 
   // Event when the form is submitted
-  // Note: An earlier version did not pass "event" to this function, and
-  // that caused problems with Firefox.
+  // Note: An earlier version of search.js did not pass "event" to
+  // this function. That caused problems with Firefox to
+  // display the "404" page instead of search results.
+  // Solution: Explicitly pass the "event" object to the function.
   $("#site_search").submit(function(event){
       event.preventDefault();
       var query = $("#search_box").val(); // Get the value for the text field
