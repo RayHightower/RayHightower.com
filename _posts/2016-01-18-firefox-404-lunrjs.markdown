@@ -45,7 +45,7 @@ Fortunately, a ChicagoRuby meeting was only one day away. ChicagoRuby has many m
 
 After the meeting, I reproduced the problem for [Justin Love](https://twitter.com/wondible) and [Darren Holland](https://twitter.com/cachesking). In addition to being a co-organizer of ChicagoRuby, Justin is a JavaScript enthusiast and a co-organizer of the Chicago JavaScript group. Darren has strong skills in Ruby and JavaScript.
 
-We managed to isolate the problem further by strategically inserting `alert` statements in `search.js`. We tested each iteration against Chrome and Firefox. Chrome continued to succeed. Firefox continued to fail. The `alert` statements helped us to determine where.
+We managed to isolate the problem further by strategically inserting `alert` statements in `search.js`. We tested each iteration against Chrome and Firefox. Chrome continued to succeed. Firefox continued to fail. The `alert` statements helped us to verify the point of failure.
 
 ### Collaboration and Solution
 
