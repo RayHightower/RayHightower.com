@@ -90,11 +90,6 @@ jQuery(function() {
   });
 
   // Event when the form is submitted
-  // Note: An earlier version of search.js did not pass "event" to
-  // this function. That caused Firefox to display a "404" 
-  // page instead of search results.
-  // Solution: Explicitly pass the "event" object to the function.
-  // Details: http://rayhightower.com/blog/2016/01/18/firefox-404-lunrjs/
   $("#site_search").submit(function(event){
       event.preventDefault();
       var query = $("#search_box").val(); // Get the value for the text field
@@ -132,7 +127,10 @@ jQuery(function() {
 
 ```
 
-Note that `search.js` looks at fields defined by `search_data.json`. The `{ boost: 10 }` parameter tells lunr.js to give extra weight to words in the content section of each blog post. You might choose to boost a different field depending on what's most important on your blog or site.
+
+_Update: An earlier version of search.js did not work well with Firefox. Details on the problem and the solution: [Firefox, 404, and lunr.js](/blog/2016/01/18/firefox-404-lunrjs/)_
+
+You will observe that `search.js` looks at fields defined by `search_data.json`. The `{ boost: 10 }` parameter tells lunr.js to give extra weight to words in the content section of each blog post. You might choose to boost a different field depending on what's most important on your blog or site.
 
 ### Create the search_data.json Template
 
@@ -200,6 +198,8 @@ Here are the _gotchas_ that I encountered while getting lunr.js to work. Hope th
 * The lunr.js examples that I found show how to point `search_data.json` toward blog posts, but not the other pages on the site. I need to include [About](/about/), [Speaking](/speaking/), and [If](/if-rudyard-kipling/) in my results. I hacked a solution in [`/search_data.json`](https://raw.githubusercontent.com/RayHightower/rayhightower.github.io/master/search_data.json). The hack works for now, but I'm sure there's a better way.
 
 * The lunr.js engine appeared to ignore some results until I dug deper into the problem. For example, searching for the term "Cape Town" initially produced zero results, even though the term exists on the [Speaking](/speaking) page. To solve the problem, I cheated: I added a space after "Rubyfuza" and before `<br/>` on the Speaking page. This solution feels like a hack to me. If you know of a cleaner way, feel free to mention it in the comments below.
+
+* An earlier version of search.js did not work well with Firefox. Details on the problem and the solution: [Firefox, 404, and lunr.js](/blog/2016/01/18/firefox-404-lunrjs/)
 
 ### Acknowledgements
 
