@@ -16,9 +16,7 @@ Of course lunrjs works with Firefox, right? I had tested the search page in Chro
 
 <!--more-->
 
-<img src=“/images/firefox_lunrjs_404.jpg” style=“”>
-
-This post describes the path we took to the solution.
+<img src="/images/firefox_lunrjs_404.jpg" style="margin_bottom:20px;">
 
 ### Isolating the Problem
 
@@ -26,12 +24,11 @@ Through Google, Stack Overflow, and trial & error I isolated the problem to a si
 
 ``` javascript
 
-  // Event when the form is submitted
   $("#site_search").submit(function(){
-      event.preventDefault(); // RTH: per Google, preventDefault() might be teh culprit in Firefox
-      var query = $("#search_box").val(); // Get the value for the text field
-      var results = window.idx.search(query); // Get lunr to perform a search
-      display_search_results(results); // Hand the results off to be displayed
+      event.preventDefault(); // RTH: per Google, preventDefault() might be the culprit in Firefox
+      var query = $("#search_box").val();
+      var results = window.idx.search(query);
+      display_search_results(results);
   });
 
 ```
@@ -40,13 +37,15 @@ When a web browser encounters this portion of the script, it will attempt to ope
 
 ### Getting Help
 
-Fortunately, a ChicagoRuby meeting was only one day away. ChicagoRuby is fortunate to have members who are passionate about exploring multiple languages, not just Ruby. After the meeting, I reproduced the problem for [Justin Love](https://twitter.com/wondible) and Darren Holland](https://twitter.com/cachesking). In addition to being a member of the ChicagoRuby organizer team, happens to be a JavaScript enthusiast and a co-organizer of the Chicago JavaScript group. Darren has strong skills in Ruby and JavaScript.
+Fortunately, a ChicagoRuby meeting was only one day away. ChicagoRuby has many members who are passionate polygots, not just Rubyists.
 
-We managed to isolate the problem further through the strategic insertion of `alert` statements in `search.js`. We tested each iteration against Chrome and Firefox. Chrome continued to succeed. Firefox continued to fail.
+After the meeting, I reproduced the problem for [Justin Love](https://twitter.com/wondible) and [Darren Holland](https://twitter.com/cachesking). In addition to being a co-organizer of ChicagoRuby, Justin is also a JavaScript enthusiast and a co-organizer of the Chicago JavaScript group. Darren has strong skills in Ruby and JavaScript.
+
+We managed to isolate the problem further by strategically inserting `alert` statements in `search.js`. We tested each iteration against Chrome and Firefox. Chrome continued to succeed. Firefox continued to fail.
 
 ### Collaboration and Solution
 
-After several minutes of collaboration, Darren theorize that  `event.preventDefault();` was choking in Firefox because the `event` object had not been passed to it explicitly. Chrome and Safari were running the same JavaScript code, and they assumed that `event` meant `event` even though no object had been passed. But maybe Firefox wanted to be explicitly told what object was being passed?
+After several minutes of collaboration, Darren theorize that `event.preventDefault();` was choking in Firefox because the `event` object was not explicitly passed. Chrome and Safari were running the same JavaScript code, and they assumed that `event` meant `event` even though no object had been passed. But maybe Firefox wanted to be explicitly told what object was being passed?
 
 One way to find out: We added `event` to the function definition as follows:
 
@@ -56,14 +55,16 @@ One way to find out: We added `event` to the function definition as follows:
 
 ```
 
-Next, we re-started the Jekyll server. And it worked!
+Next, we re-started the Jekyll server. And it worked. Firefox browsers can use the [search page](/search) with great results.
 
 ### Lessons Learned
 
 Key takeaways from this experience.
 
 * Firefox, Chrome, and Safari handle JavaScript differently. Always be testing.
+
 * Before asking for help, make sure you can re-produce the problem. Justin and Darren were able to wrap their heads around this challenge because the constraints and behavior were clearly defined.
+
 * When smart people challenge each other to grow, great things happen. That’s the ChicagoRuby motto, and it is completely true, especially when we collaborate on a troubleshooting mission.
 
 ### About Git
@@ -71,10 +72,12 @@ Key takeaways from this experience.
 Once again, Git proves to be awesome. We performed all of our troubleshooting steps in a separate branch called `firefox`. Advantages of this approach:
 
 * The separate branch enabled us to experiment confidently and aggressively, knowing that we could always go back to square one (`master`) if troubleshooting caused serious damage.
+
 * After we created a working solution in the `firefox` branch, we tested it throughly, and merged it into the `master` branch.
+
 * While writing this article, re-creating the problem was as easy as checking out one of the broken commits in the `firefox` branch. The `master` branch remained pristine throughout.
 
-### Thanks
+### Acknowledgements
 
 Special thanks to the following people for turning this into a learning experience:
 
