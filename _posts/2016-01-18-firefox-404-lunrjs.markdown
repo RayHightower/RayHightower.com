@@ -8,7 +8,7 @@ published: true
 ---
 <img src="/images/firefox-logo.png" align="right" style="margin-left:1em;">
 
-The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/). Inspiration for the articles comes from many sources. This post was inspired by a question about search:
+The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/). This post was inspired by a question about search:
 
 >Is it me or does it not work in Firefox?<br/><br/>~Jason (from the blog comments)
 
