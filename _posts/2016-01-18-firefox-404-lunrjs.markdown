@@ -71,7 +71,7 @@ Key takeaways from this experience:
 
 * When smart people challenge each other to grow, great things happen. That’s the ChicagoRuby motto, and it is completely true, especially when we collaborate on a troubleshooting mission.
 
-### About Git
+### Git Rocks
 
 Once again, Git proves to be awesome. We performed all of our troubleshooting steps in a separate branch called `firefox`. Advantages of this approach:
 
