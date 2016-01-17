@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Firefox, 404, and lunr.js"
-date: 2016-01-16 09:03:11 -0500
+date: 2016-01-18 09:03:11 -0500
 comments: true
 categories: [ Education, JavaScript, Jekyll ]
 published: true
 ---
-The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/). Two days ago I received the following post in the blog comments for the lunrjs article:
+The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/). Two days ago I received the following post in the blog comments for the lunr.js article:
 
 >Is it me or does it not work in Firefox?<br/>~Jason (last name unknown)
 
