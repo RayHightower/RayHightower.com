@@ -47,7 +47,7 @@ We managed to isolate the problem further by strategically inserting `alert` sta
 
 ### Collaboration and Solution
 
-After several minutes of collaboration, Darren theorize that `event.preventDefault();` was choking in Firefox because the `event` object was not explicitly passed. Chrome and Safari were running the same JavaScript code, and they assumed that `event` meant `event` even though no object had been passed. But maybe Firefox wanted to be explicitly told what object was being passed?
+After several minutes of collaboration, Darren theorized that `event.preventDefault();` was choking in Firefox because the `event` object was not explicitly passed. Chrome and Safari were running the same JavaScript code, and they assumed that `event` meant `event` even though no object had been passed. But maybe Firefox wanted to be explicitly told what object was being passed?
 
 One way to find out: We added `event` to the function definition as follows:
 
