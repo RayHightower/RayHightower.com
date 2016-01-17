@@ -16,7 +16,7 @@ Of course lunrjs works with Firefox, right? I had tested the search page in Chro
 
 <!--more-->
 
-<img src="/images/firefox_lunrjs_404.jpg" style="margin_bottom:20px;">
+<img src="/images/firefox_lunrjs_404.jpg" style="margin-bottom:2em; margin-left:2em; width:70%;">
 
 ### Isolating the Problem
 
@@ -82,4 +82,5 @@ Once again, Git proves to be awesome. We performed all of our troubleshooting st
 Special thanks to the following people for turning this into a learning experience:
 
 * [Jason (last name unknown)](https://disqus.com/by/jsonmone/) for bringing the problem to my attention via the blog comments.
+
 * Darren Holland and Justin Love for collaborating on the solution.
