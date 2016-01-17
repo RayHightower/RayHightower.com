@@ -59,11 +59,7 @@ html {
 
 }
 
-<<<<<<< HEAD
 /* by RTH: Only show the following sections on iPad or bigger. */
-=======
-/* by RTH: Only show featured articles and social media icons on iPad or bigger. */
->>>>>>> master
 @media (max-width: 48em) {
   .sidebar-featured {
     display: none;
@@ -71,7 +67,6 @@ html {
   .sidebar-socmed {
     display: none;
   }
-<<<<<<< HEAD
   .sidebar-events {
     display: none;
   }
@@ -81,12 +76,9 @@ html {
   .sidebar-vim {
     display: none;
   }
-=======
   .sidebar-nav a {
     font-size: 20px;
   }
-
->>>>>>> master
 }
 
 body {
