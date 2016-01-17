@@ -59,7 +59,7 @@ One way to find out: We added `event` to the function definition as follows:
 
 ```
 
-Next, we re-started the Jekyll server. And it worked! Firefox browsers can use the [search page](/search) with great results.
+Next, we re-started the Jekyll server. And it worked! Firefox browsers can use the [search page](/search) with great results. The problem wasn't in lunr.js. It was in a single line of `search.js`, the JavaScript file that communicates with lunr.js.
 
 ### Lessons Learned
 
