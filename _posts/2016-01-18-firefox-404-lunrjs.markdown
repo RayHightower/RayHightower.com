@@ -10,7 +10,7 @@ published: true
 
 The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/). Inspiration for the articles comes from many sources. This post was inspired by a question:
 
->Is it me or does it not work in Firefox?<br/><br/>~Jason (from the blog >comments)
+>Is it me or does it not work in Firefox?<br/><br/>~Jason (from the blog comments)
 
 Of course lunr.js works with Firefox, right? I had tested the search page in Chrome and Safari before launch. But I took Firefox for granted. After all, Firefox is not MSIE, right?
 
