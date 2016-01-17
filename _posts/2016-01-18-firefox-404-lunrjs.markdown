@@ -6,11 +6,11 @@ comments: true
 categories: [ Education, JavaScript, Jekyll ]
 published: true
 ---
-<img src="/images/firefox-logo.png" align="right" style="margin-left:2em;">
+<img src="/images/firefox-logo.png" align="right" style="margin-left:1em;">
 
-The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/). Two days ago I received the following post in the blog comments for the lunr.js article:
+The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/). Inspiration for the articles comes from many sources. This post was inspired by a question:
 
->Is it me or does it not work in Firefox?<br/><br/>~Jason (last name unknown)
+>Is it me or does it not work in Firefox?<br/><br/>~Jason (from the blog >comments)
 
 Of course lunr.js works with Firefox, right? I had tested the search page in Chrome and Safari before launch. But I took Firefox for granted. After all, Firefox is not MSIE, right?
 
