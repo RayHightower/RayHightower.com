@@ -9,11 +9,8 @@ published: true
 
 [lunr.js](http://lunrjs.com) delivers fast search results because the entire search process happens in the browser. There is no network delay because the network never gets touched during the search.
 
-<div class="video-container">
-<img src="/images/lunrjs_jekyll_search.gif">
-</div> 
+<img src="/images/lunrjs_jekyll_search.gif" style="width:70%; margin-left:2em; margin-bottom:2em;">
 
-<br/>
 Speed is one reason why this blog uses lunr.js for search. If you run a [Jekyll-based blog](/blog/2016/01/02/jekyll-github-lunrjs/), this post will tell you how to make lunr.js work for you. Gotchas (and solutions) are shared within.
 
 <!--more-->

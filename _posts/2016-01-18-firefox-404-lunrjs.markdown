@@ -16,7 +16,7 @@ Of course lunrjs works with Firefox, right? I had tested the search page in Chro
 
 <!--more-->
 
-<img src="/images/firefox_lunrjs_404.jpg" style="margin-bottom:2em; margin-left:2em; width:70%;">
+<img src="/images/firefox_lunrjs_404.jpg" style="margin-bottom:2em; margin-left:2em; width:70%;" alt="Firefox 404 lunrjs search">
 
 ### Isolating the Problem
 
