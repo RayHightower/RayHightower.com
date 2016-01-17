@@ -6,11 +6,13 @@ comments: true
 categories: [ Education, JavaScript, Jekyll ]
 published: true
 ---
+<img src="/images/firefox-logo.png" align="right" style="margin-left:2em;">
+
 The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/). Two days ago I received the following post in the blog comments for the lunr.js article:
 
->Is it me or does it not work in Firefox?<br/>~Jason (last name unknown)
+>Is it me or does it not work in Firefox?<br/><br/>~Jason (last name unknown)
 
-Of course lunrjs works with Firefox, right? I had tested the search page in Chrome and Safari before launch. But I took Firefox for granted. After all, Firefox is not MSIE, right?
+Of course lunr.js works with Firefox, right? I had tested the search page in Chrome and Safari before launch. But I took Firefox for granted. After all, Firefox is not MSIE, right?
 
 "Haha!” said Firefox when I tried to run search. It threw up the “404” page. This post documents the problem and the solution.
 
@@ -25,7 +27,7 @@ Through Google, Stack Overflow, and trial & error I isolated the problem to a si
 ``` javascript
 
   $("#site_search").submit(function(){
-      event.preventDefault(); // RTH: per Google, preventDefault() might be the culprit in Firefox
+      event.preventDefault(); // Isolated.
       var query = $("#search_box").val();
       var results = window.idx.search(query);
       display_search_results(results);
@@ -59,7 +61,7 @@ Next, we re-started the Jekyll server. And it worked! Firefox browsers can use t
 
 ### Lessons Learned
 
-Key takeaways from this experience.
+Key takeaways from this experience:
 
 * Firefox, Chrome, and Safari handle JavaScript differently. Always be testing.
 
@@ -73,7 +75,7 @@ Once again, Git proves to be awesome. We performed all of our troubleshooting st
 
 * The separate branch enabled us to experiment confidently and aggressively, knowing that we could always go back to square one (`master`) if troubleshooting caused serious damage.
 
-* After we created a working solution in the `firefox` branch, we tested it throughly, and merged it into the `master` branch.
+* After we created a working solution in the `firefox` branch, we tested it thoroughly, and merged it into the `master` branch.
 
 * While writing this article, re-creating the problem was as easy as checking out one of the broken commits in the `firefox` branch. The `master` branch remained pristine throughout.
 
