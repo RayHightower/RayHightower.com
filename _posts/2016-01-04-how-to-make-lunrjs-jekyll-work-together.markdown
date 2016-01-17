@@ -9,11 +9,8 @@ published: true
 
 [lunr.js](http://lunrjs.com) delivers fast search results because the entire search process happens in the browser. There is no network delay because the network never gets touched during the search.
 
-<div class="video-container">
-<img src="/images/lunrjs_jekyll_search.gif">
-</div> 
+<img src="/images/lunrjs_jekyll_search.gif" style="width:70%; margin-left:2em; margin-bottom:2em;">
 
-<br/>
 Speed is one reason why this blog uses lunr.js for search. If you run a [Jekyll-based blog](/blog/2016/01/02/jekyll-github-lunrjs/), this post will tell you how to make lunr.js work for you. Gotchas (and solutions) are shared within.
 
 <!--more-->
@@ -93,7 +90,7 @@ jQuery(function() {
   });
 
   // Event when the form is submitted
-  $("#site_search").submit(function(){
+  $("#site_search").submit(function(event){
       event.preventDefault();
       var query = $("#search_box").val(); // Get the value for the text field
       var results = window.idx.search(query); // Get lunr to perform a search
@@ -130,7 +127,10 @@ jQuery(function() {
 
 ```
 
-Note that `search.js` looks at fields defined by `search_data.json`. The `{ boost: 10 }` parameter tells lunr.js to give extra weight to words in the content section of each blog post. You might choose to boost a different field depending on what's most important on your blog or site.
+
+_Update: An earlier version of search.js did not work well with Firefox. Details on the problem and the solution: [Firefox, 404, and lunr.js](/blog/2016/01/18/firefox-404-lunrjs/)_
+
+You will observe that `search.js` looks at fields defined by `search_data.json`. The `{ boost: 10 }` parameter tells lunr.js to give extra weight to words in the content section of each blog post. You might choose to boost a different field depending on what's most important on your blog or site.
 
 ### Create the search_data.json Template
 
@@ -198,6 +198,8 @@ Here are the _gotchas_ that I encountered while getting lunr.js to work. Hope th
 * The lunr.js examples that I found show how to point `search_data.json` toward blog posts, but not the other pages on the site. I need to include [About](/about/), [Speaking](/speaking/), and [If](/if-rudyard-kipling/) in my results. I hacked a solution in [`/search_data.json`](https://raw.githubusercontent.com/RayHightower/rayhightower.github.io/master/search_data.json). The hack works for now, but I'm sure there's a better way.
 
 * The lunr.js engine appeared to ignore some results until I dug deper into the problem. For example, searching for the term "Cape Town" initially produced zero results, even though the term exists on the [Speaking](/speaking) page. To solve the problem, I cheated: I added a space after "Rubyfuza" and before `<br/>` on the Speaking page. This solution feels like a hack to me. If you know of a cleaner way, feel free to mention it in the comments below.
+
+* An earlier version of `search.js` did not work well with Firefox. Details on the problem and the solution: [Firefox, 404, and lunr.js](/blog/2016/01/18/firefox-404-lunrjs/)
 
 ### Acknowledgements
 
