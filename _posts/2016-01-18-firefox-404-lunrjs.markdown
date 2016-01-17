@@ -12,7 +12,7 @@ The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to
 
 >Is it me or does it not work in Firefox?<br/><br/>~Jason (from the blog comments)
 
-Of course lunr.js works with Firefox, right? I had tested the search page in Chrome and Safari before launch. But I took Firefox for granted. After all, Firefox is not MSIE, right?
+Of course lunr.js works with Firefox, right? I tested the search page in Chrome and Safari before launch. But I took Firefox for granted. After all, Firefox is not MSIE, right?
 
 "Haha!” said Firefox when I tried to run search. It threw up the “404” page. This post documents the problem and the solution.
 
