@@ -199,7 +199,7 @@ Here are the _gotchas_ that I encountered while getting lunr.js to work. Hope th
 
 * The lunr.js engine appeared to ignore some results until I dug deper into the problem. For example, searching for the term "Cape Town" initially produced zero results, even though the term exists on the [Speaking](/speaking) page. To solve the problem, I cheated: I added a space after "Rubyfuza" and before `<br/>` on the Speaking page. This solution feels like a hack to me. If you know of a cleaner way, feel free to mention it in the comments below.
 
-* An earlier version of search.js did not work well with Firefox. Details on the problem and the solution: [Firefox, 404, and lunr.js](/blog/2016/01/18/firefox-404-lunrjs/)
+* An earlier version of `search.js` did not work well with Firefox. Details on the problem and the solution: [Firefox, 404, and lunr.js](/blog/2016/01/18/firefox-404-lunrjs/)
 
 ### Acknowledgements
 
