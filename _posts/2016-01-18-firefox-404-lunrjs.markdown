@@ -8,11 +8,11 @@ published: true
 ---
 <img src="/images/firefox-logo.png" align="right" style="margin-left:1em;">
 
-The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/). This post was inspired by a question about search:
+The search function on this blog is powered by [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/). This post was inspired by a search question in the blog comments:
 
 >Is it me or does it not work in Firefox?<br/><br/>~Jason (from the blog comments)
 
-Of course lunr.js works with Firefox, right? I tested the search page in Chrome and Safari before launch. But I took Firefox for granted. After all, Firefox is not MSIE, right?
+Of course lunr.js works with Firefox, right? I tested the search page in Chrome and Safari before launch. But I took Firefox for granted. The US Navy Seals have a saying: _Assumption is the mother of all [screw]-ups._
 
 "Haha!” said Firefox when I tried to run search. It threw up the “404” page. This post documents the problem and the solution.
 
@@ -27,7 +27,7 @@ Through Google, Stack Overflow, and trial & error I isolated the problem to a si
 ``` javascript
 
   $("#site_search").submit(function(){
-      event.preventDefault(); // Isolated.
+      event.preventDefault(); // Problem.
       var query = $("#search_box").val();
       var results = window.idx.search(query);
       display_search_results(results);
@@ -35,15 +35,17 @@ Through Google, Stack Overflow, and trial & error I isolated the problem to a si
 
 ```
 
-When a web browser encounters this portion of the script, it will attempt to open a page instead of running the script on that page. The command `event.preventDefault();` is supposed to stop the page from opening so the script can run instead. Chrome and Safari handled this fine. Firefox did not. What could we do about it?
+### Explaining the Problem
+
+When a web browser encounters this function in the script, it will attempt to open a page instead of running the script on that page. The command `event.preventDefault();` is supposed to stop the page from opening so the script can run instead. Chrome and Safari handled this fine. But Firefox tried to open a non-existing page, and that led to the 404. What could we do about it?
 
 ### Getting Help
 
 Fortunately, a ChicagoRuby meeting was only one day away. ChicagoRuby has many members who are passionate polygots, not just Rubyists.
 
-After the meeting, I reproduced the problem for [Justin Love](https://twitter.com/wondible) and [Darren Holland](https://twitter.com/cachesking). In addition to being a co-organizer of ChicagoRuby, Justin is also a JavaScript enthusiast and a co-organizer of the Chicago JavaScript group. Darren has strong skills in Ruby and JavaScript.
+After the meeting, I reproduced the problem for [Justin Love](https://twitter.com/wondible) and [Darren Holland](https://twitter.com/cachesking). In addition to being a co-organizer of ChicagoRuby, Justin is a JavaScript enthusiast and a co-organizer of the Chicago JavaScript group. Darren has strong skills in Ruby and JavaScript.
 
-We managed to isolate the problem further by strategically inserting `alert` statements in `search.js`. We tested each iteration against Chrome and Firefox. Chrome continued to succeed. Firefox continued to fail.
+We managed to isolate the problem further by strategically inserting `alert` statements in `search.js`. We tested each iteration against Chrome and Firefox. Chrome continued to succeed. Firefox continued to fail. The `alert` statements helped us to determine where.
 
 ### Collaboration and Solution
 
