@@ -7,7 +7,7 @@ categories: [ Ruby ]
 ---
 This blog uses [pygments.rb](https://rubygems.org/gems/pygments.rb) for syntax highlighting. Recently `pygments.rb` stopped working, so I had to dig inside to determine the problem and apply a solution.
 
-Full disclosure: Pygments didn't simply stop working. I applied updates related to Octopress and Lunr.js, and then it stopped working. So the root cause is me! Rather than back-out the updates, I decided to push forward because Lunr.js will improve the search experience for visitors. Search options will be discussed in a future post.
+Full disclosure: Pygments didn't simply stop working. I applied updates related to Octopress and [lunr.js](/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/), and then it stopped working. So the root cause is me! Rather than back-out the updates, I decided to push forward because lunr.js will improve the search experience for visitors. Search options will be discussed in a future post.
 
 <!--more-->
 
