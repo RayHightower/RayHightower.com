@@ -122,13 +122,6 @@ html {
   }
 }
 
-/* experiment: will this make featured disappear?
-@media (max-width: 48em) {
-  .sidebar-featured {
-    display: none;
-  }
-*/
-
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
