@@ -12,6 +12,7 @@ This article focuses on interacting with GitHub Pages via Git at the command lin
 <!--more-->
 
 ### Quick Start
+
 A quick way to launch a “Hello World!” page via GitHub Pages...
 
 * Create a [GitHub](http://github.com) account for yourself.
@@ -97,6 +98,15 @@ Congrats on your success!
 GitHubber [Alyson La](https://www.youtube.com/watch?v=rRGrT0wsJxI&index=7&list=PLOnWKC1gI_ONnIjU_sQVsIGFWT06Kd3In) demonstrates these steps in a 4-minute video, with some creative variations.
 
 ### Hello World = Done. Enter Jekyll.
+
 Now that `Hello World!` runs well, consider [Jekyll](/blog/2015/06/24/getting-started-with-jekyll/). Jekyll will generate your static pages based on the rules you setup in the Jekyll templates.
+
+### Branches: gh-pages for Projects, master for Organizations
+
+Most sites hosted through GitHub Pages will use the `gh-pages` branch. These are called Project Pages. [http://rayhightower.com/random-repo](http://rayhightower.com/random-repo) is one example of a Project Page, and its files are in the `gh-pages` branch of [https://github.com/RayHightower/random-repo](https://github.com/RayHightower/random-repo).
+
+Each GitHub account can have one repo called `[account_name].github.io` that uses the `master` branch. GitHub refers to these as Organization Pages. [http://rayhightower.com](http://rayhightower.com), also reachable via [http://rayhightower.github.io](http://rayhightower.github.io), is an example of an Organization Page. Files for RayHightower.com are in the master branch of [https://github.com/RayHightower/rayhightower.github.io/](https://github.com/RayHightower/rayhightower.github.io/).
+
+I do not know why GitHub Pages are configured this way. If you know the reason for the Organization vs Project page setup, feel free to share your insights in the comments below.
 
 Enjoy GitHub Pages!
