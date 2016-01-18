@@ -4,14 +4,14 @@ require 'active_support'
 require 'active_support/core_ext'
  
 namespace :gen do
-  desc "Create an empty post in /_posts, e.g., rake gen:post TITLE='This is a Sample Title'"
+  desc "Create an empty post in /_posts, e.g., rake gen:post T='This is a Sample Title'"
   task :post do
-    err_mes = "Must specificy post TITLE, e.g., rake gen:post TITLE='This is a Sample Title'"
-    raise err_mes unless ENV.has_key?('TITLE')
-    post_title = ENV['TITLE']
-    date = ENV['D'] || Date.today.to_s
-    base_filename = ENV['FN'] || ENV['TITLE'].downcase.gsub(/\s+/, "-")
-    post_filename = date + "-" + base_filename + ".markdown"
+    err_mes = "Must specificy post TITLE, e.g., rake gen:post T='This is a Sample Title'"
+    raise err_mes unless ENV.has_key?('T')
+    post_title = ENV['T'] # Title of the artilce. 
+    date = ENV['D'] || Date.today.to_s # Now we can date the articles in the future!
+    base_filename = ENV['FN'] || ENV['T'].downcase.gsub(/\s+/, "-")
+    post_filename = date + "-" + base_filename + ".markdown" # Use dash, not underscore, in filename.
     post_path = APP_ROOT.join('../_posts', post_filename)
     file_exists_mes = "ERROR: post file '#{post_path}' already exists"
     tags = ENV['TAGS'] || "Business"
