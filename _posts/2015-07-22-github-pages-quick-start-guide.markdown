@@ -103,10 +103,12 @@ Now that `Hello World!` runs well, consider [Jekyll](/blog/2015/06/24/getting-st
 
 ### Branches: gh-pages for Projects, master for Organizations
 
-Most sites hosted through GitHub Pages will use the `gh-pages` branch. These are called Project Pages. [http://rayhightower.com/random-repo](http://rayhightower.com/random-repo) is one example of a Project Page, and its files are in the `gh-pages` branch of [https://github.com/RayHightower/random-repo](https://github.com/RayHightower/random-repo).
+Most sites hosted through GitHub Pages will use the `gh-pages` branch. These are called Project Pages. For example, [http://rayhightower.com/random-repo](http://rayhightower.com/random-repo) is a Project Page. Its files are in the `gh-pages` branch of [https://github.com/RayHightower/random-repo](https://github.com/RayHightower/random-repo).
 
-Each GitHub account can have one repo called `[account_name].github.io` that uses the `master` branch. GitHub refers to these as Organization Pages. [http://rayhightower.com](http://rayhightower.com), also reachable via [http://rayhightower.github.io](http://rayhightower.github.io), is an example of an Organization Page. Files for RayHightower.com are in the master branch of [https://github.com/RayHightower/rayhightower.github.io/](https://github.com/RayHightower/rayhightower.github.io/).
+Each GitHub account can have one repo called `[account_name].github.io` that uses the `master` branch. GitHub refers to these as Organization Pages. For example, [http://rayhightower.github.io](http://rayhightower.github.io), also reachable via [http://rayhightower.com](http://rayhightower.com), is an example of an Organization Page. Files for RayHightower.com are in the master branch of [https://github.com/RayHightower/rayhightower.github.io/](https://github.com/RayHightower/rayhightower.github.io/).
 
-I do not know why GitHub Pages are configured this way. If you know the reason for the Organization vs Project page setup, feel free to share your insights in the comments below.
+I do not know why GitHub Pages are configured this way. One guess: It makes it easier to keep your marketing site and application site in one repo, and they'll never clobber each other if they're in separate branches. If you know the _official_ reason for the Organization vs Project page setup, feel free to share your insights in the comments below.
+
+### Conclusion
 
 Enjoy GitHub Pages!
