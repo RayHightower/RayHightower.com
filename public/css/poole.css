@@ -56,6 +56,9 @@ html {
   html {
     font-size: 20px;
   }
+  .sidebar-nav select {
+    display: none;
+  }
 
 }
 
@@ -67,8 +70,12 @@ html {
   .sidebar-socmed {
     display: none;
   }
-  .sidebar-nav a {
-    font-size: 20px;
+  .sidebar-nav a, hr {
+    display: none;
+  }
+  .sidebar-nav select {
+    display: inline;
+    width: 80%;
   }
 
 }
