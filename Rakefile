@@ -28,13 +28,12 @@ namespace :gen do
 layout: post
 title:  #{post_title}
 date:   #{date}
-author: "Raymond T. Hightower"
-excerpt: ""
-categories: #{tag_str}
+comments: true
+categories: 
 published: false
 ---
  
-Sample content for #{post_title} goes here.
+Content for #{post_title} goes here.
  
 EOF
     end
