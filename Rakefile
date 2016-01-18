@@ -1,5 +1,6 @@
 require ::File.expand_path('../config/environment', __FILE__)
 require 'rake'
+require 'active_support'
 require 'active_support/core_ext'
  
 namespace :gen do
@@ -7,10 +8,10 @@ namespace :gen do
   task :post do
     err_mes = "Must specificy post TITLE, e.g., rake gen:post TITLE='This is a Sample Title'"
     raise err_mes unless ENV.has_key?('TITLE')
-    post_title = ENV['TITLE'].camelize
+    post_title = ENV['TITLE']
     date = ENV['D'] || Date.today.to_s
     base_filename = ENV['FN'] || ENV['TITLE'].downcase.gsub(/\s+/, "-")
-    post_filename = date + "_" + base_filename + ".markdown"
+    post_filename = date + "-" + base_filename + ".markdown"
     post_path = APP_ROOT.join('../_posts', post_filename)
     file_exists_mes = "ERROR: post file '#{post_path}' already exists"
     tags = ENV['TAGS'] || "Business"
