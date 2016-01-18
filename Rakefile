@@ -30,8 +30,8 @@ title:  #{post_title}
 date:   #{date}
 author: "Raymond T. Hightower"
 excerpt: ""
-tags:
-#{tag_str}
+categories: #{tag_str}
+published: false
 ---
  
 Sample content for #{post_title} goes here.
