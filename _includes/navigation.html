@@ -7,6 +7,7 @@
 <a class="sidebar-nav-item{% if page.url == "/contact/index.html" %} active{% endif %}" href="/contact/">Contact</a>
 
 <select name="formrth" onchange="location = this.options[this.selectedIndex].value;">
+  <option value="/" {% if page.url == "/index.html" %} selected{% endif %}>Home</option>
   <option value="/search/index.html" {% if page.url == "/search/index.html" %} selected{% endif %}>Search</option>
   <option value="/about/index.html" {% if page.url == "/about/index.html" %} selected{% endif %}>About</option>
   <option value="/speaking/index.html" {% if page.url == "/speaking/index.html" %} selected{% endif %}>Speaking</option>
