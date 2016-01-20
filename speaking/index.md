@@ -26,7 +26,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 * [Ruby Rogues Podcast](https://devchat.tv/ruby-rogues/)<br/>Ruby Rogues is a weekly panel discussion about programming.<br/>Feb 2, 2016<br/>&nbsp;<br/>
 * [Parallella, Supercomputing, and Ruby](http://confoo.ca/en/2016/session/parallella-supercomputing-and-ruby)<br/>ConFoo - Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>&nbsp;<br/>
 * [Get Ready for Parallel Programming, Featuring Parallella](http://www.meetup.com/Geekfest/events/227841182/)<br/>Geekfest at Groupon - Chicago, IL, USA<br/>Mar 8, 2016<br/>&nbsp;<br/>
-* [Ancient City Ruby](http://www.ancientcityruby.com/)<br/>Created by the team at Hashrocket - St. Augustine, FL, USA<br/>April 6-8, 2016<br/>&nbsp;<br/>
+* [Ancient City Ruby](http://www.ancientcityruby.com/)<br/>St. Augustine, FL, USA<br/>April 6-8, 2016<br/>&nbsp;<br/>
 
 
 ### Additional Speaking History:
