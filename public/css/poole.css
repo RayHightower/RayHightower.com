@@ -56,6 +56,9 @@ html {
   html {
     font-size: 20px;
   }
+  .sidebar-nav select {
+    display: none;
+  }
 
 }
 
@@ -67,6 +70,7 @@ html {
   .sidebar-socmed {
     display: none;
   }
+<<<<<<< HEAD
   .sidebar-events {
     display: none;
   }
@@ -78,6 +82,14 @@ html {
   }
   .sidebar-nav a {
     font-size: 20px;
+=======
+  .sidebar-nav a, hr {
+    display: none;
+  }
+  .sidebar-nav select {
+    display: inline;
+    width: 60%;
+>>>>>>> master
   }
 }
 

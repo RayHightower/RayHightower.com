@@ -168,13 +168,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-/* experiment: will this make featured disappear?
-@media (max-width: 48em) {
-  .sidebar-featured {
-    display: none;
-  }
-*/
-
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
@@ -194,7 +187,7 @@ a.sidebar-nav-item:focus {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 48em) {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
