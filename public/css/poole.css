@@ -91,6 +91,10 @@ html {
   }
 }
 
+.sidebar-vim p {
+  font-size: 16px;
+}
+
 body {
   color: #515151;
   background-color: #fff;

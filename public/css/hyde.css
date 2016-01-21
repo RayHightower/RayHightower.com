@@ -64,6 +64,15 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+
+.observations li {
+  margin-bottom: 20px;
+}
+
+.observations h2 {
+  margin-top: 50px;
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: absolute; /* was absolute */
