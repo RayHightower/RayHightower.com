@@ -66,11 +66,12 @@ html {
 }
 @media (min-width: 48em) {
   .sidebar {
-    position: absolute;
+    position: absolute; /* was absolute */
     top: 0;
     left: 0;
     bottom: 0;
     width: 18rem;
+    height: 100rem;
     text-align: left;
   }
 }
@@ -123,18 +124,39 @@ html {
   width: 75%;
   margin-bottom: 15px;
   margin-left: 35px;
-  display: none;
+  display: show; /* Sometimes we show it, sometimes we don't! */
 }
 
 .eventlogo {
   width: 50%
 }
 
+/* display svg versions of event logos */
 .windycityrailslogo {
   width: 50%;
   margin-bottom: 10px;
+  display: none; /* Sometimes we show it, sometimes we don't! */
 }
 
+.wisdomgrouplogo {
+  width: 50%;
+  margin-bottom: 10px;
+  display: none; /* Sometimes we show it, sometimes we don't! */
+}
+
+.rubycaribelogo {
+  width: 50%;
+  margin-bottom: 10px;
+  display: none; /* Sometimes we show it, sometimes we don't! */
+}
+
+.chicagorubylogo {
+  width: 50%;
+  margin-bottom: 10px;
+  display: none; /* Sometimes we show it, sometimes we don't! */
+}
+
+/* style logos in white, unless hovered over /
 .windycityrailslogo path {
   fill: white;
 }
@@ -143,18 +165,8 @@ html {
   fill: white;
 }
 
-.wisdomgrouplogo {
-  width: 50%;
-  margin-bottom: 10px;
-}
-
 .wisdomgrouplogo path {
   fill: white;
-}
-
-.rubycaribelogo {
-  width: 50%;
-  margin-bottom: 10px;
 }
 
 .rubycaribelogo path {
@@ -165,11 +177,6 @@ html {
   fill: white;
 }
 
-.chicagorubylogo {
-  width: 50%;
-  margin-bottom: 10px;
-}
-
 .chicagorubylogo path {
   fill: white;
 }
@@ -177,6 +184,8 @@ html {
 .chicagorubylogo polygon {
   fill: white;
 }
+
+*/
 
 /* Sidebar nav */
 .sidebar-nav {
