@@ -3,8 +3,8 @@ layout: post
 title:  BLUE1647, IoT, & ChicagoRuby
 date:   2016-01-21
 comments: true
-categories: 
-published: false
+categories: [ Community, IoT ]
+published: true
 ---
 [BLUE1647](http://blue1647.com) is an amazing maker space on the South Side of Chicago. Each month [ChicagoRuby](http://chicagoruby.org) hosts an event at the space.
 
