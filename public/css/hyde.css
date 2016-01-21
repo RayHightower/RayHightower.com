@@ -73,6 +73,10 @@ html {
   margin-top: 50px;
 }
 
+.featured h2 {
+  margin-top: 50px;
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: absolute; /* was absolute */
