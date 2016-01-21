@@ -119,8 +119,17 @@ html {
   background-color: white;
   padding: 20px;
   border-radius: 5px;
-  width: 180px;
+  width: 75%;
   margin-bottom: 15px;
+  margin-left: 35px;
+}
+.sidebar-events img {
+  color: white;
+}
+
+.eventlogo {
+  font-color: white;
+  width: 50%
 }
 
 /* Sidebar nav */
