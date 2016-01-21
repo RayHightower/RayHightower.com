@@ -113,6 +113,7 @@ html {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  color: white;
 }
 
 .sidebar-events section {
@@ -122,14 +123,46 @@ html {
   width: 75%;
   margin-bottom: 15px;
   margin-left: 35px;
-}
-.sidebar-events img {
-  color: white;
+  display: none;
 }
 
 .eventlogo {
+  width: 50%
+}
+
+.windycityrailslogo {
+  width: 50%;
+}
+
+.windycityrailslogo path, ellipse {
+  fill: white;
+}
+
+.wisdomgrouplogo {
+  width: 50%;
+}
+
+.wisdomgrouplogo path, ellipse {
+  fill: white;
+}
+
+.rubycaribelogo {
+  background: url(data:/images/rubycaribe.svg);
   font-color: white;
   width: 50%
+}
+
+.rubycaribelogo path {
+  fill: white;
+}
+
+.chicagorubylogo {
+  width: 50%;
+}
+
+.chicagorubylogo path, ellipse {
+  width: 50%;
+  fill: white;
 }
 
 /* Sidebar nav */
