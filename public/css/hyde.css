@@ -132,36 +132,49 @@ html {
 
 .windycityrailslogo {
   width: 50%;
+  margin-bottom: 10px;
 }
 
-.windycityrailslogo path, ellipse {
+.windycityrailslogo path {
+  fill: white;
+}
+
+.windycityrailslogo polygon {
   fill: white;
 }
 
 .wisdomgrouplogo {
   width: 50%;
+  margin-bottom: 10px;
 }
 
-.wisdomgrouplogo path, ellipse {
+.wisdomgrouplogo path {
   fill: white;
 }
 
 .rubycaribelogo {
-  background: url(data:/images/rubycaribe.svg);
-  font-color: white;
-  width: 50%
+  width: 50%;
+  margin-bottom: 10px;
 }
 
 .rubycaribelogo path {
   fill: white;
 }
 
-.chicagorubylogo {
-  width: 50%;
+.rubycaribelogo polygon {
+  fill: white;
 }
 
-.chicagorubylogo path, ellipse {
+.chicagorubylogo {
   width: 50%;
+  margin-bottom: 10px;
+}
+
+.chicagorubylogo path {
+  fill: white;
+}
+
+.chicagorubylogo polygon {
   fill: white;
 }
 
