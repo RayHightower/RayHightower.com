@@ -23,6 +23,10 @@
   color: #515151;
 }
 
+.sidebar-socmed {
+  font-size: 25px;
+}
+
 .sidebar-socmed a:hover {
   color: #268bd2;
 }
