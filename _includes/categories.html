@@ -3,13 +3,10 @@
 <section class="categories">
 <h2>Blog Categories</h2>
 <ul>
-  <li><a href="#">Community</a></li>
-  <li><a href="#">Parallella</a></li>
-  <li><a href="#">Unix</a></li>
-  <li><a href="#">WindyCityRails</a></li>
+  <li><a href="#">Fake 1</a></li>
+  <li><a href="#">Fake 2</a></li>
+  <li><a href="#">Fake 3</a></li>
+  <li><a href="#">Fake 4</a></li>
 </ul>
 
-{% for category in site.categories %}
-  <li>{% category %}
-  {% end %}
-
+{{ site.categories }}
