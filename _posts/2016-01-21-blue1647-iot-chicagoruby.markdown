@@ -27,7 +27,7 @@ Video and slides for the evening's presentation appear below.
 
 ### WindyCityThings
 
-If you're excited about the IoT, you might like [WindyCityThings](http://windycitythings.com), coming to Chicago in June 2016. Check it out!
+If you're exploring the connection between IoT and ROI, you might like [WindyCityThings](http://windycitythings.com), coming to Chicago in June 2016. Check it out!
 
 ### Acknowledgements
 
