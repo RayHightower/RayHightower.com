@@ -16,6 +16,7 @@ Hightower blogs and [speaks](/speaking) on technology and business growth.
 Learn more at...
 
 * [GitHub](http://github.com/rayhightower)
+* [Upverter](https://upverter.com/rayhightower)
 * [LinkedIn](http://linkedin.com/in/rayhightower)
 * [SpeakerDeck](http://speakerdeck.com/rayhightower)
 * [Twitter](http://twitter.com/rayhightower)
