@@ -33,6 +33,11 @@
 
 /* Sidebar Social Media in mobile */
 @media (max-width: 48em) {
+  .sidebar-socmed a {
+    font-size: 30px;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
   .sidebar-socmed a:hover {
     color: #515151;
   }
