@@ -18,6 +18,7 @@ What does IoT mean for Ruby developers? How can someone with a web development b
 
 Slides for the evening's presentation appear below. Video will be posted when available.
 
+<script async class="speakerdeck-embed" data-id="195ed11f9587478ea0158fe67150260d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Acknowledgements
 
