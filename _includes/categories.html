@@ -1,7 +1,15 @@
-<h4>Blog Categories</h4>
+---
+---
+<section class="categories">
+<h2>Blog Categories</h2>
 <ul>
   <li><a href="#">Community</a></li>
   <li><a href="#">Parallella</a></li>
   <li><a href="#">Unix</a></li>
   <li><a href="#">WindyCityRails</a></li>
 </ul>
+
+{% for category in site.categories %}
+  <li>{% category %}
+  {% end %}
+
