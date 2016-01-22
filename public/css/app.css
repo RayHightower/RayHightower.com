@@ -19,16 +19,23 @@
   font-size: 12px;
 }
 
-.sidebar-socmed a {
-  color: #515151;
-}
-
 .sidebar-socmed {
   font-size: 25px;
 }
 
+.sidebar-socmed a {
+  color: #515151;
+}
+
 .sidebar-socmed a:hover {
   color: #268bd2;
+}
+
+/* Sidebar Social Media in mobile */
+@media (max-width: 48em) {
+  .sidebar-socmed a:hover {
+    color: #515151;
+  }
 }
 
 /* Sidebar Navigation */

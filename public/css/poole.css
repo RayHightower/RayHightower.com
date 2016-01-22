@@ -70,6 +70,9 @@ html {
   .sidebar-events {
     display: none;
   }
+  .sidebar-socmed a:hover {
+    color: #515151;
+  }
   .sidebar-observations {
     display: none;
   }
