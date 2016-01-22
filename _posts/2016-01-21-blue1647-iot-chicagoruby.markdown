@@ -16,9 +16,15 @@ What does IoT mean for Ruby developers? How can someone with a web development b
 
 ### Slides and Video
 
-Slides for the evening's presentation appear below. Video will be posted when available.
+Slides and video for the evening's presentation appear below.
 
 <script async class="speakerdeck-embed" data-id="195ed11f9587478ea0158fe67150260d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJdnsQivlik?rel=0" frameborder="0" allowfullscreen></iframe>
+
+### WindyCityThings
+
+If you're excited about the IoT, check out [WindyCityThings](http://windycitythings.com), coming to Chicago in June 2016. Check it out!
 
 ### Acknowledgements
 
