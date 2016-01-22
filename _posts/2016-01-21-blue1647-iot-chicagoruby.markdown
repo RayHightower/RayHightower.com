@@ -20,7 +20,10 @@ Slides and video for the evening's presentation appear below.
 
 <script async class="speakerdeck-embed" data-id="195ed11f9587478ea0158fe67150260d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+<br/>&nbsp;
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJdnsQivlik?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### WindyCityThings
 
@@ -28,4 +31,4 @@ If you're excited about the IoT, check out [WindyCityThings](http://windycitythi
 
 ### Acknowledgements
 
-Thank you BLUE1647 for hosting another ChicagoRuby event!
+Thank you BLUE1647 for hosting another great ChicagoRuby event!
