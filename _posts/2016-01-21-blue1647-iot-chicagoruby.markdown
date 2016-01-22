@@ -12,7 +12,7 @@ This month featured the Internet of Things (IoT).
 
 <!--more-->
 
-What does IoT mean for Ruby developers? How can someone with a web development background begin exploring IoT? And why would a web developer care? This is an updated version of the presentation delivered at ChicagoRuby on 12/1/2015. 
+What does IoT mean for Ruby developers? How can someone with a web development background begin exploring IoT? And why would a web developer care?
 
 ### Video + Slides
 
