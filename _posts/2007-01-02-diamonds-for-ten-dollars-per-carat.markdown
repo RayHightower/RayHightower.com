@@ -3,7 +3,7 @@ layout: post
 title: "Diamonds for Ten Dollars Per Carat"
 date: 2007-01-02 00:55
 comments: true
-categories: [Business]
+tags: [Business]
 ---
 _Blogger's Note from Feb2013: This article was originally posted on the [WisdomGroup](http://wisdomgroup.com) blog in Jan2007. In hindsight, my predicted timeline was too aggressive. However, the rest of the post remains sound._
 
