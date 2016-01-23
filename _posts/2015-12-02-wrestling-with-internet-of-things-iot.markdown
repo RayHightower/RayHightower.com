@@ -3,7 +3,7 @@ layout: post
 title: "Wrestling With IoT"
 date: 2015-12-02 14:03:11 -0500
 comments: true
-categories: [ Business, IoT, OpenROV, Parallella ]
+tags: [ Business, IoT, OpenROV, Parallella ]
 published: true
 ---
 

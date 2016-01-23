@@ -1,16 +1,11 @@
 ---
 ---
-<section class="categories">
-<h2>Blog Categories</h2>
+<section class="tags">
+<h2>Blog Tags</h2>
 {{ site.categories.business.count }}
-{{ site.categories.business.title }}
 <br/>&nbsp;<br/>
-<ul>
-{% for post in site.categories.business %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<ul style=="font-size:10px;" >
+{% for post in site.tags.Community %}
+  <li style=="font-size:10px;" ><a href="{{ post.url }}">{{ post.title }}</a><br/>{{ post.tags }}</li>
 {% endfor %}
 </ul>
-
-<h2>Blog Tags</h2>
-{{ site.tags }}
-
