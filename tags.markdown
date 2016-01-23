@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog Tags
+title: Blog Categories
 published: true
 ---
 
