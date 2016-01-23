@@ -3,7 +3,7 @@ layout: post
 title: "High Performance Computing at ACM"
 date: 2013-12-12 22:22
 comments: true
-tags: [ Community, Education, High_Performance_Computing ]
+tags: [ Community, Education, HPC ]
 ---
 
 >Anyone can build a fast CPU. The trick is to build a fast system. 
