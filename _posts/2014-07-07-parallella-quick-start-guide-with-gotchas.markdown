@@ -3,7 +3,7 @@ layout: post
 title: "Parallella Quick Start Guide (with gotchas)"
 date: 2014-07-07 13:31
 comments: true
-categories: [ High Performance Computing, IoT, Parallella ]
+tags: [ High Performance Computing, IoT, Parallella ]
 ---
 {% include image.html img="images/parallella_screenshot.png" caption="Parallella screenshot, 1080p." %} 
 

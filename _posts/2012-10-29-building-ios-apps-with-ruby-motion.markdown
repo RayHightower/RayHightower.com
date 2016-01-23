@@ -3,7 +3,7 @@ layout: post
 title: "Building iOS Apps With RubyMotion"
 date: 2012-10-29 18:49
 comments: true
-categories: [iOS, Ruby, RubyMotion]
+tags: [iOS, Ruby, RubyMotion]
 ---
 
 Special thanks to the organizers of [MagicRuby](http://magic-ruby.com/) and [Aloha Ruby](http://aloharubyconf.com/) for inviting me to present RubyMotion at their respective conferences. [Confreaks](http://confreaks.com/videos/1245-aloharuby2012-building-ios-apps-with-rubymotion) recorded video at the Aloha Ruby event.

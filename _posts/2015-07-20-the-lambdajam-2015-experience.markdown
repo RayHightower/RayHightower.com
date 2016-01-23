@@ -3,7 +3,7 @@ layout: post
 title: "The Lambda Jam 2015 Experience"
 date: 2015-07-20 09:41:04 -0500
 comments: true
-categories: [ Community, Functional Programming ]
+tags: [ Community, Functional Programming ]
 ---
 
 <img style="margin-left:20px" src="/images/LambdaJam.png" alt="Lambda Jam 2015" align="right">

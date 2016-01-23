@@ -3,7 +3,7 @@ layout: post
 title: "Pat Metheny: Be the Worst"
 date: 2013-07-17 07:58
 comments: true
-categories: [ Education ]
+tags: [ Education ]
 ---
 <img src="/images/PatMethenyGroup.jpg" width="400" height="400"
 align="right" alt="Pat Metheny: Be the Worst" title="Pat Metheny: Be the Worst" >

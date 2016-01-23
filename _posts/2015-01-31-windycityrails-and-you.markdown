@@ -3,7 +3,7 @@ layout: post
 title: "WindyCityRails and You"
 date: 2015-01-31 16:11:06 +0400
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 ---
 If you have ever attended [WindyCityRails](http://windycityrails.org): Thank you for helping to make the event more exciting every year. Organizers strive to give developers actionable technical information in a conference format. So far, it's working!
 

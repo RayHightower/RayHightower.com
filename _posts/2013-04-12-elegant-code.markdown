@@ -3,7 +3,7 @@ layout: post
 title: "Elegant Code"
 date: 2013-04-12 13:34
 comments: true
-categories: [Education]
+tags: [Education]
 ---
 This quote is too long to tweet, but too good to pass up:
 

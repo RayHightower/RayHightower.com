@@ -3,7 +3,7 @@ layout: post
 title: "Leap Motion: Advanced User Interface"
 date: 2013-01-07 11:56
 comments: true
-categories: [UX]
+tags: [UX]
 published: true
 ---
 [Leap Motion](https://leapmotion.com/) is a small device that lets users control their computers with simple hand gestures. The Leap Motion controller senses individual hand and finger movements. This is not a touch interface, because your hands never touch anything.

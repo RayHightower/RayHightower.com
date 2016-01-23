@@ -3,7 +3,7 @@ layout: post
 title: "Too Soon for Alpha Centauri"
 date: 2014-12-22 12:07
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 ---
 Bad news&#58; I have decided to cancel [RubyCaribe](http://rubycaribe.com) for 2015. Ticket sales are insufficient to cover the cost of the event. <strike>Every person who bought a ticket will receive a full refund.</strike> All tickets sales have been refunded.
 

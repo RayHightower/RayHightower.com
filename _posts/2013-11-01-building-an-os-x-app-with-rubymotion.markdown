@@ -3,7 +3,7 @@ layout: post
 title: "Building an OS X App With RubyMotion"
 date: 2013-11-01 00:15
 comments: true
-categories: [Ruby, RubyMotion]
+tags: [Ruby, RubyMotion]
 ---
 {% include image.html img="/images/time-machine-backup-disks.png" caption="Redundancy rocks." %} 
 

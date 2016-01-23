@@ -3,7 +3,7 @@ layout: post
 title: "Be Awesome. Tackle Big League Problems at WindyCityRails"
 date: 2014-08-05 16:21
 comments: true
-categories: [ Community, Education, Rails, Ruby ]
+tags: [ Community, Education, Rails, Ruby ]
 ---
 
 {% include image.html img="/images/big_league_problems_windycityrails.jpg" caption="Be awesome." %}

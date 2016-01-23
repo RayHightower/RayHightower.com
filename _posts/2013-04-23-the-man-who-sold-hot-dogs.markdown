@@ -3,7 +3,7 @@ layout: post
 title: "The Man Who Sold Hot Dogs"
 date: 2013-04-23 18:13
 comments: true
-categories: [Business]
+tags: [Business]
 ---
 <img src="/images/hot-dog-cart.jpg" width="250" height="277" align="right" title="The Man Who Sold Hot Dogs" alt="The Man Who Sold Hot Dogs">
 _Note: This timeless story pre-dates the web, and it has appeared at [WisdomGroup.com](http://wisdomgroup.com). Author unknown._

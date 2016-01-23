@@ -3,7 +3,7 @@ layout: post
 title: "Ruby on Rails 3 Tutorial By Michael Hartl"
 date: 2011-07-27 09:15
 comments: true
-categories: [Education, Rails, Ruby]
+tags: [Education, Rails, Ruby]
 ---
 <img style="margin-left:20px" src="/images/ror3-hartl.jpg" width="132" height="175" alt="Ruby on Rails 3 Tutorial" title="Ruby on Rails 3 Tutorial" align="right">
 

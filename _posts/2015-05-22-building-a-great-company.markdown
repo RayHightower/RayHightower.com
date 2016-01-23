@@ -3,7 +3,7 @@ layout: post
 title: "Building a Great Company"
 date: 2015-05-22 11:34:16 -0500
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 ---
 {% include image.html img="/images/good_to_great_blackbox.png" caption="What happens inside the black box?" %}
 

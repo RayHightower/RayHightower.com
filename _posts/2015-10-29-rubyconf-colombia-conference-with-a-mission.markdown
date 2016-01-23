@@ -3,7 +3,7 @@ layout: post
 title: "RubyConf Colombia: A Conference With A Mission"
 date: 2015-10-29 14:03:11 -0500
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 published: true
 ---
 >Let’s talk about software and leave our past behind.<br/>~Juan Pablo Buritica

@@ -3,7 +3,7 @@ layout: post
 title: "Manage That OpenROV Tether, Or Else"
 date: 2014-09-10 18:40
 comments: true
-categories: [ IoT, OpenROV ]
+tags: [ IoT, OpenROV ]
 ---
 
 {% include image.html img="/images/openrov_tether_management_slip_ring.jpg" caption="Tether management, one way that works." %}

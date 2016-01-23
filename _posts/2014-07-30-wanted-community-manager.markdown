@@ -3,7 +3,7 @@ layout: post
 title: "Wanted: Community Manager"
 date: 2014-07-30 12:43
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 ---
 
 {% include image.html img="/images/chicagoruby_community.png" caption="Jamming together. Growing together." %}

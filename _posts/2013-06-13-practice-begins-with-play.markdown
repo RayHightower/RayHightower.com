@@ -3,7 +3,7 @@ layout: post
 title: "Practice Begins With Play"
 date: 2013-06-13 10:09
 comments: true
-categories: [ Education ]
+tags: [ Education ]
 ---
 This afternoon I was invited to speak at the June [Table Talks](http://www.tablexi.com/blog/2013/06/developer-education-june-table-talks/developers/) hosted by Table XI. Today's theme was developer education. My topic: _Practice Begins With Play_. Developers who want to achieve mastery have many practice resources to choose from, including open source hardware like [Raspbery Pi](/blog/2012/12/03/ruby-on-raspberry-pi/), [BeagleBone Black](/blog/2013/05/22/beaglebone-black-up-and-running/), and [Parallella](http://parallella.org).
 

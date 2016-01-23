@@ -3,7 +3,7 @@ layout: post
 title: "Mobile Makers, Objective-C, and RubyMotion"
 date: 2012-12-14 06:45
 comments: true
-categories: [iOS, Education, Objective-C, RubyMotion, Xcode]
+tags: [iOS, Education, Objective-C, RubyMotion, Xcode]
 ---
 <img src="/images/ipad-iphone.jpg" width="256" height="250" alt="iPad iPhone" title="iPad iPhone" align="right">
 This week I enrolled in the iOS Accelerated course offered by the [Mobile Makers Academy](http://mobilemakers.co/ios-accelerated). If you would like to do the same, mention my name and we'll both receive a $300 discount on tuition.

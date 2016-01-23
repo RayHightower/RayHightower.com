@@ -3,7 +3,7 @@ layout: post
 title: "How to Run a Headless Parallella"
 date: 2015-12-08 14:03:11 -0500
 comments: true
-categories: [ Education, IoT, Parallella ]
+tags: [ Education, IoT, Parallella ]
 published: true
 ---
 

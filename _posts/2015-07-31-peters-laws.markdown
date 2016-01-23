@@ -3,7 +3,7 @@ layout: post
 title: "Peter's Laws"
 date: 2015-07-31 16:55:09 -0500
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 ---
 Walking through Chicago’s [Museum of Science and Industry](http://msichicago.org), I ran across an inspiring list of rules titled "Peter’s Laws". Peter Diamandis is Chairman and CEO of the X PRIZE Foundation, best known for its $10 million Ansari X PRIZE for private spaceflight. 
 

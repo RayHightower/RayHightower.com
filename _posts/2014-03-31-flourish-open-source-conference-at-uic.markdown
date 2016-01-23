@@ -3,7 +3,7 @@ layout: post
 title: "Flourish Open Source Conference at UIC"
 date: 2014-03-31 23:42
 comments: true
-categories: [ Community, Education ]
+tags: [ Community, Education ]
 ---
 [Flourish](http://flourishconf.com) is an open source conference to be held at the University of Illinois at Chicago on Saturday, April 5, 2014. The conference is run by university students and tickets are free.
 

@@ -3,7 +3,7 @@ layout: post
 title: "GMail vs Microsoft Exchange"
 date: 2007-12-10 23:50
 comments: true
-categories: [Business]
+tags: [Business]
 ---
 _Note: This article was originally posted on the [WisdomGroup](http://wisdomgroup.com) blog._
 

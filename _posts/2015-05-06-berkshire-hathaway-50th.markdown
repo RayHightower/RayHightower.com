@@ -3,7 +3,7 @@ layout: post
 title: "Berkshire Hathaway's 50th"
 date: 2015-05-06 18:41:03 -0500
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 ---
 
 <img style="margin-left:20px" src="/images/berkshire_hathaway_50th.jpg" alt="40,000 shareholders in Omaha." align="right">

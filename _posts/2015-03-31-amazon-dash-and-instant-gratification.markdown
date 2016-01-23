@@ -3,7 +3,7 @@ layout: post
 title: "Amazon Dash and Instant Gratification"
 date: 2015-03-31 15:44:37 -0500
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 ---
 
 The [Amazon Dash Button](https://www.amazon.com/oc/dash-button) is for customers who crave instant gratification. We might think of Dash as a brilliant blend of the Staples Easy Button, WiFi, and Amazon's existing database of credit card numbers.

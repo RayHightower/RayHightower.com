@@ -3,7 +3,7 @@ layout: post
 title: "An Environment of Respect"
 date: 2014-01-21 13:16
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 ---
 Here is an early draft of the [WindyCityRails](http://windycityrails.org) Code of Conduct:
 

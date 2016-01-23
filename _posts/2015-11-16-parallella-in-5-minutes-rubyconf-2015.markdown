@@ -3,7 +3,7 @@ layout: post
 title: "Parallella in 5 Minutes at RubyConf 2015"
 date: 2015-11-16 14:03:11 -0500
 comments: true
-categories: [ Education, Parallella ]
+tags: [ Education, Parallella ]
 published: true
 ---
 

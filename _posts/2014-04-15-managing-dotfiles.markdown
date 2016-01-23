@@ -3,7 +3,7 @@ layout: post
 title: "Managing Dotfiles"
 date: 2014-04-15 17:13
 comments: true
-categories: [ Community, Linux, OS X ]
+tags: [ Community, Linux, OS X ]
 ---
 Dotfiles, the configuration files used by Unix-like machines, can become disorganized over time. Entropy rules! This article describes my recent attempt to bring order to dotfile chaos. The steps can be summarized as follows:
 

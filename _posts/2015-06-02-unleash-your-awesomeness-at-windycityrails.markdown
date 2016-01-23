@@ -3,7 +3,7 @@ layout: post
 title: "Unleash Your Awesomeness at WindyCityRails"
 date: 2015-06-02 15:09:06 -0500
 comments: true
-categories: [ Community, Education ]
+tags: [ Community, Education ]
 ---
 <img style="margin-left:20px" src="/images/sphere_question.jpg" alt="Do you see yourself?" align="right">
 

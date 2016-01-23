@@ -3,7 +3,7 @@ layout: post
 title: "Madison Ruby 2013"
 date: 2013-08-25 01:14
 comments: true
-categories: [ Community, Education, Ruby ]
+tags: [ Community, Education, Ruby ]
 ---
 <img style="margin-left:20px" src="/images/madison-ruby.png" alt="Madison Ruby 2011 T-Shirt Design by Mike Rohde" align="right">
 

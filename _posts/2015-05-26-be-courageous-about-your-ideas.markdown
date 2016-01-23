@@ -3,7 +3,7 @@ layout: post
 title: "Be Courageous About Your Ideas"
 date: 2015-05-26 09:54:21 -0500
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 ---
 <img style="margin-left:20px" src="/images/godfather_pacino_coppola.jpg" alt="Godfather: Pacino and Coppola" align="right">
 

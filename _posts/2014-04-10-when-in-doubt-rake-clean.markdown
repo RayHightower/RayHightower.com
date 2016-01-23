@@ -3,7 +3,7 @@ layout: post
 title: "When in Doubt, Rake Clean"
 date: 2014-04-10 15:53
 comments: true
-categories: [ RubyMotion ]
+tags: [ RubyMotion ]
 ---
 Earlier today, I upgraded from RubyMotion `v 2.24` to `v 2.26`. Immediately after the upgrade, I attempted to run a RubyMotion app that I’m working on. The result?
 

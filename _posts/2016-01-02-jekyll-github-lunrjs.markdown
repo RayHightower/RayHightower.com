@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll + GitHub + lunr.js"
 date: 2016-01-02 04:03:11 -0500
 comments: true
-categories: [ Community, Education, Git, LunrJS ]
+tags: [ Community, Education, Git, LunrJS ]
 published: true
 ---
 

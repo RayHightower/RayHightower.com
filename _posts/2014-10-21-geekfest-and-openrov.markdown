@@ -3,7 +3,7 @@ layout: post
 title: "Geekfest and OpenROV"
 date: 2014-10-21 09:44
 comments: true
-categories: [ Community, OpenROV ]
+tags: [ Community, OpenROV ]
 ---
 
 <img src="/images/geekfest.png" alt="Geekfest: Tuesdays at Groupon." align="right">

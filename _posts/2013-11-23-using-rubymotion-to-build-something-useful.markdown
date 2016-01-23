@@ -3,7 +3,7 @@ layout: post
 title: "Using RubyMotion to Build Something Useful"
 date: 2013-11-23 14:11
 comments: true
-categories: [ iOS, Ruby, RubyMotion, Xcode ]
+tags: [ iOS, Ruby, RubyMotion, Xcode ]
 ---
 The [Chicago RubyMotion User Group](http://www.meetup.com/Chicago-RubyMotion/) held its inaugural meeting this week. Thank you [Dave Astels](http://twitter.com/dastels) for organizing the group and for asking me to present. Thanks also to [Dev Bootcamp](http://devbootcamp.com) for hosting the event.
 

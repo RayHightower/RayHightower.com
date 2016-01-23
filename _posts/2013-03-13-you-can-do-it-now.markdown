@@ -3,7 +3,7 @@ layout: post
 title: "You Can Do It Now"
 date: 2013-03-13 15:31
 comments: true
-categories: [Business, Education]
+tags: [Business, Education]
 ---
 <img style="margin-left:20px" src="/images/do_it_now.jpg" align="right" width="200" height="296" alt="You Can Do It Now" title="You Can Do It Now">
 If you are fortunate enough to work in the technology industry, you do not need permission to move forward. So do it now.

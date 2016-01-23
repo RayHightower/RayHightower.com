@@ -3,7 +3,7 @@ layout: post
 title: "10,000 Hours of Practice"
 date: 2012-09-03 00:46
 comments: true
-categories: [Business]
+tags: [Business]
 ---
 <img style="margin-left:20px" src="/images/outliers.jpg" width="200" height="302" align="right" alt="Outliers by Malcolm Gladwell" title="Outliers by Malcolm Gladwell">
 

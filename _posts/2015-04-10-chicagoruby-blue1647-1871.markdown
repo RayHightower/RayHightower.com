@@ -3,7 +3,7 @@ layout: post
 title: "ChicagoRuby Expands to BLUE1647 and 1871"
 date: 2015-04-10 17:41:32 -0500
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 ---
 >When smart people<br/>
 >challenge each other to grow,<br/>

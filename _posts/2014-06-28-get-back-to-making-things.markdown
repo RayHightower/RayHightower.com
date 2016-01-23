@@ -3,7 +3,7 @@ layout: post
 title: "Get Back to Making Things"
 date: 2014-06-28 16:25
 comments: true
-categories: [ Education, IoT, OpenROV ]
+tags: [ Education, IoT, OpenROV ]
 ---
 >You know what the trouble is? We used to make things in this country, build things. Now we just put our hand in the next guy’s pocket.
 ><br/>~Frank Sobatka

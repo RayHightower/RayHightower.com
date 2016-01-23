@@ -3,7 +3,7 @@ layout: post
 title: "Context Changes Everything"
 date: 2015-01-22 17:48:08 -0600
 comments: true
-categories: [ Business, Community, UX ]
+tags: [ Business, Community, UX ]
 ---
 There are some cases where time zone information is absolutely critical. For example: When scheduling a video conference that crosses national boundaries. 
 

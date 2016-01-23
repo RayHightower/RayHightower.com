@@ -3,7 +3,7 @@ layout: post
 title: "Challenges Make Us Stronger"
 date: 2013-03-25 09:37
 comments: true
-categories: [Business, Education]
+tags: [Business, Education]
 published: true
 ---
 <img src="/images/moth.png" width="300" height="215" align="right" title="Emperor moth photo by Dean Morley" alt="Emperor moth photo by Dean Morley">

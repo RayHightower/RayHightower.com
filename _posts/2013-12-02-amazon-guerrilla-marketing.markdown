@@ -3,7 +3,7 @@ layout: post
 title: "Amazon's Guerrilla Marketing"
 date: 2013-12-02 20:03
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 ---
 Last night's episode of 60 Minutes featured an interview with Jeff Bezos, CEO of Amazon. The timing was perfect for Amazon. Black Friday was a few days ago. Cyber Monday is today. Online retailers want to be top-of-mind when people are inclined to spend money.
 

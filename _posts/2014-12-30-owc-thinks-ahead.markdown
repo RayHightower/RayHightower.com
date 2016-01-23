@@ -3,7 +3,7 @@ layout: post
 title: "OWC Thinks Ahead"
 date: 2014-12-30 17:44
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 ---
 
 {% include image.html img="/images/owc_ssd.jpg" caption="MacBook Pro SSD, next to a nickel." %}

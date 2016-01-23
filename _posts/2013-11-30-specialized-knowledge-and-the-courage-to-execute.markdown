@@ -3,7 +3,7 @@ layout: post
 title: "Specialized Knowledge and the Courage to Execute"
 date: 2013-11-30 10:35
 comments: true
-categories: [ Business, Education ]
+tags: [ Business, Education ]
 ---
 Teenagers are a tough audience. If you have ever spoken to a youth group, you know the challenge: Speak about something important without putting the youth to sleep. Tall order.
 

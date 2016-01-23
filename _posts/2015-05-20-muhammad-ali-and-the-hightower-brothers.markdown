@@ -3,7 +3,7 @@ layout: post
 title: "Muhammad Ali and the Hightower Brothers"
 date: 2015-05-20 12:40:23 -0500
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 ---
 {% include image.html img="/images/muhammad_ali_hightower_brothers.jpg" caption="Muhammad Ali and the Hightower Brothers, circa 1972." %}
 

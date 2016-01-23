@@ -3,7 +3,7 @@ layout: post
 title: "Four Steps. Five Minutes."
 date: 2012-08-31 15:04
 comments: true
-categories: [Business]
+tags: [Business]
 ---
 Nine out of ten startups fail in the first year. Why? More important, what can we do to improve the odds? Entrepreneur Steve Blank might have an answer, expressed in his book _The Four Steps to the Epiphany_. Key points from the book are summarized in this 5-minute video.
 

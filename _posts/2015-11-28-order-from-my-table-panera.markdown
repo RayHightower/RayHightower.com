@@ -3,7 +3,7 @@ layout: post
 title: "Order From My Table"
 date: 2015-11-28 14:03:11 -0500
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 published: true
 ---
 If you own a restaurant that offers WiFi, it can be frustrating to have “customers” camp out at a table all day using the WiFi and buying little. As an owner, you can get mad. Or you can come up with a way to capitalize on the opportunity.

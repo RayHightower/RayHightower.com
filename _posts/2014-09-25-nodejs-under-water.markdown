@@ -3,7 +3,7 @@ layout: post
 title: "Node.js Under Water"
 date: 2014-09-25 22:54
 comments: true
-categories: [ Node, OpenROV ]
+tags: [ Node, OpenROV ]
 ---
 The [New York City Node JS Meetup](http://www.meetup.com/nodejs/events/206159562) asked me to speak about [OpenROV](http://rayhightower.com/blog/2014/06/16/citizen-science-with-openrov/) Wednesday evening. About eighty developers came out for the meeting. Thank you [Shutterstock](http://shutterstock.com), [Matt Walters](https://twitter.com/mateodelnorte), and all of the organizers for making it happen. 
 

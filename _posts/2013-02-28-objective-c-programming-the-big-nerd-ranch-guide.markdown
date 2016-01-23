@@ -3,7 +3,7 @@ layout: post
 title: "Objective-C Programming: The Big Nerd Ranch Guide"
 date: 2013-02-28 15:52
 comments: true
-categories: [Education, Objective-C, RubyMotion, Xcode, iOS]
+tags: [Education, Objective-C, RubyMotion, Xcode, iOS]
 ---
 <img src="/images/objective-c-big-nerd.png" align="right" width="250" height="357" alt="Objective-C Programming - The Big Nerd Ranch Guide" title="Objective-C Programming - The Big Nerd Ranch Guide">
 >You will be baffled from time to time… Stick with this book. I promise the bewilderment will cease before you get to the final page.<br/>~ Aaron Hillegass, Author

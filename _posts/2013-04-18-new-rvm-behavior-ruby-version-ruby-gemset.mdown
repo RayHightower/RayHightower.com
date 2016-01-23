@@ -3,7 +3,7 @@ layout: post
 title: "New RVM Behavior With .ruby-version and .ruby-gemset"
 date: 2013-04-18 20:33
 comments: true
-categories: [Rails, Ruby]
+tags: [Rails, Ruby]
 ---
 <a href="/blog/2013/04/18/new-rvm-behavior-ruby-version-ruby-gemset/"><img src="/images/rvm.png" height="98" width="89" align="right" alt="RVM .ruby-version .ruby-gemset" title="RVM .ruby-version .ruby-gemset"></a>
 I trust [RVM](http://rvm.io) to manage my Ruby versions and my gemsets. So when I saw an unexpected change in RVM's behavior, I was concerned about a possible disruption in my workflow. 

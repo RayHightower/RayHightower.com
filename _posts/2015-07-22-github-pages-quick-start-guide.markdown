@@ -3,7 +3,7 @@ layout: post
 title: "GitHub Pages: Quick Start Guide"
 date: 2015-07-22 15:07:37 -0500
 comments: true
-categories: [ Git ]
+tags: [ Git ]
 ---
 [GitHub Pages](https://pages.github.com/) lets any holder of a GitHub account host static HTML pages at no cost. The bigger benefit: Pages hosted at GitHub automatically become part of GitHub’s [content delivery network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network). People who visit your site will get faster page loads because of the CDN.
 

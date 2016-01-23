@@ -3,7 +3,7 @@ layout: post
 title: "GMail Growing Pains"
 date: 2008-10-17 00:22
 comments: true
-categories: [Business]
+tags: [Business]
 ---
 _Note: This article was originally posted on the [WisdomGroup](http://wisdomgroup.com) blog._
 

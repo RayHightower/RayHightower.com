@@ -3,7 +3,7 @@ layout: post
 title: "Age vs. Ability"
 date: 2013-08-05 06:34
 comments: true
-categories: [ Business, Education ]
+tags: [ Business, Education ]
 ---
 {% include image.html img="/images/Benjamin-Franklin.jpg" title="Benjamin Franklin: Statesman & Scientist" caption="Benjamin Franklin: Statesman & Scientist" align="right" %} 
 

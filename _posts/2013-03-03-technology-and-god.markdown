@@ -3,7 +3,7 @@ layout: post
 title: "Technology and God"
 date: 2013-03-03 14:00
 comments: true
-categories: [Education]
+tags: [Education]
 published: true
 ---
 Reflecting on a quote I became aware of recently:

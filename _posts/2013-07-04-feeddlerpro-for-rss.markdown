@@ -3,7 +3,7 @@ layout: post
 title: "FeeddlerPro for RSS"
 date: 2013-07-04 15:07
 comments: true
-categories: [ Education ]
+tags: [ Education ]
 ---
 <img src="/images/FeeddlerPro-accounts.png" width="300" height="258"
 align="right" alt="FeeddlerPro Accounts" title="FeeddlerPro Accounts">

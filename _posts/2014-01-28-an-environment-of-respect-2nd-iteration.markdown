@@ -3,7 +3,7 @@ layout: post
 title: "An Environment of Respect, 2nd Iteration"
 date: 2014-01-28 07:08
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 ---
 Thank you to everyone who offered feedback on [An Environment of Respect](/blog/2014/01/21/an-environment-of-respect/), which included an early draft of the WindyCityRails Code of Conduct.
 

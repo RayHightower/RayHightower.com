@@ -3,7 +3,7 @@ layout: post
 title: "3D Printing at BLUE1647"
 date: 2015-06-25 17:11:35 -0500
 comments: true
-categories: [ IoT, Parallella ]
+tags: [ IoT, Parallella ]
 published: true
 ---
 {% include image.html img="/images/parallella_3d_print_blue1647.jpg" caption="Parallella with a 3D-printed case." %}

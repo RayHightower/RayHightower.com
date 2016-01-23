@@ -3,7 +3,7 @@ layout: post
 title: "Firefox, 404, and lunr.js"
 date: 2016-01-18 09:03:11 -0500
 comments: true
-categories: [ Education, JavaScript, Jekyll ]
+tags: [ Education, JavaScript, Jekyll ]
 published: true
 ---
 <img src="/images/firefox-logo.png" align="right" style="margin-left:1em;">

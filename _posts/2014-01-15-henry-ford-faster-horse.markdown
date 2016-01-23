@@ -3,7 +3,7 @@ layout: post
 title: "Henry Ford's Faster Horse"
 date: 2014-01-15 13:49
 comments: true
-categories: [ Business, UX ]
+tags: [ Business, UX ]
 ---
 
 {% include image.html img="/images/ford-model-t-1910.jpg" caption="1910 Ford Model T" %}

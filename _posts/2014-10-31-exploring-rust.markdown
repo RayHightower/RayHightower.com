@@ -4,7 +4,7 @@ title: "Exploring Rust"
 date: 2014-10-31 9:45
 comments: true
 published: false
-categories: [ Other Languages ]
+tags: [ Other Languages ]
 ---
 
 {% include image.html img="/images/rust_logo.png" caption="Rust is fast." %}

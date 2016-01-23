@@ -3,7 +3,7 @@ layout: post
 title: "What Is Open Source?"
 date: 2014-02-22 16:41
 comments: true
-categories: [ Education ]
+tags: [ Education ]
 ---
 
 {% include image.html img="/images/linux-penguin.png" caption="The Linux penguin." %}

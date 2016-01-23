@@ -3,7 +3,7 @@ layout: post
 title: "RVM Saves the Day for Octopress"
 date: 2013-07-15 14:29
 comments: true
-categories: [ Ruby ]
+tags: [ Ruby ]
 ---
 [Octopress](http://octopress.org) is a lean blogging engine that happens to power [RayHightower.com](http://rayhightower.com). Earlier today, after a quick update to the blog, I encountered the following:
 

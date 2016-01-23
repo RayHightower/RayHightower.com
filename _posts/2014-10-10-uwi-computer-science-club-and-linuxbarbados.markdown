@@ -3,7 +3,7 @@ layout: post
 title: "UWI Computer Science Club &amp; LinuxBarbados"
 date: 2014-10-10 03:53
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 ---
 Members of the [University of the West Indies (UWI)](http://cavehill.uwi.edu/) Computer Science Club and [LinuxBarbados](http://linuxbarbados.org) just finished a joint session this afternoon. I am grateful that the group invited me to present. Outline (prepared in advance):
 

@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll: ChicagoRuby Hack Night"
 date: 2015-11-11 14:03:11 -0500
 comments: true
-categories: [ Community, Jekyll ]
+tags: [ Community, Jekyll ]
 published: true
 ---
 

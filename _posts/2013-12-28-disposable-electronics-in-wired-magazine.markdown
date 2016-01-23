@@ -3,7 +3,7 @@ layout: post
 title: "Disposable Electronics in Wired Magazine"
 date: 2013-12-28 14:30
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 ---
 What can we build with disposable electronics? An ad in the January 2014 issue of [Wired Magazine](http://wired.com) lets the reader change the color of a Moto X smartphone by pressing a colored circle on the page. This 20-second video shows the ad in operation followed by a glimpse of the inner workings. 
 

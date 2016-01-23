@@ -3,7 +3,7 @@ layout: post
 title: "Design and Big Ideas"
 date: 2012-12-08 00:35
 comments: true
-categories: [Business]
+tags: [Business]
 ---
 
 WisdomGroup is hiring a [web design intern](https://jobs.chicagoruby.org/jobs/100). Our current volume of work requires it. The ideal candidate will share our beliefs about design, summarized as...

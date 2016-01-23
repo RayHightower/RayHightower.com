@@ -3,7 +3,7 @@ layout: post
 title: "GitHub Page Build Warning - New CDN"
 date: 2014-05-31 13:44
 comments: true
-categories: [ Git ]
+tags: [ Git ]
 ---
 The `RayHightower.com` blog is built on [Octopress](http://octopress.org/) and hosted on [GitHub Pages](https://pages.github.com/). Recently, after I deployed a site update, GitHub emailed me a `Page build warning` message. Since this was _just a warning_, I ignored it while I attacked more pressing tasks (not always a good idea).
 

@@ -3,7 +3,7 @@ layout: post
 title: "Atari's Pong, Built With RubyMotion"
 date: 2013-02-26 10:35
 comments: true
-categories: [Education, Objective-C, Ruby, RubyMotion, iOS]
+tags: [Education, Objective-C, Ruby, RubyMotion, iOS]
 published: true
 ---
 <img src="/images/pong-rubymotion-objective-c.png" width="300" height="160" alt="Atari's Pong in RubyMotion and Objective-C" title="Atari's Pong in RubyMotion and Objective-C" align="right">

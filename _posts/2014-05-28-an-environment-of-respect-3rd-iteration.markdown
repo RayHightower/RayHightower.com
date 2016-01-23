@@ -3,7 +3,7 @@ layout: post
 title: "An Environment of Respect, 3rd Iteration"
 date: 2014-05-28 06:42
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 ---
 Last week, [Coraline Ehmke](https://twitter.com/bantik) and [Liz Abinante](https://twitter.com/feministy) met with three members of the WindyCityRails organizer team: [Kevin Zolkiewicz](https://twitter.com/zolk), [Alonda McCree](https://twitter.com/themccreefiles), and me. Good dialog. End result: The updated [WindyCityRails Code of Conduct](http://www.windycityrails.org/code-of-conduct/).
 

@@ -3,7 +3,7 @@ layout: post
 title: "Continuous Learning at ChicagoRuby"
 date: 2013-05-01 09:18
 comments: true
-categories: 
+tags: 
 published: false
 ---
 Why does [ChicagoRuby](http://chicagoruby.org) appeal to the developer community? One reason: The group strives to learn from past mistakes.

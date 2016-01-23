@@ -3,7 +3,7 @@ layout: post
 title: "How to Make lunr.js and Jekyll Work Together (with Gotchas)"
 date: 2016-01-04 04:03:11 -0500
 comments: true
-categories: [ Education, Git, Jekyll, LunrJS ]
+tags: [ Education, Git, Jekyll, LunrJS ]
 published: true
 ---
 

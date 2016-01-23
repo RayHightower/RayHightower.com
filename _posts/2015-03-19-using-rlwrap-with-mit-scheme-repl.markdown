@@ -3,7 +3,7 @@ layout: post
 title: "Using rlwrap with MIT's Scheme REPL"
 date: 2015-03-19 17:02:11 -0500
 comments: true
-categories: [ Linux, OS X ]
+tags: [ Linux, OS X ]
 published: true
 ---
 Users of the Linux or OS X command line know that they can hit the up arrow to view the previously executed command. However, this behavior is missing from the `mit-scheme` read-evaluate-print-loop (REPL). `mit-scheme` is the language used in [SICP](/blog/2015/02/18/sicp-study-group/). 

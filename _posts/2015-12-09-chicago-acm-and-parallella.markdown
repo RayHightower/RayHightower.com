@@ -3,7 +3,7 @@ layout: post
 title: "ACM Chicago and Parallella"
 date: 2015-12-09 04:03:11 -0500
 comments: true
-categories: [ Community, Education, IoT, Parallella ]
+tags: [ Community, Education, IoT, Parallella ]
 published: true
 ---
 

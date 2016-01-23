@@ -3,7 +3,7 @@ layout: post
 title: ":TOhtml - Using Vim Code Snippets in Keynote Presentations"
 date: 2013-10-31 16:13
 comments: true
-categories: [Education, Vim]
+tags: [Education, Vim]
 ---
 While finishing my presentation for the upcoming [Chippewa Valley Code Camp](http://chippewavalleycodecamp.com/), I decided to add some blocks of code to my slides. I forgot the name of the tool I used for my last slide deck, and it took several minutes of Google-fu to find it. 
 

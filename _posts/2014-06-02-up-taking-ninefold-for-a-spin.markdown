@@ -4,7 +4,7 @@ title: "Taking Ninefold for a Spin"
 date: 2014-06-02 18:47
 comments: true
 published: false
-categories: [ Rails, Ruby ]
+tags: [ Rails, Ruby ]
 ---
 {% include image.html img="/images/ninefold-logo.png" %}
 [Ninefold](https://ninefold.com/) is a Rails hosting platform based in Australia. The company is backed by [Maquarie Telcom](http://www.macquarietelecom.com/).

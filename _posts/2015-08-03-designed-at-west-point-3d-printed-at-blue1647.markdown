@@ -3,7 +3,7 @@ layout: post
 title: "Designed at West Point. 3D Printed at BLUE1647."
 date: 2015-08-03 11:50:00 -0500
 comments: true
-categories: [ IoT, Parallella ]
+tags: [ IoT, Parallella ]
 ---
 
 {% include image.html img="/images/westpoint-parallella-green.jpg" caption="Designed at West Point. 3D-printed at BLUE1647 in Chicago." %}

@@ -3,7 +3,7 @@ layout: post
 title: "Code Pilot for Xcode Navigation"
 date: 2013-01-08 10:54
 comments: true
-categories: [iOS, Objective-C, Xcode]
+tags: [iOS, Objective-C, Xcode]
 ---
 [Code Pilot](http://codepilot.cc) is a free tool that lets developers navigate quickly between files in Xcode. I was introduced to the tool yesterday by Don Bora, instructor of the Mobile Makers [iOS Accelerated](http://mobilemakers.co/) course that I'm currently taking.
 

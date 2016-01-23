@@ -3,7 +3,7 @@ layout: post
 title: "Objective-C Immersion"
 date: 2012-12-31 09:59
 comments: true
-categories: [iOS, Learning, Objective-C, Xcode]
+tags: [iOS, Learning, Objective-C, Xcode]
 published: false
 ---
 <a href="http://shop.oreilly.com/product/0636920022947.do#"><img src="/images/head-first-iPhone-iPad.jpg" align="right" width="200" height="231"></a>

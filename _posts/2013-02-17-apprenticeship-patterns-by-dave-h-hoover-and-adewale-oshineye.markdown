@@ -3,7 +3,7 @@ layout: post
 title: "Apprenticeship Patterns"
 date: 2013-02-17 09:52
 comments: true
-categories: [Education]
+tags: [Education]
 ---
 <img src="/images/apprenticeship-patterns.gif" align="right" width="180" height="236" alt="Apprenticeship Patterns" title="Apprenticeship Patterns">
 >_In times of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists.<br/>- Eric Hoffer, Reflections on the Human Condition_

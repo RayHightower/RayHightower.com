@@ -3,7 +3,7 @@ layout: post
 title: "Node.js Prep for OpenROV"
 date: 2014-06-30 14:06
 comments: true
-categories: [ IoT, Node, OpenROV ]
+tags: [ IoT, Node, OpenROV ]
 ---
 
 {% include image.html img="/images/nodejs-white.png" %}

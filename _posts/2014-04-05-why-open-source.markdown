@@ -3,7 +3,7 @@ layout: post
 title: "Why Open Source?"
 date: 2014-04-05 00:40
 comments: true
-categories: [ Community, Education ]
+tags: [ Community, Education ]
 ---
 As members of the open source community, we have internalized the benefits of open source. Sometimes, knowing a topic so well can hinder us from explaining it to people who need to understand our work: Clients, customers, and employers. They need to understand us because they pay us. Understanding helps to build trust.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Successful Companies Are Built Around Communities"
 date: 2013-07-09 23:52
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 published: true
 ---
 [Seth Godin](http://www.sethgodin.com) is on a mission. Technology enables us to form communities that stretch beyond traditional boundaries like age and social status. Godin is convinced that revolutions within and between communities will yield huge opportunities for those who have the courage to take action. Don’t waste the revolution!

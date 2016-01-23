@@ -3,7 +3,7 @@ layout: post
 title: "Using Failure to Succeed"
 date: 2016-01-16 04:03:11 -0500
 comments: true
-categories: [ Education ]
+tags: [ Education ]
 published: true
 ---
 

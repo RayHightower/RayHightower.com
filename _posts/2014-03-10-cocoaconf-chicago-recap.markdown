@@ -3,7 +3,7 @@ layout: post
 title: "CocoaConf Chicago Recap"
 date: 2014-03-10 11:46
 comments: true
-categories: [ Community, iOS ]
+tags: [ Community, iOS ]
 ---
 
 {% include image.html img="/images/cocoaconf-2014.jpg" caption="Cool stuff from CocoaConf." %}

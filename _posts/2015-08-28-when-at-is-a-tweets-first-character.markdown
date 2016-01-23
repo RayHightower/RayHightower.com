@@ -3,7 +3,7 @@ layout: post
 title: "When \"@\" is a Tweet\'s First Character"
 date: 2015-08-28 15:59:01 -0500
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 ---
 <img style="margin-left:20px" src="/images/at_sign.png" align="right">
 

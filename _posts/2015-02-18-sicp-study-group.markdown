@@ -3,7 +3,7 @@ layout: post
 title: "SICP Study Group"
 date: 2015-02-18 15:15:25 -0600
 comments: true
-categories: [ Community, Education ]
+tags: [ Community, Education ]
 ---
 
 {% include image.html img="/images/sicp.jpg" caption="SICP" %}

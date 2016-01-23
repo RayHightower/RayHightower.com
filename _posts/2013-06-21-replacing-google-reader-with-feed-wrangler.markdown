@@ -3,7 +3,7 @@ layout: post
 title: "Replacing Google Reader with Feed Wrangler"
 date: 2013-06-21 18:52
 comments: true
-categories: [ Business, Education ]
+tags: [ Business, Education ]
 ---
 <img src="/images/feedwrangler-gil.jpg" height="600" width="450" align="right" alt="Google Reader Replacement: Feed Wrangler - iPad" title="Google Reader Replacement: Feed Wrangler - iPad">
 Google Reader, the RSS product, shuts down on July 1st. I consume most news via RSS, and the ability to sync multiple RSS clients between iPhone, iPad, and desktop with Google Reader in the background saved time while keeping me informed. Finding a replacement is critical.

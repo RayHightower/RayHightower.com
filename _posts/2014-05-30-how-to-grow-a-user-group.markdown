@@ -3,7 +3,7 @@ layout: post
 title: "How to Grow a User Group"
 date: 2014-05-30 17:34
 comments: true
-categories: [ Community, Education ]
+tags: [ Community, Education ]
 ---
 The current team of [ChicagoRuby](http://chicagoruby.org) organizers assumed leadership in August 2007. Back then, typical monthly attendance was about five people and the group's [Meetup.com](http://meetup.com/chicagoruby) database contained 78 members. The previous organizer was swamped with work at his day job, so he handed the baton to a new crew.
 

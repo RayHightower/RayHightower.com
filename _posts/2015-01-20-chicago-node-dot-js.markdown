@@ -3,7 +3,7 @@ layout: post
 title: "Chicago Node.js"
 date: 2015-01-20 17:23:30 -0600
 comments: true
-categories: [ Community, OpenROV ]
+tags: [ Community, OpenROV ]
 ---
 
 {% include image.html img="/images/openrov_at_groupon.png" caption="OpenROV at Groupon. Photo by Michelle Waldorf." %}

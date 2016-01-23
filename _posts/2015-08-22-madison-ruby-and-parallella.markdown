@@ -3,7 +3,7 @@ layout: post
 title: "Madison+ Ruby and Parallella (with Video)"
 date: 2015-08-22 09:47:45 -0500
 comments: true
-categories: [ Community, Parallella ]
+tags: [ Community, Parallella ]
 ---
 
 <img style="margin-left:20px" src="/images/parallella_perspective_250_bw.jpg" alt="images/parallella_perspective_250_bw.jpg" align="right">

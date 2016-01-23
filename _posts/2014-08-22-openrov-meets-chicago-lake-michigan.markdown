@@ -3,7 +3,7 @@ layout: post
 title: "OpenROV Meets Chicago's Lake Michigan"
 date: 2014-08-22 19:27
 comments: true
-categories: [ IoT, OpenROV ]
+tags: [ IoT, OpenROV ]
 ---
 
 {% include image.html img="/images/openrov_chicago_lake_michigan.jpg" caption="OpenROV meets Lake Michigan." %}

@@ -29,7 +29,7 @@ layout: post
 title:  #{post_title}
 date:   #{date}
 comments: true
-categories: 
+tags: 
 published: false
 ---
  

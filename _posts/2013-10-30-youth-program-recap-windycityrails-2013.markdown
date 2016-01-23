@@ -3,7 +3,7 @@ layout: post
 title: "Youth Program Recap"
 date: 2013-10-30 17:22
 comments: true
-categories: [Arduino, Education, Rails, Ruby]
+tags: [Arduino, Education, Rails, Ruby]
 ---
 {% include image.html img="/images/arduino-youth-program.png" title="Arduino" caption="Arduino" %} 
 

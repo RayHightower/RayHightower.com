@@ -3,7 +3,7 @@ layout: post
 title: "Solar and Tesla"
 date: 2015-05-08 18:33:54 -0500
 comments: true
-categories: [ Business, Solar ]
+tags: [ Business, Solar ]
 ---
 >We have this handy fusion reactor in the sky called the sun. We don’t have to do anything. It just works.
 ><br/>&nbsp;

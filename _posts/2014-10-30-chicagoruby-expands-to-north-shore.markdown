@@ -3,7 +3,7 @@ layout: post
 title: "ChicagoRuby Expands to North Shore"
 date: 2014-10-30 14:51
 comments: true
-categories: [ Community ]
+tags: [ Community ]
 ---
 Long-time observers of ChicagoRuby know that the group is always striving to achieve more. Latest move: ChicagoRuby is now hosting a monthly meetup on Chicago’s North Shore. The first meeting of ChicagoRuby: North Shore will be held on Saturday, December 6, 2014 at 10:30am. Visit [Meetup.com](http://www.meetup.com/ChicagoRuby/events/216193202/) for details and to RSVP.
 

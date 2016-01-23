@@ -3,7 +3,7 @@ layout: post
 title: "How .gitignore Works"
 date: 2014-03-25 18:20
 comments: true
-categories: [ Education, Git, OS X ]
+tags: [ Education, Git, OS X ]
 ---
 Earlier today I ran into a Git issue within a RubyMotion project. I added a directory to the project's `.gitignore` file, but Git seemed to ignore my ignore. Expressed more clearly, Git continued to track a directory that I explicitly told it to ignore.
 

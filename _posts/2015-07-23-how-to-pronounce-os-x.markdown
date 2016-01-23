@@ -3,7 +3,7 @@ layout: post
 title: "How to Pronounce OS X"
 date: 2015-07-23 15:03:18 -0500
 comments: true
-categories: [ OS X ]
+tags: [ OS X ]
 ---
 What's the correct way to pronounce the name of Apple's Macintosh operating system, OS X? You can find the answer by asking OS X directly from the command line, as shown in this 11-second video.
 

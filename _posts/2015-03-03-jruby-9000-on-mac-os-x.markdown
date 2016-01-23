@@ -3,7 +3,7 @@ layout: post
 title: "JRuby 9000 on Mac OS X"
 date: 2015-03-03 14:42:57 -0600
 comments: true
-categories: [ Ruby ]
+tags: [ Ruby ]
 ---
 
 {% include image.html img="/images/jruby_on_jvm.png" caption="JRuby. Ruby on the JVM." %}

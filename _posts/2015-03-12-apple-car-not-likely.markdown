@@ -3,7 +3,7 @@ layout: post
 title: "Apple Car? Not Likely."
 date: 2015-03-12 16:42:49 -0500
 comments: true
-categories: [ Business ]
+tags: [ Business ]
 ---
 >You have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose. And that’s as close to certain as any prediction that you can make. You have to figure out where you’ve got an edge. And you’ve got to play within your own circle of competence.
 ><br/><br/>~Charlie Munger, Vice Chairman, Berkshire Hathaway

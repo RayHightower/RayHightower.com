@@ -3,7 +3,7 @@ layout: post
 title: "No Windows. Stronger Planes."
 date: 2015-01-02 23:34:04 -0600
 comments: true
-categories: [ Business, IoT ]
+tags: [ Business, IoT ]
 ---
 It is always good to start the new year with something inspirational. [Technicon Design](http://www.technicondesign.com/) created a 3-minute video to demonstrate their IXION Windowless Jet Concept. Worth watching full screen.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Bloom's Taxonomy for Learning"
 date: 2015-03-20
 comments: true
-categories: [ Education ]
+tags: [ Education ]
 published: true
 ---
 <a href="/images/blooms_taxonomy_thumb.png" onclick="window.open('/images/blooms_taxonomy.png','popup','width=770,height=548,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img style="margin-left:20px" align="right" src="/images/blooms_taxonomy_thumb.png" border="0" alt="Bloom's Taxonomy" name="image" class="right" width="250" height="162" title="Bloom's Taxonomy" /></a>

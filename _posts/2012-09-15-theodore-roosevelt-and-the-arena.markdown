@@ -3,7 +3,7 @@ layout: post
 title: "Theodore Roosevelt's Arena"
 date: 2012-09-15 08:46
 comments: true
-categories: [Business]
+tags: [Business]
 ---
 
 This is one of my favorite quotes from TR. Pardon the bias toward the male gender. This was written in the early 1900s.

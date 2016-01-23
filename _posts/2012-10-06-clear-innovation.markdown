@@ -3,7 +3,7 @@ layout: post
 title: "Clear Innovation"
 date: 2012-10-06 22:47
 comments: true
-categories: [Business]
+tags: [Business]
 ---
 Some organizations are innovative, while others are just lucky. How can you tell the difference? I would submit that longevity is a great divider between true innovators and those who are just lucky. An organization that generates new ideas time after time breaks the statistical rules that define luck. These are the organizations worthy of study.
 

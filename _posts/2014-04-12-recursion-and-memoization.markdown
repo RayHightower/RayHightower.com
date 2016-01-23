@@ -3,7 +3,7 @@ layout: post
 title: "Recursion and Memoization"
 date: 2014-04-12 10:48
 comments: true
-categories: [ Education, Ruby ]
+tags: [ Education, Ruby ]
 ---
 >To iterate is human, to recurse divine.
 >&nbsp;<br/>

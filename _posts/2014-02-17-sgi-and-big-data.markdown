@@ -3,7 +3,7 @@ layout: post
 title: "SGI & Big Data"
 date: 2014-02-17 14:46
 comments: true
-categories: [ Community, High Performance Computing ]
+tags: [ Community, High Performance Computing ]
 ---
 
 {% include image.html img="/images/sgi-logo-1990s.png" caption="SGI's logo from the 1990s." %}

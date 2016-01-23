@@ -3,7 +3,7 @@ layout: post
 title: "LinuxBarbados is Global"
 date: 2014-07-25 15:36
 comments: true
-categories: [ Community, Linux ]
+tags: [ Community, Linux ]
 ---
 
 {% include image.html img="/images/LinuxBarbados-tux-logo_300.png" %}

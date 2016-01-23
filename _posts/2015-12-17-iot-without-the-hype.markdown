@@ -3,7 +3,7 @@ layout: post
 title: "IoT Without the Hype"
 date: 2015-12-17 04:03:11 -0500
 comments: true
-categories: [ Community, Education, IoT ]
+tags: [ Community, Education, IoT ]
 published: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Using RubyMotion With Xcode's Interface Builder"
 date: 2012-10-18 18:34
 comments: true
-categories: [iOS, RubyMotion, Xcode]
+tags: [iOS, RubyMotion, Xcode]
 ---
 
 ### Executive Summary

@@ -3,7 +3,7 @@ layout: post
 title: "Keep the Fun in Computing"
 date: 2015-02-25 20:12:17 -0600
 comments: true
-categories: [ Community, Education ]
+tags: [ Community, Education ]
 ---
 >"I think that it’s extraordinarily important that we in computer science keep fun in computing... What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more."
 ><br/>&nbsp;

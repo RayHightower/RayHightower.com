@@ -3,7 +3,7 @@ layout: post
 title: "awesome_print_motion for RubyMotion"
 date: 2013-11-25 15:08
 comments: true
-categories: [ iOS, Ruby, RubyMotion ]
+tags: [ iOS, Ruby, RubyMotion ]
 ---
 ###The Problem
 Let's say we're building a version of Atari's [Pong in RubyMotion](/blog/2013/02/26/atari-pong-rubymotion-objective-c/). We're debugging an issue with the paddles; they don't line up the way we want them to. Time to examine the playing field via the RubyMotion console.

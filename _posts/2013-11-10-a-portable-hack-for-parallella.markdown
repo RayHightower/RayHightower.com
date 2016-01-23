@@ -3,7 +3,7 @@ layout: post
 title: "A Portable Hack for Parallella"
 date: 2013-11-10 23:05
 comments: true
-categories: [BeagleBone Black, Education, High Performance Computing, Parallella, Raspberry Pi]
+tags: [BeagleBone Black, Education, High Performance Computing, Parallella, Raspberry Pi]
 ---
 
 {% include image.html img="/images/parallella-portable.png" caption="Portability for Parallella-sized devices." %} 

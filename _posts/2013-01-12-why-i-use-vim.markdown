@@ -3,7 +3,7 @@ layout: post
 title: "Why I Use Vim"
 date: 2013-01-12 11:07
 comments: true
-categories: [Education, Vim]
+tags: [Education, Vim]
 ---
 <img src="/images/vim-osx.png" width="300" height="257" alt="Vim on OSX" title="Vim on OSX" align="right"/>
 My primary code-writing tools are:

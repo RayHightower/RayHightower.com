@@ -3,7 +3,7 @@ layout: post
 title: "Make Your Competition Irrelevant"
 date: 2012-11-10 02:55
 comments: true
-categories: [Business]
+tags: [Business]
 ---
 <img style="margin-left:20px" src="/assets/blue_ocean_strategy.png" align="right" alt="Blue Ocean Strategy" title="Blue Ocean Strategy">
 

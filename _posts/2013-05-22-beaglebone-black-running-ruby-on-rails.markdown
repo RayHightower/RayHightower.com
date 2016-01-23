@@ -3,7 +3,7 @@ layout: post
 title: "BeagleBone Black, Up & Running"
 date: 2013-05-22 22:13
 comments: true
-categories: [ BeagleBone Black, Education, Linux, Rails, Ruby ]
+tags: [ BeagleBone Black, Education, Linux, Rails, Ruby ]
 ---
 <img src="/images/BeagleBoneBlack.jpg" width="372" height="600" title="BeagleBone Black" alt="BeagleBone Black" align="right">
 [BeagleBone Black](http://beagleboard.org/Products/BeagleBone%20Black), like the [Raspberry Pi](/blog/2012/12/03/ruby-on-raspberry-pi/), is a small, inexpensive computer that runs Linux. It's smaller than a deck of cards and you can buy one for about forty-five dollars ($45.00). The device is made by [CircuitCo](http://circuitco.com) in Richardson, TX, USA.

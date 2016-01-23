@@ -3,7 +3,7 @@ layout: post
 title: "Parallella Examples"
 date: 2015-06-30 14:32:02 -0500
 comments: true
-categories: [ Parallella ]
+tags: [ Parallella ]
 ---
 >Performance is of paramount importance in parallel programming. The reason we are in the game of writing parallel programs is either to solve a problem faster than on a serial computer, or to solve a larger problem than could previously be done.<br/>&nbsp;<br/>~D. Thiébaut, author<br/>&nbsp;Parallel Programming in C for the Transputer
 

@@ -3,7 +3,7 @@ layout: post
 title: "Getting Started With Jekyll"
 date: 2015-06-24 16:02:38 -0500
 comments: true
-categories: [ Community, Ruby ]
+tags: [ Community, Ruby ]
 ---
 
 {% include image.html img="/images/jekyll-responsive.jpg" caption="Jekyll, the static HTML generator." %}

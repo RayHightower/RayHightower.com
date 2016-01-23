@@ -3,7 +3,7 @@ layout: post
 title: "Looking Inside the Pygments Plugin"
 date: 2014-12-31 16:18:29 -0600
 comments: true
-categories: [ Ruby ]
+tags: [ Ruby ]
 ---
 This blog uses [pygments.rb](https://rubygems.org/gems/pygments.rb) for syntax highlighting. Recently `pygments.rb` stopped working, so I had to dig inside to determine the problem and apply a solution.
 

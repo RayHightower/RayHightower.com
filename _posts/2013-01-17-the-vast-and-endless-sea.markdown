@@ -3,7 +3,7 @@ layout: post
 title: "The Vast and Endless Sea"
 date: 2013-01-17 13:35
 comments: true
-categories: Business
+tags: Business
 ---
 All of us are inspired when we have a big goal to achieve. Antoine De Saint-Exupery expresses the idea well:
 

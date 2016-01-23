@@ -3,7 +3,7 @@ layout: post
 title: "Upgrading to Git 2.0"
 date: 2014-05-30 11:33
 comments: true
-categories: [ Education, Git ]
+tags: [ Education, Git ]
 ---
 {% include image.html img="/images/git_200.png" %} 
 Developers of Git are making a serious effort to improve intuitiveness for first-time users. Of course, all users benefit from intuitive tools. When our tools _just work_, we spend less time sifting through documentation and more time solving problems for our customers.

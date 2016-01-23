@@ -3,7 +3,7 @@ layout: post
 title: "Upgrading Ruby With RVM"
 date: 2013-05-16 13:36
 comments: true
-categories: [Education, Rails, Ruby]
+tags: [Education, Rails, Ruby]
 ---
 [Ruby Version Manager (RVM)](http://rvm.io) is one of my favorite tools in the Ruby ecosystem.  Reason: RVM lets me experiment with Ruby and Rails at will. I don't know about you, but my best experiments are full of risk so they eventually blow things up. When that happens, I can always recover the broken areas without wasting time on a full system restore.
 

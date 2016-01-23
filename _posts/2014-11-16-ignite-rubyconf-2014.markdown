@@ -3,7 +3,7 @@ layout: post
 title: "Ignite RubyConf 2014"
 date: 2014-11-16 15:01
 comments: true
-categories: [ Community, OpenROV ]
+tags: [ Community, OpenROV ]
 ---
 
 {% include image.html img="/images/ignite_logo_200.jpg" caption="Ignite. 15 seconds per slide." %}

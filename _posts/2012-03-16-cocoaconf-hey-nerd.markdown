@@ -3,7 +3,7 @@ layout: post
 title: "CocoaConf: Hey Nerd!"
 date: 2012-03-16 17:30
 comments: true
-categories: [ Education, iOS, Objective-C ]
+tags: [ Education, iOS, Objective-C ]
 ---
 
 {% include image.html img="/images/cocoaconf-mug.png" %} 

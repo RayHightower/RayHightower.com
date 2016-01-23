@@ -3,7 +3,7 @@ layout: post
 title: "You Can Build Things"
 date: 2013-09-02 20:24
 comments: true
-categories: [Business, Education]
+tags: [Business, Education]
 ---
 From a video interview with Steve Jobs:
 >When you grow up you tend to get told that the world is the way it is, and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life. Have fun. Save a little money.

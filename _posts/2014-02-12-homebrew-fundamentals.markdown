@@ -3,7 +3,7 @@ layout: post
 title: "Homebrew Fundamentals"
 date: 2014-02-12 14:20
 comments: true
-categories: [ Ruby ]
+tags: [ Ruby ]
 ---
 Spend enough time developing software on Mac OS X, and you will eventually need to install libraries that were written for Unix, but not specifically for OS X. Fortunately we have [Homebrew](http://brew.sh/), which makes it easier to install Unix libraries on the Mac. 
 

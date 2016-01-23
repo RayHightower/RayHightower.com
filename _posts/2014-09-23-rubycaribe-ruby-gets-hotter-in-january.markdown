@@ -3,7 +3,7 @@ layout: post
 title: "RubyCaribe: Ruby Gets Hotter in January"
 date: 2014-09-23 18:23
 comments: true
-categories: [ Community, OpenROV ]
+tags: [ Community, OpenROV ]
 ---
 [RubyCaribe](http://rubycaribe.com) (pronounced ka-REEB) is a conference for intermediate and advanced software developers who use Ruby. The conference will be held January 27 - 31, 2015 in Barbados. January is a beautiful time to visit the Caribbean, especially if you’re coming from a colder part of the planet.
 

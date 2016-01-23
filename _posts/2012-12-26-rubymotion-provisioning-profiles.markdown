@@ -3,7 +3,7 @@ layout: post
 title: "RubyMotion Provisioning Profiles"
 date: 2012-12-26 20:46
 comments: true
-categories: [iOS, RubyMotion]
+tags: [iOS, RubyMotion]
 published: true
 ---
 Note: This article on provisioning profiles was first posted in the <a href="https://groups.google.com/forum/?fromgroups=#!topic/rubymotion/Nvo8dH_8rkI">RubyMotion Google Group</a> on May 10, 2012. It was also referenced on <a href="http://stackoverflow.com/questions/13539743/rubymotion-build-error-cant-find-a-provisioning-profile-named-mixios-tea">Stack Overflow</a>.

@@ -3,7 +3,7 @@ layout: post
 title: "HTML5 & CSS3: The Complete Manual"
 date: 2015-03-06 13:02:53 -0600
 comments: true
-categories: [ Education ]
+tags: [ Education ]
 ---
 {% include image.html img="/images/html5_css3_imagineshop.jpg" caption="HTML5 & CSS3" %}
 

@@ -3,7 +3,7 @@ layout: post
 title: "Homebrew, Ruby, and Git"
 date: 2013-12-06 17:30
 comments: true
-categories: [ Education, Git, Ruby ]
+tags: [ Education, Git, Ruby ]
 ---
 I encountered some interesting behavior between [Homebrew](http://brew.sh/) and Ruby this afternoon. I can describe what happened, but I don't yet understand why. Perhaps another member of the dev community can shed some light.
 
