@@ -3,7 +3,7 @@ layout: post
 title: "How to Take a Raspberry Pi Screenshot"
 date: 2013-03-19 20:43
 comments: true
-tags: [Linux, Raspberry Pi]
+tags: [Linux, Raspberry_Pi]
 ---
 After you get a [Raspberry Pi](/blog/2012/12/03/ruby-on-raspberry-pi/) up and running, you may want to take a few screenshots so you can share the experience with others. Here's how.
 

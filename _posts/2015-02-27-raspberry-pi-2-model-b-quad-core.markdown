@@ -3,7 +3,7 @@ layout: post
 title: "Raspberry Pi 2 Model B Quad Core"
 date: 2015-02-27 21:04:11 -0600
 comments: true
-tags: [ Linux, Raspberri Pi ]
+tags: [ Linux, Raspberry_Pi ]
 published: true
 ---
 
