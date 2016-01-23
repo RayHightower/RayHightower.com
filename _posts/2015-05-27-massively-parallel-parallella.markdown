@@ -3,7 +3,7 @@ layout: post
 title: "Massively Parallel Parallella"
 date: 2015-05-27 13:15:27 -0500
 comments: true
-tags: [ High Performance Computing, Parallella ]
+tags: [ HPC, Parallella ]
 ---
 {% include image.html img="/images/parallella_perspective.jpg" caption="Parallella with 18 cores: 2 ARM + 16 RISC" %}
 
