@@ -3,7 +3,7 @@ layout: post
 title: "Citizen Science With OpenROV"
 date: 2014-06-16 17:46
 comments: true
-tags: [ Arduino, BeagleBone Black, Community, IoT, Linux, OpenROV ]
+tags: [ Arduino, BeagleBone_Black, Community, IoT, Linux, OpenROV ]
 ---
 
 >In the early days of robots people said, 'Oh, let's build a robot' and what's the first thought? You make a robot look like a human and do human things. That's so 1950s. We are so past that. 
