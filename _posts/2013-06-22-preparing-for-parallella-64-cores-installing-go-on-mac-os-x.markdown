@@ -3,7 +3,7 @@ layout: post
 title: "Prep for Parallella's 64 Cores: Installing Go on Mac OS X"
 date: 2013-06-22 12:58
 comments: true
-tags: [ Education, HPC, OS X, Parallella ]
+tags: [ Education, HPC, OS_X, Parallella ]
 ---
 <img src="/images/parallella.jpg" width="450" height="257" alt="Parallella 64-core supercomputer" title="Parallella 64-core supercomputer" align="right" imgcap="Parallella Board">
 

@@ -3,7 +3,7 @@ layout: post
 title: "Ack 2.0: Written in Perl, Useful With Ruby"
 date: 2013-04-20 17:12
 comments: true
-tags: [Education, Linux, OS X, Rails, Ruby, Vim]
+tags: [Education, Linux, OS_X, Rails, Ruby, Vim]
 ---
 <img src="/images/ack.png" align="right" height="237" width="230" alt="Ack Linux Mac OS X" title="Ack Linux Mac OS X">
 

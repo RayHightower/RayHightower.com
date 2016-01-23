@@ -3,7 +3,7 @@ layout: post
 title: "Automatic ctags with RubyMotion and Vim"
 date: 2013-02-12 19:35
 comments: true
-tags: [iOS, OS X, Ruby, RubyMotion, Vim]
+tags: [iOS, OS_X, Ruby, RubyMotion, Vim]
 ---
 [RubyMotion](/blog/2012/10/29/building-ios-apps-with-ruby-motion/) includes a `rake` task that generates [Exuberant Ctags](http://ctags.sourceforge.net/whatis.html). To generate tags, run the following in the root directory of a RubyMotion project.
 

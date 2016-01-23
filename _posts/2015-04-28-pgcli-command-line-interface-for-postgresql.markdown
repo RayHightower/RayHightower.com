@@ -4,7 +4,7 @@ title: "pgcli - Command Line Interface for PostgreSQL"
 date: 2015-04-28 11:59:44 -0500
 comments: true
 published: true
-tags: [ OS X, Rails, Ruby ]
+tags: [ OS_X, Rails, Ruby ]
 ---
 Debugging is a fact of life when building apps with Rails or any other set of tools. All troubleshooting is easier when we can see what’s going on inside.
 

@@ -3,7 +3,7 @@ layout: post
 title: "OS X and RubyMotion, Finishing Up"
 date: 2013-11-11 19:03
 comments: true
-tags: [ OS X, RubyMotion ]
+tags: [ OS_X, RubyMotion ]
 ---
 {% include image.html img="/images/show-package-contents.png" caption="" %} 
 
