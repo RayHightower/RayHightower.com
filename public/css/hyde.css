@@ -123,13 +123,16 @@ html {
 
 /* for the event images */
 .sidebar-events img {
-  width: 191px;
+  width: 150px;
   list-style-type: none;
-  padding: 0;
-  margin: 0;
-  color: white;
+  padding: 10px;
+  margin-bottom: 5px;
+  margin-top: 0;
+  background-color: #ddd;
+  border-radius: 5px;
 }
 
+/*
 .sidebar-events section {
   background-color: white;
   padding: 20px;
@@ -137,8 +140,8 @@ html {
   width: 75%;
   margin-bottom: 15px;
   margin-left: 35px;
-  display: show; /* Sometimes we show it, sometimes we don't! */
-}
+  display: show;  / Sometimes we show it, sometimes we don't! /
+} */
 
 .eventlogo {
   width: 50%
@@ -203,6 +206,7 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
+  margin-top: 1rem;
   font-size: 0.75rem;
 }
 .sidebar-nav-item {
