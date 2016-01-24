@@ -79,9 +79,6 @@ html {
   .sidebar-vim {
     display: none;
   }
-  .sidebar-nav a {
-    font-size: 20px;
-  }
   .sidebar-nav a, hr {
     display: none;
   }
