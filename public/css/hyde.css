@@ -121,7 +121,7 @@ html {
   margin: 0;
 }
 
-/* for the event images */
+/* for the individual event images */
 .sidebar-events img {
   width: 150px;
   list-style-type: none;
@@ -136,76 +136,9 @@ html {
   color: red;
 }
 
-/*
-.sidebar-events section {
-  background-color: white;
-  padding: 20px;
-  border-radius: 5px;
-  width: 75%;
-  margin-bottom: 15px;
-  margin-left: 35px;
-  display: show;  / Sometimes we show it, sometimes we don't! /
-} */
-
 .eventlogo {
   width: 50%
 }
-
-/* display svg versions of event logos */
-.windycityrailslogo {
-  width: 50%;
-  margin-bottom: 10px;
-  display: none; /* Sometimes we show it, sometimes we don't! */
-}
-
-.wisdomgrouplogo {
-  width: 50%;
-  margin-bottom: 10px;
-  display: none; /* Sometimes we show it, sometimes we don't! */
-}
-
-.rubycaribelogo {
-  width: 50%;
-  margin-bottom: 10px;
-  display: none; /* Sometimes we show it, sometimes we don't! */
-}
-
-.chicagorubylogo {
-  width: 50%;
-  margin-bottom: 10px;
-  display: none; /* Sometimes we show it, sometimes we don't! */
-}
-
-/* style logos in white, unless hovered over /
-.windycityrailslogo path {
-  fill: white;
-}
-
-.windycityrailslogo polygon {
-  fill: white;
-}
-
-.wisdomgrouplogo path {
-  fill: white;
-}
-
-.rubycaribelogo path {
-  fill: white;
-}
-
-.rubycaribelogo polygon {
-  fill: white;
-}
-
-.chicagorubylogo path {
-  fill: white;
-}
-
-.chicagorubylogo polygon {
-  fill: white;
-}
-
-*/
 
 /* Sidebar nav */
 .sidebar-nav {
