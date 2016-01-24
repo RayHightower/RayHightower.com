@@ -17,7 +17,7 @@ published: true
   <h3 id="{{ tag | escape }}">{{ tag }}{{ tag.count }}</h3>
   <ul>
   {% for post in site.tags[tag] %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <li><a class="tag-items" href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul>
 {% endfor %}

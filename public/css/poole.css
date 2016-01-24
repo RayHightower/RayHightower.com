@@ -109,6 +109,10 @@ html {
   border-radius: 5px;
 }
 
+.tag-items a {
+  font-size: 10px;
+}
+
 body {
   color: #515151;
   background-color: #fff;
