@@ -11,10 +11,7 @@
  *
  * Designed, built, and released under MIT license by @mdo. Learn more at
  * https://github.com/poole/poole.
- */
-
-
-/*
+ *
  * Contents
  *
  * Body resets
@@ -27,7 +24,6 @@
  * Reverse layout
  * Themes
  */
-
 
 /*
  * Body resets
@@ -59,7 +55,6 @@ html {
   .sidebar-nav select {
     display: none;
   }
-
 }
 
 /* by RTH: Only show the following sections on iPad or bigger. */
