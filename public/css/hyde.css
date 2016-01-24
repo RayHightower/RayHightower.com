@@ -77,7 +77,7 @@ html {
   margin-top: 50px;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 45em) {
   .sidebar {
     position: absolute; /* was absolute */
     top: 0;
@@ -171,21 +171,6 @@ a.sidebar-nav-item:focus {
   margin: 0;
 }
 
-/* Sticky sidebar
- *
- * Add the `sidebar-sticky` class to the sidebar's container to affix it the
- * contents to the bottom of the sidebar in tablets and up.
- */
-
-@media (min-width: 48em) {
-  .sidebar-sticky {
-    position: relative;
-    right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
-  }
-}
-
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
@@ -197,7 +182,7 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 45em) {
   .content {
     max-width: 38rem;
     margin-left: 20rem;
@@ -205,7 +190,7 @@ a.sidebar-nav-item:focus {
   }
 }
 
-@media (min-width: 48em) {
+@media (min-width: 45em) {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
@@ -235,9 +220,7 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
-
 */
-
 
 /*
  * Themes
