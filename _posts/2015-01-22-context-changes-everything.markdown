@@ -7,7 +7,7 @@ tags: [ Business, Community, UX ]
 ---
 There are some cases where time zone information is absolutely critical. For example: When scheduling a video conference that crosses national boundaries. 
 
-A few hours ago, Google sent me a reminder about today's [LinuxBarbados](http://linuxbarbados.org) meeting. The group meets via video conferencing software over the web. Google's reminder was confusing because it showed the time without the time zone (screenshot below). LinuxBarbados is based in the Caribbean, and some of the members participate from other time zones.
+A few hours ago, Google sent me a reminder about today's [LinuxBarbados](http://linuxbarbados.org) meeting. The group meets via video conferencing software over the web. Google's reminder was confusing because it showed the time without the time zone (screenshot below). LinuxBarbados is based in the Caribbean, and members participate from multiple time zones around the world.
 
 <!--more-->
 
