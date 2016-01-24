@@ -63,7 +63,7 @@ html {
 }
 
 /* by RTH: Only show the following sections on iPad or bigger. */
-@media (max-width: 46em) {
+@media (max-width: 48em) {
   .sidebar-featured {
     display: none;
   }
