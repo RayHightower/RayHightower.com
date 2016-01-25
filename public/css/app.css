@@ -93,9 +93,7 @@ ul.topnav ul.right {
     list-style-type: none;
 }
 
-@media screen and (max-width: 600px){
-    ul.topnav ul.right, 
-    ul.topnav li {float: none;}
+@media screen and (max-width: 45em){
   .topnav {
     display: none;
   }

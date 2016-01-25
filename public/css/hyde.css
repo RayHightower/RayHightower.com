@@ -142,7 +142,7 @@ html {
   font-size: 0.75rem;
 }
 .sidebar-nav-item {
-  display: block;
+  display: none;
   line-height: 1.75;
 }
 a.sidebar-nav-item:hover,
