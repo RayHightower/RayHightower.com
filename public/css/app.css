@@ -64,7 +64,7 @@ a.sidebar-nav-item:focus {
 /* Navbar from http://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_responsive */
 ul.topnav {
     list-style-type: none;
-    margin-left: 18em;
+    margin-left: 24em;
     margin-top: 0em;
     padding: 0;
     overflow: hidden;
@@ -72,6 +72,7 @@ ul.topnav {
     position: fixed;
     top: 0;
     width: 100%;
+    font-size: .75em;
 }
 
 ul.topnav li {float: left;}
