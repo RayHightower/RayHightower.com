@@ -6,12 +6,11 @@ comments: true
 tags: [ Business ]
 ---
 
-<img style="margin-left:20px" src="/images/berkshire_hathaway_50th.jpg" alt="40,000 shareholders in Omaha." align="right">
-
 >Hi, I'm Warren. He's Charlie. He can hear, I can see. We work well together.
 ><br/>&nbsp;<br/>
 >~Warren Buffett,<br/>at the start of the 2015<br/>Berkshire Hathaway annual meeting
 
+<img style="margin-left:20px" src="/images/berkshire_hathaway_50th.jpg" alt="40,000 shareholders in Omaha." align="right">
 [Berkshire Hathaway](http://berkshirehathaway.com) held its 50th annual shareholder meeting on May 2, 2015. The company is a lesson in successful capitalism. Chairman Warren Buffett and vice chairman Charlie Munger have built the most successful investment partnership in human history. The list of wholly-owned Berkshire subsidiaries includes GEICO, Fruit of the Loom, Brooks Shoes, and See's Candies. The company also owns large percentages of Coca Cola (9.16%), American Express (14.9%), IBM (7.82%), and Wells Fargo (9.01%).
 
 Over 40,000 shareholders attended Saturday's annual meeting. What draws so many shareholders to Omaha every year? The opportunity to learn.
