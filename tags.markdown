@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: nonav
 title: Blog Categories
-published: true
 ---
 
 <h2>{{page.title}}</h2>
