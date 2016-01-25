@@ -3,8 +3,6 @@ layout: nonav
 title: Blog Categories
 ---
 
-<h2>{{page.title}}</h2>
-
 {% capture tags %}
   {% for tag in site.tags %}
     {{ tag[0] }}
