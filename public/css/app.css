@@ -43,7 +43,7 @@
   }
 }
 
-/* Sidebar Navigation */
+/* Sidebar Navigation (original) */
 .sidebar-nav {
   margin-bottom: 1rem;
   font-size: 1.0rem;
@@ -64,10 +64,14 @@ a.sidebar-nav-item:focus {
 /* Navbar from http://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_responsive */
 ul.topnav {
     list-style-type: none;
-    margin: 0;
+    margin-left: 18em;
+    margin-top: 0em;
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 ul.topnav li {float: left;}
