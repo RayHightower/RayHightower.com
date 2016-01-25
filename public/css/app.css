@@ -73,6 +73,7 @@ ul.topnav {
     top: 0;
     width: 100%;
     font-size: .75em;
+    z-index: +1;
 }
 
 ul.topnav li {float: left;}
