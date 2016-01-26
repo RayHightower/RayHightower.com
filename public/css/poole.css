@@ -55,7 +55,7 @@ html {
   }
 }
 
-/* by RTH: Show the following sections only on iPad or bigger. */
+/* by RTH: Determine what gets shown on iPad or larger displays. */
 @media (max-width: 45em) {
   .sidebar-featured {
     display: none;
@@ -295,7 +295,6 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
-
 
 /*
  * Custom type
