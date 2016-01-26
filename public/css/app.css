@@ -43,24 +43,6 @@
   }
 }
 
-/* Sidebar Navigation (original) */
-.sidebar-nav {
-  margin-bottom: 1rem;
-  font-size: 1.0rem;
-}
-.sidebar-nav-item {
-  display: block;
-  line-height: 1.75;
-}
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: underline;
-}
-.sidebar-nav-item.active {
-  font-weight: bold;
-  color: #268bd2;
-}
-
 /* Navbar from http://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_responsive */
 ul.topnav {
     list-style-type: none;
