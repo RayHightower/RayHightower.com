@@ -57,7 +57,7 @@ html {
   }
 }
 
-/* by RTH: Only show the following sections on iPad or bigger. */
+/* by RTH: Show the following sections only on iPad or bigger. */
 @media (max-width: 45em) {
   .sidebar-featured {
     display: none;
