@@ -127,14 +127,6 @@ html {
   border-radius: 5px;
 }
 
-.sidebar-events img:hover {
-  color: red;
-}
-
-.eventlogo {
-  width: 50%
-}
-
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
