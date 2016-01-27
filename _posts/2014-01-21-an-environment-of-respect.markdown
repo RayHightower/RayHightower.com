@@ -89,7 +89,7 @@ Some may point out that without a method of enforcement, the code has no teeth. 
 
 There you have it... my opinion. Can my opinion change? Perhaps. I have many blind spots, and that is why I am sharing my thought process. I look forward to hearing your feedback in the comments below or over a cup of coffee.
 
-By the way, the [WindyCityRails call for proposals](http://www.windycityrails.org) is still open, as of the date of this post. If you are doing something exciting with Ruby and/or Rails, please submit a proposal. Thanks.
+By the way, the [WindyCityRails call for proposals](http://www.windycityrails.com) is still open, as of the date of this post. If you are doing something exciting with Ruby and/or Rails, please submit a proposal. Thanks.
 
 ### _Update (Jan 2014)_
 
