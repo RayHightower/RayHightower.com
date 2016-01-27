@@ -5,7 +5,7 @@ date: 2014-01-21 13:16
 comments: true
 tags: [ Community ]
 ---
-Here is an early draft of the [WindyCityRails](http://windycityrails.org) Code of Conduct:
+Here is an early draft of the [WindyCityRails](http://windycityrails.com) Code of Conduct:
 
 >WindyCityRails strives to provide a healthy, harassment-free conference experience for all attendees. Our Code of Conduct, which has been practiced by members of our community for years, is as follows: Treat everyone at the conference as you would want yourself, a family member, or an esteemed colleague to be treated. Our community is stronger when every member contributes to the safety and learning of the other members. We are colleagues, and we treat each other with respect.
 
