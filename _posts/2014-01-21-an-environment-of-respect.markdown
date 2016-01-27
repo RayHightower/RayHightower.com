@@ -31,7 +31,7 @@ Last week a Twitter user asked if WindyCityRails had a code of conduct. I respon
 
 Why the terse response? Because I have a deep bias against bureaucracy. Initially, that's what a code of conduct sounded like to me. Do we have a problem with diversity in the tech community? Hell yes. But bureaucracy does not solve problems. We will only solve the diversity problem through active engagement and real work. We solve the diversity problem by ensuring that people from all groups feel welcome and engaged.
 
-One example of real work: The [WindyCityRails Youth Program](http://www.windycityrails.org/youth/), launched last year. A diverse group of college students taught a diverse group of high school students how to program the Arduino. These students from diverse backgrounds bonded via their common interest in technology.
+One example of real work: The [WindyCityRails Youth Program](https://vimeo.com/74022351), launched last year. A diverse group of college students taught a diverse group of high school students how to program the Arduino. These students from diverse backgrounds bonded via their common interest in technology.
 
 To summarize my knee-jerk response: A code of conduct makes us feel good about nice words written on a sheet of paper, while no real work gets done.
 
