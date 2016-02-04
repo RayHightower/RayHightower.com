@@ -22,16 +22,13 @@ redcarpet:
     - footnotes
     - smart
 highlighter: pygments # default python pygments have been replaced by pygments.rb
-  
 
 # Disqus Comments
 disqus_short_name: rayhightower
-# disqus_short_name:
 disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-330946-28
-# google_analytics_tracking_id:
 
 # Twitter
 twitter_user:
