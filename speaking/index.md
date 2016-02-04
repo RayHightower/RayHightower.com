@@ -26,6 +26,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 * [ConFoo](http://confoo.ca)<br/>Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>&nbsp;<br/>
 * [Geekfest at Groupon](http://www.meetup.com/Geekfest/events/227841182/)<br/>Chicago, IL, USA<br/>Mar 8, 2016<br/>&nbsp;<br/>
+* [Flourish! 2016](http://flourishconf.com/2016)<br/>Chicago, IL, USA<br/>April 1-2, 2016<br/>&nbsp;<br/>
 * [Ancient City Ruby](http://www.ancientcityruby.com/)<br/>St. Augustine, FL, USA<br/>April 6-8, 2016<br/>&nbsp;<br/>
 
 
