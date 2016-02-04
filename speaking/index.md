@@ -19,11 +19,11 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Podcast Audio:
 
-* [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/20)<br/>Produced by [thoughtbot](http://thoughtbot.com) at RubyConf 2012 in Denver, CO, USA. Multiple developers interviewed; Hightower's segment runs from 4:32 to 6:14.
+* [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/20)<br/>Produced by [thoughtbot](http://thoughtbot.com) at RubyConf 2012 in Denver, CO, USA. Multiple developers interviewed; Hightower's segment runs from 4:32 to 6:14.<br/>&nbsp;<br/>
+* [Ruby Rogues Podcast](https://devchat.tv/ruby-rogues/)<br/>Weekly panel discussion about programming. Created by [DevChat.tv](https://devchat.tv/).<br/>Pre-recorded, scheduled to air on Feb 17, 2016
 
 ### Upcoming:
 
-* [Ruby Rogues Podcast](https://devchat.tv/ruby-rogues/)<br/>Weekly panel discussion about programming. Created by [DevChat.tv](https://devchat.tv/).<br/>Feb 2, 2016<br/>&nbsp;<br/>
 * [ConFoo](http://confoo.ca)<br/>Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>&nbsp;<br/>
 * [Geekfest at Groupon](http://www.meetup.com/Geekfest/events/227841182/)<br/>Chicago, IL, USA<br/>Mar 8, 2016<br/>&nbsp;<br/>
 * [Ancient City Ruby](http://www.ancientcityruby.com/)<br/>St. Augustine, FL, USA<br/>April 6-8, 2016<br/>&nbsp;<br/>
