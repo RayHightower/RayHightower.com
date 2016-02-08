@@ -9,14 +9,14 @@ excerpt_link: "Continue reading &rarr;"  # "Continue reading" link text at the b
 excerpt_separator: <!--more-->
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 # markdown: rdiscount
 # rdiscount:
-redcarpet:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
+# redcarpet:
+#  extensions:
+#    - autolink
+#    - footnotes
+#    - smart
 highlighter: pygments # default python pygments have been replaced by pygments.rb
 
 # Disqus Comments
