@@ -88,6 +88,7 @@ ul.topnav li a {
 
 ul.topnav li a:hover:not(.active) {background-color: #111;}
 
+/* Make the active top navbar item blue. */
 ul.topnav li a.active {
   background-color: #268bd2;
   color: white;
