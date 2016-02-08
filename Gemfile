@@ -7,3 +7,4 @@ source "https://rubygems.org"
 gem 'activesupport', '~>4.1'
 gem 'rake'
 gem 'jekyll'
+gem 'jekyll-feed'
