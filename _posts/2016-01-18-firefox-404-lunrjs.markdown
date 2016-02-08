@@ -24,16 +24,14 @@ Of course lunr.js works with Firefox, right? I tested the search page in Chrome 
 
 Through Google, Stack Overflow, and trial & error I isolated the problem to a single line of JavaScript code in `search.js`.
 
-``` javascript
-
+~~~ javascript
   $("#site_search").submit(function(){
       event.preventDefault(); // Problem.
       var query = $("#search_box").val();
       var results = window.idx.search(query);
       display_search_results(results);
   });
-
-```
+~~~
 
 ### Explaining the Problem
 
@@ -53,11 +51,9 @@ After several minutes of collaboration, Darren theorized that `event.preventDefa
 
 One way to find out: We added `event` to the function definition as follows:
 
-``` javascript
-
+~~~ javascript
   $("#site_search").submit(function(event){
-
-```
+~~~
 
 Next, we re-started the Jekyll server. And it worked! Firefox browsers can use the [search page](/search) with great results. The problem wasn't in lunr.js. It was in a single line of `search.js`, the JavaScript file that communicates with lunr.js.
 
