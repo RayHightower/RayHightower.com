@@ -91,6 +91,7 @@ ul.topnav li a:hover:not(.active) {background-color: #111;}
 ul.topnav li a.active {
   background-color: #268bd2;
   color: white;
+  z-index: +1;
 }
 
 ul.topnav ul.right {
