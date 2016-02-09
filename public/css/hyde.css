@@ -57,15 +57,16 @@ html {
 
 /* fill in bottom of left side bar so it's flush with the content */
 .sidebar-bottom {
-  background: orange; /* temporary color until we get it lined up */
-  color: orange; /* temporary color until we get it lined up */
+  /* background: orange; /* temporary color until we get it lined up */
+  /* color: orange; /* temporary color until we get it lined up */
   background-color: orange; /* temporary color until we get it lined up */
   width: 18rem;
-  height: 800px;
+  height: 100em;
   float: left;
-  margin-left: -21rem;
-  margin-top: -3000px;
-  /* position: fixed; what does position mean? */
+  margin: -21rem;
+  bottom: 0;
+  position: fixed;  /* what does position mean? */
+  z-index: -1;
 }
 
 .observations li {
