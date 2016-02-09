@@ -55,6 +55,18 @@ html {
   background-color: #202020;
 }
 
+/* fill in bottom of left side bar so it's flush with the content */
+.sidebar-bottom {
+  background-color: #202020;
+  width: 18rem;
+  height: 100em;
+  float: left;
+  margin: -21rem;
+  bottom: 0;
+  position: fixed;  /* what does position mean? */
+  z-index: -1;
+}
+
 .observations li {
   margin-bottom: 20px;
 }
@@ -74,7 +86,7 @@ html {
     left: 0;
     bottom: 0;
     width: 18rem;
-    height: 350rem;
+    /* height: 350rem; might not need sidebar height any more */
     text-align: left;
   }
 }
