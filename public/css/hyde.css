@@ -60,9 +60,12 @@ html {
   background: orange; /* temporary color until we get it lined up */
   color: orange; /* temporary color until we get it lined up */
   background-color: orange; /* temporary color until we get it lined up */
-  width: 800px;
-  position: fixed;
-  height: 300rem;
+  width: 18rem;
+  height: 800px;
+  float: left;
+  margin-left: -21rem;
+  margin-top: -3000px;
+  /* position: fixed; what does position mean? */
 }
 
 .observations li {
