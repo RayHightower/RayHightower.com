@@ -24,12 +24,15 @@ So the organizers invited technology speakers from around the world to participa
 
 ### Invitation: Thank You Organizers!
 
-The conference organizers were kind enough to invite me to speak at this inaugural event. Thank you organizers! Slides from my presentation appear here:
+The conference organizers were kind enough to invite me to speak at this inaugural event. Thank you organizers! Video and slides appear below:
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JwCHUBrtfEg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<br/>&nbsp;<br/>
 
 <center><script async class="speakerdeck-embed" data-id="94eb85cfcc1e486bacce80051dc1f0f9" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
-&nbsp;
-&nbsp;
-&nbsp;
+<br/>&nbsp;<br/>
 
 ### Looking Around
 
