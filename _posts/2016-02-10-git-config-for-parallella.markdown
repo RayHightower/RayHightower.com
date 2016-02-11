@@ -7,37 +7,53 @@ tags:
 published: true
 ---
  
-Git is the dominant version control system for open source software. When you first burn your Parallella image, git is installed, but it’s configured with the name, email address, and personal information for Andreas Olofsson, CEO of Adapteva. What’s the quickest way to change this, and why should you care?
+{% include image.html img="/images/git_200.png" %} 
+[Git](http://git-scm.org) is the dominant version control system for open source software. When you first burn a [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/) image, `git` is installed, but it’s configured with the name and email address for the CEO of Adapteva, makers of the Parallella. This article shows a quick way to update your Parallella's git config with your own information.
+
+<!--more-->
+
+### Why You Might Care
+
+Every time `git` records one of your changes, it includes the name of the person who made the change. If you're the one improving the code on your Parallella, you might as well get credit for it, right?
 
 ### Finding the Current Git Config
 
-To find the current Git user on your Parallella, `ssh` into the device or type the following from the console.
+To find the current Git user on your Parallella, use the following commands from the console (or you can use `ssh`).
 
 ``` bash
-linaro@linaro-nano:~$ cat ~/.gitconfig
+$ cat ~/.gitconfig
+
 [user]
     email = andreas@adapteva.com
     name = aolofsson
-linaro@linaro-nano:~$
+
+$ 
 
 ```
+That's probably not you.
 
 ### Making the Config Your Own
 
+To update the `git` config with your own information...
+
 ``` bash
-linaro@linaro-nano:~$ git config --global user.name "Pat Jones"
-linaro@linaro-nano:~$ git config --global user.email patjones@example.com
+$ git config --global user.name "Pat Jones"
+$ git config --global user.email patjones@example.com
 
 ```
 
 And then verify the changes...
 
 ``` bash
-linaro@linaro-nano:~$ cat ~/.gitconfig
+$ cat ~/.gitconfig
+
 [user]
     email = patjones@example.com
     name = Pat Jones
-linaro@linaro-nano:~$
+
+$ 
 
 ```
-Success!
+
+Success! 
+
