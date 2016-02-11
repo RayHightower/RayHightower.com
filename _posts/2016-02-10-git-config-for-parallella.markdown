@@ -30,7 +30,8 @@ $ cat ~/.gitconfig
 $ 
 
 ```
-That's probably not you.
+
+The odds are one in 7 billion that you are Andreas Olofsson :-)
 
 ### Making the Config Your Own
 
