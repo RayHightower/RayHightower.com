@@ -31,7 +31,7 @@ $
 
 ```
 
-The odds are one in 7 billion that you are Andreas Olofsson :-)
+The odds are one in 7 billion that you are this particular Andreas Olofsson :-)
 
 ### Making the Config Your Own
 
