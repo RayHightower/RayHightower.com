@@ -3,7 +3,7 @@ layout: post
 title:  Git Config for Parallella
 date:   2016-02-10
 comments: true
-tags: 
+tags: [ Git, Parallella ]
 published: true
 ---
  
