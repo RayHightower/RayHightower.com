@@ -36,8 +36,8 @@ Here's an alternative way to view the git configuration...
 ``` bash
 $ git config --list
 
-user.email=rth@wisdomgroup.com
-user.name=Raymond T. Hightower
+user.email=andreas@adapteva.com
+user.name=aolofsson
 
 $ 
 ```
