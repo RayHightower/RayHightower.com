@@ -24,7 +24,7 @@ To find the current Git user on your Parallella, use the following commands from
 $ cat ~/.gitconfig
 
 [user]
-    email = andreas@adapteva.com
+    email = [simulated-email-address]@adapteva.com
     name = aolofsson
 
 $ 
@@ -36,7 +36,7 @@ Here's an alternative way to view the git configuration...
 ``` bash
 $ git config --list
 
-user.email=andreas@adapteva.com
+user.email=[simulated-email-address]@adapteva.com
 user.name=aolofsson
 
 $ 
