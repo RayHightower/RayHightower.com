@@ -31,6 +31,17 @@ $
 
 ```
 
+Here's an alternative way to view the git configuration...
+
+``` bash
+$ git config --list
+
+user.email=rth@wisdomgroup.com
+user.name=Raymond T. Hightower
+
+$ 
+```
+
 The odds are one in 7 billion that you are this particular Andreas Olofsson :-)
 
 ### Making the Config Your Own
