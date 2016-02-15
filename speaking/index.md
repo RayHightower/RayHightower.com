@@ -11,6 +11,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 ### Presentation Videos:
 
 * [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
+* [Supercomputing for Everyone, Featuring Ruby](/blog/2015/10/29/rubyconf-colombia-conference-with-a-mission/)<br>(First 30 seconds in Spanish, spoken by a rookie!)<br/>RubyConf Colombia - Medellín, Colombia<br/>&nbsp;<br/>
 * [Wrestling With the Internet of Things (IoT)](/blog/2015/12/02/wrestling-with-internet-of-things-iot/)<br/>ChicagoRuby User Group in Chicago, IL, USA<br/>&nbsp;<br/>
 * [Parallella in Five Minutes](/blog/2015/11/16/parallella-in-5-minutes-rubyconf-2015/)<br/>RubyConf 2015 - San Antonio, TX, USA<br/>&nbsp;<br/>
 * [Node.js Under Water (OpenROV)](/blog/2014/09/25/nodejs-under-water/)<br/>NYC Node.JS User Group - New York City, NY, USA<br/>&nbsp;<br/>
@@ -32,7 +33,6 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Additional Speaking History:
 
-* RubyConf Colombia<br/>Medellín, Colombia<br/>&nbsp;<br/>
 * in5 hub Innovation Centre <br/>Dubai, UAE<br/>&nbsp;<br/>
 * DevNights at The Cribb <br/>Dubai, UAE<br/>&nbsp;<br/>
 * Association for Computing Machinery (ACM)<br/>Chicago, IL, USA<br/>&nbsp;<br/>
