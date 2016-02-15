@@ -20,7 +20,7 @@ Every time `git` records one of your changes, it includes the name of the person
 
 To find the current Git user on your Parallella, use the following commands from the console (or you can use `ssh`).
 
-``` bash
+~~~ bash
 $ cat ~/.gitconfig
 
 [user]
@@ -29,18 +29,18 @@ $ cat ~/.gitconfig
 
 $ 
 
-```
+~~~
 
 Here's an alternative way to view the git configuration...
 
-``` bash
+~~~ bash
 $ git config --list
 
 user.email=[masked-email-address]@adapteva.com
 user.name=aolofsson
 
 $ 
-```
+~~~
 
 The odds are one in 7 billion that you are this particular Andreas Olofsson :-)
 
@@ -48,15 +48,15 @@ The odds are one in 7 billion that you are this particular Andreas Olofsson :-)
 
 To update the `git` config with your own information...
 
-``` bash
+~~~ bash
 $ git config --global user.name "Pat Jones"
 $ git config --global user.email patjones@example.com
 
-```
+~~~
 
 And then verify the changes...
 
-``` bash
+~~~ bash
 $ cat ~/.gitconfig
 
 [user]
@@ -65,7 +65,7 @@ $ cat ~/.gitconfig
 
 $ 
 
-```
+~~~
 
 Success! 
 

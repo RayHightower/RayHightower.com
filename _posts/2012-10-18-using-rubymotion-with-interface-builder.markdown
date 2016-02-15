@@ -38,7 +38,7 @@ The code for the finished app can be found on [GitHub](http://github.com/rayhigh
 ### Build the UI in Interface Builder
 Next, build the UI in Xcode's Interface Builder.
 
-After completing the interface, we will need to asign tags to each element so that the UI knows how to communicate with RubyMotion. Scroll down to View|Tag in the rightmost colum (screenshot below). In this example, I assigned the tags 1, 2, 3, and 4 to the label, plus button, minus button, and reset, respectively.
+After completing the interface, we will need to asign tags to each element so that the UI knows how to communicate with RubyMotion. Scroll down to View\|Tag in the rightmost colum (screenshot below). In this example, I assigned the tags 1, 2, 3, and 4 to the label, plus button, minus button, and reset, respectively.
 
 <img src="/assets/tag1.png" alt="Interface Builder With RubyMotion" title="Interface Builder with RubyMotion">
 
@@ -49,18 +49,18 @@ Save the IB file in the <code>/resources</code> directory of your RubyMotion pro
 ### Connecting the .xib file to the RubyMotion App
 Let's head back to the RubyMotion app so we can tell RubyMotion how to interact with the IB file. Note that we specify the name of the IB file on the second line of the <code>loadView</code> method.
 
-``` ruby
+~~~ ruby
   def loadView
     views = NSBundle.mainBundle.loadNibNamed "fbib", owner:self, options:nil
     self.view = views[0]
     @counter = 0
     @view_handle = self.view
   end
-```
+~~~
 
 The <code>viewDidLoad</code> method is where we assign buttons to their corresponding methods, and we specify how the app should behave when each button is pressed.
 
-``` ruby
+~~~ ruby
   def viewDidLoad
     @label = view.viewWithTag 1
     plus_button = view.viewWithTag 2
@@ -73,11 +73,11 @@ The <code>viewDidLoad</code> method is where we assign buttons to their correspo
     reset_button.addTarget(self, action:'resetTapped:', forControlEvents:UIControlEventTouchUpInside)
     # background_area.addTarget(self, action:'backgroundTapped:', forControlEvents:UIControlEventTouchUpInside)
   end
-```
+~~~
 
 And finally, let's define a method for each button.
 
-``` ruby
+~~~ ruby
   def plusTapped(sender)
     @counter += 1
     @label.text = FizzBuzzViewController.fbcalc(@counter).to_s
@@ -91,9 +91,7 @@ And finally, let's define a method for each button.
   def resetTapped(sender)
     @counter = 0
     @label.text = "Begin"
-
     rotate_background(@view_handle)
-
   end
 
   def rotate_background(view_handle)
@@ -112,7 +110,7 @@ And finally, let's define a method for each button.
 
     @color_index = (@color_index +1) % 4
   end
-```
+~~~
 
 ### Rake
 Run <code>$ rake</code> to compile and execute the app.

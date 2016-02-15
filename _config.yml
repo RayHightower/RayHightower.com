@@ -10,10 +10,6 @@ excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
-# markdown: rdiscount
-# rdiscount:
-# highlighter: pygments # default python pygments have been replaced by pygments.rb
-# highlighter: rouge # GitHub switches from pygments to rouge on 01May2016
 
 # Disqus Comments
 disqus_short_name: rayhightower
