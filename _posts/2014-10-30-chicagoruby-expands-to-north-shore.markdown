@@ -9,14 +9,14 @@ Long-time observers of ChicagoRuby know that the group is always striving to ach
 
 <!--more-->
 
-###Why the North Shore?
+### Why the North Shore?
 Why expand to Chicago’s North Shore? One reason: Several ChicagoRuby members live there, and travelling to meetings downtown and in Elmhurst can be quite a haul.
 
 The bigger reason: Two members have stepped up to manage the north shore operation. [Doug Harman](http://www.meetup.com/ChicagoRuby/members/61690512/) and [Stu Gerstein](http://www.meetup.com/ChicagoRuby/members/13463131/) have been active in Elmhurst for a long time. They were chosen as organizers because they are vocal and they have already done the preliminary leg work. 
 
 That's how we roll in ChicagoRuby. Many years ago, [Ginny Hendry](https://twitter.com/ginnyhendry) demonstrated that if you push for a new activity in ChicagoRuby (like hack nights) you might end up running it!
 
-###Exciting Year
+### Exciting Year
 2014 has proven to be an exciting year for ChicagoRuby. So far, the group has…
 
 * Collaborated with the University of the West Indies at Cave Hill, Barbados to form [LinuxBarbados](http://linuxbarbados.org).
