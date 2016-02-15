@@ -19,6 +19,6 @@ Slides and video appear below. Special thanks to [Chelsea Troy](http://chelseatr
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/123900588" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
+<br/>&nbsp;<br/>
 <center><script async class="speakerdeck-embed" data-id="e8ed21a03b5d013274bd1297e85160ca" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
 
