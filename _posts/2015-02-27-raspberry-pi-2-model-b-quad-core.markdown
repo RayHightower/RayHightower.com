@@ -45,7 +45,7 @@ $ startx
 ~~~
 And your desktop will look something like this.
 
-{% include image.html img="middle /images/raspberry_pi_2_model_b_ruby.jpg" caption="Screenshot: Raspberry Pi 2 Model B" %}
+<img src="/images/raspberry_pi_2_model_b_ruby.jpg" caption="Screenshot: Raspberry Pi 2 Model B">
 
 
 ### Running Ruby, Rails
