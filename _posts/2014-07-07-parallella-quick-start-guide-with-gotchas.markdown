@@ -17,7 +17,7 @@ Everything in this post is based on the [official quick start guide created by t
 
 {% include image.html img="images/parallella.jpg" title="Parallella. 18 cores on a tiny board." caption="Parallella. 18 cores on a tiny board." %} 
 
-###Tools Required
+### Tools Required
 
 You will need the following items in order to burn an SD card for your
 Parallella:
@@ -32,11 +32,11 @@ image and related files.
 
 Adapteva sells an accessories kit containing an SD card, power adapter, micro-HDMI to HDMI cable, and USB-to-micro-USB adapter. Unless you already have these items, buying the kit may save you time.
 
-###These Steps Could Break Your Primary Machine
+### These Steps Could Break Your Primary Machine
 
 Since you're experimenting with Parallella, we can assume that you are an advanced user. Your computer is already backed up, or you're running these steps on a test machine. And you know [the power and pitfalls of sudo](/sudo-disclaimer/). Technology evolves rapidly, and everything you read here could change by the time you read it.
 
-###Comparison with Raspberry Pi or Beaglebone Black
+### Comparison with Raspberry Pi or Beaglebone Black
 
 {% include image.html img="images/parallella_fan.jpg" caption="Bits get hot. Use a fan." %} 
 
@@ -44,7 +44,7 @@ How does the Parallella compare with other single-board computers, like the [Ras
 
 Of course, the Parallella runs hotter because it has more processing power packed tightly together in limited space. Since Parallella is designed to run tasks in parallel, we can expect certain programs to perform faster than they would on the Pi or 'Bone. Future posts will explore Parallella's performance using languages designed for concurrency, languages like [Go](/blog/2013/06/22/preparing-for-parallella-64-cores-installing-go-on-mac-os-x/) and [Rubinius](/blog/2014/02/06/installing-rubinius-using-rvm/). Now, let’s get started with Parallella.
 
-###Getting the Parallella OS
+### Getting the Parallella OS
 
 Parallella runs a customized version of Ubuntu installed on a micro-SD card. Burning the SD card takes a long time, so it makes sense to start that process first.
 
@@ -58,7 +58,7 @@ Unzip the files and place them in a directory that's handy. You'll need them for
 
 Note: You might need different files depending on the current date (Parallella software is in a rapid state of flux) and your exact equipment. If your configuration is different, you can make the adjustments described in Parallella's official guide.
 
-###Burn the SD Card
+### Burn the SD Card
 
 Insert your SD card into your Mac's SD card reader, and use the Mac OS X `diskutil list` command to determine the designation of the SD card. If you use portable hard drives with your primary machine, the SD card designation could change from time to time, so it's important to perform this step each time you burn a card.
 
