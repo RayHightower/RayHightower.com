@@ -39,6 +39,7 @@ echo "Opening the new app in Vim..."
 mvim .
 echo "To use the RubyMotion console, cd into the new directory:" $1
 ~~~
+
 All of the work is done by by four lines. The remaining lines are comments or 'echos' that tell the user what's happening while the script is running.
 
 ### Running the Script

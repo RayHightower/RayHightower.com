@@ -10,7 +10,7 @@ I trust [RVM](http://rvm.io) to manage my Ruby versions and my gemsets. So when 
 
 <!--more-->
 
-####A New RVM Message
+### A New RVM Message
 Here's the message I received when I changed into `mydirectory/`: 
 
 ~~~bash
@@ -26,7 +26,7 @@ to ignore the warning for all files run
 ~/Code/Ruby/apps/mydirectory[master]$
 ~~~
 
-####Decision: Do the Update
+### Decision: Do the Update
 Ignoring a warning feels like sticking my head in the sand. It's better to face things head-on. So I decided to go with the update. If things don't work out, I can always remove RVM completely and start from scratch.
 
 ~~~bash
@@ -49,7 +49,7 @@ drwxr-xr-x   13 rth  wheel    442 Feb 24 17:29 AccordionUIView
 Instead of a single `.rvmrc` file, Ruby versions are managed by
 `.ruby-version` while gemsets are managed through `.ruby-gemset`.
 
-####Bash Alias
+### Bash Alias
 Next, it's time to clean things up by adding an `alias` to
 `~/.bash_profile`.
 ~~~bash
@@ -66,7 +66,7 @@ And now we can begin using `.ruby-version` and `.ruby-gemset` in any .rvmrc-equi
 $ newrvm
 ~~~
 
-####Feedback Welcome
+### Feedback Welcome
 If you notice any snags (including typos) in the above procedure, please reach out via the comments below or through [Twitter](http://twitter.com/rayhightower).
 
 

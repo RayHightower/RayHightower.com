@@ -23,7 +23,7 @@ Or, if you prefer the command line…
 ~~~bash
 $ cd [root-directory-of-your-app]
 $ cp build/MacOSX-10.8-Development/[your-app-name].app /Applications
-$
+$ 
 ~~~
 
 It doesn't really matter whether we copy the file or move it.  RubyMotion creates a new one with every build, when we type `rake`.

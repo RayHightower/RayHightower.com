@@ -24,7 +24,7 @@ Hot dog sales fell almost overnight.
 
 "You’re right, son," the father said. "We are certainly in the middle of a great recession."
 
-####Epilogue
+### Epilogue
 Whether times are good or bad, all of us must ask ourselves: What role is played by self-fulfilling prophesy?
 
 Luck is what happens when preparation meets opportunity.
