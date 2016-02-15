@@ -18,7 +18,7 @@ The topic was explored at ChicagoRuby on December 1, 2015. Video and slides appe
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/147613523?color=f00004&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
+<br/>&nbsp;<br/>
 <center><script async class="speakerdeck-embed" data-id="040a878eebe14c1fa01e7a0df2b90827" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
 
 ### Commoditization
