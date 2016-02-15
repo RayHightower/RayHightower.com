@@ -12,7 +12,7 @@ Fortunately, strong alternatives are emerging. [Feed Wrangler](http://feedwrangl
 
 <!--more-->
 
-###Pros
+### Pros
 After using the service for a few hours, I can already see some things that I like. Specifically:
 
 * Minimal fluff. Other RSS clients feature big photos and page-flipping special effects. That's not for me. Just the facts, RSS.
@@ -20,7 +20,7 @@ After using the service for a few hours, I can already see some things that I li
 * Reasonable cost. The Feed Wrangler service costs $19/year. Google dropped Reader because they couldn't make money from the free product. You can't fix that with volume! When an app makes money (directly or indirectly) then the app is more likely to stick around.
 * iPhone and iPad apps. Feed Wrangler's native apps for [iPhone and iPad](https://itunes.apple.com/us/app/feed-wrangler/id634486174?mt=8) sync with the web app. This is important for me because I consume most RSS on-the-go. A screenshot from the iPad app appears above. 
 
-###Cons
+### Cons
 Like most users, I want the developer to add "just one or two more features" to make the app perfect for me. Of course that's the slippery slope to bloatware since every user has a different set of one-or-two features.
 
 The developer can avoid bloatware by ignoring all other users and focusing on _my_ feature requests: 
@@ -29,5 +29,5 @@ The developer can avoid bloatware by ignoring all other users and focusing on _m
 * Organized imports. While Feed Wrangler imports feeds from Google Reader, it does not maintain Reader's organization. So I had to organize my feeds manually with Feed Wrangler's "Smart Stream" feature. If Reader's folders could be imported as Feed Wrangler's Smart Streams, that would be cool.
 * Feed counter. Sometimes I prioritize my reading by the number of unread articles. A counter next to each feed would be helpful.
 
-###Summary
+### Summary
 I plan to try other RSS readers before Google Reader shuts down on July 1st. Feed Wrangler is making a good impression so far.

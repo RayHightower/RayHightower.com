@@ -10,7 +10,7 @@ Developers of Git are making a serious effort to improve intuitiveness for first
 
 <!--more-->
 
-###How to Upgrade
+### How to Upgrade
 If you’re on Mac OS X, make sure you’re using [Homebrew](/blog/2014/02/12/homebrew-fundamentals/). It’s the easiest way to install and manage Unix libraries on the Mac.
 
 It’s usually a good idea to check your current version before upgrading.
