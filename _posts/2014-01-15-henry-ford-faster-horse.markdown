@@ -18,12 +18,12 @@ That's one way to interpret Ford's quote. Last night, I was introduced to anothe
 
 <!--more-->
 
-###Parse the Quote Differently, Don't Ignore it
+### Parse the Quote Differently, Don't Ignore it
 Last night's [IxDA Chicago](http://www.ixdachicago.org) meeting featured a presentation by [Chris Holmes](http://chris-holmes.com), who shared a different view of the Ford quote. If we focus on improving the speed of horses (perhaps through nutrition or better horse shoes) very little improvement can be achived.
 
 But something interesting happens when we parse the quote differently. The adjective _faster_ reveals the customer's true need. The noun _horse_ is the customer's "solution" based on what they currently know about the world. For the innovator, _faster_ stands out. Focusing on _faster_ leads to innovation.
 
-###Focus on Faster 
+### Focus on Faster 
 _Faster_ tells us that we can stretch beyond our current thinking and consider other modes of transportation. Focusing on _faster_ led to the beginning of the automobile industry.
 
 Customers are communicating their desires all the time. We need to listen carefully and parse well. Thanks IxDA Chicago and Chris Holmes for the lesson.

@@ -9,7 +9,7 @@ tags: [Ruby, RubyMotion]
 
 [RubyMotion](/blog/2012/10/29/building-ios-apps-with-ruby-motion/)'s OS X support enabled me to solve a small problem yesterday.  Here's the story.
 
-###Background on Backup
+### Background on Backup
 No matter how much money we spend on computers, the data we create is worth more. The best data protection employs several levels of redundancy.
 
 My backup system starts with Apple's [Time Machine](http://www.apple.com/findouthow/mac/#timemachinebasics), which handles first level backups painlessly in the background. Time machine is even more effective when multiple disks are used. I like to combine that with online solutions. Redundancy is a good thing.
@@ -18,7 +18,7 @@ USB-attached drives work great with Time Machine. I found that Time Machine was 
 
 <!--more-->
 
-###Disconnecting USB in a Hurry
+### Disconnecting USB in a Hurry
 My only problem with USB-attached drives comes when I need to leave my desk in a hurry. You may have seen this message before:
 
 {% include image.html img="/images/disk-not-ejected-properly.png" caption="In a hurry to eject?" %} 
@@ -27,14 +27,14 @@ All three of my USB drives are attached through a single USB hub. Yanking the ca
 
 I solved the problem about a year ago by writing a command line tool that ejects all three drives with one double-click of an icon. Yesterday I deciced to improve my command line tool with RubyMotion.
 
-###Ejecting in a Hurry
+### Ejecting in a Hurry
 `EjectDisks` is a simple OS X program written with the RubyMotion toolchain for Mac OS X. It uses the `osx-status-bar-app-template` gem created by [Elliott Draper](https://github.com/kickcode/osx-status-bar-app-template). Here's a 10-second demo.
 
 <div class="video-container">
 <iframe name="eject-disks-osx" src="//player.vimeo.com/video/78349497" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-###The Code
+### The Code
 The latest version of the EjectDisk code is on [GitHub](https://github.com/RayHightower/EjectDisks). The `app_delegate.rb` file appears below.
 
 ~~~ruby
@@ -99,7 +99,7 @@ class AppDelegate
 end
 ~~~
 
-###Next Steps
+### Next Steps
 Not everything in the EjectDisks tool is business-related. Do we really need to include a greeting to the members of the [Chippewa Valley Code Camp](http://chippewavalleycodecamp.com/)?  Yes, we do!
 
 On the serious side, the app should handle disk ejection as a background process. It's not good to tie up the system for a simple task. Look for a forked process in a future version of the app.

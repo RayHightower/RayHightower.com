@@ -7,7 +7,7 @@ tags: [ Ruby ]
 ---
 Spend enough time developing software on Mac OS X, and you will eventually need to install libraries that were written for Unix, but not specifically for OS X. Fortunately we have [Homebrew](http://brew.sh/), which makes it easier to install Unix libraries on the Mac. 
 
-###Why Homebrew?
+### Why Homebrew?
 Before installing any new software, it is helpful to have a clear view of _why_ we need it.
 
 Homebrew is a package manager. It differs from earlier package managers like [Fink](http://www.finkproject.org/) and [MacPorts](http://www.macports.org/) because it is written in Ruby and based on Git. The Ruby/Git foundation means that developers from around the planet can easily contribute to Homebrew's growth. 
@@ -22,7 +22,7 @@ Manually, manually, manually... The old way was long and error-prone. [Max Howel
 
 <!--more-->
 
-###How to Install Homebrew
+### How to Install Homebrew
 
 {% include image.html img="/images/xcode-app-store.png" caption="Homebrew depends on Xcode." %}
 
@@ -37,7 +37,7 @@ $ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"ins
 ~~~
 The script will walk you through the installation process. If you would like to read the script before installation, you can visit the [Homebrew repo on Github](https://github.com/Homebrew/homebrew).
 
-###Installing Packages
+### Installing Packages
 A list of [available Homebrew packages](https://github.com/Homebrew/homebrew/tree/master/Library/Formula) is maintained on GitHub.
 
 To install a package, say `imagemagick` for example...
@@ -48,7 +48,7 @@ $ brew install imagemagick
 
 Before Homebrew, installing `imagemagick` was long and arduous. With Homebrew, the installation and compilation steps still take awhile. But dependencies are resolved by Homebrew, and little user interaction is required after the first step.
 
-###Maintaining Homebrew
+### Maintaining Homebrew
 Developers from around the world contribute to Homebrew, so the tool gets improved often. To check the health of your Homebrew installation, use `brew doctor`.
 
 ~~~bash
@@ -77,7 +77,7 @@ $
 
 ~~~
 
-###Looking at Packages
+### Looking at Packages
 There are several ways to view the packages that have been installed on a system via Homebrew. Use `brew list` at the command prompt to get a quick view of what Homebrew has installed.
 
 Even better: `brew server` will launch a local [Sinatra](http://www.sinatrarb.com/) app, and then you can point a browser to `http://localhost:4567` for a web-enabled view of the installed packages.
@@ -95,8 +95,8 @@ Use "Control-C" to exit.
 
 {% include image.html img="/images/brew-server.png" caption="Browsing locally-installed Homebrew packages." %}
 
-###Making Your Own Packages
+### Making Your Own Packages
 Homebrew is Ruby-based, so Rubyists can create their own packages.  Details can be found in the (continuously updated) [Homebrew repo on GitHub](https://github.com/Homebrew/).
 
-###Conclusion
+### Conclusion
 Enjoy Homebrew!

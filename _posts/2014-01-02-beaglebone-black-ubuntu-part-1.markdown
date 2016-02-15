@@ -22,7 +22,7 @@ This article will show how to install Ubuntu on the BeagleBone Black. _Gotchas_ 
 
 For a comparable examination of the Raspberry Pi, take a look at [Ruby on Raspberry Pi](/blog/2012/12/03/ruby-on-raspberry-pi/).
 
-###  First Gotcha: Ubuntu 13 on the Bone
+### First Gotcha: Ubuntu 13 on the Bone
 
 As of this writing, Ubuntu 12 runs well on the BeagleBone Black, but Ubuntu 13 does not. My Ubuntu 13 installation appeared to be successful, but the Ubuntu 13 GUI hung up immediately after login. The Ubuntu 13 command line interface worked fine. 
 

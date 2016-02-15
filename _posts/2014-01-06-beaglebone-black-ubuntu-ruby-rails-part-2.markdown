@@ -14,7 +14,7 @@ This post, part two, covers the installation of the Ubuntu GUI, Ruby, and Rails.
 
 [Node.js](http://nodejs.org) bonus: Rails requires a JavaScript runtime, and Node.js offered the quickest way to fulfill this requirement. Details appear within.
 
-###Gotcha: Partition Size
+### Gotcha: Partition Size
 At the end of [part one](/blog/2014/01/02/beaglebone-black-ubuntu-part-1/), we successfully booted the Bone with the Ubuntu command line interface. Now it's time to add the GUI. Two things to know about the Ubuntu GUI installation...
 
 <!--more-->
@@ -24,12 +24,12 @@ At the end of [part one](/blog/2014/01/02/beaglebone-black-ubuntu-part-1/), we s
 
 If we try to install the GUI with insufficient space, the installation will fail midway and we will have wasted half an hour. So it's best to re-size first. 
 
-###Doing Our Own Re-Sizing?
+### Doing Our Own Re-Sizing?
 Why didn't the partition have the right size when we originally downloaded the image file? Good question.
 
 My guess: The image file was designed to be as small as possible in order to minimize download time. That makes sense. I plan to test this theory by creating a new image with a larger partition size and a pre-installed GUI. If the test is successful, results will be posted on this blog. If the mission fails, then the secretary will disavow any knowledge...
 
-###How to Re-Size the Partition
+### How to Re-Size the Partition
 `df` is the Unix 'disk free' command. It shows used/available disk space. 
 
 ~~~bash
@@ -171,7 +171,7 @@ ubuntu@ubuntu-armhf:~$
 
 And now we have enough room to install the Ubuntu GUI.
 
-###Installing the Ubuntu GUI
+### Installing the Ubuntu GUI
 _Update (Feb2014): In the comments below, Jonathan Chan describes how he updated the desktop installation files before installing the Ubuntu desktop. To update the desktop installation files, grab the latest list of packages (`update`) and then `upgrade` the packages that need it._
 
 ~~~bash
@@ -197,7 +197,7 @@ $ sudo reboot
 
 Several minutes later, the Ubuntu 12 GUI will appear. Congratulations!  Login using the default credentials (login: ubuntu, pw: ubuntu) to get to the Ubuntu desktop.
 
-###Gotcha: Running RVM
+### Gotcha: Running RVM
 I prefer to use the Ruby Version Manager (RVM) for bouncing between Ruby versions. RVM misbehaved, initially. Then I learned something special about RVM's interaction with Ubuntu. From the RVM support pages…
 > For RVM to work properly, you have to set the 'Run command as login shell' checkbox on the Title and Command tab inside of gnome-terminal's Settings page.
 
@@ -207,10 +207,10 @@ This image shows the checkbox mentioned in the quote. It's inside of the lower r
 
 Details are in the RVM support article [Integrating RVM with gnome-terminal](http://rvm.io/integration/gnome-terminal).
 
-###Gotcha: Ruby Installation
+### Gotcha: Ruby Installation
 Ruby installation initially failed (speculation) because the Bone went into power save mode during the installation process. Ruby installed successfully on the second try when I kept the machine awake by moving the mouse. This _power save hypothesis_ has not been thoroughly tested. 
 
-###Gotcha: Rails Installation
+### Gotcha: Rails Installation
 
 {% include image.html img="/images/nodejs-white.png" caption="Node.js on BeagleBone Black." %}
 
@@ -230,7 +230,7 @@ Now that we have a JavaScript runtime, Rails runs successfully.
 Side note: If you want to see what a Node.js-equipped Bone can do, check
 out [OpenROV](http://openrov.com).
 
-###Conclusion
+### Conclusion
 Bottom line: Ruby, Rails, and Ubuntu can run successfully on BeagleBone Black, with Node.js as a bonus.
 
 The BeagleBone Black is a cool option for running Ubuntu. Yes, it runs slower than a typical laptop. But it runs, and at $45 each we can build a cluster of Bones if we're concerned about performance! 

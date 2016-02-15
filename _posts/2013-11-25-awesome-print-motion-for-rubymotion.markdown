@@ -5,7 +5,7 @@ date: 2013-11-25 15:08
 comments: true
 tags: [ iOS, Ruby, RubyMotion ]
 ---
-###The Problem
+### The Problem
 Let's say we're building a version of Atari's [Pong in RubyMotion](/blog/2013/02/26/atari-pong-rubymotion-objective-c/). We're debugging an issue with the paddles; they don't line up the way we want them to. Time to examine the playing field via the RubyMotion console.
 
 ~~~bash
@@ -55,7 +55,7 @@ This blob of text is difficult for the human brain to parse. Now, let's try it w
 
 Much easier to read. The structure of the `subviews` array is clear. Each element of the array has an easy-to-read index. Debugging time is reduced.
 
-###How to Install awesome_print_motion
+### How to Install awesome_print_motion
 RubyMotion uses bundler. So we start by refering to `awesome_print_motion` in our gemfile.
 
 ~~~ruby
@@ -81,7 +81,7 @@ Personally, I prefer the newer way because it automatically
 requires all of the gems mentioned in the `Gemfile`. The odds of a
 typo-induced error are reduced.
 
-###How to Use awesome_print_motion
+### How to Use awesome_print_motion
 To use the new gem, start the app and explore away. Any time you want to
 run output through the `awesome_print_motion` gem, send the code as a
 parameter to the `ap` method like so...
@@ -91,5 +91,5 @@ parameter to the `ap` method like so...
 ~~~
 ... and the output will be easier to read.
 
-###Acknowledgements
+### Acknowledgements
 Thank you [Michael Dvorkin](http://www.dvorkin.net/) for adding RubyMotion support to your [awesome_print](http://rubygems.org/gems/awesome_print) gem.

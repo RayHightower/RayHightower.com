@@ -12,7 +12,7 @@ Slides are embedded here:
 
 <!--more-->
 
-###Doing RubyMotion in Chicago? Be There!
+### Doing RubyMotion in Chicago? Be There!
 If you're using RubyMotion and you're located in the Chicago area, check out the [Chicago RubyMotion](http://www.meetup.com/Chicago-RubyMotion/) group. The group attracts devs who are running into the same challenges as you. Devs who work with other devs tend to learn more over time.  
 
 See you there!

@@ -7,7 +7,7 @@ tags: [ Education, Git, Ruby ]
 ---
 I encountered some interesting behavior between [Homebrew](http://brew.sh/) and Ruby this afternoon. I can describe what happened, but I don't yet understand why. Perhaps another member of the dev community can shed some light.
 
-###Upgrading to Git 1.8.5
+### Upgrading to Git 1.8.5
 Earlier today I learned that Git 1.8.5 was available. So I decided to upgrade. Since I use Homebrew for package management, it was time for `$ brew doctor` and `$ brew update` as well.
 
 ~~~bash
@@ -29,7 +29,7 @@ To update Homebrew, run `brew update`.
 
 <!--more-->
 
-###Homebrew First. Git Later.
+### Homebrew First. Git Later.
 Updating Homebrew is as simple as `$ brew update`, right?
 
 ~~~bash
@@ -68,7 +68,7 @@ Updated Homebrew from 69a83176 to 691c72bf.
 Your system is ready to brew.
 
 ~~~
-###Back to Git
+### Back to Git
 Now that the yak is well-shaved, we're ready to upgrade Git.
 
 ~~~bash
@@ -104,7 +104,7 @@ git version 1.8.5.1
 ~$ 
 ~~~
 
-###Why This Matters
+### Why This Matters
 I'm posting this article as a note to my future self. Error messages sometimes lie. They don't mean to lie, but an error messsage can only give you its best guess based on what it _thinks_ is happening on your system. It's up to the developer to sniff out the rest of the clues.
 
 After decades in this industry, I'm still learning this lesson :-)

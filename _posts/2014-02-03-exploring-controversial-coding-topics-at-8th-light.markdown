@@ -13,7 +13,7 @@ tags: [ Business, Community ]
 <iframe src="//player.vimeo.com/video/84793305" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-###Topics Covered
+### Topics Covered
 Some of the topics covered during the discussion:
 
 * Hiring. What do you look for when building a team?
@@ -21,5 +21,5 @@ Some of the topics covered during the discussion:
 * Balancing professional time with personal time. Don't work 12-hour
   days!
 
-###Gratitude
+### Gratitude
 Thank you 8th Light for making this happen.

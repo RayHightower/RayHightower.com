@@ -11,7 +11,7 @@ There is something I neglected to cover in a previous blog post, [Building an OS
 
 Long-time Mac enthusiasts may already know how to do this. The information is included here for completeness.
 
-###Find, Drag, and Drop
+### Find, Drag, and Drop
 First thing to note: A Mac app named [random-app].app is actually a directory, even though it appears to be a file when viewed in the `Applications` folder. If you're curious, right-click on any app in the `Applications` folder and choose `Show Package Contents` from the speed menu.
 
 <!--more-->
@@ -28,7 +28,7 @@ $
 
 It doesn't really matter whether we copy the file or move it.  RubyMotion creates a new one with every build, when we type `rake`.
 
-###Launch at Login
+### Launch at Login
 I want the EjectDisks utility to be always available, so it would be good to have it launch automatically at login. That behavior is managed in the `Users and Groups` preference pane, shown below:
 
 {% include image.html img="/images/launch-at-login.png" caption="" %} 
