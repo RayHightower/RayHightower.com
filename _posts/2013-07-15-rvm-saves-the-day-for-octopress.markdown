@@ -7,7 +7,7 @@ tags: [ Ruby ]
 ---
 [Octopress](http://octopress.org) is a lean blogging engine that happens to power [RayHightower.com](http://rayhightower.com). Earlier today, after a quick update to the blog, I encountered the following:
 
-```bash
+~~~bash
 $ rake generate
 /Users/rth/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.2.4/lib/bundler/rubygems_integration.rb:187:in `stub_source_index170': uninitialized constant Gem::SourceIndex (NameError)
      from /Users/rth/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.2.4/lib/bundler/rubygems_integration.rb:353:in `stub_rubygems'
@@ -22,7 +22,7 @@ $ rake generate
      from /Users/rth/.rvm/gems/ruby-1.9.3-p448@octopress/bin/ruby_noexec_wrapper:9:in `<main>'
 
 $
-```
+~~~
 
 Not good. What happened?
 
@@ -34,7 +34,7 @@ From the error message, it appeared that my current version of Bundler was incom
 ###The Solution: Roll Back
 Fortunately, I use [RVM](http://rayhightower.com/blog/2013/05/16/upgrading-ruby-with-rvm/). Currently installed versions of Ruby:
 
-```bash
+~~~bash
 ~$ rvm list
 
 rvm rubies
@@ -49,33 +49,33 @@ rvm rubies
 # => - current
 # =* - current && default
 #  * - default
-```
+~~~
 
 Since `$ rake deploy` last worked with Ruby 1.9.2 on my machine, I decided to roll back to that point.
 
-```bash
+~~~bash
 $ rvm use ruby-1.9.2-p290
 
-```
+~~~
 
 Next, I built another `octopress` gemset to work with this version of Ruby, pointed to the gemset, and used Bundler to add the necessary gems.
 
-```bash
+~~~bash
 $ rvm gemset create octopress
 $ rvm gemset use octopress
 $ bundle install
-```
+~~~
 
 And now `$ rake generate` works as required.
 
-```bash
+~~~bash
 $ rake generate
 ## Generating Site with Jekyll
 identical source/stylesheets/screen.css
 Configuration from /Users/rth/Code/Ruby/apps/rayhightower/_config.yml
 Building site: source -> public
 Successfully generated site: source -> public
-```
+~~~
 
 Success!
 

@@ -10,7 +10,7 @@ I encountered some interesting behavior between [Homebrew](http://brew.sh/) and 
 ###Upgrading to Git 1.8.5
 Earlier today I learned that Git 1.8.5 was available. So I decided to upgrade. Since I use Homebrew for package management, it was time for `$ brew doctor` and `$ brew update` as well.
 
-```bash
+~~~bash
 $ brew doctor
 Error: Homebrew doesn't know what compiler versions ship with your version
 of Xcode (5.0.2). Please `brew update` and if that doesn't help, file
@@ -23,7 +23,7 @@ You haven't updated for at least 24 hours, this is a long time in brewland!
 To update Homebrew, run `brew update`.
 
 ~/Code/Ruby/apps$ 
-```
+~~~
 
 `$ brew doctor` has spoken. Time to update Homebrew.
 
@@ -32,7 +32,7 @@ To update Homebrew, run `brew update`.
 ###Homebrew First. Git Later.
 Updating Homebrew is as simple as `$ brew update`, right?
 
-```bash
+~~~bash
 ~$ brew update
 Warning: Could not tap homebrew/dupes/ant over mxcl/master/ant
 Warning: Could not tap homebrew/dupes/cvs over mxcl/master/cvs
@@ -47,18 +47,18 @@ Please report this bug:
 /usr/local/Library/brew.rb:95
 
 ~/Code/Ruby/apps$ 
-```
+~~~
 `$ brew update` choked. Further, Homebrew said that I should report a bug. But something smelled fishy. I decided to try running Homebrew under Ruby 2.0.0 instead of Ruby 1.9.3, the default on my system. Running [RVM](/blog/2013/05/16/upgrading-ruby-with-rvm/) makes bouncing between Ruby versions a snap.
 
-```bash
+~~~bash
 ~$ rvm use 2.0.0
 
-```
+~~~
 
 That did the trick. `$ brew update` worked fine, and `$ brew doctor`
 confirmed it.
 
-```bash
+~~~bash
 ~$ brew update
 Updated Homebrew from 69a83176 to 691c72bf.
 
@@ -67,11 +67,11 @@ Updated Homebrew from 69a83176 to 691c72bf.
 ~$ brew doctor
 Your system is ready to brew.
 
-```
+~~~
 ###Back to Git
 Now that the yak is well-shaved, we're ready to upgrade Git.
 
-```bash
+~~~bash
 ~$ brew upgrade git
 ==> Upgrading 1 outdated package, with result:
 git 1.8.5.1
@@ -93,16 +93,16 @@ zsh completion has been installed to:
   /usr/local/share/zsh/site-functions
 ==> Summary
   /usr/local/Cellar/git/1.8.5.1: 1333 files, 30M
-```
+~~~
 
 Mission accomplished. Git has been upgraded to 1.8.5.
 
-```bash
+~~~bash
 ~$ git --version
 git version 1.8.5.1
 
 ~$ 
-```
+~~~
 
 ###Why This Matters
 I'm posting this article as a note to my future self. Error messages sometimes lie. They don't mean to lie, but an error messsage can only give you its best guess based on what it _thinks_ is happening on your system. It's up to the developer to sniff out the rest of the clues.

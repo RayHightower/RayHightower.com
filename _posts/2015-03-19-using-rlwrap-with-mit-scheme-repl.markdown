@@ -19,7 +19,7 @@ On Mac OS X with [Homebrew](/blog/2014/02/12/homebrew-fundamentals/), first upda
 
 Then install `rlwrap`.
 
-``` bash
+~~~ bash
 
 $ brew install rlwrap
 ==> Downloading https://homebrew.bintray.com/bottles/rlwrap-0.42.yosemite.bottle.tar.gz
@@ -27,38 +27,38 @@ $ brew install rlwrap
 ==> Pouring rlwrap-0.42.yosemite.bottle.tar.gz
 🍺  /usr/local/Cellar/rlwrap/0.42: 29 files, 312K
 
-```
+~~~
 
 You can verify the `rlwrap` installation as follows.
 
-``` bash
+~~~ bash
 
 $ which rlwrap
 /usr/local/bin/rlwrap
 
-```
+~~~
 
 ### Using rlwrap
 To use `rlwrap` with `scheme` do the following.
 
-``` bash
+~~~ bash
 
 $ rlwrap scheme
 
-```
+~~~
 
 ### Add an Alias to ~/.bash_profile
 To speed things up a bit, we can add an `alias` to `~/.bash_profile`.
 
-``` bash
+~~~ bash
 # for rlwrap & scheme support. Details: http://rayhightower.com/blog/2015/03/19/using-rlwrap-with-mit-scheme-repl/
 alias sicp='rlwrap scheme'
 
-```
+~~~
 
 So now when we type `sicp` at the command line...
 
-``` bash
+~~~ bash
 $ sicp
 MIT/GNU Scheme running under OS X
 Type `^C' (control-C) followed by `H' to obtain information about interrupts.
@@ -71,7 +71,7 @@ Image saved on Saturday May 17, 2014 at 2:39:25 AM
 
 1 ]=>
 
-```
+~~~
 Exactly what we expect.
 
 ### Conclusion

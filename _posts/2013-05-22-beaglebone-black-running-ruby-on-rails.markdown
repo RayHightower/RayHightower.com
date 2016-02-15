@@ -51,14 +51,14 @@ _Update (Jan 2014): Ruby, Rails, and Ubuntu will run on the BeagleBone Black. [I
 
 [RVM, Ruby, and Rails installed easily with Raspberry Pi](/blog/2012/12/03/ruby-on-raspberry-pi/), even though the compilation time was long. With the BeagleBone Black, I received the following in response to the `curl` command:
 
-```bash
+~~~bash
 sh-4.2# curl -L https://get.rvm.io | bash -s stable --ruby
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
 curl: (77) Problem with the SSL CA cert (path? access rights?)
 sh-4.2# 
-```
+~~~
 
 Maybe it's time to try [RBEnv](https://github.com/sstephenson/rbenv)? I'll post a solution when I find it. Or... if a reader of this blog already has a solution for the BeagleBone Black Rails installation challenge, please post in the comments below and I'll credit you here.
 

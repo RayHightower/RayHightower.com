@@ -13,31 +13,31 @@ After you get a [Raspberry Pi](/blog/2012/12/03/ruby-on-raspberry-pi/) up and ru
 First, install the screenshot utility, `scrot`. Open up the LXTerminal
 and type the following at the prompt:
 
-```bash
+~~~bash
 $ sudo apt-get install scrot
-```
+~~~
 
 ####Use Scrot
 To take a screenshot of the whole screen:
 
-```bash
+~~~bash
 $ sudo scrot
-```
+~~~
 By default, the screenshot will be stored in the current directory in a file named for the numerical date and time with a `.png` extension.
 
 To take a screenshot after a 10-second delay:
 
-```bash
+~~~bash
 $ sudo scrot -d10
-```
+~~~
 
 ####Learn More About Scrot
 
 To display a list of Scrot commands:
 
-```bash
+~~~bash
 $ sudo scrot -h
-```
+~~~
 That's it!
 
 

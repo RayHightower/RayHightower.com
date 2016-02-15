@@ -39,7 +39,7 @@ Why does `lunr.js` store data in a JavaScript object notation (JSON) file? Prima
 
 For example, here's the JSON data for one blog post on this site: [IoT Without the Hype](/blog/2015/12/17/iot-without-the-hype/).
 
-``` json
+~~~ json
 
     "blog-2015-12-17-iot-without-the-hype": {
       "title": "IoT Without the Hype",
@@ -49,7 +49,7 @@ For example, here's the JSON data for one blog post on this site: [IoT Without t
       "categories": "community, education, iot"
     }
 
-```
+~~~
 
 Every blog post has an entry like the one shown above. Take a look at the [current `_site/search_data.json` file](/search_data.json) for RayHightower.com. This is what `lunr.js` searches to produce fast results for visitors.
 
@@ -65,7 +65,7 @@ Create a file called `/js/search.js`. This is a JavaScript program that calls `l
 
 The following `/js/search.js` is currently in use at RayHightower.com. It's  customized for this site, and based on the resources listed at the end of this blog post. 
 
-``` javascript
+~~~ javascript
 
 jQuery(function() {
   // Initialize lunr with the fields to be searched, plus the boost.
@@ -125,7 +125,7 @@ jQuery(function() {
   }
 });
 
-```
+~~~
 
 
 _Update: An earlier version of search.js did not work well with Firefox. Details on the problem and the solution: [Firefox, 404, and lunr.js](/blog/2016/01/18/firefox-404-lunrjs/)_
@@ -161,7 +161,7 @@ Every time you run Jekyll's build process, Jekyll will use `/search_data.json` t
 
 Next, you need to create a page where the user can execute a search. The search page for this blog is located at [http://rayhightower.com/search/](/search/). The following snippet displays the search box, search button, and search results:
 
-``` html
+~~~ html
 ---
 layout: nonav
 title: Search
@@ -185,7 +185,7 @@ Powered by <a href="/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/">l
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="/js/search.js"></script>
 
-```
+~~~
 
 And now you're done. At this point, you should be able to search your Jekyll-powered blog using lunr.js.
 

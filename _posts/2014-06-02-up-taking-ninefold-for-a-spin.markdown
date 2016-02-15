@@ -15,21 +15,21 @@ I first met the Ninefold team at RailsConf 2014 in Chicago. I'm in San Francisco
 
 These experiments were conducted with Ruby 2.1.1 and Rails 4.0.4. Destructive testing has always been my best instructor, so I used [RVM](/blog/2013/05/16/upgrading-ruby-with-rvm/) to create a special gemset for Ninefold experiments.
 
-```bash
+~~~bash
 
 $ rvm current
 ruby-2.1.1@ninefold
 
 $ 
 
-```
+~~~
 
 The sandbox is ready. Let the games begin.
 
 ###Installing the Ninefold CLI
 The Ninefold command line interface (CLI) installs as a Ruby gem.
 
-```bash
+~~~bash
 $ gem install ninefold
 Fetching: netrc-0.7.7.gem (100%)
 Successfully installed netrc-0.7.7
@@ -55,12 +55,12 @@ Done installing documentation for faraday, multipart-post, netrc, ninefold after
 
 $ 
 
-```
+~~~
 
 ###Test the CLI Installation
 Test the CLI installation by signing in to Ninefold from the commanbd line.
 
-```bash
+~~~bash
 $ ninefold signin
 Please, sign in
 Username: rayhightower
@@ -68,7 +68,7 @@ Password:
 ✔︎  Done
 
 $ 
-```
+~~~
 `$ ninefold help` will show the list of available commands.
 
 The Ninefold CLI is written in Ruby, open source, and available on GitHub. Those who want to contribute to CLI development can do so.

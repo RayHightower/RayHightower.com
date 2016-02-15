@@ -37,7 +37,7 @@ I solved the problem about a year ago by writing a command line tool that ejects
 ###The Code
 The latest version of the EjectDisk code is on [GitHub](https://github.com/RayHightower/EjectDisks). The `app_delegate.rb` file appears below.
 
-```ruby
+~~~ruby
 class AppDelegate
   attr_accessor :status_menu
 
@@ -97,7 +97,7 @@ class AppDelegate
     alert.runModal
   end
 end
-```
+~~~
 
 ###Next Steps
 Not everything in the EjectDisks tool is business-related. Do we really need to include a greeting to the members of the [Chippewa Valley Code Camp](http://chippewavalleycodecamp.com/)?  Yes, we do!

@@ -27,7 +27,7 @@ Printing any object in three dimensions takes a _long_ time. The case in the pho
 ### STL File Internals
 Instructions for 3D printing an object are stored in a [STereoLithography (STL)](http://bit.ly/1FFzX20) file. Open an STL file in [your favorite text editor](http://rayhightower.com/blog/2013/01/12/why-i-use-vim/) and you'll see something like this:
 
-``` bash
+~~~ bash
 solid OpenSCAD_Model
   facet normal -0.998027 0 -0.0627913
     outer loop
@@ -62,7 +62,7 @@ solid OpenSCAD_Model
   endfacet
 endsolid OpenSCAD_Model
   
-```
+~~~
 
 The objects described in an STL file can be viewed through a free online tool like [ViewSTL.com](http://www.viewstl.com/).
 

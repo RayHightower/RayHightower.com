@@ -32,23 +32,23 @@ Because the best developers are polyglot. When we learn a new language, we cause
 <li>If you are upgrading from a previous version of Go, you will need to remove the old Go directory. You can do this while the new binary is downloading in the background:</li>
 </ul>
 
-``` bash
+~~~ bash
 
 $ rm -rf /usr/local/go
 
-```
+~~~
 
 <ul>
 <li>Define the <code>GOROOT</code> and <code>GOPATH</code> environmental variables. My system uses <code>~/.bash_profile</code> to define environmental variables, so I added the following lines to the end of that file:
 </ul>
 
-``` bash
+~~~ bash
 
 export GOROOT=/usr/local/go
 export PATH=$PATH:$GOROOT/bin
 export GOPATH=~/Code/gocode
 
-```
+~~~
 
 Note: I'm using the default <code>GOROOT</code> variable, but your <code>GOPATH</code> may differ from mine. I store all of my source code in a subdirectory of home:<code>~/Code</code>. My complete Go directory structure is given below. By looking at my structure, you can adjust these steps to fit your system.</li>
 <br/>
@@ -57,11 +57,11 @@ Note: I'm using the default <code>GOROOT</code> variable, but your <code>GOPATH<
 <li>Tell your terminal session to recognize the new environmental variables. You can either restart terminal, or if your environmental variables are in <code>~/.bash_profile</code> like mine, you can do the following:</li>
 </ul>
 
-``` bash
+~~~ bash
 
 $ source ~/.bash_profile
 
-```
+~~~
 
 <ul>
 <li>Run the package installation program, <code>go1.1.1.darwin-amd64.pkg</code>, that was downloaded in Step 1.</li>
@@ -75,7 +75,7 @@ Before you can run a Go program on your system, you have to create a Go workspac
 
 We can examine the Go Workspace on my system with the Unix <code>tree</code> command:
 
-``` bash
+~~~ bash
 
 ~/Code/gocode$ tree
 .
@@ -89,7 +89,7 @@ We can examine the Go Workspace on my system with the Unix <code>tree</code> com
 
 ~/Code/gocode$ 
 
-```
+~~~
 
 Here's a brief description of the directories:
 
@@ -107,7 +107,7 @@ All structure below the <code>gocode</code> directory is mandated by Go.
 
 Google's official installation instructions include a simple 'Hello World' program for testing the installation. A slightly modified version appears below:
 
-``` go
+~~~ go
 
 package main
 
@@ -117,23 +117,23 @@ func main() {
     fmt.Printf("\n****** Hey Parallella enthusiasts: Learn Go! ******\n")
 }
 
-```
+~~~
 
 ### Compiling and Running
 
 We drop the code into a file called `hello.go` in the `hello` directory. To compile the program:
 
-``` bash
+~~~ bash
 
 ~/Code/gocode/src/github.com/rayhightower/hello$ go install
 
 ~/Code/gocode/src/github.com/rayhightower/hello$ 
 
-```
+~~~
 
 If the Go compiler responds with a blank prompt (like above) then the program compiled successfully and a `bin` directory has been created inside the Go workspace. Run the `tree` command from the `gocode` directory to see how the structure has changed: 
 
-``` bash
+~~~ bash
 
 ~/Code/gocode$ tree
 .
@@ -149,11 +149,11 @@ If the Go compiler responds with a blank prompt (like above) then the program co
 
 ~/Code/gocode$ 
 
-```
+~~~
 
 The newly created `bin/` directory contains our `hello` executable. And now, let's cut the suspense and _run the program_. To do so, change into the `bin/` directory and type `./hello`.
 
-``` bash
+~~~ bash
 
 ~/Code/gocode/src/github.com/rayhightower/hello$ cd ~/Code/gocode/bin
 
@@ -163,7 +163,7 @@ The newly created `bin/` directory contains our `hello` executable. And now, let
 
 ~/Code/gocode/bin$ 
 
-```
+~~~
 
 Success!
 

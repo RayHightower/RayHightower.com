@@ -15,7 +15,7 @@ Dotfiles are normally hidden when you try to view them in the Mac OS X Finder. T
 
 <!--more-->
 
-```bash
+~~~bash
 ~/.dotfiles[master]$ ls -al
 total 40
 drwxr-xr-x   8 rth  staff   272 Apr 14 01:44 .
@@ -28,27 +28,27 @@ drwxr-xr-x  14 rth  staff   476 Apr 14 02:25 .git
 -rw-r--r--   1 rth  staff   375 Apr 14 01:44 README.mdown
 
 ~/.dotfiles[master]$ 
-```
+~~~
 
 The [.bash_profile](https://github.com/RayHightower/.dotfiles/blob/master/.bash_profile) in this example has grown to include aliases, path specifications, and a script that shows the current Git branch as part of the command prompt. The file also contains two aliases useful for showing or hiding dotfiles in the Finder: `showdots` and `hidedots`.
 
 ###Putting Dotfiles in One Directory
 Dotfiles are normally created in the user's home directory. For organization purposes, I moved my non-private dotfiles into a directory called `.dotfiles`, listed above. Unix makes this easy. First, move to the home directory and create `~/.dotfiles`.
 
-```bash
+~~~bash
 ~$ cd ~
 
 ~$ mkdir .dotfiles
 
 ~$ 
 
-```
+~~~
 
 _Note: Dotfiles can sometimes include private information. If you don't want to share information in a particular dotfile, don't put it on GitHub!_
 
 In this example, we'll only move one file, `.bash_profile`.
 
-```bash
+~~~bash
 
 ~$ cd .dotfiles/
 
@@ -56,12 +56,12 @@ $ mv ../.bash_profile .
 
 $ 
 
-```
+~~~
 
 ###Symbolic Links
 Symbolic links ensure that executables can find our dotfiles as needed. 
 
-```bash
+~~~bash
 
 $ cd ~
 
@@ -75,7 +75,7 @@ lrwxr-xr-x   1 rth  staff    34 Apr 14 19:48 .bash_profile -> /Users/rth/.dotfil
 
 $ 
 
-```
+~~~
 
 In the above example, we created a symbolic link called `.bash_profile` to the real `~/.dotfiles/.bash_profile` located in the `.dotfiles` directory. That way, any program that's looking for the `.bash_profile` file in the home directory will find what it needs, even though the file is somewhere else.
 

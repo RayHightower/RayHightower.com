@@ -26,7 +26,7 @@ These instructions work on Mac OS X v10.8.5. The same steps will probably work o
 
 First, make sure you're running the latest version of RVM.
 
-```bash
+~~~bash
 $ rvm get head
 Downloading https://get.rvm.io
 Downloading https://github.com/wayneeseguin/rvm/archive/master.tar.gz
@@ -48,21 +48,21 @@ In case of problems: http://rvm.io/help and https://twitter.com/rvm_io
 RVM reloaded!
 
 $ 
-```
+~~~
 
 ###Next, Install Rubinius
 As of this writing, Rubinius can operate in 1.8 language mode (the default) or 1.9 language mode. Installing in 1.9 mode requires an additional command line flag, shown below.
 
-```bash
+~~~bash
 $ rvm install rbx --1.9
 
 
-```
+~~~
 
 ###Testing the Rubinius Installation
 First, let's make sure that RVM shows the new Rubinius (rbx) installation.
 
-```bash
+~~~bash
 $ rvm list
 
 rvm rubies
@@ -78,21 +78,21 @@ rvm rubies
 
 
 $ 
-```
+~~~
 
 It's always good to have multiple ways to verify information.
 
-```bash
+~~~bash
 $ ruby --version
 rubinius 2.0.0.n37 (1.9.3 6d611c7a 2014-02-06 JI) [x86_64-darwin12.5.0]
 
 $ 
-```
+~~~
 
 And now, let's do a quick "Hello World" test drive using the Rubinius
 version of `irb`.
 
-```bash
+~~~bash
 $ irb
 rbx-2.2.4 :001 > p 'Hello World, from Rubinius'
 "Hello World, from Rubinius"
@@ -100,7 +100,7 @@ rbx-2.2.4 :001 > p 'Hello World, from Rubinius'
 rbx-2.2.4 :002 > quit
 
 $ 
-```
+~~~
 
 ###Post Installation Notes
 The installation script found two outdated Homebrew-installed packages on my system: `automake` and `openssl`. It would have been better for me to upgrade Homebrew and related packages _before_ installing Rubinius.

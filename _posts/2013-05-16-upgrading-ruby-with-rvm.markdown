@@ -19,32 +19,32 @@ Instructions for installing RVM are at [http://rvm.io](http://rvm.io).
 If you already have RVM installed, you should confirm that you have the
 latest version.
 
-```bash
+~~~bash
 $ rvm get head
-```
+~~~
 
 ####Grab the Ruby Patch
 With the latest RVM installed, you can upgrade to the latest Ruby
 patch level.
 
-```bash
+~~~bash
 $ rvm upgrade 2.0.0
 Are you sure you wish to upgrade from ruby-2.0.0-p0 to ruby-2.0.0-p195? (Y/n): y
 Installing new ruby ruby-2.0.0-p195
 Searching for binary rubies, this might take some time.
-```
+~~~
 
 The process took at least twenty minutes on my system. I don't have an exact time because I began working on other tasks during the upgrade, and when I looked back at the terminal window, the process was mostly complete, except for a few questions about gemsets...
 
-```bash
+~~~bash
 Migrating gems from ruby-2.0.0-p0 to ruby-2.0.0-p195
 Are you sure you wish to MOVE gems from ruby-2.0.0-p0 to ruby-2.0.0-p195?
 This will overwrite existing gems in ruby-2.0.0-p195 and remove them from ruby-2.0.0-p0 (Y/n): y
 Moving gemsets...
-```
+~~~
 ...and aliases, wrappers, and archiving my patchless Ruby 2.0.0.
 
-```bash
+~~~bash
 Do you wish to move over aliases? (Y/n): y
 Do you wish to move over wrappers? (Y/n): y
 Do you also wish to completely remove ruby-2.0.0-p0 (inc. archive)? (Y/n): y
@@ -53,11 +53,11 @@ Successfully migrated ruby-2.0.0-p0 to ruby-2.0.0-p195
 Upgrade complete!
 
 $ 
-```
+~~~
 
 Upgrade complete. Now running the latest patch of Ruby 2.0.0-p195
 
-```bash
+~~~bash
 ~$ rvm list
 
 rvm rubies
@@ -72,11 +72,11 @@ rvm rubies
 # =* - current && default
 #  * - default
 
-```
+~~~
 
 As a final option, I chose to make this latest Ruby patch my default.
 
-```bash
+~~~bash
 
 ~$ rvm use ruby-2.0.0 --default
 Using /Users/rth/.rvm/gems/ruby-2.0.0-p195
@@ -96,6 +96,6 @@ rvm rubies
 #  * - default
 
 ~$ 
-```
+~~~
 And that's it.
 

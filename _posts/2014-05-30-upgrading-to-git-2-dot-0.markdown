@@ -15,16 +15,16 @@ If you’re on Mac OS X, make sure you’re using [Homebrew](/blog/2014/02/12/ho
 
 It’s usually a good idea to check your current version before upgrading.
 
-```bash
+~~~bash
 $ git --version
 git version 1.9.2
 
 $ 
 
-```
+~~~
 Next, make sure that Homebrew is current.
 
-```bash
+~~~bash
 $ brew doctor
 
 Warning: Your Homebrew is outdated.
@@ -33,11 +33,11 @@ To update Homebrew, run `brew update`.
 
 $ 
 
-```
+~~~
 
 My Homebrew was outdated, so I used `brew update` to grab the new packages.
 
-```bash
+~~~bash
 $ brew update
 Updated Homebrew from b46160b8 to afff2b23.
 ==> New Formulae
@@ -48,11 +48,11 @@ apache-spark                    homebrew/versions/mongodb24       probatron4j
 
 $ 
 
-```
+~~~
 
 Next, use Homebrew to upgrade Git.
 
-```bash
+~~~bash
 $ brew upgrade git
 ==> Upgrading 1 outdated package, with result:
 git 2.0.0
@@ -76,16 +76,16 @@ zsh completion has been installed to:
 🍺  /usr/local/Cellar/git/2.0.0: 1324 files, 31M
 
 $ 
-```
+~~~
 
 Finished. Let's check the Git version to confirm that the upgrade went properly.
 
-```bash
+~~~bash
 $ git --version
 git version 2.0.0
 
 $ 
 
-```
+~~~
 
 Future articles will examine the this latest version of Git in detail. For now, enjoy!

@@ -28,21 +28,21 @@ Having done things [the old way](/blog/2012/12/03/ruby-on-raspberry-pi/), I was 
 ### Login Information
 After the device boots, you will need login credentials. These have not changed from the previous version: 
 
-``` bash
+~~~ bash
 
 raspberripi login: pi
 Password: raspberry
 
-```
+~~~
 
 Note that the cursor will not move while you type the password.
 
 Next, start the X Window environment.
 
-``` bash
+~~~ bash
 $ startx
 
-```
+~~~
 And your desktop will look something like this.
 
 {% include image.html img="middle /images/raspberry_pi_2_model_b_ruby.jpg" caption="Screenshot: Raspberry Pi 2 Model B" %}
@@ -53,55 +53,55 @@ This incarnation of Raspberry Pi comes with Ruby 1.9.3 pre-installed. Of course,
 
 To install RVM, first run `gpg` to verify that you will get an uncorrupted (or un-tampored with) version of RVM.
 
-``` bash
+~~~ bash
 
 $ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
 
 $ 
 
-```
+~~~
 
 Next, install RVM.
 
-``` bash
+~~~ bash
 $ \curl -sSL https://get.rvm.io | bash -s stable
 
 $ 
 
-```
+~~~
 
 And finally, let the current terminal session know that RVM is installed
 by typing the following at the command line.
 
-``` bash
+~~~ bash
 
 $ source /home/pi/.rvm/scripts/rvm
 
 $ 
 
-```
+~~~
 
 You can verify that RVM is installed by checking its version number like so...
 
-``` bash
+~~~ bash
 
 $ rvm --version
 rvm 1.26.10 (master) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
 
 $ 
 
-```
+~~~
 
 ### Installing Ruby Versions
 To install the latest stable version of Ruby...
 
-``` bash
+~~~ bash
 
 $ rvm install ruby
 
 $ 
 
-```
+~~~
 
 RVM will download dependencies as part of the installation process. From there, you can create RVM gemsets and `gem install rails` or any other libraries you may need. More documentation can be found at [http://rvm.io](http://rvm.io).
 

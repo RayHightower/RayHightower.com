@@ -16,19 +16,19 @@ Either there was a bug in Git, or my understanding of `.gitignore` was incomplet
 ###What I Learned About .gitignore
 The root cause of my problem: Once Git has begun tracking a file or directory, adding it to `.gitignore` changes nothing. Git will continue to track the file unless we explicitly tell Git to stop tracking the file.
 
-```bash
+~~~bash
 $ git rm --cached [filename]
 
 $ 
-```
+~~~
 
 Or, if you want to stop tracking an entire directory (like me in this case)...
 
-```bash
+~~~bash
 $ git rm -r --cached [directoryname]
 
 $ 
-```
+~~~
 
 The `-r` flag will tell Git to stop tracking all of the sub-directories and files within `directoryname`, recursively.
 

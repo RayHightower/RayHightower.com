@@ -31,10 +31,10 @@ Some parts of Homebrew require Xcode, Apple's environment for developing softwar
 With Xcode installed, you can install Homebrew by pasting the following
 command into a terminal window.
 
-```bash
+~~~bash
 $ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"install
 
-```
+~~~
 The script will walk you through the installation process. If you would like to read the script before installation, you can visit the [Homebrew repo on Github](https://github.com/Homebrew/homebrew).
 
 ###Installing Packages
@@ -42,16 +42,16 @@ A list of [available Homebrew packages](https://github.com/Homebrew/homebrew/tre
 
 To install a package, say `imagemagick` for example...
 
-```bash
+~~~bash
 $ brew install imagemagick
-```
+~~~
 
 Before Homebrew, installing `imagemagick` was long and arduous. With Homebrew, the installation and compilation steps still take awhile. But dependencies are resolved by Homebrew, and little user interaction is required after the first step.
 
 ###Maintaining Homebrew
 Developers from around the world contribute to Homebrew, so the tool gets improved often. To check the health of your Homebrew installation, use `brew doctor`.
 
-```bash
+~~~bash
 $ brew doctor
 Warning: Your Homebrew is outdated.
 You haven't updated for at least 24 hours, this is a long time in brewland!
@@ -59,11 +59,11 @@ To update Homebrew, run `brew update`.
 
 $ 
 
-```
+~~~
 
 `brew update` will apply recent updates.
 
-```bash
+~~~bash
 $ brew update
 Updated Homebrew from f83642fc to cfad513e.
 ==> New Formulae
@@ -75,14 +75,14 @@ Updated Homebrew from f83642fc to cfad513e.
 
 $ 
 
-```
+~~~
 
 ###Looking at Packages
 There are several ways to view the packages that have been installed on a system via Homebrew. Use `brew list` at the command prompt to get a quick view of what Homebrew has installed.
 
 Even better: `brew server` will launch a local [Sinatra](http://www.sinatrarb.com/) app, and then you can point a browser to `http://localhost:4567` for a web-enabled view of the installed packages.
 
-```bash
+~~~bash
 $ brew server
 View our tasting menu at http://localhost:4567/
 Use "Control-C" to exit.
@@ -91,7 +91,7 @@ Use "Control-C" to exit.
 [2014-02-12 16:33:18] INFO  ruby 1.8.7 (2012-02-08) [universal-darwin12.0]
 == Sinatra/1.3.3 has taken the stage on 4567 for development with backup from WEBrick
 [2014-02-12 16:33:18] INFO  WEBrick::HTTPServer#start: pid=96694 port=4567
-```
+~~~
 
 {% include image.html img="/images/brew-server.png" caption="Browsing locally-installed Homebrew packages." %}
 

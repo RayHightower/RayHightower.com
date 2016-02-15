@@ -41,7 +41,7 @@ Interesting observation: On my Parallella, pressing `Ctrl` + `Alt` + `F[any numb
 
 To run the Mandelbrot example, switch to TTY mode and then...
 
-```bash
+~~~bash
 
 $ cd parallella-examples/mandelbrot
 
@@ -49,7 +49,7 @@ $ make     # You'll only need to run make once.
 
 $ ./run.sh
 
-```
+~~~
 
 You'll see an animated graphic showing the Mandelbrot calculations in real time.
 

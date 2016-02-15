@@ -16,7 +16,7 @@ For example, what happens when we pass arguments to a process, Ruby or otherwise
 
 <!--more-->
 
-``` bash
+~~~ bash
 ~/Code/Ruby/apps/sandbox$ echo 'p ARGV' > argv.rb
 
 ~/Code/Ruby/apps/sandbox$ ruby argv.rb what results can we expect here
@@ -24,7 +24,7 @@ For example, what happens when we pass arguments to a process, Ruby or otherwise
 
 ~/Code/Ruby/apps/sandbox$ 
 
-```
+~~~
 
 Once we have our hands on the ARGV array, we can parse it and manipulate it at will.
 
@@ -38,7 +38,7 @@ Here's what the code does:
 * Therefore, the `if` block should be executed by the parent process...
 * ...and the `else` block should be executed by the child process.
 
-``` ruby
+~~~ ruby
 puts "Parent process pid (before fork) is #{Process.pid}.\n"
 
 if fork
@@ -53,11 +53,11 @@ else
   printf "\nThe parent of this process is #{parent_process}, which should be the original of this process.\n\n"
 end
 
-```
+~~~
 
 Running the above Ruby code produces the following results:
 
-``` bash
+~~~ bash
 ~/Code/Ruby/apps/sandbox$ ruby forking_around.rb 
 Parent process pid (before fork) is 79703.
 Entered the *if* block during Process 79703.
@@ -66,12 +66,12 @@ The parent of this process is 76751, which should be bash.
 Entered the *else* block during Process 79704.
 The parent of this process is 79703, which should be the original of this process.
 
-```
+~~~
 
 Digging further: Let's look at the names that correspond to our
 `pids`.
 
-``` bash
+~~~ bash
 ~/Code/Ruby/apps/sandbox$ ps -p 79703
   PID TTY           TIME CMD
 
@@ -83,7 +83,7 @@ Digging further: Let's look at the names that correspond to our
 76751 ttys003    0:00.40 -bash
 
 ~/Code/Ruby/apps/sandbox$ 
-```
+~~~
 
 We get zero data for the `pids` 79703 and 79704 because those processes terminated with the program `forking_around.rb`. However, 76751 shows `bash` because bash is still running.
 

@@ -35,20 +35,20 @@ The file `/etc/ssh/ssh_config` controlls the behavior of the SSH server on the P
 
 First, Open `/etc/ssh/ssh_config` in a text editor like Vim. You'll need to use `sudo` so that the file system allows you to write the file after you modify it.
 
-``` bash
+~~~ bash
 
 $ sudo vim /etc/ssh/ssh_config
 
-```
+~~~
 
 Two parameters in the `ssh_config` file need to be changed on the Parallella host. Add the following lines to the bottom of the `ssh_config` file on the Parallella:
 
-``` bash
+~~~ bash
 
    ForwardAgent yes
    ForwardX11 yes
 
-```
+~~~
 
 Save the file and re-start the Parallella so that the new parameters can take effect.
 
@@ -56,20 +56,20 @@ Save the file and re-start the Parallella so that the new parameters can take ef
 
 To test the new configuration, first log into the Parallella from the Mac using the `-X` flag (note that "X" is capitalized) like so:
 
-``` bash
+~~~ bash
 
 ~$ ssh -X linaro@[IP address of the Parallella]
 linaro@[IP address of the Parallella]'s password:
 
-```
+~~~
 
 And then, from a Mac terminal window, run an X Window program like `xclock`.
 
-``` bash
+~~~ bash
 
 $ xclock
 
-```
+~~~
 
 The GUI `XClock` should appear on your Mac display. Success!
 
@@ -77,7 +77,7 @@ The GUI `XClock` should appear on your Mac display. Success!
 
 `Xvfb` is the X virtual frame buffer. It lets you view the Parallella’s frame buffer through X, either locally or remotely. To set it up, first install `Xvfb` on the Parallella.
 
-``` bash
+~~~ bash
 
 $ sudo apt-get install xvfb
 Reading package lists... Done
@@ -97,13 +97,13 @@ Unpacking xvfb (2:1.15.1-0ubuntu2) ...
 Processing triggers for man-db (2.6.7.1-1) ...
 Setting up xvfb (2:1.15.1-0ubuntu2) ...
 
-```
+~~~
 
 ### Minor Gotcha
 
 Here's something weird. When you install `Xvfb` on the Parallella via `sudo apt-get`, the `x` is lower case. But after installation, when you run the program from the Parallella's command line, the `X` in `Xvfb` is capitalized.
 
-``` bash
+~~~ bash
 
 $ which xvfb
 xvfb: Command not found.
@@ -113,7 +113,7 @@ $ which Xvfb
 
 $ 
 
-```
+~~~
 
 I don't know why this is true. I only know that it caught me. Now it won't catch you!
 

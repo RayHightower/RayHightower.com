@@ -30,7 +30,7 @@ Note that the `==> make` line seemed to execute for a long time (several minutes
 ###Long Installation Time, No Feedback
 Something I haven’t seen written anywhere regarding Rust: Installation via Homebrew takes a long time with no indication that the command is making progress. The exact installation time on your machine may vary. For reference: I’m running a an early 2013 15” MacBook Pro with 16GB RAM and a 512GB SSD, and the installation took over 30 minutes.
 
-``` bash
+~~~ bash
 $ brew install rust
 ==> Downloading https://static.rust-lang.org/dist/rust-0.12.0.tar.gz
 Already downloaded: /Library/Caches/Homebrew/rust-0.12.0.tar.gz
@@ -41,11 +41,11 @@ Already downloaded: /Library/Caches/Homebrew/rust-0.12.0.tar.gz
 
 ~$ 
 
-``` 
+~~~ 
 
 To confirm a successful installation…
 
-``` bash
+~~~ bash
 ~$ which rustc
 /usr/local/bin/rustc
 
@@ -53,7 +53,7 @@ To confirm a successful installation…
 rustc 0.12.0-dev
 
 ~$ 
-``` 
+~~~ 
 
 
 #Out-Takes

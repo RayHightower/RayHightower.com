@@ -17,7 +17,7 @@ We're getting a ton of mileage out of [Pong]() in these RubyMotion
 posts! This time, we'll use Pong as our test app for Spark Inspector.
 
 In the project's `Rakefile`, add lines 6 through 8 below:
-```bash
+~~~bash
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'Pong-RM'
@@ -30,13 +30,13 @@ Motion::Project::App.setup do |app|
   ...
 
 end
-```
+~~~
 The purpose of these lines is to...
 
 Add `SparkInspector.enableObservation` to the first line of the `application:didFinishLaunchingWithOptions:` method in
 `app_delegate.rb`. This line serves to ...
 
-```bash
+~~~bash
 class AppDelegate
   def application(application, didFinishLaunchingWithOptions:launchOptions)
     SparkInspector.enableObservation
@@ -45,4 +45,4 @@ class AppDelegate
   
     true
   end
-```
+~~~

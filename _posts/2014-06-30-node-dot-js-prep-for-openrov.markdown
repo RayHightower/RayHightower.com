@@ -20,29 +20,29 @@ Everything written here applies to Node.js as it runs on Mac OS X. If your local
 ###Homebrew First
 Make sure you’re running [Homebrew](/blog/2014/02/12/homebrew-fundamentals/) on your Mac. Homebrew is a seamless way to manage packages on Mac OS X. To install Homebrew...
 
-```bash
+~~~bash
 $ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"install
 
-```
+~~~
 
 After installation, confirm that Homebrew is running properly...
 
-```bash
+~~~bash
 $ brew doctor
 
-```
+~~~
 
 ###Installing Node.js
 Now that Homebrew is installed and running, Node.js can be installed with a single line command.
 
-```bash
+~~~bash
 $ brew install node
 
-```
+~~~
 
 To confirm that Node.js is installed on your system and to check the version number...
 
-```bash
+~~~bash
 $  which node
 /usr/local/bin/node
 
@@ -50,14 +50,14 @@ $ node --version
 v0.10.26
 
 $ 
-```
+~~~
 
 ###Hello World in Node.js
 You know the compter science tradition: The first program in any new language has to say "Hello World." Here's a sample `Hello World` program from the official [Node.js](http://nodejs.org) web site, slightly modified to suit OpenROV.
 
 First, create a file called `helloworld.js` and fill it with the following code.
 
-```javascript
+~~~javascript
 // Sample web server from http://nodejs.org, slightly modified.
 
 var http = require('http');
@@ -66,16 +66,16 @@ http.createServer(function (req, res) {
   res.end('Hello World. OpenROV runs Node.js!');
 }).listen(1337, '127.0.0.1');
 console.log('Server running at http://127.0.0.1:1337/');
-```
+~~~
 
 Next, from the same directory where you saved `helloworld.js`, run the file from the command line like so...
 
-```bash
+~~~bash
 $ node helloworld.js
 Server running at http://127.0.0.1:1337/
 
 $ 
-```
+~~~
 
 Finally, open up a web browser on your local machine and navigate to `http://127.0.0.1:1337`. You should see a bare-bones web page similar to this one.
 

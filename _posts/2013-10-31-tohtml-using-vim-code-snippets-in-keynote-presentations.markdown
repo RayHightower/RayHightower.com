@@ -14,7 +14,7 @@ Google led me back to `:TOhtml`. Whew! I'm documenting `:TOhtml` here to avoid w
 ###Start With a Block of Code
 Fire up Vim and drop the block of code you want to convert into a new Vim buffer. In this example, I've created a sample [RubyMotion](/blog/2012/10/29/building-ios-apps-with-ruby-motion/) OS X app, and I want to show the contents of the Rakefile.
 
-```ruby
+~~~ruby
 # -*- coding: utf-8 -*-
 $:.unshift("/Library/RubyMotion/lib")
 require 'motion/project/template/osx'
@@ -30,11 +30,11 @@ Motion::Project::App.setup do |app|
   app.name = 'EjectDisks'
   app.info_plist['LSUIElement'] = true
 end
-```
+~~~
 
 Next, visually select the lines you want to convert. You can do this with shift-V, or with the (gasp!) mouse. Or if you want to convert the entire file, enter `:TOhtml` in the command area. Vim will convert the highlighted text into HTML in a new buffer. Here's the result:
 
-```html
+~~~html
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
@@ -112,13 +112,13 @@ if ('onhashchange' in window) {
 </body>
 </html>
 <!-- vim: set foldmethod=manual : -->
-```
+~~~
 
 Save the new buffer as `~/Desktop/convertedstuff.html` or any other file name that you choose. In this case, I chose:
 
-```
+~~~
 :w ~/Desktop/convertedrakefile.html
-```
+~~~
 
 Open the converted file in a web browser.
 

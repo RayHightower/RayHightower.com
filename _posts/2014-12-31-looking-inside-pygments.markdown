@@ -15,7 +15,7 @@ Full disclosure: Pygments didn't simply stop working. I applied updates related 
 
 As with all [Octopress](http://octopress.org/) based blogs, the `$ rake generate` command creates a new set of static pages every time the command gets run. Normally the process is smooth. Here's the error message that resulted this morning.
 
-``` bash
+~~~ bash
 
 ~$ rake generate
 
@@ -25,7 +25,7 @@ jekyll 2.0.3 | Error:  Pygments can't parse unknown language: </p>.
 
 $ 
 
-```
+~~~
 
 What unknown language? Something was fishy. Fortunately, `pygments` is an open source plugin. Solving the problem was non-trivial, but doable.
 
@@ -33,7 +33,7 @@ What unknown language? Something was fishy. Fortunately, `pygments` is an open s
 
 Google, Stack Overflow, and the Octopress documentation gave clues on where to explore. Adding a few lines to `source/plugins/pygments_code.rb` provided insights on what `pygments` was "thinking".
 
-``` ruby
+~~~ ruby
 
 require 'pygments'
 require 'fileutils'
@@ -54,7 +54,7 @@ module HighlightCode
 
 end
 
-```
+~~~
 
 ### Observing the Results, Applying a Solution
 

@@ -34,13 +34,13 @@ Here’s the original message. If you’re satisfied with the above translation,
 ###First: Check the CNAME File
 Since `RayHightower.com` was configured for Octopress a few years ago, it already had a `source/CNAME` file. To check the contents:
 
-```bash
+~~~bash
 $ cat source/CNAME
 rayhightower.com
 
 $ 
 
-```
+~~~
 The `CNAME` file looks fine, according to the GitHub's blog. Time for the next step.  
 
 ###Next: Domain Records

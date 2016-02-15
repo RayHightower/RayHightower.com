@@ -19,7 +19,7 @@ Fortunately, we can use optimization techniques to address performance problems 
 
 Memoization was designed to solve a particular kind of problem. Consider a method called `fibo(n)` that calculates the _nth_ number of the [Fibonacci](http://en.wikipedia.org/wiki/Fibonacci_number) sequence.
 
-``` ruby
+~~~ ruby
 
 # Calculate the nth Fibonacci number, f(n).
 def fibo (n)
@@ -36,7 +36,7 @@ end
   puts "fibo(#{number}) = #{fibo(number)}"
 end
 
-```
+~~~
 
 The example runs, but performance slows down as _n_ gets larger. Why? Because this method re-calculates all preceeding Fibonacci numbers every time it calculates a new `fibo(n)`. When we calculate Fibonacci numbers manually, we know better. Humans are smart enough to refer to earlier work. But the `fibo(n)` method does not manage time very well.
 
@@ -56,7 +56,7 @@ the results for future use.
 
 Here's how memoization is implemented in the Fibonacci example:
 
-``` ruby
+~~~ ruby
 
 # Fibonacci numbers WITH memoization.
 
@@ -86,7 +86,7 @@ end
   puts "fibo(#{number}) = #{fibo(number)}"
 end
 
-```
+~~~
 
 Walking through the code... First we create a memoization array, a place to store the pre-calculated values. In this example, `@scratchpad[]` serves as our memoization array.
 

@@ -19,7 +19,7 @@ Thank you [Brad’s Deals](http://www.bradsdeals.com/) and [Ken Walters](https:/
 ### Installing Scheme on Mac OS X
 Examples and exercises in SICP are written in Scheme, a dialect of the LISP programming language. As of this writing, installing `mit-scheme` via Homebrew _did not work for me_.
 
-``` bash
+~~~ bash
 ~$ brew install mit-scheme
 Error: No available formula for mit-scheme
 Searching formulae...
@@ -28,7 +28,7 @@ homebrew/x11/mit-scheme
 
 ~$ 
 
-```
+~~~
 
 _Update: Some members of the SICP study group had success installing `mit-scheme` with Homebrew, while others (like me) did not. We did not determine why some of the Homebrew installations were successful. However, the non-Homebrew method described in this article seems to work across-the-board._
 
@@ -44,26 +44,26 @@ Scheme is run from the command line. In order to make that work, we need to setu
 
 First, create a symbolic link called `mit-scheme-x86-64` in your home directory that links to the appropriate executable in the `/Applications` directory. In other words...
 
-``` bash
+~~~ bash
 $ sudo ln -s /Applications/MIT\:GNU\ Scheme.app/Contents/Resources /usr/local/lib/mit-scheme-x86-64
 Password:
 
 $ 
 
-```
+~~~
 
 Next, setup a symlink that will let us simply type `scheme` when we want to use this version of the language...
 
-``` bash
+~~~ bash
 $ sudo ln -s /usr/local/lib/mit-scheme-x86-64/mit-scheme /usr/bin/scheme
 
 $ 
 
-```
+~~~
 
 Confirm that the links are in place by checking the `scheme` version number.
 
-``` bash
+~~~ bash
 $ scheme --version
 MIT/GNU Scheme microcode 15.3
 Copyright (C) 2014 Massachusetts Institute of Technology
@@ -77,7 +77,7 @@ Moriturus te saluto.
 
 $ 
 
-```
+~~~
 
 If you are like me, you will laugh at the gladiator message at the end of the version info.
 
@@ -87,7 +87,7 @@ Why not create a single symbolic link directly from the `Resources` directory to
 ### Running Scheme
 To start the Scheme read-evaluate-print-loop (REPL)...
 
-``` bash
+~~~ bash
 $ scheme
 MIT/GNU Scheme running under OS X
 Type `^C' (control-C) followed by `H' to obtain information about interrupts.
@@ -102,7 +102,7 @@ Image saved on Saturday May 17, 2014 at 2:39:25 AM
 1 ]=> 
 
 
-```
+~~~
 Exit the REPL by typing `CTRL-D`.
 
 Looking forward to SICP tonight!

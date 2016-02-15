@@ -7,9 +7,9 @@ tags: [iOS, OS_X, Ruby, RubyMotion, Vim]
 ---
 [RubyMotion](/blog/2012/10/29/building-ios-apps-with-ruby-motion/) includes a `rake` task that generates [Exuberant Ctags](http://ctags.sourceforge.net/whatis.html). To generate tags, run the following in the root directory of a RubyMotion project.
 
-``` bash
+~~~ bash
 $ rake ctags
-```
+~~~
 
 ### Make Ctags Better With Automation
 Ctags make writing code more efficient. But we shouldn't have to type `$ rake ctags` every time we create a new RubyMotion project. This article shows how to use a shell script to generate ctags automatically every time you create a new RubyMotion app. 
@@ -25,7 +25,7 @@ RubyMotion's implementation of ctags includes support for built-in iOS classes l
 ### Creating the Script
 Here's the script. You can use any name that suits you. My script is called `mmotion.command` (with two m's at the beginning to distinguish it from the standard `motion` command) and it's in the `~/bin/` directory.
 
-``` bash
+~~~ bash
 #!/bin/bash
 # Create a RubyMotion app, change into the app's directory, and run ctags.
 # Written by Raymond T. Hightower on February 12, 2013
@@ -38,28 +38,28 @@ rake ctags
 echo "Opening the new app in Vim..."
 mvim .
 echo "To use the RubyMotion console, cd into the new directory:" $1
-```
+~~~
 All of the work is done by by four lines. The remaining lines are comments or 'echos' that tell the user what's happening while the script is running.
 
 ### Running the Script
 If `~/bin/` is in the `$PATH`, you can run the script with the following line command:
-``` bash
+~~~ bash
 $ mmotion.command [app name]
-```
+~~~
 
 Of course, we can still do better by leveraging the power of aliases in `~/.bash_profile`.
 
 ### Adding an Alias to ~/.bash_profile
 Dropping an alias into `~/.bash_profile` streamlines the process even more. You can use any alias you want as long as it doesn't confilct with another command. Here's what my alias looks like:
 
-``` bash
+~~~ bash
 alias mmotion="mmotion.command"
-```
+~~~
 
 ### Taking the Script for a Spin
 Now we can build a new RubyMotion app called `NewApp` with these results:
 
-``` bash
+~~~ bash
 ~/Code/Ruby/RubyMotion$ mmotion NewApp
 Creating a new RubyMotion app called: NewApp
     Create NewApp
@@ -75,7 +75,7 @@ Opening the new app in Vim...
 To use the RubyMotion console, cd into the new directory: NewApp
 
 ~/Code/Ruby/RubyMotion$ 
-```
+~~~
 
 After the bash script ends, it lands in the directory from which it was originally run, no matter what directories it changed to during execution. This script will open the new app in Vim when it's done.
 

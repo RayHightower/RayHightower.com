@@ -26,24 +26,24 @@ Grab the latest `.tar` file from [JRuby Downloads](http://jruby.org/download) an
 
 Next, move the extracted files to `/opt/jruby/`. For example, if you downloaded the `.tar` file to your `~/Downloads` directory, this command will rename the extracted directory to `jruby/` in the process.
 
-``` bash
+~~~ bash
 $ sudo mv ~/Downloads/jruby-9.0.0.0.pre1/ /opt/jruby/
 Password:
 
 $ 
 
-```
+~~~
 And finally, add the following line to `~/.bash_profile` (or where ever you choose to set your `$PATH` variable).
 
-``` bash
+~~~ bash
 export PATH="/opt/jruby/bin:$PATH"
 
-```
+~~~
 ### Testing the JRuby 9000 installation
 
 To test the JRuby 9000 installation, re-start your terminal or use `$ source ~/.bash_profile`. And then
 
-``` bash
+~~~ bash
 $ jruby --version
 jruby 9.0.0.0.pre1 (2.2.0p0) 2015-01-20 d537cab Java HotSpot(TM) 64-Bit Server VM 25.25-b02 on 1.8.0_25-b17 +jit [darwin-x86_64]
 
@@ -52,7 +52,7 @@ $ which jruby
 
 $ 
 
-```
+~~~
 
 ### Why not RVM?
 

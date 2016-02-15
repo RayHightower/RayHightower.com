@@ -32,7 +32,7 @@ My guess: The image file was designed to be as small as possible in order to min
 ###How to Re-Size the Partition
 `df` is the Unix 'disk free' command. It shows used/available disk space. 
 
-```bash
+~~~bash
 ubuntu@ubuntu-armhf:~$ df
 
 Filesystem     1K-blocks    Used Available Use% Mounted on
@@ -47,12 +47,12 @@ none              253728     204    253524   1% /run/shm
 /dev/mmcblk1p2   1748200    2664   1655068   1% /media/rootfs
 
 ubuntu@ubuntu-armhf:~$ 
-```
+~~~
 
 `ll` is one of the useful aliases built into Ubuntu's `.bashrc` file. We
 can use it to examine the partitions on the SD card.
 
-```bash
+~~~bash
 ubuntu@ubuntu-armhf:~$ ll /dev/mmcblk*
 
 brw-rw---- 1 root disk 179,  0 Jan  5 15:37 /dev/mmcblk0
@@ -65,7 +65,7 @@ brw-rw---- 1 root disk 179,  9 Jan  1  2000 /dev/mmcblk1p1
 brw-rw---- 1 root disk 179, 10 Jan  1  2000 /dev/mmcblk1p2
 
 ubuntu@ubuntu-armhf:~$ 
-```
+~~~
 
 `fdisk` will resize the partition we're after. `root` priviledges are required to modify the partition table, so we'll use `sudo`. The standard [sudo disclaimer](/sudo-disclaimer) applies.
 
@@ -81,7 +81,7 @@ Here's the plan: In order to increase the size of `/dev/mmcblk0p2`, we will dele
 
 Your numbers will vary depending on the size and configuration of your SD card, but the general procedure will be the same.
 
-```bash
+~~~bash
 ubuntu@ubuntu-armhf:~$ sudo fdisk /dev/mmcblk0
 [sudo] password for ubuntu:
 
@@ -148,7 +148,7 @@ the next reboot or after you run partprobe(8) or kpartx(8)
 Syncing disks.
 
 ubuntu@ubuntu-armhf:~$
-```
+~~~
 
 The warning/error message at the end just means that we need reboot the Bone before the partition table takes effect.
 
@@ -158,7 +158,7 @@ instead of the eMMC.
 
 After the Bone reboots, run `resize2fs` to expand the partition created above.
 
-```bash
+~~~bash
 ubuntu@ubuntu-armhf:~$ sudo resize2fs /dev/mmcblk0p2
 [sudo] password for ubuntu:
 resize2fs 1.42.5 (29-Jul-2012)
@@ -167,14 +167,14 @@ old_desc_blocks = 1, new_desc_blocks = 1
 The filesystem on /dev/mmcblk0p2 is now 951424 blocks long.
 
 ubuntu@ubuntu-armhf:~$
-```
+~~~
 
 And now we have enough room to install the Ubuntu GUI.
 
 ###Installing the Ubuntu GUI
 _Update (Feb2014): In the comments below, Jonathan Chan describes how he updated the desktop installation files before installing the Ubuntu desktop. To update the desktop installation files, grab the latest list of packages (`update`) and then `upgrade` the packages that need it._
 
-```bash
+~~~bash
 $ sudo apt-get update
 
 $ 
@@ -182,18 +182,18 @@ $
 $ sudo apt-get upgrade
 
 $  
-```
+~~~
 
 After the partition on the SD card has been resized, this command will intall the GUI. The command is short, but the process takes about an hour:
 
-```bash
+~~~bash
 $ sudo apt-get install ubuntu-desktop
-```
+~~~
 When installation and compilation are complete, Ubuntu will return to the command prompt. Here's how to reboot:
 
-```bash
+~~~bash
 $ sudo reboot
-```
+~~~
 
 Several minutes later, the Ubuntu 12 GUI will appear. Congratulations!  Login using the default credentials (login: ubuntu, pw: ubuntu) to get to the Ubuntu desktop.
 
@@ -221,9 +221,9 @@ Rails needs a JavaScript runtime in order to function. Here are two ways to meet
 
 Installing `therubyracer` did not work for me. But Node.js installed quickly, like so:
 
-```bash
+~~~bash
 $ sudo apt-get install nodejs
-```
+~~~
 
 Now that we have a JavaScript runtime, Rails runs successfully.
 

@@ -35,7 +35,7 @@ Ack can also be installed via [Homebrew](http://mxcl.github.io/homebrew/), but I
 
 At this point you should be running Ack v2.0 or later. To verify:
 
-```bash
+~~~bash
 ~/bin$ ack --version
 ack 2.02 (git commit f3c8827)
 Running under Perl 5.12.4 at /usr/bin/perl
@@ -46,7 +46,7 @@ This program is free software.  You may modify or distribute it
 under the terms of the Artistic License v2.0.
 
 ~/bin$
-```
+~~~
 
 Installation complete. Now, let's take Ack for a spin.
 

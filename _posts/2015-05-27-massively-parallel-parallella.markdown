@@ -46,7 +46,7 @@ I don't know if that will change.
 
 [Download the Resin.io image](http://supercomputer.io/) from the Supercomputer.io site. [Resin.io](http://resin.io/) has created a special SD-card image (using Docker) for this project. As you can see below, I stored mine in a directory called `~/Downloads/Parallella$`.
 
-``` bash
+~~~ bash
 
 ~/Downloads/Parallella$ ls -al
 total 2678784
@@ -56,7 +56,7 @@ drwx---r-x+ 86 rth  staff        2924 May 26 11:00 ..
 
 ~/Downloads/Parallella$ 
 
-```
+~~~
 
 ### Prep for Burning the SD Card
 
@@ -65,7 +65,7 @@ Burning the SD card took about sixteen minutes (once I got the procedure right, 
 
 Insert your SD card into your Mac's SD card reader, and use the Mac OS X `diskutil list` command to determine the designation of the SD card. If you use portable hard drives with your primary machine, the SD card designation could change from time to time, so it's important to perform this step each time you burn an SD card.
 
-``` bash
+~~~ bash
 ~/Downloads/Parallella$ diskutil list
 /dev/disk0
    #:                       TYPE NAME                    SIZE       IDENTIFIER
@@ -80,7 +80,7 @@ Insert your SD card into your Mac's SD card reader, and use the Mac OS X `diskut
 
 ~/Downloads/Parallella$ 
 
-```
+~~~
 
 From this `diskutil` report, we can see that we want to burn the SD image to `/dev/disk2`. The other device is the hard drive for my primary machine. Burning the wrong device will destroy data.
 
@@ -96,7 +96,7 @@ _Gotcha alert:_ The first time I attempted to burn the image, I used a block siz
 
 Burn your micro-SD card like so:
 
-``` bash
+~~~ bash
 $ cd [directory containing the resin.io image file]
 
 $ diskutil unmountDisk /dev/disk2
@@ -109,7 +109,7 @@ Password:
 
 $ 
 
-``` 
+~~~ 
  
 {% include image.html img="/images/activity_monitor_resin_image.png" caption="Burn progress."  %}
 If you want to make sure that `dd` is running properly, use OS X's `Activity Monitor` utility to monitor burn progress (see the 'burn progress' diagram). Here's a quick run-through of the `dd` command options:
@@ -137,7 +137,7 @@ First, get a network scanner and use it to locate your Parallella on your local 
 
 Ping the IP address given by your network scanning tool like so: 
 
-``` bash
+~~~ bash
 ~$ ping 192.168.11.132
 PING 192.168.11.132 (192.168.11.132): 56 data bytes
 64 bytes from 192.168.11.132: icmp_seq=0 ttl=64 time=4.767 ms
@@ -151,13 +151,13 @@ round-trip min/avg/max/stddev = 3.694/4.122/4.767/0.396 ms
 
 ~$ 
 
-```
+~~~
 
 If your Parallella is up, running, and attached to your network, your
 output will look similar to what you see above. But if `ping` can't find
 your Parallella, you'll get...
 
-``` bash
+~~~ bash
 
 ~$ ping 192.168.11.199
 PING 192.168.11.199 (192.168.11.199): 56 data bytes
@@ -170,7 +170,7 @@ Request timeout for icmp_seq 2
 
 ~$ 
 
-```
+~~~
 
 ### Connect to Supercomputer.io
 

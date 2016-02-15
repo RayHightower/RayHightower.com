@@ -20,7 +20,7 @@ Debugging is easier when you can look inside the black box.
 ### Installation
 To install `pgcli` on Mac OS X, use [Homebrew](/blog/2014/02/12/homebrew-fundamentals/):
 
-``` bash
+~~~ bash
 $ brew install pgcli
 ==> Installing dependencies for pgcli: openssl, postgresql
 ==> Installing pgcli dependency: openssl
@@ -37,11 +37,11 @@ $ brew install pgcli
 
 $ 
 
-```
+~~~
 
 Verify installation as follows:
 
-``` bash
+~~~ bash
 $ which pgcli
 /usr/local/bin/pgcli
 
@@ -50,12 +50,12 @@ Version: 0.16.3
 
 $ 
 
-```
+~~~
 
 ### Using pgcli
 To view a list of available `pgcli` commands:
 
-``` bash
+~~~ bash
 
 $ pgcli --help
 Usage: pgcli [OPTIONS] [DATABASE] [USERNAME]
@@ -72,11 +72,11 @@ Options:
 
 $ 
 
-```
+~~~
 
 To use `pgcli`:
 
-``` bash
+~~~ bash
 
 $ pgcli
 Version: 0.16.3
@@ -85,7 +85,7 @@ Mail: https://groups.google.com/forum/#!forum/pgcli
 Home: http://pgcli.com
 rth> \l
 
-```
+~~~
 
 `\l` will list the databases available to this installation of PostgreSQL. Note that the `pgcli` command prompt shows the currently logged in username. To discover other commands, use `\?`.
 

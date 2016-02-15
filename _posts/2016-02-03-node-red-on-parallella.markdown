@@ -15,7 +15,7 @@ Solve the problem before
 
 ### Get the Latest Version of Node.js
 
-``` bash
+~~~ bash
 
 ~/Code/nodejs$ node --version
 v5.3.0
@@ -42,11 +42,11 @@ v5.5.0
 
 ~/Code/nodejs$
 
-```
+~~~
 
 ### Install Node-RED
 
-``` bash
+~~~ bash
 ~/Code/nodejs$ npm install -g node-red
 npm WARN deprecated i18next-client@1.10.3: you can use npm install i18next from version 2.0.0
 /usr/local/bin/node-red-pi -> /usr/local/lib/node_modules/node-red/bin/node-red-pi
@@ -58,7 +58,7 @@ npm WARN deprecated i18next-client@1.10.3: you can use npm install i18next from 
 ...
 
 $
- ```
+ ~~~
 
 ### Accept Incoming Network Connections?
 

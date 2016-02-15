@@ -30,7 +30,7 @@ Download the Lubuntu image from the [Orange Pi website](http://www.orangepi.org/
 
 The `xz` file compression utility is a handy way to decompress the Orange Pi image. `xz` installation is painless with [Homebrew](/blog/2014/02/12/homebrew-fundamentals/).
 
-``` bash
+~~~ bash
 
 $ brew install xz
 ==> Downloading https://homebrew.bintray.com/bottles/xz-5.2.1.yosemite.bottle.tar.gz
@@ -38,20 +38,20 @@ $ brew install xz
 ==> Pouring xz-5.2.1.yosemite.bottle.tar.gz
 🍺  /usr/local/Cellar/xz/5.2.1: 59 files, 1.7M
 
-```
+~~~
 
 You can then decompress the Lubuntu image file using `xz`.
 
-``` bash
+~~~ bash
 
 $ xz -d Lubuntu_1404_For_OrangePi2-mini2_v0_8_0_.img.xz
 
-```
+~~~
 
 Once decompression is complete, the new file will have the `.imb` extension.
 
 
-``` bash
+~~~ bash
 
 $ ls -al
 total 7168000
@@ -59,7 +59,7 @@ drwxr-xr-x    3 rth  staff         102 Nov  9 21:14 .
 drwx---r-x+ 114 rth  staff        3876 Nov  9 21:25 ..
 -rw-r-----    1 rth  staff  3670016000 Nov  9 21:08 Lubuntu_1404_For_OrangePi2-mini2_v0_8_0_.img
 
-```
+~~~
 
 ### Choose Your SD Card Target
 
@@ -67,7 +67,7 @@ This step is critical. When you write the Lubuntu image to your SD card, it's im
 
 Here's how to get the correct designation for the SD card. First use `diskutil list` to show all of the drives on your Mac.
 
-``` bash
+~~~ bash
 
 $ diskutil list
 /dev/disk0
@@ -81,20 +81,20 @@ $ diskutil list
    0:     FDisk_partition_scheme                        *7.9 GB     disk1
    1:                 DOS_FAT_32 NO NAME                 7.9 GB     disk1s1
 
-```
+~~~
 
 From the `diskutil` report, we can see that the designation for the SD card is `/dev/disk1`. Unmount the SD card image.
 
-``` bash
+~~~ bash
 
 $ diskutil unmountDisk /dev/disk1
 Unmount of all volumes on disk1 was successful
 
-```
+~~~
 
 After you `unmount` the SD card, the `diskutil` report will appear unchanged. But we need to unmount the SD card so that we can write an image to it.
 
-``` bash
+~~~ bash
 $ diskutil list
 /dev/disk0
    #:                       TYPE NAME                    SIZE       IDENTIFIER
@@ -107,11 +107,11 @@ $ diskutil list
    0:     FDisk_partition_scheme                        *7.9 GB     disk1
    1:                 DOS_FAT_32 NO NAME                 7.9 GB     disk1s1
 
-```
+~~~
    
 With the SD card unmounted, write Lubuntu image as follows.
 
-``` bash
+~~~ bash
 
 $ sudo dd if=Lubuntu_1404_For_OrangePi2-mini2_v0_8_0_.img of=/dev/disk1 bs=1m
 Password:
@@ -119,11 +119,11 @@ Password:
 3500+0 records out
 3670016000 bytes transferred in 2366.903418 secs (1550556 bytes/sec)
 
-```
+~~~
 
 `$ diskutil list` will let you view the new partitions After the image has been written.
 
-``` bash
+~~~ bash
 
 $ diskutil list
 /dev/disk0
@@ -140,7 +140,7 @@ $ diskutil list
 
 $ 
 
-```
+~~~
 
 ### Gotcha: The Disk You Inserted...
 

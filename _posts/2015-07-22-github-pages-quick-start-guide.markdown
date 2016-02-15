@@ -25,7 +25,7 @@ A quick way to launch a “Hello World!” page via GitHub Pages...
 
 * `cd` into the `random-repo` directory.
 
-``` bash
+~~~ bash
 
 $ git clone git@github.com:RayHightower/random-repo.git
 Cloning into 'random-repo'...
@@ -38,7 +38,7 @@ $ cd random-repo
 $ 
 
 
-```
+~~~
 
 {% include image.html img="/images/github-clone-random-repo.png" %}
 
@@ -50,7 +50,7 @@ Don't worry about the "cloned an empty repository" message. We'll add something 
 
 * Using a text editor (or the fancy shortcut shown below) add the line "Hello World" to the `index.html` file.
 
-``` bash
+~~~ bash
 
 $ git checkout -b gh-pages
 
@@ -60,7 +60,7 @@ $ echo "Hello World">index.html
 
 $ 
 
-```
+~~~
 
 * Use `$ git add .` to add `index.html` to Git's history.
 
@@ -68,7 +68,7 @@ $
 
 * Use `$ git push` to push the `gh-pages` branch to GitHub.
 
-``` bash
+~~~ bash
 
 $ git add .
 
@@ -87,7 +87,7 @@ Branch gh-pages set up to track remote branch gh-pages from origin.
 
 $ 
 
-```
+~~~
 
 * Open a web browser and navigate to `http://your-github-user-name.github.io/random-repo`. For the example in this article, use [http://rayhightower.github.io/random-repo](http://rayhightower.github.io/random-repo). You should see the words "Hello World" in the browser window. 
 
