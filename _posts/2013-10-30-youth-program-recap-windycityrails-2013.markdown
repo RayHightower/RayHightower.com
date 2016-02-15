@@ -13,21 +13,21 @@ To increase the world's supply of problem solvers, the organizers of [WindyCityR
 
 <!--more-->
 
-###Video Summary
+### Video Summary
 Here's the launch video:
 
 <div class="video-container">
 <iframe src="//player.vimeo.com/video/74022351" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-###Results
+### Results
 The youth who participated in the program were engaged and enthusiastic. The Monkey Bars team introduced the youth to the Arduino micro-controller and related hardware.  
 
 At the end of the program, parents arrived to take their kids home, and the kids were reluctant to leave! They were absorbed in their Arduino projects. Even better, friendships formed between the youth participants. 
 
 It's exciting to think about the new companies that may have been launched that day!
 
-###Next Year
+### Next Year
 Planning for next year's WindyCityRails, including the Youth Program, is currently underway. If there are things you'd like to see in next year's program, feel free to [contact the WindyCityRails organizers](http://windycityrails.org/contact).
 
 

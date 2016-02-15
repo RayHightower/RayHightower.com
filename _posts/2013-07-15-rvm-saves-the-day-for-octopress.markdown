@@ -28,10 +28,10 @@ Not good. What happened?
 
 <!--more-->
 
-###The Problem
+### The Problem
 From the error message, it appeared that my current version of Bundler was incompatible with Octopress. Googling for the error message (a favorite trick) was unhelpful. Had to try a different line of attack.
 
-###The Solution: Roll Back
+### The Solution: Roll Back
 Fortunately, I use [RVM](http://rayhightower.com/blog/2013/05/16/upgrading-ruby-with-rvm/). Currently installed versions of Ruby:
 
 ~~~bash
@@ -79,5 +79,5 @@ Successfully generated site: source -> public
 
 Success!
 
-###RVM Saves the Day
+### RVM Saves the Day
 Once again, RVM lets me recover quickly by shifting to an earlier version of Ruby. What's the root cause of the problem? I don't know at this point. But for now, the blog is up & running!
