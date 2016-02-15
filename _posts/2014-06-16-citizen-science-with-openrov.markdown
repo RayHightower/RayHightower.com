@@ -29,7 +29,7 @@ The OpenROV team has released all of their [schematics and source code](https://
 <!--more-->
 Eric and David were kind enough to invite me to their lab/manufacturing facility in Berkeley, California recently. Thank you, OpenROV makers!
 
-###Remotely Operated Vehicles 
+### Remotely Operated Vehicles 
 
 {% include image.html img="/images/controller.jpg" caption="Laptop, browser, and game controller." %}
 
@@ -43,7 +43,7 @@ Movements are controlled via a USB-connected video game controller. A Bluetooth-
 
 In other words, the computer that you’re using to read this article can probably control the OpenROV.
 
-###Citizen Science
+### Citizen Science
 Our world will always need professional scientists, people working in academia and in industry to push the frontier of knowledge. Some scientific problems require the attention of PhD-level professionals, while other problems are better solved through crowdsourcing. Enter the [citizen scientist](http://en.wikipedia.org/wiki/Citizen_science).
 
 Professional scientists are good at analyzing data, because that's what they have trained themselves to do. But data gathering requires less training than analysis. Citizen science and crowdsourcing work when there's an overwhelming volume of data to gather. Or when the breakthrough is beyond the reach of current scientific knowledge.
@@ -57,7 +57,7 @@ Amusingly, successful citizen scientists can be outwitted by their own expertise
 
 Shifting back to the 21st century: Thousands of citizen scientists are using OpenROV to explore oceans and lakes more thoroughly than ever before.
 
-###Open Source On-Site
+### Open Source On-Site
 {% include image.html img="/images/ui-discussion-2.jpg" caption="Enthusiasts collaborate on the next UI." %}
 On the day I visited the OpenROV factory, other underwater enthusiasts were on-site, working with company engineers on product improvements. One enthusiast is a professional pilot of manned submersibles, underwater vehicles large enough to hold people. This pilot has traveled as deep as 2,000 meters below the ocean's surface! "We're always looking at amperage", she said in a discussion with another enthusiast. A spike in amperage could indicate a ground fault, and batteries drain rapidly when that happens. You do not want to be stuck underwater when the batteries run out.
 
@@ -65,7 +65,7 @@ Another member of the open source community, an engineering veteran with decades
 
 That's how open source works at OpenROV. 
 
-###Hardware Testing
+### Hardware Testing
 {% include image.html img="/images/testing-motor-controller.jpg" caption="Testing new hardware." %}
 I offered to leave when the OpenROV team prepared to test some new components. After working in tech for decades, I've learned to respect a company's right to protect secrets. 
 
@@ -77,7 +77,7 @@ Four OpenROV makers gathered around a tank of water to test a new motor, control
 
 From the reaction of the team, it looks like they found some good components for the next batch of OpenROV kits.
 
-###Strong Minds Coming Together
+### Strong Minds Coming Together
 The mood in the OpenROV lab is a blend of excitement and technical expertise. Some of the people in the lab are members of the company. Others are adventurers fascinated with this inexpensive, effective way to explore. All are united in the quest to do something awesome with technology.
 
 OpenROV is what we get when the thirst for exploration blends with the open source movement. What a wonderful combination.

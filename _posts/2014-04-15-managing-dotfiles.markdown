@@ -32,7 +32,7 @@ drwxr-xr-x  14 rth  staff   476 Apr 14 02:25 .git
 
 The [.bash_profile](https://github.com/RayHightower/.dotfiles/blob/master/.bash_profile) in this example has grown to include aliases, path specifications, and a script that shows the current Git branch as part of the command prompt. The file also contains two aliases useful for showing or hiding dotfiles in the Finder: `showdots` and `hidedots`.
 
-###Putting Dotfiles in One Directory
+### Putting Dotfiles in One Directory
 Dotfiles are normally created in the user's home directory. For organization purposes, I moved my non-private dotfiles into a directory called `.dotfiles`, listed above. Unix makes this easy. First, move to the home directory and create `~/.dotfiles`.
 
 ~~~bash
@@ -58,7 +58,7 @@ $
 
 ~~~
 
-###Symbolic Links
+### Symbolic Links
 Symbolic links ensure that executables can find our dotfiles as needed. 
 
 ~~~bash
@@ -79,13 +79,13 @@ $
 
 In the above example, we created a symbolic link called `.bash_profile` to the real `~/.dotfiles/.bash_profile` located in the `.dotfiles` directory. That way, any program that's looking for the `.bash_profile` file in the home directory will find what it needs, even though the file is somewhere else.
 
-###Why Use Git to Manage Dotfiles?
+### Why Use Git to Manage Dotfiles?
 Git is a great tool for managing files that change over time. Dotfiles can change as we install new software or tweak our development environment. If we make a mistake, or if an installation script makes a mistake, we can use Git to roll back in history to a pre-mistake version of the dotfile.
 
-###Don't Make All Dotfiles Public
+### Don't Make All Dotfiles Public
 There are some dotfiles that you don't want to share publicly. For example, `.bash_history` contains all of the commands that have been executed in the shell. Do you really want the world that you sometimes `$ ssh myuserid@[embarassingdomainname].com`? Probably not. If you think that a dotfile might contain personal or confidential information, no need to broadcast it.
 
-###Learning More About Dotfiles
+### Learning More About Dotfiles
 Most of my dotfiles, like `.bash_profile`, don't contain anything private. In fact, most of what I know about dotfiles has come from other developers via books, user groups, blogs, and spelunking through GitHub. Dotfile collections by [Hashrocket](https://github.com/hashrocket/dotmatrix) and [Thoughtbot](https://github.com/thoughtbot/dotfiles) are  especially good. My `~/.dotfiles` directory is available for public viewing on [GitHub](https://github.com/RayHightower/.dotfiles).
 
 If you're doing something especially cool with your dotfiles, let's hear about it!

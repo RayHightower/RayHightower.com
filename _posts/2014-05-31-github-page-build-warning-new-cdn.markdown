@@ -18,7 +18,7 @@ Here are the important points of the of the `Page build warning` message:
 * If you do nothing to your GitHub Pages site, your pages will continue to load normally. People who visit your site will see no difference.
 * If you want the benefits of the CDN, follow the instructions given in GitHub's blog articles.
 
-###The Original Message
+### The Original Message
 Here’s the original message. If you’re satisfied with the above translation, you can skip this section.
 
 >The page build completed successfully, but returned the following warning:
@@ -31,7 +31,7 @@ Here’s the original message. If you’re satisfied with the above translation,
 
 >If you have any questions please contact us at https://github.com/contact.
 
-###First: Check the CNAME File
+### First: Check the CNAME File
 Since `RayHightower.com` was configured for Octopress a few years ago, it already had a `source/CNAME` file. To check the contents:
 
 ~~~bash
@@ -43,7 +43,7 @@ $
 ~~~
 The `CNAME` file looks fine, according to the GitHub's blog. Time for the next step.  
 
-###Next: Domain Records
+### Next: Domain Records
 The domain is registered with [DNSimple](http://dnsimple.com), so the process was relatively quick.
 
 1. Go into DNSimple's advanced editor for the domain.
@@ -55,5 +55,5 @@ More information on [GitHub Pages and DNSimple](http://support.dnsimple.com/arti
 
 I set TTL to 1 minute to encourage the changes to propagate quickly. If you know of a better configuration choice for TTL, please let me know in the comments below.
 
-###Expect Propagation Delays
+### Expect Propagation Delays
 DNS changes can take up to a day to propagate. Delays tend to be shorter with DNSimple because time-to-live (TTL) can be set as low as one minute for some records. Updates will be posted here as I learn more.
