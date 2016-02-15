@@ -16,7 +16,7 @@ Scientists at [Sandia National Laboratories](http://www.sandia.gov/) estimate th
 
 <!--more-->
 
-###Observations
+### Observations
 The solar Parallella idea was driven by a few observations:
 
 * Parallella only needs five watts of power, five volts at 1 ampere. The device might spike at startup or during heavy calculations, but not by much.
@@ -27,7 +27,7 @@ The solar Parallella idea was driven by a few observations:
 
 Can a cell phone solar charger be hacked to power Parallella? Yes!
 
-###Building the Hybrid Cable
+### Building the Hybrid Cable
 Here's how to get started...
 
 {% include image.html img="/images/parallella_usb_solar.jpg" caption="Making the connections." %}
@@ -46,6 +46,6 @@ You're done! Plug everything in and watch your Parallella boot up. Note that thi
 
 {% include image.html img="/images/parallella_solar_complete.jpg" caption="Parallella running on solar power." %}
 
-###Proof of Concept
+### Proof of Concept
 It probably doesn’t make sense to call this a project. It's more of a proof of concept. Scaling up will cost money and time. But the benefits of solar energy, including cost savings and reduced carbon footprint, make this a worthwhile path to pursue.
 
