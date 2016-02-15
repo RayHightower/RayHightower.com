@@ -81,9 +81,9 @@ Password: raspberry
 
 Several seconds later, you will be greeted with the $ prompt. You can continue to use the Pi in text mode, or you can start the X Window GUI with:
 
-``` bash
+~~~ bash
 $ startx
-```
+~~~
 
 ### Ruby with RVM
 
@@ -91,9 +91,9 @@ I am a big fan of [Ruby Version Manager (RVM)](http://rvm.io). I learn best when
 
 This command will install the latest stable versions of RVM and Ruby:
 
-``` bash
+~~~ bash
 $ curl -L https://get.rvm.io | bash -s stable --ruby
-```
+~~~
 
 It took over an hour for Ruby to compile on my Pi. The read/write speed of my SD card (Class 4) could have been a factor. I have a faster (Class 10) SD card on order.
 
@@ -101,23 +101,23 @@ It took over an hour for Ruby to compile on my Pi. The read/write speed of my SD
 
 First, make sure you're using the version of Ruby you want to use.
 
-``` bash
+~~~ bash
 $ rvm current
-```
+~~~
 
 Next, create a gemset and tell RVM that you want to use it.
 
-``` bash
+~~~ bash
 $ rvm use [version of Ruby you want to use]
 $ rvm gemset create firstgemset
 $ rvm gemset use firstgemset
-```
+~~~
 
 And then install Rails as you would on any other 'nix-based machine.
 
-```
+~~~
 $ gem install rails
-```
+~~~
 
 
 ### Gotchas
@@ -137,21 +137,21 @@ Overall, the gotchas were minor.
 
 To take screenshots of the Raspberry Pi desktop, I used Scrot (SCReenshOT). Here's how to install Scrot:
 
-```
+~~~
 $ sudo apt-get install scrot
-```
+~~~
 
 After you install Scrot, this command will take a shot of the entire desktop and drop it into a file called `desktop.png` in your home directory.
 
-```
+~~~
 $ scrot ~/desktop.png
-```
+~~~
 
 To pause five seconds before taking the screenshot:
 
-```
+~~~
 $ sleep 5; scrot ~/desktop.png
-```
+~~~
 
 <img style="margin-left:20px" src="/assets/raspberry-pi-analog-TV.jpg" width="400" align="right" title="Raspberry Pi Analog TV Monitor" alt="Raspberry Pi Analog TV Monitor" >
 
