@@ -12,7 +12,7 @@ published: false
 
 This article is based on a [gist posted by Ben Gotow](https://gist.github.com/bengotow/5552322).
 
-####Pong Returns
+### #Pong Returns
 We're getting a ton of mileage out of [Pong]() in these RubyMotion
 posts! This time, we'll use Pong as our test app for Spark Inspector.
 

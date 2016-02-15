@@ -9,10 +9,10 @@ This afternoon I was invited to speak at the June [Table Talks](http://www.table
 
 <!--more-->
 
-####PechaKucha
+### #PechaKucha
 Presentations were given in the [PechaKucha](http://www.pechakucha.org/faq) format, which encourages presenters to deliver the maximimum amount of useful information in a relatively short time. Each presenter is only allowed twenty slides, with twenty seconds per slide. Truly high impact!
 
-####Slides and Video
+### #Slides and Video
 Slides from the talk appear below. Video will be posted here as soon as it becomes available. _Update: Video has been [posted](/blog/2013/06/27/pechakucha-developer-education-at-tablexi/)._
 
 <center><script async class="speakerdeck-embed" data-id="391a4b80b66a013009c8226af5af9159" data-ratio="1.29456384323641" src="//speakerdeck.com/assets/embed.js"></script></center>
