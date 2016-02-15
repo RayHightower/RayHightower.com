@@ -17,7 +17,7 @@ linaro-nano:~>
 
 <!--more-->
 
-###Explicit Path
+### Explicit Path
 After a few experiments, we discovered that we could run RVM by explicitly specifying the path to the executable:
 
 ~~~bash
@@ -39,7 +39,7 @@ linaro-nano:~>
 
 Therefore, it appeared that the Ubuntu/Linux `$PATH` variable was being ignored. Google led us to consider the shell in use on the Parallella.
 
-###Which Shell Is In Use?
+### Which Shell Is In Use?
 The shell is just a program that lets humans talk to the Linux operating system through a command line interface. Several shell programs exist. Linux users tend to prefer one shell or another. The `$SHELL` environmental variable points to the one in use.
 
 ~~~bash
@@ -77,9 +77,9 @@ linaro-nano:~>
 
 ~~~
 
-###Consider Fish?
+### Consider Fish?
 Right after this exercise, Zach and [Josh Cheek](http://twitter.com/josh_cheek) had a Twitter conversation about a shell called [fish](http://fishshell.com/). Something new and shiny to explore!
 
-###Original Plan: Rubinius
+### Original Plan: Rubinius
 Did I mention that we originally planned to install [Rubinius](/blog/2014/02/06/installing-rubinius-using-rvm/) on the Parallella? Where there are goals, there are yaks waiting to be shaved!
 

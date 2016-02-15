@@ -12,7 +12,7 @@ I know this problem can be solved. I just haven’t figured it out yet, and I ne
 
 _Update: The OpenROV community delivered. Solution: [ESC Programming and Calibration for OpenROV](/blog/2014/08/21/esc-programming-and-calibration-for-openrov/)._
 
-###Parts That Work
+### Parts That Work
 Software image updates on the Beaglebone Black work flawlessly thanks to scripts written by [Brian Adams](https://github.com/BrianAdams) and [Dominick Fretz](https://github.com/codewithpassion). The cockpit software shows a real-time image from the camera, the LED lights are super-bright, and the lasers hold steady at 10cm apart. My fully assembled OpenROV passes the water submersion test. Yes, it’s waterproof, thanks to O-rings and silicon-based lubricant!
 
 What about the motors? The motors work, almost. Could it be the
@@ -21,7 +21,7 @@ perfect soldering? That's where I need help.
 
 <!--more-->
 
-###Summary of Symptoms
+### Summary of Symptoms
 With the cockpit software running and attached to the OpenROV:
 
 * If I turn on any of the three ESCs, two of the motors (vertical and port) start running at full blast. The starboard motor remains stationary.
@@ -36,7 +36,7 @@ When the cockpit software is not running (and the Google Chrome browser is compl
 
 Interesting behavior!
 
-###Double-Checking the ESC Settings
+### Double-Checking the ESC Settings
 
 {% include image.html img="/images/esc_program_card.jpg" caption="ESC Program Card" %}
 During troubleshooting, my first step was to double-check the electronic speed controller (ESC) settings. Setting the ESCs with the beep-and-button-push method was time consuming. And I was concerned that I may have made a mistake in counting the beeps.
@@ -45,7 +45,7 @@ Solution: I bought an ESC program card. Amazon sells them for less than fifteen 
 
 According to the program card, all of the ESC settings are correct.
 
-###Using a Power Supply Instead of Batteries
+### Using a Power Supply Instead of Batteries
 All of the time spent troubleshooting drained the OpenROV batteries. So I devised a way to apply power directly to the OpenROV without batteries.
 
 {% include image.html img="/images/openrov_power_supply.jpg" caption="Directly connected to power supply." %}
@@ -60,7 +60,7 @@ I find that this hack works best if I connect the 12 volt setup first while the 
 
 If you're reading this section and you know a better way for me to connect the power supply, please advise in the comments section below.
 
-###Advice Welcome
+### Advice Welcome
 I'm not sure where to look next to solve the challenge with the motors. Maybe I skipped a step somewhere during assembly? Advice welcome!
 
 _Update: As noted at the beginning of this article, this problem has been solved. Solution: [ESC Programming and Calibration for OpenROV](/blog/2014/08/21/esc-programming-and-calibration-for-openrov/)._

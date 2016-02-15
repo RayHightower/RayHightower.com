@@ -8,7 +8,7 @@ tags: [ BeagleBone_Black, IoT, OpenROV ]
 
 {% include image.html img="/images/openrov_esc.jpg" caption="Three ESCs, one for each motor. Each ESC has a switch and a power/signal connector." %}
 
-###ESCs: New Experience for Me
+### ESCs: New Experience for Me
 Electronic speed controllers (ESCs) were completely new to me when I first assembled my [OpenROV](/blog/2014/06/16/citizen-science-with-openrov/). This article documents my initial misunderstanding (and eventual understanding) of ESCs so that future builders can move forward with fewer glitches.
 
 <!--more-->
@@ -16,7 +16,7 @@ Electronic speed controllers (ESCs) were completely new to me when I first assem
 The photo at the top of this page shows an OpenROV controller board, a
 BeagleBone Black, and three ESCs. This article will focus on the ESCs.
 
-###Remember This About ESCs
+### Remember This About ESCs
 Until all three ESCs are programmed _and_ calibrated, the OpenROV might behave erratically. For example...
 
 * The servo that moves the camera up and down will not respond to keyboard commands. 
@@ -28,7 +28,7 @@ I reached out to the [forum](http://openrov.com/forum) where OpenROV engineer Br
 
 The bottom line: Do the ESC programming and calibration first. If the OpenROV misbehaves, re-check programming and calibration before considering other solutions.
 
-###Why Use ESCs?
+### Why Use ESCs?
 Since ESCs require so many steps (programming and calibration) we might logically ask: _Why use ESCs at all?_ Why not use simple analog motors without controllers and call it a day?
 
 We use ESCs because the benefits outweigh the work required to configure them. It's all about control. By using an ESC to control each motor, we can use software to specify the _exact_ number of RPMs and direction for each motor. We can make any motor (or combination or motors) start, stop, or change direction on a dime. Even better: When we move a lever on our controller of choice (keyboard, game controller, etc.) software on the OpenROV controller board decides the exact number of RPMs for each motor at that instant. OpenROV pilots don't need to think about this process while it happens. It just works.
@@ -37,13 +37,13 @@ The pilot's finger moves a controller lever. The lever position gets sent to sof
 
 In summary, we use ESCs so that OpenROV pilots can have greater control over movement.
 
-###How to Re-Check ESC Programming
+### How to Re-Check ESC Programming
 
 {% include image.html img="/images/esc_program_card.jpg" caption="ESC program card." %}
 
 Those of you with ESC experience already know about ESC program cards. I first learned about the cards while researching this problem. Amazing devices! Yes, it is possible to program ESCs using the series of button pushes and beeps in the OpenROV instructions. That's what I did, and it works. But a program card is faster. Amazon sells ESC program cards for less than fifteen dollars each. Well worth the investment, especially if you're programming ESCs for several OpenROVs.
 
-###ESC Calibration Gotcha
+### ESC Calibration Gotcha
 ESC calibration was tricky for me because turning on any of the three ESC switches caused two of my motors to spin: vertical and port. Further, since my electronics chassis was (mostly) assembled by the time I got to the calibration step, it wasn't easy for me to trace each power switch to its corresponding ESC.
 
 So here's what I had to do. 
@@ -54,7 +54,7 @@ So here's what I had to do.
 * Next, I labeled the back of each ESC switch with its corresponding ESC number. I did not want to go through the disassembly step again! The Brother P-Touch label maker was perfect for this step.
 * Finally, I followed the ESC calibration steps _while ignoring the behavior of the motors_. For example, turning on ESC1 caused the motors connected to ESC1 (port) _and_ ESC2 (vertical) to spin. I ignored the motors while plowing through OpenROV's written calibration steps.
 
-###Modified Calibration Steps
+### Modified Calibration Steps
 Here are the OpenROV calibration steps, with slight tweaks based on my personal experience.
 
 {% include image.html img="/images/openrov_calibration_sliders.jpg" caption="Click 'Diagnostics' from the OpenROV cockpit." %}
@@ -79,7 +79,7 @@ After calibration:
 
 In other words, calibration worked when I ignored the behavior of the motors while plowing through the steps.
 
-###Success
+### Success
 There is great satisfaction in solving an elusive problem. The OpenROV forum proved to be a powerful and useful resource. Next step: [Piloting the OpenROV in Lake Michigan](/blog/2014/08/22/openrov-meets-chicago-lake-michigan/).
 
 _Photo acknowledgement: The original version of the ESC photo was published in the [OpenROV assembly manual](http://openrov.dozuki.com/Guide/How+to+Assemble+OpenROV+2.6/6). Thanks OpenROV team!_

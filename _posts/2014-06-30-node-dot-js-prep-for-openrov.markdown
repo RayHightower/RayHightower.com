@@ -14,10 +14,10 @@ You don't need to know Node.js in order to pilot an OpenROV. And you don't need 
 
 <!--more-->
 
-###Mac OS X and Node.js
+### Mac OS X and Node.js
 Everything written here applies to Node.js as it runs on Mac OS X. If your local machine runs Linux or Windows, you will need to consult other resources in order to run Node locally.
 
-###Homebrew First
+### Homebrew First
 Make sure you’re running [Homebrew](/blog/2014/02/12/homebrew-fundamentals/) on your Mac. Homebrew is a seamless way to manage packages on Mac OS X. To install Homebrew...
 
 ~~~bash
@@ -32,7 +32,7 @@ $ brew doctor
 
 ~~~
 
-###Installing Node.js
+### Installing Node.js
 Now that Homebrew is installed and running, Node.js can be installed with a single line command.
 
 ~~~bash
@@ -52,7 +52,7 @@ v0.10.26
 $ 
 ~~~
 
-###Hello World in Node.js
+### Hello World in Node.js
 You know the compter science tradition: The first program in any new language has to say "Hello World." Here's a sample `Hello World` program from the official [Node.js](http://nodejs.org) web site, slightly modified to suit OpenROV.
 
 First, create a file called `helloworld.js` and fill it with the following code.
@@ -83,7 +83,7 @@ Finally, open up a web browser on your local machine and navigate to `http://127
 
 Now that you have Node.js running locally, you're ready to explore the [OpenROV repo on GitHub](http://github.com/openrov).
 
-###Next Steps
+### Next Steps
 Future blog posts about Node.js and OpenROV will consider questions like:
 
 * What does Node.js do for OpenROV that other languages can’t do?

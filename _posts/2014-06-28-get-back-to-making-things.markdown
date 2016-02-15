@@ -18,17 +18,17 @@ The author was not a born maker. But through force of will, discipline, and the 
 
 <!--more-->
 
-###Making is a Team Sport 
+### Making is a Team Sport 
 _Zero to Maker_ will not teach you how to use tools, what to make, or what manuals to read. But it will put you on the path to learning. For example, the author shares his first experience at a [Maker Faire](http://makerfaire.com/), a gathering for people who make things. Many of the exhibitors have spent decades honing their skills, while some are brand new and full of enthusiasm. Everyone shares knowledge in the Maker community. And as a result, everyone grows.
 
 Maker Spaces are places where tools and expertise are shared on a regular basis. [Noisebridge](https://www.noisebridge.net/) is a maker space in San Francisco where the author got some of his early experience with specialized tools. [Pumping Station One](http://pumpingstationone.org/) and [Southside Hackerspace Chicago](http://www.sshchicago.org/) shoot for similar goals in Chicago. 
 
 The author points out that no matter what you're trying to make, chances are that someone else has made something similar and they can share experience with you. Likewise, you have experience that other makers may find valuable, even on day one of your maker journey. Sometimes we don't know what we know. Maker communities remove the friction so that knowledge can be shared more freely.
 
-###The IKEA Effect
+### The IKEA Effect
 Why is the maker movement so powerful? The author explores this question in one very interesting section of the book. As it turns out, Researchers at the Harvard Business School think they have the answer. When we put our sweat and effort into building a project, we perceive the project to be more valuable. The researchers refer to this phenomenon as the IKEA effect. If we sweat to build something, it becomes valuable to us.
 
-###Recommendation
+### Recommendation
 If you are a maker, or if you want to become a maker, this book is worth reading. And once you're done reading, go make something!
 
 _Note: A version of this article is also posted at [http://www.chicagoruby.org/book-reviews/](http://www.chicagoruby.org/book-reviews/)._
