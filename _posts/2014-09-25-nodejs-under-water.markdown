@@ -29,7 +29,7 @@ Slides appear below.
 &nbsp;<br/>
 &nbsp;<br/>
 
-###Next Step With OpenROV
+### Next Step With OpenROV
 
 Our work with OpenROV will climax at [RubyCaribe](http://rubycaribe.com) in January 2015. If you're an intermediate or advanced software developer, and if you like to stretch your brain with Ruby and other languages (like Node.js) then RubyCaribe might be for you.
 
