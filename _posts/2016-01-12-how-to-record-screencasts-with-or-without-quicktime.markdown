@@ -30,7 +30,7 @@ If you have a Mac with QuickTime installed, you have everything you need. Yes, t
 
 2. Go into your `Applications` folder and start QuickTime.
 
-3. Choose `File` | `New Screen Recording`. Decide whether to include audio with your recording. I rarely include audio because most of my screen recordings are for live presentations where I will be present and speaking to a live audience.
+3. Choose `File` \| `New Screen Recording`. Decide whether to include audio with your recording. I rarely include audio because most of my screen recordings are for live presentations where I will be present and speaking to a live audience.
 
 4. Drag your mouse to specify the area of the screen that you want to record.
 
