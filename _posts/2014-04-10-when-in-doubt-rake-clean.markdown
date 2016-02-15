@@ -32,7 +32,7 @@ Not yet.
 
 <!--more-->
 
-###Cooler Heads
+### Cooler Heads
 Every time RubyMotion build an app, it stores the results in the `./build` directory. Since I had just done an upgrade, it was possible that remnants from a `v 2.24` build were interfering with my new `v 2.26` build. The solution?
 
 

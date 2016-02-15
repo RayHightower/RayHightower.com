@@ -13,7 +13,7 @@ Either there was a bug in Git, or my understanding of `.gitignore` was incomplet
 
 <!--more-->
 
-###What I Learned About .gitignore
+### What I Learned About .gitignore
 The root cause of my problem: Once Git has begun tracking a file or directory, adding it to `.gitignore` changes nothing. Git will continue to track the file unless we explicitly tell Git to stop tracking the file.
 
 ~~~bash
@@ -34,6 +34,6 @@ The `-r` flag will tell Git to stop tracking all of the sub-directories and file
 
 Git was behaving exactly as designed. 
 
-###Penalty
+### Penalty
 I should have known this a long time ago. My penalty: A public admission :-) 
 

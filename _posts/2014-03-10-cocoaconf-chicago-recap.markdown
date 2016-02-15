@@ -18,10 +18,10 @@ CocoaConf's presenters are practicing developers, actively building real softwar
 
 <!--more-->
 
-###Customers Will Pay for Services
+### Customers Will Pay for Services
 [Justin Williams](https://twitter.com/justin) kicked things off with a keynote titled _10 Things I Think I Think_. Williams recently acquired [Glassboard](http://glassboard.com/), so his developer skills are blended with the insights of a business owner. His list of ten included one approach to making money from mobile apps: Forget about selling a million copies in the App Store. Instead, create a service, charge a monthly fee for the service, and give the app away for free so customers can engage with the service. Engaged customers will continue to pay the monthly fee. When customers are served well, they will pay.
 
-###Effective iOS 7 Networking
+### Effective iOS 7 Networking
 
 {% include image.html img="/images/afnetworking-charles.png" caption="Charles shows network connections." %}
 
@@ -36,7 +36,7 @@ It is also interesting to note what tools the presenters use in their
 daily work. Scheirman uses [Charles](http://www.charlesproxy.com/)
 to monitor network traffic between machines, and to track down hiccups.
 
-###Xcode Walkabout
+### Xcode Walkabout
 
 {% include image.html img="/images/xcode-git-commit.png" caption="Showing Git commit messages in Xcode." %}
 
@@ -44,13 +44,13 @@ Most of my iOS time is spent with [Vim](/blog/2013/01/12/why-i-use-vim/) and [Ru
 
 Like many developers on the Apple platforms, Savino has a love/hate relationship with Xcode. She almost titled her talk "stupid little buttons that don't even look like buttons." Savino summarized several years of Xcode immersion and pair programming into 60 minutes of little-known tips and tricks. For example, Xcode plays nicely with Git (you can even show commit messages within the IDE). And it's possible to use Vim key bindings while editing files.
 
-###Sprite Kit
+### Sprite Kit
 
 [Josh Smith](http://twitter.com/kognate)'s Sprite Kit presentation was full of gotcha-eliminating information. For example, the coordinate systems for Sprite Kit and UIKit are inverted. I'm sure this is documented somewhere, but I didn't know about it! The bottom line with Sprite Kit: We can add animation to our apps without doing all of the fundamental work. Saves time.
 
 Slides and code are posted in a single [repo on GitHub](https://github.com/kognate/presentations). Worth looking at.
 
-###Parallel Computing with OpenCL
+### Parallel Computing with OpenCL
 
 The parallel computing talk by [Jeff Biggus](http://twitter.com/hyperjeff) was the most mind-blowing session of CocoaConf, for me. The presentation was exciting because it tied our current set of tools (like [GCD](https://developer.apple.com/library/ios/documentation/Performance/Reference/GCD_libdispatch_Ref/Reference/reference.html)) with high performance computing work currently underway at universities and at corporations like NVidia. When theory blends with application, great things can be achieved.
 
@@ -61,7 +61,7 @@ Biggus shared some of the work of [OpenCL](https://www.khronos.org/opencl/), a s
 
 Unless we can figure out how to [rewrite the laws of physics](http://en.wikipedia.org/wiki/Montgomery_Scott), the next advances in computing performance will come from making processors work together without stepping on each other's toes.
 
-###The Klein Family
+### The Klein Family
 
 2014 marks CocoaConf's third year in the Chicago area. The conference is run by Dave and Debbie Klein and their 14 children. [About The Family Behind CocoaConf](http://cocoaconf.com/family) gives details.
 
