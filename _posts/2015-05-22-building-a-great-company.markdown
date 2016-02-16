@@ -23,7 +23,7 @@ The study only focused on publicly traded companies since their financial data i
 
 Special attention was paid to companies that delivered average or poor results for fifteen years, followed by a sudden shift to great results. The team’s driving question: What are the universal distinguishing characteristics that cause a company to go from good to great? Or, in the diagram at the top of this article: What’s inside the black box?
 
-###￼What Great Companies Do
+### What Great Companies Do
 
 Collins and his team observed that great companies are great because of the way they think and act. This article will discuss two findings from the study:
 
