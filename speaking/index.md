@@ -25,6 +25,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Upcoming:
 
+<a href="https://confoo.ca/en" lang="en"><img alt="ConFoo | Feb 24 - Feb 26 | Montreal, Canada" align="right" style="border:0" width="180" height="130" src="https://confoo.ca/images/propaganda/2016/en/speaking.png" /></a>
 * [ConFoo](http://confoo.ca)<br/>Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>&nbsp;<br/>
 * [Geekfest at Groupon](http://www.meetup.com/Geekfest/events/227841182/)<br/>Chicago, IL, USA<br/>Mar 8, 2016<br/>&nbsp;<br/>
 * [Flourish! 2016](http://flourishconf.com/2016)<br/>Chicago, IL, USA<br/>April 1-2, 2016<br/>&nbsp;<br/>
