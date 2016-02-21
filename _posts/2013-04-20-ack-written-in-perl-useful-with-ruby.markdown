@@ -51,11 +51,9 @@ under the terms of the Artistic License v2.0.
 Installation complete. Now, let's take Ack for a spin.
 
 ### Using Ack at the Command Line
-For a sample project, let's use `demo_app` from Michael Hartl's [Ruby on
-Rails Tutorial](http://rubyonrailstutorial.com). Imagine that you want
-to find every file in the project that references `user_id`. How would
-you do that?
-<img src="/images/ack_user_id.png" align="center" height="650" width="887" alt="Ack command line demo" title="Ack command line demo">
+For a sample project, let's use `demo_app` from Michael Hartl's [Ruby on Rails Tutorial](http://rubyonrailstutorial.com). Imagine that you want to find every file in the project that references `user_id`. How would you do that?
+
+<img src="/images/ack_user_id.png" align="center" alt="Ack command line demo" title="Ack command line demo">
 
 Fast, clear, and highlighted in color. Bonus: If you're a Vim user,
 try [ack.vim](https://github.com/mileszs/ack.vim) if you want to run Ack
