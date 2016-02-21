@@ -5,7 +5,7 @@ date: 2013-04-20 17:12
 comments: true
 tags: [Education, Linux, OS_X, Rails, Ruby, Vim]
 ---
-<img src="/images/ack.png" align="right" height="237" width="230" alt="Ack Linux Mac OS X" title="Ack Linux Mac OS X">
+<img src="/images/ack.png" style="margin-left:1em;" align="right" height="237" width="230" alt="Ack Linux Mac OS X" title="Ack Linux Mac OS X">
 
 [Ack](http://beyondgrep.com/) is an open source command line tool that lets developers search large trees of source code very quickly. If you are looking for a method definition in a haystack of files, Ack will find that needle for you. Many devs regard Ack as a replacement for [grep](http://en.wikipedia.org/wiki/Grep).
 
