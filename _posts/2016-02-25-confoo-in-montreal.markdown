@@ -4,7 +4,7 @@ title:  ConFoo in Montreal
 date:   2016-02-25
 comments: true
 tags: [ Community, Parallella ]
-published: true
+published: false
 ---
 <img src="/images/confoo.gif" align="right" style="margin-left:10px;">
 [ConFoo](http://confoo.ca) is a nine-track conference for web developers, held every year in Montreal, Canada. Multiple languages and framework are represented: Python, .Net, Ruby, C#, JavaScript... the works. ConFoo also offered a healthy helping of IoT: Arduino, Raspberry Pi, and Parallella (presented by this author).
