@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ConFoo in Montreal
-date:   2016-02-25
+date:   2016-02-26
 comments: true
 tags: [ Community, Parallella ]
 published: true
