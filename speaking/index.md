@@ -25,9 +25,6 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Upcoming:
 
-<a href="https://confoo.ca/en" lang="en"><img alt="ConFoo | Feb 24 - Feb 26 | Montreal, Canada" align="right" style="border:0" width="180" height="130" src="https://confoo.ca/images/propaganda/2016/en/speaking.png" /></a>
-
-* [ConFoo](http://confoo.ca)<br/>Montreal, QB, Canada<br/>Feb 24-26, 2016<br/>&nbsp;<br/>
 * [Geekfest at Groupon](http://www.meetup.com/Geekfest/events/227841182/)<br/>Chicago, IL, USA<br/>Mar 8, 2016<br/>&nbsp;<br/>
 * [Flourish! 2016](http://flourishconf.com/2016) - University of Illinois at Chicago (UIC)<br/>Chicago, IL, USA<br/>April 1-2, 2016<br/>&nbsp;<br/>
 * [Ancient City Ruby](http://www.ancientcityruby.com/)<br/>St. Augustine, FL, USA<br/>April 6-8, 2016<br/>&nbsp;<br/>
@@ -35,6 +32,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Additional Speaking History:
 
+* [ConFoo](http://confoo.ca)<br/>Montreal, QC, Canada<br/>&nbsp;<br/>
 * in5 hub Innovation Centre <br/>Dubai, UAE<br/>&nbsp;<br/>
 * DevNights at The Cribb <br/>Dubai, UAE<br/>&nbsp;<br/>
 * Association for Computing Machinery (ACM)<br/>Chicago, IL, USA<br/>&nbsp;<br/>
