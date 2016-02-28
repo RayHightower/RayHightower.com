@@ -6,7 +6,7 @@ comments: true
 tags: [ Community, Parallella ]
 published: true
 ---
-<img src="/images/confoo.gif" align="right" style="margin-left:10px;">
+<img src="/images/confoo.png" align="right" width="200" height="45" style="margin-left:10px;">
 [ConFoo](http://confoo.ca) is a nine-track conference for web developers, held every year in Montreal, Canada. Multiple languages and framework are represented: Python, .Net, Ruby, C#, JavaScript... the works. ConFoo also offers a healthy helping of IoT including Arduino and Raspberry Pi. This year, the organizers invited yours truly to present Parallella. Thanks organizers!
 
 <!--more-->
