@@ -7,7 +7,7 @@ tags: [ Git, Parallella ]
 published: true
 ---
  
-{% include image.html img="/images/git_200.png" %} 
+<img src="/images/git_200.png" width="200" height="84" align="right" style="margin-left:10px">
 [Git](http://git-scm.org) is the dominant version control system for open source software. When you first burn a [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/) image, `git` is installed, but it’s configured with the name and email address for the CEO of Adapteva, makers of the Parallella. This article shows a quick way to update your Parallella's git config with your own information.
 
 <!--more-->
