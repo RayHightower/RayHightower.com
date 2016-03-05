@@ -32,7 +32,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Additional Speaking History:
 
-* [ConFoo](http://confoo.ca)<br/>Montreal, QC, Canada<br/>&nbsp;<br/>
+* [ConFoo 2016](http://confoo.ca)<br/>Montreal, QC, Canada<br/>&nbsp;<br/>
 * in5 hub Innovation Centre <br/>Dubai, UAE<br/>&nbsp;<br/>
 * DevNights at The Cribb <br/>Dubai, UAE<br/>&nbsp;<br/>
 * Association for Computing Machinery (ACM)<br/>Chicago, IL, USA<br/>&nbsp;<br/>
