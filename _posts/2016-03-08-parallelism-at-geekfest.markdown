@@ -4,7 +4,7 @@ title:  Parallelism at Geekfest
 date:   2016-03-08
 comments: true
 tags: [ Community, Parallella ]
-published: false
+published: true
 ---
 The need for speed is driving more developers to explore parallelism as a way to improve performance. Parallella offers an inexpensive way to experiment with the new paradigm. 
 
