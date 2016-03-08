@@ -6,6 +6,7 @@ comments: true
 tags: [ Community, Parallella ]
 published: true
 ---
+
 The need for speed is driving more developers to explore parallelism as a way to improve performance. Parallella offers an inexpensive way to experiment with the new paradigm. 
 
 Groupon's Software Engeineering Team invited me to share some of my Parallella explorations during [Geekfest](http://www.meetup.com/Geekfest/events/227841182/) this afternoon. Slides from the presentation appear below:
