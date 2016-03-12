@@ -33,3 +33,5 @@ Thank you Jim and Jen Remsik for a great conference. I wish you well with everyt
 
 Future computers will achieve faster performance through parallelism. If you want to learn more about this trend, consider exploring Parallella for yourself. The <a href="/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/">Parallella Quick Start Guide</a> might be useful.
 
+Source code and schematics for Parallella can be found on GitHub
+([Parallella](http://github.com/parallella) | [Adapteva](http://github.com/adapteva)).
