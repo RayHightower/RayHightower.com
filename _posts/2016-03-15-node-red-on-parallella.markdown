@@ -13,6 +13,8 @@ When you’re building a project using physical components (atoms) instead of so
 
 Solve the problem before
 
+<!--more-->
+
 ### Get the Latest Version of Node.js
 
 ~~~ bash
