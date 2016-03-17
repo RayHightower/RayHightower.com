@@ -13,7 +13,7 @@ published: true
 Video: Molten bronze is poured by makers at the Chicago Industrial Arts & Design Center (CIADC).
 
 <div class="video-container">
-<iframe width="560" height="200" src="https://www.youtube.com/embed/YFNvNHFvIdQ?rel=0" frameborder="0" name="bronze_pour" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/YFNvNHFvIdQ?rel=0" frameborder="0" name="bronze_pour" allowfullscreen></iframe>
 </div>
 <br/>&nbsp;
 
