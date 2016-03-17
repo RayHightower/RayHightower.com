@@ -3,7 +3,7 @@ layout: post
 title:  Node-RED on Parallella
 date:   2016-03-15
 comments: true
-tags: 
+tags: [ NodeJS ]
 published: true
 ---
  
