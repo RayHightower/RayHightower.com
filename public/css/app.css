@@ -108,11 +108,12 @@ ul.topnav ul.right {
     display: inline;
   }
   .events-footer img {
-    width: 150px;
+    width: 250px;
     list-style-type: none;
     padding: 2px 10px 2px 10px;
     margin-bottom: 5px;
     margin-top: 0;
+    margin-left: 20px;
     background-color: white;
     border-radius: 5px;
   }
