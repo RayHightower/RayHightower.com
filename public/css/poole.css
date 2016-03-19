@@ -79,6 +79,9 @@ html {
     display: inline;
     width: 60%;
   }
+  .events-footer {
+    display: none;
+  }
 }
 
 .sidebar-vim p {
