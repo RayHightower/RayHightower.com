@@ -104,5 +104,8 @@ ul.topnav ul.right {
   .topnav {
     display: none;
   }
+  .events-footer {
+    display: inline;
+  }
 }
 
