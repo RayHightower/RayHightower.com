@@ -105,15 +105,19 @@ ul.topnav ul.right {
     display: none;
   }
   .events-footer {
-    display: inline;
+    display: block;
+    background-color: #333;
+    margin: auto;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
   }
   .events-footer img {
-    width: 250px;
+    width: 80%;
     list-style-type: none;
-    padding: 2px 10px 2px 10px;
-    margin-bottom: 5px;
-    margin-top: 0;
-    margin-left: 20px;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    margin-bottom: 20px;
     background-color: white;
     border-radius: 5px;
   }
