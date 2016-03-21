@@ -93,12 +93,13 @@ html {
 }
 
 .sidebar-vim img {
-  width: 100px;
+  width: 70px;
   list-style-type: none;
-  padding: 2px 10px 2px 10px;
+  padding: 2px 2px 2px 2px;
   margin-bottom: 5px;
   margin-top: 0;
-  background-color: #ccc;
+  margin-right: 15px;
+  background-color: #bbb;
   border-radius: 5px;
 }
 
