@@ -9,6 +9,9 @@ published: true
 
 >Don't just be stuck with an idea in your head. Build it, and get it in your hands.<br/>&nbsp;<br/>~Alan Baker of Chicago Industrial Arts & Design Center
 
+The [Chicago Chapter](http://www.meetup.com/acm-chicago/events/229049466/) of the Association for Computing Machinery (ACM) hosted a special meeting at the Chicago Industrial Arts & Design Center ([CIADC](http://www.ciadc.org/)) on Wednesday evening. It's tempting to call CIADC a maker space because it certainly appeals to makers. But as the ACM group learned during a tour, CIADC stretches beyond making and into empowerment.
+
+<!--more-->
 
 Video: Molten bronze is poured by makers at the Chicago Industrial Arts & Design Center (CIADC).
 
@@ -16,10 +19,6 @@ Video: Molten bronze is poured by makers at the Chicago Industrial Arts & Design
 <iframe src="https://www.youtube.com/embed/YFNvNHFvIdQ?rel=0" frameborder="0" name="bronze_pour" allowfullscreen></iframe>
 </div>
 <br/>&nbsp;
-
-The [Chicago Chapter](http://www.meetup.com/acm-chicago/events/229049466/) of the Association for Computing Machinery (ACM) hosted a special meeting at the Chicago Industrial Arts & Design Center ([CIADC](http://www.ciadc.org/)) on Wednesday evening. It's tempting to call CIADC a maker space because it certainly appeals to makers. But as the ACM group learned during a tour, CIADC stretches beyond making and into empowerment.
-
-<!--more-->
 
 ### Makers and Computers
 
