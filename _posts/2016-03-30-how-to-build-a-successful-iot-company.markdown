@@ -4,7 +4,7 @@ title:  How to Build a Successful IoT Company
 date:   2016-03-30 
 comments: true
 tags: [ Business, Community, IoT ]
-published: false
+published: true
 ---
 >Find a need and fulfill it. Successful businesses are founded on the needs of people.<br/>&nbsp;<br/>~A. G. Gaston
 
