@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Food Safety and IoT
-date:   2016-03-23 
+title:  How to Build a Successful IoT Company
+date:   2016-03-30 
 comments: true
 tags: [ Business, Community, IoT ]
 published: false
