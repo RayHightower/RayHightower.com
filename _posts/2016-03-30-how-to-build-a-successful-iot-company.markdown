@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  How to Build a Successful IoT Company
-date:   2016-03-30 
+date:   2016-03-29 
 comments: true
 tags: [ Business, Community, IoT ]
 published: true
 ---
 >Find a need and fulfill it. Successful businesses are founded on the needs of people.<br/>&nbsp;<br/>~A. G. Gaston
 
-The Internet of Things sits at the peak of the Gartner Hype Cycle. And yet some companies figure out how to navigate around the hype into a river of profit. [IoT Chicago](http://www.meetup.com/Internet-of-Things-IoT-Chicago/) recently invited [John Hennessy](https://www.linkedin.com/in/selltheprize), senior vice president with [Locus Traxx](http://www.locustraxx.com/), to tell their IoT success story.
+The Internet of Things is surrounded by hype. And yet a few companies have figured out how to navigate around the hype into a river of profit. [IoT Chicago](http://www.meetup.com/Internet-of-Things-IoT-Chicago/) recently invited [John Hennessy](https://www.linkedin.com/in/selltheprize), senior vice president with [Locus Traxx](http://www.locustraxx.com/), to tell their IoT success story.
 <!--more-->
 
 ### About Locus Traxx
