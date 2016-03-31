@@ -11,14 +11,14 @@ published: true
 
 The Internet of Things is surrounded by hype. But a few companies are navigating beyond the hype into a river of profit. [IoT Chicago](http://www.meetup.com/Internet-of-Things-IoT-Chicago/) recently invited [John Hennessy](https://www.linkedin.com/in/selltheprize), founder of [Sell the Prize](http://www.selltheprize.com/), to share the IoT success story of [Locus Traxx](http://www.locustraxx.com/).
 
-<!--more-->
-
 ### Preserving Perishable Goods
 
 <img src="/images/medicine.jpg" align="right" width="300" style="margin-left:10px;">
 Locus Traxx uses IoT to ensure that perishable goods are shipped safely. 
 
 For example, if delicate medications are transported in a hot shipping container, the goods could spoil and lives could be put in danger. Locus Traxx makes sensors that monitor temperature and other environmental factors during transport to ensure that sensitive shipments arrive intact. The sensors send data to a cloud app in real time, while the data is collected, so shipping managers can monitor product health during transport.
+
+<!--more-->
 
 Other products from Locus Traxx are useful for preventing theft. Door sensors, combined with GPS, tell shipment owners exactly when and where doors are opened during transport. If you are shipping a truck-load of expensive flat panel TVs, you want your goods to arrive at your customer's loading dock, not at an impromptu sidewalk sale.
 
