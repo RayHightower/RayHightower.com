@@ -42,7 +42,7 @@ Food safety is a big concern, and you have to get it right. That's when Locus Tr
 
 Hennessy was a senior exec with Locus Traxx at the time. He began the company's pivot with a simple message, sent via email to decision makers in the food industry.
 
->I can make sure your shipments arrive fresh, safe, and on time. But I can only do that if you call me at [phone number].<br/>~John Hennessy
+>I can make sure your shipments arrive fresh, safe, and on time. But I can only do that if you call me at [phone number].<br/>&nbsp;<br/>~John Hennessy
 
 Food safety was the pivot point.
 
