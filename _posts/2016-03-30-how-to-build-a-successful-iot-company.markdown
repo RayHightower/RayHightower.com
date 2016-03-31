@@ -9,7 +9,7 @@ published: true
 
 >Find a need and fulfill it. Successful businesses are founded on the needs of people.<br/>&nbsp;<br/>~A. G. Gaston
 
-The Internet of Things is surrounded by hype. But a few companies are navigating around the hype into a river of profit. [IoT Chicago](http://www.meetup.com/Internet-of-Things-IoT-Chicago/) recently invited [John Hennessy](https://www.linkedin.com/in/selltheprize), founder of [Sell the Prize](http://www.selltheprize.com/), to share the IoT success story of [Locus Traxx](http://www.locustraxx.com/).
+The Internet of Things is surrounded by hype. But a few companies are navigating beyond the hype into a river of profit. [IoT Chicago](http://www.meetup.com/Internet-of-Things-IoT-Chicago/) recently invited [John Hennessy](https://www.linkedin.com/in/selltheprize), founder of [Sell the Prize](http://www.selltheprize.com/), to share the IoT success story of [Locus Traxx](http://www.locustraxx.com/).
 
 <!--more-->
 
