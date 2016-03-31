@@ -154,4 +154,25 @@ load: 1.41  cmd: dd 5933 uninterruptible 0.00u 6.59s
 
 ~~~
 
+From here, you can ejec the SD card from your Mac and insert it the micro-SD card reader on the Pine64. Apply power to the Pine64 and... it boots!
+
+
+### Comparaing Pine64 vs Parallella
+
+It is natural to compare Pine64 with Parallella. Both are multi-core,
+single board computers running Linux. After owning the Pine64 for just a
+few hours, here are my first impressions (comingled with data).
+
+* Pine64 feels fast. It boots faster than Parallella and it responds
+quicker to commands. I'll run benchmarks in coming weeks.
+
+* Parallella comes with more software out-of-the-box. Vim, Emacs, and
+Git are all present on the Parallella Linux image. Not so with Pine64.
+
+* Pine64 has better hardware connections for power, HDMI, and USB. On
+the Pine64, all of these connections are standard, full-size. Further,
+you can connect a keyboard and mouse directly to the two USB ports on
+the Pine64 without using a USB hub. With Parallella, you need a
+micro-HDMI adapter, micro-USB adapter, and  USB hub to provide power
+for operating the keyboard and mouse. 
 
