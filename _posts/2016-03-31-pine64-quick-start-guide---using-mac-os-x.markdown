@@ -1,14 +1,157 @@
 ---
 layout: post
-title:  Pine64 Quick Start Guide - Using Mac OS X
+title:  Pine64 Quick Start Guide
 date:   2016-03-31
 comments: true
 tags: 
-published: false
+published: true
 ---
+
+<!-- Pine64 desktop screenshot with WindyCityThings, WindyCityRails, Pine64.org, Linux.org (or the distro), Kickstarter.com -->
 
 The [Pine64](http://pine64.org) is a single board computer with four 64-bit cores. The device runs Linux, and prices start at US$15.00.
 
-This guide tells how to get a brand new Pine64 up and running using Mac OS X.
+This guide tells how to get a brand new Pine64 up and running using Mac OS X for image download and creation. Of course, the standard [sudo disclaimer](/sudo-disclaimer/) applies.
 
 <!--more-->
+
+### Download the Image File
+
+First, grab the Linux image file that's tailored for the Pine64. As of this writing, the image is [available here](). If that link is outdated, visit [Pine64.org](http://pine64.org) and look for a download link.
+
+Download the image file. It will be archived in `.rar` format.  RAR is used because it has a higher compression ratio than .zip, and `.rar` files can store full file permissions while compressed.
+Apple's Mac OS X does not include a utility for de-compressing .rar files. So you will need to grab one.
+
+### Install unrar
+
+[Homebrew](/blog/2014/02/12/homebrew-fundamentals/) is an ideal way to install Unix utilities on Mac OS X. Once you have Homebrew on your Mac, install URar like so:
+
+~~~ bash
+
+~$ brew install unrar
+==> Downloading https://homebrew.bintray.com/bottles/unrar-5.3.11.yosemite.bottl
+######################################################################## 100.0%
+==> Pouring unrar-5.3.11.yosemite.bottle.tar.gz
+🍺  /usr/local/Cellar/unrar/5.3.11: 5 files, 505.4K
+
+~$
+
+~~~
+
+###
+
+To confirm that `unrar` is installed correctly and to test the health of your image file...
+
+~~~  bash
+
+$ unrar t arch-pine64-bspkernel-20160304-1-xfce4.rar
+
+UNRAR 5.31 freeware      Copyright (c) 1993-2016 Alexander Roshal
+
+Testing archive arch-pine64-bspkernel-20160304-1-xfce4.rar
+
+Testing     arch-pine64-bspkernel-20160304-1-xfce4.img                OK
+Testing     Readme.txt                                                OK
+All OK
+
+~/Downloads/Pine64$
+
+~~~
+
+The message `All OK` means that everything is good with the image and `unrar`.
+
+### Extract the Image File
+
+~~~ bash
+
+~/Downloads/Pine64$ unrar e arch-pine64-bspkernel-20160304-1-xfce4.rar
+
+UNRAR 5.31 freeware      Copyright (c) 1993-2016 Alexander Roshal
+
+Extracting from arch-pine64-bspkernel-20160304-1-xfce4.rar
+
+Extracting  arch-pine64-bspkernel-20160304-1-xfce4.img                OK
+Extracting  Readme.txt                                                OK
+All OK
+
+~/Downloads/Pine64$
+
+~~~
+
+~~~ bash
+~/Downloads/Pine64$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *960.2 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS MacSSD                  959.3 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *15.9 GB    disk1
+   1:                 DOS_FAT_32 BOOT                    134.2 MB   disk1s1
+   2:                      Linux                         15.8 GB    disk1s2
+
+~/Downloads/Pine64$ diskutil unmountDisk /dev/disk1
+Unmount of all volumes on disk1 was successful
+
+~/Downloads/Pine64$
+
+~~~
+
+
+~~~ bash
+
+~/Downloads/Pine64$ sudo dd if=arch-pine64-bspkernel-20160304-1-xfce4.img of=/dev/disk1 bs=1m
+Password:
+
+~~~
+
+The `dd` command takes a _long_ time to run, over 29 minutes on my machine. Here's a quick run-through of the command options:
+
+* `sudo` gives you [super powers](/sudo-disclaimer/). 
+* `dd` is the "copy and convert" command. The letters "dd" have nothing to do with what the tool actually does. It's just a command name. And like so many things in computer science, the name might be based on a pun.
+* `if=` specifies the input file. You can include the full path, or if the file is in your current directory, you can omit the path as shown in this example.
+* `of=` specifies the output file. We know that the SD card is located at `/dev/disk` so that's where the results of this command are headed.  Note that your destination directory may differ from this one.
+* `bs=` specifies the block size used for the destination file.
+
+### Checking Progress While `dd` Burns the Image
+
+The `dd` comand does not give any outward sign that it is making
+progress. That can be a little uncomfortable because it takes a long
+time for the command to run.
+Here are two ways to check progress:
+
+* Run the Mac Os X Activity Monitor, and look for a process called `dd`. Watch the `disk writes` number as it increases. You can even sort the processes in descending order by `disk writes`.
+* In the terminal window where `dd` is running, hit `control-T` and
+you'll see a progress report in the terminal window.
+
+~~~ bash
+
+ 
+ 
+
+
+
+~~~
+
+
+
+### Once `dd` is Complete
+
+When `dd` is done, it outputs the following:
+
+~~~ bash
+~/Downloads/Pine64$ sudo dd if=arch-pine64-bspkernel-20160304-1-xfce4.img of=/dev/disk1 bs=1m
+Password:
+load: 1.41  cmd: dd 5933 uninterruptible 0.00u 6.59s
+731+0 records in
+730+0 records out
+765460480 bytes transferred in 302.578847 secs (2529788 bytes/sec)
+3800+0 records in
+3800+0 records out
+3984588800 bytes transferred in 1540.553921 secs (2586465 bytes/sec)
+
+~~~
+
+
