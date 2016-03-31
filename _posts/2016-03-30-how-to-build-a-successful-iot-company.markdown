@@ -36,7 +36,7 @@ Yes, the technology was cool. But there was a problem. Every company they approa
 
 While company leaders brainstormed potential solutions, Hennessy attended a meeting for food industry execs. At one point during the meeting, one of the participants expressed deep concerns about food quality and shipments. "If you think you haven't made people sick, you're wrong. You just haven't made them sick enough to shut down your business", he said to his colleagues.
 
-Food safety is a big concern, and you have to get it right. That's when Locus Traxx decided to pivot.
+Food safety during transport is difficult and necessary and you have to get it right. The industry needed help. That's when Locus Traxx decided to pivot.
 
 ### Simple, Effective Email
 
