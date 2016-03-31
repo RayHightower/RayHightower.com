@@ -13,7 +13,7 @@ The Internet of Things is surrounded by hype. But a few companies are navigating
 
 <!--more-->
 
-### About Locus Traxx
+### Preserving Perishable Goods
 
 <img src="/images/medicine.jpg" align="right" width="300" style="margin-left:10px;">
 Locus Traxx uses IoT to ensure that perishable goods are shipped safely. 
