@@ -35,7 +35,7 @@ Apple's Mac OS X does not include a utility for de-compressing .rar files. So yo
 ==> Pouring unrar-5.3.11.yosemite.bottle.tar.gz
 🍺  /usr/local/Cellar/unrar/5.3.11: 5 files, 505.4K
 
-~$
+~$ 
 
 ~~~
 
@@ -55,7 +55,7 @@ Testing     arch-pine64-bspkernel-20160304-1-xfce4.img                OK
 Testing     Readme.txt                                                OK
 All OK
 
-~/Downloads/Pine64$
+~/Downloads/Pine64$ 
 
 ~~~
 
@@ -75,7 +75,7 @@ Extracting  arch-pine64-bspkernel-20160304-1-xfce4.img                OK
 Extracting  Readme.txt                                                OK
 All OK
 
-~/Downloads/Pine64$
+~/Downloads/Pine64$ 
 
 ~~~
 
@@ -96,7 +96,7 @@ All OK
 ~/Downloads/Pine64$ diskutil unmountDisk /dev/disk1
 Unmount of all volumes on disk1 was successful
 
-~/Downloads/Pine64$
+~/Downloads/Pine64$ 
 
 ~~~
 
@@ -198,7 +198,7 @@ Testing archive RemixOS_pine64_B2016022702_1000MB_LAN_Beta.rar
 Testing     pine64_B2016022702_1000MB_LAN.img                         OK
 All OK
 
-~/Downloads/Pine64$
+~/Downloads/Pine64$ 
 
 ~~~
 
@@ -261,7 +261,7 @@ drwx---r-x+ 35 rth  staff        1190 Mar 31 19:39 ..
 -rw-r--r--@  1 rth  staff   708398653 Mar 31 15:55 arch-pine64-bspkernel-20160304-1-xfce4.rar
 -rw-r--r--   1 rth  staff   781754368 Feb 28 14:43 pine64_B2016022702_1000MB_LAN.img
 
-~/Downloads/Pine64$
+~/Downloads/Pine64$ 
 
 ~~~
 
@@ -278,7 +278,7 @@ Extracting from Pinea64_android_lollipop_20151210.rar
 Extracting  sun50iw1p1_android_r18_uart0_1210.img                     OK
 All OK
 
-~/Downloads/Pine64$
+~/Downloads/Pine64$ 
 
 ~~~
 
