@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  Pine64 Quick Start Guide
-date:   2016-04-02
+date:   2016-04-01
 comments: true
 tags: 
-published: false
+published: true
 ---
 
-<!-- Pine64 desktop screenshot with WindyCityThings, WindyCityRails, Pine64.org, Linux.org (or the distro), Kickstarter.com -->
+<a href="/blog/2016/04/01/pine64-quick-start-guide-using-mac-os-x/"><img src="/images/pine64-desktop.png" align="center"></a>
 
 The [Pine64](http://pine64.org) is a single board computer with four 64-bit cores. The device runs Linux, and prices start at US$15.00.
 
@@ -39,7 +39,7 @@ Apple's Mac OS X does not include a utility for de-compressing .rar files. So yo
 
 ~~~
 
-###
+### Testing .rar Archive Health
 
 To confirm that `unrar` is installed correctly and to test the health of your image file...
 
