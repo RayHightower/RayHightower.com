@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Pine64 Quick Start Guide
-date:   2016-03-31
+date:   2016-04-02
 comments: true
 tags: 
-published: true
+published: false
 ---
 
 <!-- Pine64 desktop screenshot with WindyCityThings, WindyCityRails, Pine64.org, Linux.org (or the distro), Kickstarter.com -->
