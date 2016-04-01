@@ -19,7 +19,7 @@ We go to conferences so that we can learn about trends before everybody else. Fl
 
 ### Presentation Slides
 
-This year, the organizers asked me to present [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/). Bonus: Since my [Pine64](http://pine64.org) arrived yesterday afternoon, I added it to my presentation. Fresh information on parallelism, straight from the oven!
+This year, the organizers asked me to present [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/). Bonus: Since my [Pine64](http://pine64.org) arrived yesterday afternoon, I added it to the presentation. Fresh information on parallelism, straight from the oven!
 
 Presentation slides are below.
 
