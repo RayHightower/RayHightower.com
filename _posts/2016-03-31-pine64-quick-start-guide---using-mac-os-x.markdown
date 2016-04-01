@@ -20,6 +20,7 @@ This guide tells how to get a brand new Pine64 up and running using Mac OS X for
 First, grab the Linux image file that's tailored for the Pine64. As of this writing, the image is [available here](). If that link is outdated, visit [Pine64.org](http://pine64.org) and look for a download link.
 
 Download the image file. It will be archived in `.rar` format.  RAR is used because it has a higher compression ratio than .zip, and `.rar` files can store full file permissions while compressed.
+
 Apple's Mac OS X does not include a utility for de-compressing .rar files. So you will need to grab one.
 
 ### Install unrar
@@ -161,18 +162,133 @@ From here, you can ejec the SD card from your Mac and insert it the micro-SD car
 
 It is natural to compare Pine64 with Parallella. Both are multi-core,
 single board computers running Linux. After owning the Pine64 for just a
-few hours, here are my first impressions (comingled with data).
+few hours, here are my first impressions:
 
-* Pine64 feels fast. It boots faster than Parallella and it responds
-quicker to commands. I'll run benchmarks in coming weeks.
+* Pine64 feels fast. It boots faster than Parallella and it responds quicker to commands. I'll run benchmarks in coming weeks.
 
-* Parallella comes with more software out-of-the-box. Vim, Emacs, and
-Git are all present on the Parallella Linux image. Not so with Pine64.
+* Parallella comes with more software out-of-the-box. Vim, Emacs, and Git are all present on the Parallella Linux image. Not so with Pine64.
 
-* Pine64 has better hardware connections for power, HDMI, and USB. On
-the Pine64, all of these connections are standard, full-size. Further,
-you can connect a keyboard and mouse directly to the two USB ports on
-the Pine64 without using a USB hub. With Parallella, you need a
-micro-HDMI adapter, micro-USB adapter, and  USB hub to provide power
-for operating the keyboard and mouse. 
+* Pine64 has better hardware connections for power, HDMI, and USB. On the Pine64, all of these connections are standard, full-size. Further, you can connect a keyboard and mouse directly to the two USB ports on the Pine64 without using a USB hub. With Parallella, you need a micro-HDMI adapter, micro-USB adapter, and  USB hub to provide power for operating the keyboard and mouse. 
+
+* Parallella has the clear advantage in number of cores. Each model comes with 2 ARM cores plus 16 or 64 Epiphany RISC cores.
+
+* Pine64 has 4k video. Parallella has 1080p HD video. 
+
+* Pine64 has a version with 2GB of RAM. Maximum RAM on Parallella is 1GB.
+
+* Parallella has a smaller form factor, which may make it more suitable for IoT projects like robots or drones. The Pine64 will require more space inside of any IoT device.
+
+* Pine 64 has the clear advantage when it comes to price. My Pine64 with 2GB RAM was $36.00 including shipping & handling. 
+
+
+
+
+RemixOS
+===
+
+~~~ bash
+
+~/Downloads/Pine64$ unrar t RemixOS_pine64_B2016022702_1000MB_LAN_Beta.rar
+
+UNRAR 5.31 freeware      Copyright (c) 1993-2016 Alexander Roshal
+
+
+Testing archive RemixOS_pine64_B2016022702_1000MB_LAN_Beta.rar
+
+Testing     pine64_B2016022702_1000MB_LAN.img                         OK
+All OK
+
+~/Downloads/Pine64$
+
+~~~
+
+
+~~~ bash
+
+~/Downloads/Pine64$ diskutil list
+/dev/disk0
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *960.2 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS MacSSD                  959.3 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *15.9 GB    disk1
+   1:                 DOS_FAT_32 BOOT                    134.2 MB   disk1s1
+   2:                      Linux                         7.3 GB     disk1s2
+
+~/Downloads/Pine64$ diskutil unmountDisk /dev/disk1
+Unmount of all volumes on disk1 was successful
+
+~/Downloads/Pine64$ sudo dd if=RemixOS_pine64_B2016022702_1000MB_LAN_Beta.ra
+
+~/Downloads/Pine64$ unrar e RemixOS_pine64_B2016022702_1000MB_LAN_Beta.rar
+
+UNRAR 5.31 freeware      Copyright (c) 1993-2016 Alexander Roshal
+
+
+Extracting from RemixOS_pine64_B2016022702_1000MB_LAN_Beta.rar
+
+Extracting  pine64_B2016022702_1000MB_LAN.img                         OK
+All OK
+
+~~~
+
+
+~~~ bash
+
+~/Downloads/Pine64$ sudo dd if=pine64_B2016022702_1000MB_LAN.img of=/dev/disk1 bs=1m
+Password:
+
+~~~
+
+~~~ bash
+~/Downloads/Pine64$ sudo dd if=pine64_B2016022702_1000MB_LAN.img of=/dev/disk1 bs=1m
+Password:
+745+1 records in
+745+1 records out
+781754368 bytes transferred in 511.460877 secs (1528473 bytes/sec)
+
+~/Downloads/Pine64$ ls -al
+total 12000640
+drwxr-xr-x   8 rth  staff         272 Mar 31 20:03 .
+drwx---r-x+ 35 rth  staff        1190 Mar 31 19:39 ..
+-rw-r--r--@  1 rth  staff   304464420 Mar 31 19:51 Pinea64_android_lollipop_20151210.rar
+-rw-r--r--   1 rth  staff         404 Mar  7 22:51 Readme.txt
+-rw-r--r--@  1 rth  staff   365109314 Mar 31 19:52 RemixOS_pine64_B2016022702_1000MB_LAN_Beta.rar
+-rw-r--r--   1 rth  staff  3984588800 Mar  7 20:40 arch-pine64-bspkernel-20160304-1-xfce4.img
+-rw-r--r--@  1 rth  staff   708398653 Mar 31 15:55 arch-pine64-bspkernel-20160304-1-xfce4.rar
+-rw-r--r--   1 rth  staff   781754368 Feb 28 14:43 pine64_B2016022702_1000MB_LAN.img
+
+~/Downloads/Pine64$
+
+~~~
+
+
+~~~ bash
+
+~/Downloads/Pine64$ unrar e Pinea64_android_lollipop_20151210.rar
+
+UNRAR 5.31 freeware      Copyright (c) 1993-2016 Alexander Roshal
+
+
+Extracting from Pinea64_android_lollipop_20151210.rar
+
+Extracting  sun50iw1p1_android_r18_uart0_1210.img                     OK
+All OK
+
+~/Downloads/Pine64$
+
+~~~
+
+### Login Credentials
+
+The default usernames and passwords for this Linux image are:
+
+* user = root, pw = root
+* user = root, pw = root
+* user = root, pw = root
+
+
 
