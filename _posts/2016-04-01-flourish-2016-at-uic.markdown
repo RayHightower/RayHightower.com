@@ -15,7 +15,7 @@ published: true
 
 ### Why Flourish?
 
-We go to conferences so that we can learn about trends before everybody else. Flourish excels in predicting the future. Flourish introduced me to Arduino and Bitcoin years before they were common knowledge. The event is a magnet for open source enthusiasts who love to learn.
+We go to conferences so that we can learn about trends before everybody else. Flourish excels in predicting the future. Flourish introduced me to Arduino and Bitcoin years before they were common knowledge. The event is a magnet for open source enthusiasts who love to teach and learn.
 
 ### Presentation Slides
 
