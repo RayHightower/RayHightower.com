@@ -7,7 +7,7 @@ tags:
 published: true
 ---
  
-<a href="/blog/2016/04/01/flourish-2016-at-uic/"><img src="/images/flourish2016.jpg" width="300" align="right"></a>
+<img src="/images/flourish2016.jpg" width="300" align="right">
 
 [Flourish!](http://www.flourishconf.com/) is an exciting and free (as in beer) open source conference held annually at the University of Illinois at Chicago. Dates for this year: April 1-2, 2016.
 
