@@ -7,15 +7,15 @@ tags:
 published: true
 ---
  
-<a href="/blog/2016/04/01/flourish-2016-at-uic/"><img src="/images/flourish2016.jpg" align="center"></a>
+<a href="/blog/2016/04/01/flourish-2016-at-uic/"><img src="/images/flourish2016.jpg" width="300" align="right"></a>
 
 [Flourish!](http://www.flourishconf.com/) is an exciting and free (as in beer) open source conference held annually at the University of Illinois at Chicago. Dates for this year: April 1-2, 2016.
-
-<!--more-->
 
 ### Why Flourish?
 
 We go to conferences so that we can learn about trends before everybody else. Flourish excels in predicting the future. Flourish introduced me to Arduino and Bitcoin years before they were common knowledge. The event is a magnet for open source enthusiasts who love to teach and learn.
+
+<!--more-->
 
 ### Presentation Slides
 
