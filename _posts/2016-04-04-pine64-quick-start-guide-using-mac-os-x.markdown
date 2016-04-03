@@ -4,7 +4,7 @@ title:  Pine64 Quick Start Guide
 date:   2016-04-01
 comments: true
 tags: 
-published: false
+published: true
 ---
 
 <a href="/blog/2016/04/01/pine64-quick-start-guide-using-mac-os-x/"><img src="/images/pine64-desktop.png" align="center"></a>
