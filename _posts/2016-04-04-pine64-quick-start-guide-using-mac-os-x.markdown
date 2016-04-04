@@ -19,6 +19,8 @@ This post tells how to get a brand new Pine64 up and running using Mac OS X for 
 
 _Problem:_ I chose to install `Arch Linux Image with XFCE4 Base on Longsleep Image 20160304-1` because I have limited experience with Arch, and this was a chance to try something new. Later I learned that this distro contains a DMA data transfer bug that affects the 2GB PineA64. That's my Pine! I will post an update after the bug has been resolved.
 
+<img src="/images/pine64_arch_linux_dma_bug.png" align="center" alt="Pine64 Arch Linux DMA" title="Pine64 Arch Linux DMA">
+
 _Recommendation:_ Looks like there are two ways to avoid the DMA bug:
 
 * Use a different Linux distro. Keep in mind that at least two distros have the same DMA bug. Or...
