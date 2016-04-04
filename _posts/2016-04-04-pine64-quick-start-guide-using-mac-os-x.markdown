@@ -7,11 +7,11 @@ tags:
 published: true
 ---
 
-<a href="/blog/2016/04/01/pine64-quick-start-guide-using-mac-os-x/"><img src="/images/pine64-desktop.png" align="center"></a>
+<a href="/blog/2016/04/04/pine64-quick-start-guide-using-mac-os-x/"><img src="/images/pine64-desktop.png" align="center" alt="Pine64 desktop with WindyCityThings in the browser" title="Pine64 desktop with WindyCityThings in the browser"></a>
 
 The [Pine64](http://pine64.org) is a single board computer with four 64-bit cores. The device runs Linux, and prices start at US$15.00.
 
-This post tells how to get a brand new Pine64 up and running using Mac OS X for image download and creation. Gotchas are included. And of course, the standard [sudo disclaimer](/sudo-disclaimer/) applies.
+This post tells how to get a brand new Pine64 up and running using Mac OS X for image download and creation. Gotchas are included. Finally, we will compare the Pine64 with another multi-core single board computer, Parallella.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ _Recommendation:_ Looks like there are two ways to avoid the DMA bug:
 
 * Use a different Linux distro. Keep in mind that at least two distros have the same DMA bug, or...
 
-* Use this Linux distro, fully aware that you will encounter the same obstacles as me (described below).
+* Use the Arch Linux distro, fully aware that you will encounter the same obstacles as me (described below).
 
 ### Download an Image Files
 
@@ -182,7 +182,7 @@ Default username and password for this Linux image:
 * user = root
 * pw = root
 
-### One Pine64 Headache
+### One Pine64 Obstacle
 
 As of this writing, Midori and Firefox are not stable on my Pine64. Earlier this morning I learned about a DMA-to-Gigabit-Ethernet bug that might be related to browser stability. I'll post updates as I learn more.
 
