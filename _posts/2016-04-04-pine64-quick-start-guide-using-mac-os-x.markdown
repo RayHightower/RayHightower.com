@@ -198,7 +198,7 @@ It is natural to compare Pine64 with [Parallella](/blog/2014/07/07/parallella-qu
 
 * Parallella has more cores. Each Parallella comes with 2 ARM cores plus 16 or 64 Epiphany RISC cores. The cores have architectural differences, so simply counting the number of cores is not an apples-to-apples comparison.
 
-* Pine64 has 4k video. Parallella has 1080p HD video. 
+* Pine64 has 4K video. Parallella has 1080p HD video. 
 
 * Pine64 has a version with 2GB of RAM. Maximum RAM on Parallella is 1GB.
 
