@@ -179,7 +179,7 @@ From here, you can eject the SD card from your Mac and insert it the micro-SD ca
 
 ### Login Credentials
 
-Default username and password for this Linux image:
+Default username and password for this Arch Linux image on Pine64:
 
 * user = root
 * pw = root
