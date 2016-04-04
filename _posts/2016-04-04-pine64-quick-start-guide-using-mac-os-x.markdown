@@ -21,7 +21,7 @@ _Problem:_ I chose to install `Arch Linux Image with XFCE4 Base on Longsleep Ima
 
 _Recommendation:_ Looks like there are two ways to avoid the DMA bug:
 
-* Use a different Linux distro. Keep in mind that at least two distros have the same DMA bug, or...
+* Use a different Linux distro. Keep in mind that at least two distros have the same DMA bug. Or...
 
 * Use the Arch Linux distro, fully aware that you will encounter the same obstacles as me (described below).
 
