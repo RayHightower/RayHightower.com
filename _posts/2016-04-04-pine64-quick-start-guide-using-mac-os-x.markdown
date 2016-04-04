@@ -25,13 +25,15 @@ _Recommendation:_ Looks like there are two ways to avoid the DMA bug:
 
 * Use the Arch Linux distro, fully aware that you will encounter the same obstacles as me (described below).
 
-### Download an Image Files
+<img src="/images/pine64_board.jpg" align="center" alt="Pine64 single board computer" title="Pine64 single board computer">
+
+### Download an Image File
 
 [Several Linux disk images](http://wiki.pine64.org/index.php/Pine_A64_Software_Release) are available for the Pine64. This list will probably grow over time.
 
 The image will be archived in `.rar` format. RAR is used because it has a higher compression ratio than .zip, and `.rar` files can store full file permissions while compressed.
 
-Apple's Mac OS X does not include a utility for de-compressing .rar files. So you will need to grab one.
+Apple's Mac OS X does not include a utility for de-compressing .rar files. So you will need to grab one. I chose `unrar` via Homebrew. Here's how.
 
 ### Install unrar
 
@@ -209,8 +211,6 @@ It is natural to compare Pine64 with [Parallella](/blog/2014/07/07/parallella-qu
 * Parallella runs hot enough to require a heat sink, a fan, or both. Pine64 runs much cooler. No fan or heat sink required.
 
 * Pine 64 has the clear advantage when it comes to price. My Pine64 with 2GB RAM was $36.00 including shipping & handling. Parallella's price range: $99 - $149.
-
-<img src="/images/pine64_board.jpg" align="center" alt="Pine64 single board computer" title="Pine64 single board computer">
 
 ### Bottom Line
 
