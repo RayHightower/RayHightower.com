@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Pine64 Quick Start Guide
-date:   2016-04-01
+title:  Pine64 Quick Start Guide (with Gotchas)
+date:   2016-04-04
 comments: true
 tags: 
-published: false
+published: true
 ---
 
 <a href="/blog/2016/04/01/pine64-quick-start-guide-using-mac-os-x/"><img src="/images/pine64-desktop.png" align="center"></a>
@@ -15,7 +15,17 @@ This guide tells how to get a brand new Pine64 up and running using Mac OS X for
 
 <!--more-->
 
-### Download the Image File
+### Gotcha: Arch Linux w/2GB PineA64
+
+_Problem:_ I chose to install `Arch Linux Image with XFCE4 Base on Longsleep Image 20160304-1` because I have limited experience with Arch, and this was a chance to try something new. Later I learned that it contains a DMA data transfer bug that affects the 2GB PineA64. That's my Pine! I will post an update after the bug has been resolved.
+
+_Recommendation:_ Looks like you have a few choices:
+* Use a different Linux distro.
+* Use this Linux distro, fully aware that you may encounter the same obstacles as me (described below).
+
+### Download One of the Image Files
+
+[Several Linux disk images](http://wiki.pine64.org/index.php/Pine_A64_Software_Release) are available for the Pine64. 
 
 First, grab the Linux image file that's tailored for the Pine64. As of this writing, the image is [available here](). If that link is outdated, visit [Pine64.org](http://pine64.org) and look for a download link.
 
