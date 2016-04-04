@@ -101,16 +101,16 @@ First, grab the disk designation of the SD card.
 ~~~ bash
 $ diskutil list
 /dev/disk0
-   #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:      GUID_partition_scheme                        *960.2 GB   disk0
-   1:                        EFI EFI                     209.7 MB   disk0s1
-   2:                  Apple_HFS MacSSD                  959.3 GB   disk0s2
-   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+   #:                    TYPE NAME              SIZE       IDENTIFIER
+   0:   GUID_partition_scheme                  *960.2 GB   disk0
+   1:                     EFI EFI               209.7 MB   disk0s1
+   2:               Apple_HFS MacSSD            959.3 GB   disk0s2
+   3:              Apple_Boot Recovery HD       650.0 MB   disk0s3
 /dev/disk1
-   #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:     FDisk_partition_scheme                        *15.9 GB    disk1
-   1:                 DOS_FAT_32 BOOT                    134.2 MB   disk1s1
-   2:                      Linux                         15.8 GB    disk1s2
+   #:                    TYPE NAME              SIZE       IDENTIFIER
+   0:  FDisk_partition_scheme                  *15.9 GB    disk1
+   1:              DOS_FAT_32 BOOT              134.2 MB   disk1s1
+   2:                   Linux                   15.8 GB    disk1s2
 
 ~~~
 
