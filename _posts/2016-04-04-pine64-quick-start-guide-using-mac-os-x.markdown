@@ -216,4 +216,4 @@ It is natural to compare Pine64 with [Parallella](/blog/2014/07/07/parallella-qu
 
 The choice between Pine64 and Parallella depends on your design goals. For desktop usage, I would choose Pine64. For an embedded system that needs parallelism and perhaps an FPGA, I would go with Parallella.
 
-Overall, I like the Pine64. I expect the browser (or DMA?) bug in Arch Linux to be resolved soon. It's good to have a new quad-core 64-bit platform where parallelism can be explored.
+Overall, I like the Pine64. I expect the browser (or DMA?) bug in the Arch Linux image to be resolved soon. It's good to have a new quad-core 64-bit platform where parallelism can be explored.
