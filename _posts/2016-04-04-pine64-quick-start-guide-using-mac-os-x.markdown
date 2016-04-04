@@ -186,7 +186,7 @@ Default username and password for this Linux image:
 
 ### One Pine64 Obstacle
 
-As of this writing, Midori and Firefox are not stable on my Pine64. Earlier this morning I learned about a DMA-to-Gigabit-Ethernet bug that might be related to browser stability. I'll post updates as I learn more.
+As of this writing, Midori and Firefox are not stable on my Pine64. Earlier this morning I learned about a DMA-to-Gigabit-Ethernet bug that might be the root cause of the browser stability issue. I'll post updates as I learn more.
 
 ### Pine64 vs Parallella
 
