@@ -146,7 +146,7 @@ The `dd` command takes a _long_ time to run, over 29 minutes on my machine. Here
 
 ### Checking Progress While `dd` Burns the Image
 
-The `dd` comand does not give any outward sign that it is making
+The `dd` command does not give any outward sign that it is making
 progress. That can be a little uncomfortable because it takes a long
 time for the command to run.
 Here are two ways to check progress:
