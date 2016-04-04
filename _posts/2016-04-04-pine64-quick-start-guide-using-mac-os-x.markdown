@@ -11,7 +11,7 @@ published: true
 
 The [Pine64](http://pine64.org) is a single board computer with four 64-bit cores. The device runs Linux, and prices start at US$15.00.
 
-This post tells how to get a brand new Pine64 up and running using Mac OS X for image download and creation. Gotchas are included. Finally, we will compare the Pine64 with another multi-core single board computer, Parallella.
+This post tells how to get a brand new Pine64 up and running using Mac OS X for image download and creation. Gotchas are included. Finally, we will compare the Pine64 with another multi-core single board computer, [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/).
 
 <!--more-->
 
