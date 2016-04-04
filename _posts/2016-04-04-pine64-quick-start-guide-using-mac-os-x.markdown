@@ -210,6 +210,8 @@ It is natural to compare Pine64 with [Parallella](/blog/2014/07/07/parallella-qu
 
 * Pine 64 has the clear advantage when it comes to price. My Pine64 with 2GB RAM was $36.00 including shipping & handling. Parallella's price range: $99 - $149.
 
+<img src="/images/pine64-board.jpg" align="center" alt="Pine64 single board computer" title="Pine64 single board computer">
+
 ### Bottom Line
 
 The choice between Pine64 and Parallella depends on your design goals. For desktop usage, I would choose Pine64. For an embedded system that needs parallelism and perhaps an FPGA, I would go with Parallella.
