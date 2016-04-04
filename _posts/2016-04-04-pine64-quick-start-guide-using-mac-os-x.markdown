@@ -190,7 +190,7 @@ As of this writing, Midori and Firefox are not stable on my Pine64. Earlier this
 
 It is natural to compare Pine64 with [Parallella](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/). Both are multi-core, single board computers running Linux. After owning the Pine64 for just a few days, here are my first impressions:
 
-* Pine64 feels fast. It boots faster than Parallella and it responds quicker to commands. I'll run benchmarks in coming weeks.
+* Pine64 feels fast. It boots faster than Parallella and it responds quicker to commands.
 
 * Parallella's Linaro image comes with more software out-of-the-box. Vim, Emacs, and Git are all present on the Parallella Linux image. Not so with Arch image for Pine64.
 
