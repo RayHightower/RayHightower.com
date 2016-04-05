@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<a href="/blog/2016/04/04/pine64-quick-start-guide-using-mac-os-x/"><img src="/images/pine64-desktop.png" align="center" alt="Pine64 desktop with WindyCityThings in the browser" title="Pine64 desktop with WindyCityThings in the browser"></a>
+<img src="/images/pine64-desktop.png" align="center" alt="Pine64 desktop with WindyCityThings in the browser" title="Pine64 desktop with WindyCityThings in the browser">
 
 The [Pine64](http://pine64.org) is a single board computer with four 64-bit cores. The device runs Linux, and prices start at US$15.00.
 
