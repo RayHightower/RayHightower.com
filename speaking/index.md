@@ -32,13 +32,13 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 ### Additional Speaking History:
 
 * [ConFoo 2016](http://confoo.ca)<br/>Montreal, QC, Canada<br/>&nbsp;<br/>
-* in5 hub Innovation Centre <br/>Dubai, UAE<br/>&nbsp;<br/>
-* DevNights at The Cribb <br/>Dubai, UAE<br/>&nbsp;<br/>
+* [in5 hub Innovation Centre](http://infive.ae/)<br/>Dubai, UAE<br/>&nbsp;<br/>
+* DevNights at [The Cribb](http://www.thecribb.co)<br/>Dubai, UAE<br/>&nbsp;<br/>
 * Association for Computing Machinery (ACM)<br/>Chicago, IL, USA<br/>&nbsp;<br/>
 * Rubyfuza <br/>Cape Town, South Africa<br/>&nbsp;<br/>
 * [Geekfest at Groupon (Parallella)](http://www.meetup.com/Geekfest/events/227841182/)<br/>Chicago, IL, USA<br/>&nbsp;<br/>
 * Aloha Ruby<br/>Honolulu, HI, USA<br/>&nbsp;<br/>
-* [Flourish! 2016](http://flourishconf.com/2016) - University of Illinois at Chicago (UIC)<br/>Chicago, IL, USA<br/>April 1-2, 2016<br/>&nbsp;<br/>
+* [Flourish! 2016](http://flourishconf.com/2016) - University of Illinois at Chicago (UIC)<br/>Chicago, IL, USA<br/>&nbsp;<br/>
 * CloudCamp Chicago Developer Night<br/>Chicago, IL, USA<br/>&nbsp;<br/>
-* LinuxBarbados at University of the West Indies <br/>Cave Hill, Barbados<br/>&nbsp;<br/>
+* [LinuxBarbados](http://linuxbarbados.org) at University of the West Indies <br/>Cave Hill, Barbados<br/>&nbsp;<br/>
 * Ignite RubyConf<br/>San Diego, CA, USA <br/>&nbsp;<br/>
