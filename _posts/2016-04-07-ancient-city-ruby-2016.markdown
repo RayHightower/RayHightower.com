@@ -4,7 +4,7 @@ title:  Ancient City Ruby 2016
 date:   2016-04-07
 comments: true
 tags: 
-published: false
+published: true
 ---
  
 [Hashrocket](http://hashrocket.com) launched Ancient City Ruby in 2013 and the conference has grown ever since. Participants come from around the world; some to speak, some to learn, some to pair-program with the Hashrocket team for days (or weeks) after the conference.
