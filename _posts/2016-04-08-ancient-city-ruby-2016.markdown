@@ -3,7 +3,7 @@ layout: post
 title:  Ancient City Ruby 2016
 date:   2016-04-08
 comments: true
-tags: 
+tags: [ Community, Parallella ]
 published: true
 ---
  
