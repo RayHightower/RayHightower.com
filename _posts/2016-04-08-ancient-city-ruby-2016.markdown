@@ -9,7 +9,7 @@ published: true
  
 [Hashrocket](http://hashrocket.com) launched [Ancient City Ruby](http://www.ancientcityruby.com/) in 2013 and the conference has grown ever since. Participants come from around the world: Some to speak, some to learn, some to pair-program with the Hashrocket team for days (or weeks) after the conference.
  
-I am grateful to the organizers for inviting me to present _Get Started With Parallel Programming Featuring Parallella_ this year. 
+I am grateful to the organizers for inviting me to present _Get Ready for Parallel Programming Featuring Parallella_ this year. 
 
 <!--more-->
 
