@@ -8,6 +8,7 @@ published: false
 ---
  
 ### snake_case at Ancient City Ruby
+
 The Hashrocket team presented a `snake_case` programming challenge during Ancient City Ruby last week. Nineteen attendees submitted correct solutions. Three of the solvers were selected at random. Each winner received a Raspberry Pi 3.
 
 <img src="/images/snake_case_acr.png" align="center">
