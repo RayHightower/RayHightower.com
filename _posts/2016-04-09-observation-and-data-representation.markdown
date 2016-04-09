@@ -4,7 +4,7 @@ title:  Observation and Data Representation
 date:   2016-04-09
 comments: true
 tags: 
-published: true
+published: false
 ---
  
 ### snake_case at Ancient City Ruby
