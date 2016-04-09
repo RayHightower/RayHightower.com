@@ -71,7 +71,16 @@ The binary model works with the small, 2x2 block example at the beginning of thi
 
 There are six solutions represented in binary, exactly the number we showed graphically for the 2x2 block example.
 
-### Solution in Ruby
+### Elegant Math Solution
+
+A mathematician, observing that we want to choose 10 objects from a fixed set of 20, would employ combinatorics:
+
+<img src="/images/snake_case_acr.png" align="center">
+
+Regardless of the technique we use, we should get the same result: `184,756`.
+
+### Brute Force Solution in Ruby
+
 
 For the 10x10 solution...
 

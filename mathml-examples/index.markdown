@@ -91,7 +91,7 @@ Create the equations here, and cut & paste their images for use in other browser
 
 <br/>
 
-<math xmlns="http://www.w3.org/1998/Math/MathML">
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mrow>
             <mi>Number of paths</mi>
             <mo>=</mo>
@@ -99,11 +99,11 @@ Create the equations here, and cut & paste their images for use in other browser
             <mfenced open="(" close=")">
                <mtable>
                   <mtr>
-                     <mtd><mi># of bits we have to choose from</mi></mtd>
+                     <mtd><mi>Total number of bits</mi></mtd>
                   </mtr>
 					
                   <mtr>
-                     <mtd><mi># of bits we want to set to 1</mi></mtd>
+                     <mtd><mi>Number of bits we want to be 1</mi></mtd>
                   </mtr>
                </mtable>
             </mfenced>
@@ -111,9 +111,9 @@ Create the equations here, and cut & paste their images for use in other browser
 </math>
 
 <br/>
-<math xmlns="http://www.w3.org/1998/Math/MathML">
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mrow>
-            <mi>Number of paths</mi>
+            <mi>&nbsp;</mi>
             <mo>=</mo>
 			
             <mfenced open="(" close=")">
@@ -132,21 +132,40 @@ Create the equations here, and cut & paste their images for use in other browser
 
 <br/>
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mi>x</mi> <mo>=</mo>
+  <mi>&nbsp;</mi> <mo>=</mo>
   <mrow>
     <mfrac>
       <mrow>
-        <mo>−</mo>
-        <mi>b</mi>
-        <mo>±</mo>
-        <msqrt>
-          <msup><mi>b</mi><mn>2</mn></msup>
-          <mo>−</mo>
-          <mn>4</mn><mi>a</mi><mi>c</mi>
-        </msqrt>
+        <mo>20*19*18*17*16*15*14*13*12*11</mo>
       </mrow>
-      <mrow> <mn>2</mn><mi>a</mi> </mrow>
+      <mrow>
+        <mo>10*9*8*7*6*5*4*3*2</mo>
+      </mrow>
     </mfrac>
   </mrow>
-  <mtext>.</mtext>
+</math>
+
+<br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>&nbsp;</mi> <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>670,442,572,800</mo>
+      </mrow>
+      <mrow>
+        <mo>3,628,800</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>
+
+<br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>&nbsp;</mi> <mo>=</mo>
+  <mrow>
+        <mo>184,756</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
 </math>
