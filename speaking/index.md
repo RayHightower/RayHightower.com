@@ -25,13 +25,12 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Upcoming:
 
-* [Ancient City Ruby](http://www.ancientcityruby.com/)<br/>St. Augustine, FL, USA<br/>April 6-8, 2016<br/>&nbsp;<br/>
 * [RubyConf Kenya](http://rubyconf.nairuby.org/2016) - African Nazarene University, Ongata Rongai<br/>Nairobi, Kenya<br/>May 5-7, 2016<br/>&nbsp;<br/>
-
 
 ### Additional Speaking History:
 
 * [ConFoo 2016](http://confoo.ca)<br/>Montreal, QC, Canada<br/>&nbsp;<br/>
+* [Ancient City Ruby](http://www.ancientcityruby.com/)<br/>St. Augustine, FL, USA<br/>&nbsp;<br/>
 * [in5 hub Innovation Centre](http://infive.ae/)<br/>Dubai, UAE<br/>&nbsp;<br/>
 * DevNights at [The Cribb](http://www.thecribb.co)<br/>Dubai, UAE<br/>&nbsp;<br/>
 * Association for Computing Machinery (ACM)<br/>Chicago, IL, USA<br/>&nbsp;<br/>
