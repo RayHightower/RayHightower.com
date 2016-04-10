@@ -149,13 +149,30 @@ int main() {
 }
 ~~~
 
-How long does it take to find the solution in C?
+How long does it take to find the solution in C? First, let's compile the program...
 
 ~~~ bash
+$ gcc main.c -o main
 
+$ 
 
 ~~~
 
+...and run it using `time` to measure performance.
+
+~~~ bash
+ time ./main
+184756
+
+real	0m0.009s
+user	0m0.006s
+sys	0m0.002s
+
+$ 
+
+~~~
+
+Nine milliseconds. Running close to the metal has its benefits!
 
 ### Brute Force in Go
 
