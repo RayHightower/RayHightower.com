@@ -4,14 +4,14 @@ title:  Observation and Data Representation
 date:   2016-04-10
 comments: true
 tags: [ Community, C, Go, Ruby ]
-published: false
+published: true
 ---
 
 ### snake_case at Ancient City Ruby
 
-What happens when we solve the same problem in Ruby, C, and Go? How do the solutions differ in terms of flexibility, readibility, and performance?
+What can we learn when we solve the same problem in Ruby, C, and Go? How do the solutions differ in terms of flexibility, readibility, and performance?
 
-The Hashrocket team presented a `snake_case` programming challenge during Ancient City Ruby last week. Nineteen attendees submitted correct solutions. Three of the solvers were selected at random. Each winner received a Raspberry Pi 3.
+The Hashrocket team presented a `snake_case` programming challenge during [Ancient City Ruby](http://ancientcityruby.org) last week. Nineteen attendees submitted correct solutions. Three of the solvers were selected at random. Each winner received a Raspberry Pi 3.
 
 <img src="/images/snake_case_acr.png" align="center">
 
