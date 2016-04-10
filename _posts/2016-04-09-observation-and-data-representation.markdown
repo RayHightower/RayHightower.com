@@ -81,8 +81,31 @@ Any algorithm or technique we use should give us the same result: `184,756` path
 
 ### Brute Force Solution in Ruby
 
+A brute force solution will solve the problem by looking at every possible combination of bits, one by one. No problem for a small dataset like the 2x2 example. But as the dataset grows, performance can suffer. 
 
-For the 10x10 solution...
+Still, sometimes brute force is fun! Here's Jack's brute force solution in Ruby.
+
+~~~ Ruby
+
+puts (0..(2**20)).count { |n| n.to_s(2).chars.count("1") == 10 }
+
+~~~
+
+We can use OS X's `time` command to measure performance.
+
+~~~ bash
+
+$ time ruby main.rb
+184756
+
+real	0m3.129s
+user	0m3.115s
+sys	0m0.012s
+
+$ 
+~~~
+
+
 
 ### Solution in C
 
