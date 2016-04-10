@@ -75,7 +75,7 @@ There are six solutions represented in binary, the same number of solutions show
 
 A mathematician, observing that we want to choose 10 bits from a fixed set of 20 bits, might use combinatorics:
 
-<img src="/images/snake_case_calcs.png" style="margin-left:15px;margin-right:15px;border:2px;border-color:red;" width="300" align="center">
+<img src="/images/snake_case_calcs.png" style="margin-left:15px;margin-right:15px;" width="500" align="center">
 
 Any algorithm or technique we use should give us the same result: `184,756` paths that fit the constraints of the challenge.
 
@@ -88,11 +88,10 @@ For the 10x10 solution...
 
 ### Solution in Go
 
-### Double-Checking the Solution
+### Conclusion
 
 
-Content for Observation and Data Representation goes here.
- 
+
 ### IoT Call for Proposals
 
 Doing something interesting with the [Internet of Things](http://windycitythings.com)? Consider sharing your ideas at the WindyCityThings IoT conference in June. The [WindyCityThings call for proposals](https://wisdomgroup.wufoo.com/forms/windycitythings-2016-exhibit-speaking-proposals/) ends on April 15, 2016.  
