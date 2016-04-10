@@ -38,15 +38,15 @@ Any solution that nets 10 south plus 10 east will get the traveller to the end o
 
 "Two choices... sounds like binary to me", Jack observed during his lightning talk. So he decided to represent each journey as a 20-bit binary number: 
 
-* 10 bits for south-ward moves 
+* 1 bit (set to 1) for each of the 10 southward moves
 
-* 10 bits for east-ward moves
+* 1 bit (set to 0) for each of the 10 eastward moves
 
 A successful journey will consist of exactly ten "1" bits and ten "0" bits. The 1s and 0s can be in any order.
 
 This similar to a coin-flipping problem. The flipper flips a coin twenty times, recording heads or tails after each flip. How many different ways can we flip the coin so that the end result produces exactly ten heads and exactly ten tails?
 
-### Start Small
+### Start Small (2x2)
 
 The binary model works with the small, 2x2 block example at the beginning of this post.
 
@@ -69,15 +69,15 @@ The binary model works with the small, 2x2 block example at the beginning of thi
 1111
 ~~~
 
-There are six solutions represented in binary, exactly the number we showed graphically for the 2x2 block example.
+There are six solutions represented in binary, the same number of solutions shown graphically in 2x2 block example.
 
-### Elegant Math Solution
+### An Elegant Math Solution for 10x10
 
-A mathematician, observing that we want to choose 10 objects from a fixed set of 20, would employ combinatorics:
+A mathematician, observing that we want to choose 10 bits from a fixed set of 20 bits, might use combinatorics:
 
-<img src="/images/snake_case_acr.png" align="center">
+<img src="/images/snake_case_calcs.png" style="margin-left:15px;margin-right:15px;border:2px;border-color:red;" width="300" align="center">
 
-Regardless of the technique we use, we should get the same result: `184,756`.
+Any algorithm or technique we use should give us the same result: `184,756` paths that fit the constraints of the challenge.
 
 ### Brute Force Solution in Ruby
 
