@@ -85,11 +85,27 @@ A brute force solution will solve the problem by looking at every possible combi
 
 Still, sometimes brute force is fun! Here's Jack's brute force solution in Ruby.
 
-~~~ Ruby
+~~~ ruby
 
 puts (0..(2**20)).count { |n| n.to_s(2).chars.count("1") == 10 }
 
 ~~~
+
+This one-line program...
+
+* Iterates over every integer from 0 to `2**20` (20-bits long),
+
+* Converts the number into binary,
+
+* Converts that binary number into a string,
+
+* Counts the number of "1" characters in the string. 
+
+* If the string contains exactly ten "1" characters, then that string gets counted as one of the valid pathways. 
+
+* The final final count of valid pathways is printed on the screen.
+
+Brute force!
 
 We can use OS X's `time` command to measure performance.
 
@@ -105,11 +121,45 @@ sys	0m0.012s
 $ 
 ~~~
 
+Just over three seconds to execute.
+
+### Brute Force in C
+
+The rules of the contest say that the solution should be submitted in Ruby. Jack decided to write a solution in C. Clearly, the young man has a problem with authority!
+
+Here's Jack's solution in C:
+
+~~~ C
+#include <stdio.h>
+#include <stdint.h>
+
+#define SQUARE_SIZE 10
+
+int main() {
+  int64_t paths = 0;
+  for(int64_t i = 0; i < (int64_t) (1)<<(SQUARE_SIZE*2); i++) {
+    int64_t bitCount = __builtin_popcount(i);
+    if(bitCount == SQUARE_SIZE) {
+      paths++;
+    }
+  }
+
+  printf("%lld\n", paths);
+  return 0;
+}
+~~~
+
+How long does it take to find the solution in C?
+
+~~~ bash
 
 
-### Solution in C
+~~~
 
-### Solution in Go
+
+### Brute Force in Go
+
+
 
 ### Conclusion
 
