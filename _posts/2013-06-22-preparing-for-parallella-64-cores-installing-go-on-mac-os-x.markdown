@@ -12,6 +12,7 @@ The idea of owning a 64-core parallel system for two hundred dollars (yes, $200.
 <!--more-->
 
 ### What is Go?
+
 [The Go language](http://golang.org) is designed for parallel systems. Why does Go exist? One developer sums it up this way:
 
 >Go was created at Google, by Google, for Google-size problems.<br/>~Dave Astels
@@ -53,7 +54,6 @@ export GOPATH=~/Code/gocode
 Note: I'm using the default <code>GOROOT</code> variable, but your <code>GOPATH</code> may differ from mine. I store all of my source code in a subdirectory of home:<code>~/Code</code>. My complete Go directory structure is given below. By looking at my structure, you can adjust these steps to fit your system.</li>
 <br/>
 
-<ul>
 <li>Tell your terminal session to recognize the new environmental variables. You can either restart terminal, or if your environmental variables are in <code>~/.bash_profile</code> like mine, you can do the following:</li>
 </ul>
 
