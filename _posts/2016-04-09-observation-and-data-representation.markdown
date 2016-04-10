@@ -207,13 +207,17 @@ func main() {
 }
 ~~~
 
-Let's compile it...
+Before we compile and run the program, we need to grab a math library from `github.com/cznic/mathutil`. Here's how to do that.
 
 ~~~ bash
 
+$ go get github.com/cznic/mathutil
+
+$ 
 
 ~~~
 
+Let's compile it...
 ...and run it.
 
 ~~~ bash
