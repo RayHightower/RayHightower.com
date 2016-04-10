@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Observation and Data Representation
-date:   2016-04-09
+date:   2016-04-10
 comments: true
 tags: [ Community, C, Go, Ruby ]
 published: false
