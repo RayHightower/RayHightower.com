@@ -9,18 +9,18 @@ published: true
 
 ### snake_case at Ancient City Ruby
 
-What can we learn when we solve the same problem in Ruby, C, and Go? How do the solutions differ in terms of flexibility, readibility, and performance?
+<img src="/images/snake_case_acr.png" width="250" align="right" style="margin-left:10px;">
 
-The Hashrocket team presented a `snake_case` programming challenge during [Ancient City Ruby](http://ancientcityruby.org) last week. Nineteen attendees submitted correct solutions. Three of the solvers were selected at random. Each winner received a Raspberry Pi 3.
+What can we learn when we solve the same problem in Ruby, C, and Go? How might the solutions differ in flexibility, readibility, and performance?
 
-<img src="/images/snake_case_acr.png" align="center">
+The Hashrocket team presented a `snake_case` programming challenge during [Ancient City Ruby](http://ancientcityruby.com) last week. Nineteen attendees submitted correct solutions. Three of the solvers were selected at random to receive a prize: Raspberry Pi 3.
 
 One of the solvers, [Jack Christensen](https://github.com/jackc), gave a lightning talk about his approach. Jack solved the problem in three different languages: Ruby, C, and Go.
 
 <!--more-->
 
 ### The Challenge
-Here's the challenge, as it appears on the Ancient City Ruby site.
+Here's the challenge, as presented to the Ancient City Ruby audience:
 
 >You've just arrived in sunny St. Augustine, and find yourself amazed by the visionary civic planning that would result in the area in which you now stand: a street grid exactly 10 blocks square.<br/>&nbsp;<br/>You're in the northwest corner of this 10 by 10 block area, and would like to take a scenic walk to the southeast corner, while only ever moving south or east.<br/>&nbsp;<br/>As you begin walking, you wonder to yourself, "how many different paths could I take from this northwest corner to the southeast corner?"<br/>&nbsp;<br/>You quickly note that if the downtown area were only a 2 block by 2 block grid, there would be 6 distinct paths from one corner to the other (see the diagram at the top of this post).<br/>&nbsp;<br/>So, how many distinct paths are there through the 10 by 10 downtown area?
 
@@ -77,7 +77,7 @@ There are six solutions represented in binary, the same number of solutions show
 
 A mathematician, observing that we want to choose 10 bits from a fixed set of 20 bits, might use combinatorics:
 
-<img src="/images/snake_case_calcs.png" style="margin-left:15px;margin-right:15px;" width="500" align="center">
+<img src="/images/snake_case_calcs.png" style="margin-left:15px;margin-right:15px;" width="400" align="center" alt="snake_case calculations with combinatorics" title="snake_case calculations with combinatorics">
 
 Any algorithm or technique we use should give us the same result: `184,756` paths that fit the constraints of the challenge.
 
@@ -127,11 +127,11 @@ Ruby found the correct result, `184756`, in just over three seconds.
 
 ### Brute Force in C
 
-The rules of the contest say that the solution should be submitted in Ruby. Jack decided to write a solution in C. Clearly, the young man has a problem with authority!
+The rules of the contest say that the solution should be submitted in Ruby. Jack decided to try other languages. Clearly, the young man has a problem with authority!
 
 Here's Jack's solution in C:
 
-~~~ C
+~~~ c
 #include <stdio.h>
 #include <stdint.h>
 
@@ -185,7 +185,7 @@ Execution in nine milliseconds. Running close to the metal has its benefits! The
 
 And now for the brute force Go solution.
 
-~~~ Go
+~~~ go
 package main
 
 import (
@@ -233,6 +233,6 @@ Let's compile it...
 
 
 
-### IoT Call for Proposals
+### IoT Call for Proposals: WindyCityThings
 
-Doing something interesting with the [Internet of Things](http://windycitythings.com)? Consider sharing your ideas at the WindyCityThings IoT conference in June. The [WindyCityThings call for proposals](https://wisdomgroup.wufoo.com/forms/windycitythings-2016-exhibit-speaking-proposals/) ends on April 15, 2016.  
+Are you working with the [Internet of Things](http://windycitythings.com)? Then you might like the [WindyCityThings IoT conference](http://windycitythings.com). The [call for proposals](https://wisdomgroup.wufoo.com/forms/windycitythings-2016-exhibit-speaking-proposals/) ends on April 15, 2016.  

@@ -136,6 +136,21 @@ Create the equations here, and cut & paste their images for use in other browser
   <mrow>
     <mfrac>
       <mrow>
+        <mo>20!</mo>
+      </mrow>
+      <mrow>
+        <mo>10!(20-10)!</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>
+
+<br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>&nbsp;</mi> <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
         <mo>20*19*18*17*16*15*14*13*12*11</mo>
       </mrow>
       <mrow>
