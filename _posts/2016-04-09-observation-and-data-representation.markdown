@@ -172,7 +172,12 @@ $
 
 ~~~
 
-Nine milliseconds. Running close to the metal has its benefits!
+Execution in nine milliseconds. Running close to the metal has its benefits! The C solution has other benefits:
+
+* Flexibility. If you want to solve a larger matrix, you know exactly what constant to change, `SQUARE_SIZE`.
+
+* Readability. You can see exactly what's going on inside of the loop. At any given time, the varialbe `paths` stores the number of paths that the program has found, while `bitcount` stores the number of set bits in the current number under examination.
+
 
 ### Brute Force in Go
 
