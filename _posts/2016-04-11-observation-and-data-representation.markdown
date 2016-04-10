@@ -7,15 +7,13 @@ tags: [ Community, C, Go, Ruby ]
 published: true
 ---
 
-### snake_case at Ancient City Ruby
-
 <img src="/images/snake_case_acr.png" width="250" align="right" style="margin-left:10px;">
 
-What can we learn when we solve the same problem in Ruby, C, and Go? How might the solutions differ in flexibility, readibility, and performance?
+What do we learn when we solve the same problem in Ruby, C, and Go? How might the solutions differ in flexibility, readibility, and performance?
 
 The Hashrocket team presented a `snake_case` programming challenge during [Ancient City Ruby](http://ancientcityruby.com) last week. Nineteen attendees submitted correct solutions. Three of the solvers were selected at random to receive a prize: Raspberry Pi 3.
 
-One of the solvers, [Jack Christensen](https://github.com/jackc), gave a lightning talk about his approach. Jack solved the problem in three different languages: Ruby, C, and Go.
+One of the solvers, [Jack Christensen](https://github.com/jackc) of [Hashrocket](http://hashrocket.com), gave a lightning talk about his approach. The contest called for a solution in Ruby. Jack added two more languages: C and Go.
 
 <!--more-->
 
@@ -79,13 +77,13 @@ A mathematician, observing that we want to choose 10 bits from a fixed set of 20
 
 <img src="/images/snake_case_calcs.png" style="margin-left:15px;margin-right:15px;" width="400" align="center" alt="snake_case calculations with combinatorics" title="snake_case calculations with combinatorics">
 
-Any algorithm or technique we use should give us the same result: `184,756` paths that fit the constraints of the challenge.
+Any correct algorithm will give us the same result: `184,756` paths that fit the constraints of the challenge.
 
 ### Brute Force Solution in Ruby
 
-A brute force solution will solve the problem by looking at every possible combination of bits, one by one. No problem for a small dataset like the 2x2 example. But as the dataset grows, performance can suffer. 
+A brute force solution will solve the problem by looking at every possible combination of bits, one by one. Easy for a small dataset like the 2x2 example. But for larger datasets, a brute force algorithm will consume more time.
 
-Still, sometimes brute force is fun! Here's Jack's brute force solution in Ruby.
+Of course, brute force can be fun! Here's Jack's brute force solution in Ruby.
 
 ~~~ ruby
 
@@ -103,9 +101,9 @@ This one-line program...
 
 * Counts the number of "1" characters in the string. 
 
-* If the string contains exactly ten "1" characters, then that string gets counted as a valid path.
+* If the string contains exactly ten "1" characters, then that string gets counted as a solution path.
 
-* The final final count of valid paths is printed on the screen.
+* The final count of solution paths is printed on the screen.
 
 Brute force!
 
@@ -174,9 +172,9 @@ $
 
 ~~~
 
-Execution in nine milliseconds. Running close to the metal has its benefits! The C solution has other benefits:
+Execution in nine milliseconds. Running close to the metal has its advantages! The C solution offers other benefits:
 
-* Flexibility. If you want to solve a larger matrix, you know exactly what constant to change, `SQUARE_SIZE`.
+* Flexibility. If you want to solve a larger square, you know exactly what constant to change, `SQUARE_SIZE`.
 
 * Readability. You can see exactly what's going on inside of the loop. At any given time, the varialbe `paths` stores the number of paths that the program has found, while `bitcount` stores the number of set bits in the current number under examination.
 
@@ -220,6 +218,12 @@ $
 ~~~
 
 Let's compile it...
+
+~~~ bash
+
+
+~~~
+
 ...and run it.
 
 ~~~ bash
