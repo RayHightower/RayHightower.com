@@ -3,11 +3,13 @@ layout: post
 title:  Observation and Data Representation
 date:   2016-04-09
 comments: true
-tags: 
+tags: [ Community, C, Go, Ruby ]
 published: false
 ---
- 
+
 ### snake_case at Ancient City Ruby
+
+What happens when we solve the same problem in Ruby, C, and Go? How do the solutions differ in terms of flexibility, readibility, and performance?
 
 The Hashrocket team presented a `snake_case` programming challenge during Ancient City Ruby last week. Nineteen attendees submitted correct solutions. Three of the solvers were selected at random. Each winner received a Raspberry Pi 3.
 
@@ -18,7 +20,7 @@ One of the solvers, [Jack Christensen](https://github.com/jackc), gave a lightni
 <!--more-->
 
 ### The Challenge
-Here's the challenge, copied from the Ancient City Ruby site.
+Here's the challenge, as it appears on the Ancient City Ruby site.
 
 >You've just arrived in sunny St. Augustine, and find yourself amazed by the visionary civic planning that would result in the area in which you now stand: a street grid exactly 10 blocks square.<br/>&nbsp;<br/>You're in the northwest corner of this 10 by 10 block area, and would like to take a scenic walk to the southeast corner, while only ever moving south or east.<br/>&nbsp;<br/>As you begin walking, you wonder to yourself, "how many different paths could I take from this northwest corner to the southeast corner?"<br/>&nbsp;<br/>You quickly note that if the downtown area were only a 2 block by 2 block grid, there would be 6 distinct paths from one corner to the other (see the diagram at the top of this post).<br/>&nbsp;<br/>So, how many distinct paths are there through the 10 by 10 downtown area?
 
@@ -101,9 +103,9 @@ This one-line program...
 
 * Counts the number of "1" characters in the string. 
 
-* If the string contains exactly ten "1" characters, then that string gets counted as one of the valid pathways. 
+* If the string contains exactly ten "1" characters, then that string gets counted as a valid path.
 
-* The final final count of valid pathways is printed on the screen.
+* The final final count of valid paths is printed on the screen.
 
 Brute force!
 
@@ -121,7 +123,7 @@ sys	0m0.012s
 $ 
 ~~~
 
-Just over three seconds to execute.
+Ruby found the correct result, `184756`, in just over three seconds.
 
 ### Brute Force in C
 
@@ -161,7 +163,7 @@ $
 ...and run it using `time` to measure performance.
 
 ~~~ bash
- time ./main
+$ time ./main
 184756
 
 real	0m0.009s
