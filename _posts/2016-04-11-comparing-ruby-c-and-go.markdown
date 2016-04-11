@@ -262,7 +262,9 @@ C and Go, as compiled languages, will always execute faster than Ruby. Ruby, as 
 
 Special thanks to Ancient City Ruby for sharing a challenge that stretches the brain, and to Jack Christensen for solving the problem three ways.
 
+<a href="http://windycitythings.com"><img src="/images/windycitythings-iot-conference.png" alt="WindyCityThings - IoT conference in Chicago, IL, USA" title="WindyCityThings - IoT conference in Chicago, IL, USA" width="150" align="right" style="margin-left:10px;"></a>
+
 ### IoT Call for Proposals: WindyCityThings
 
-Are you working with the [Internet of Things](http://windycitythings.com)? Then you might like the [WindyCityThings IoT conference](http://windycitythings.com). The [call for proposals](https://wisdomgroup.wufoo.com/forms/windycitythings-2016-exhibit-speaking-proposals/) ends on April 15, 2016.  
+Are you working with the [Internet of Things](http://windycitythings.com)? Then you might like the [WindyCityThings IoT conference](http://windycitythings.com). The [call for proposals](https://wisdomgroup.wufoo.com/forms/windycitythings-2016-exhibit-speaking-proposals/) ends on April 15, 2016. Tickets are on sale now.
 
