@@ -7,7 +7,7 @@ tags: [ Community, C, Go, Ruby ]
 published: true
 ---
 
-<img src="/images/snake_case_acr.png" width="250" align="right" style="margin-left:10px;">
+<img src="/images/ruby_c_go_comparison.png" width="250" align="right" style="margin-left:10px;" alt="puzzle for comparing Ruby, C, and Go" title="puzzle for comparing Ruby, C, and Go">
 
 What do we learn when we solve the same problem in Ruby, C, and Go? How might the solutions differ in flexibility, readability, and performance?
 
@@ -77,7 +77,7 @@ There are six solutions represented in binary, the same number of solutions show
 
 A mathematician, observing that we want to choose 10 bits from a fixed set of 20 bits, might use combinatorics:
 
-<img src="/images/snake_case_calcs.png" style="margin-left:15px;margin-right:15px;" width="400" align="center" alt="snake_case calculations with combinatorics" title="snake_case calculations with combinatorics">
+<img src="/images/ruby_c_go_comparison_calcs.png" style="margin-left:15px;margin-right:15px;" width="400" align="center" alt="Ruby, C, and Go comparison calculations with combinatorics" title="Ruby, C, and Go comparison calculations with combinatorics">
 
 Any correct algorithm will give us the same result: `184,756` paths that fit the constraints of the challenge.
 
