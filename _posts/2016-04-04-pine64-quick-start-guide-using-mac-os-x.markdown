@@ -220,3 +220,10 @@ It is natural to compare Pine64 with [Parallella](/blog/2014/07/07/parallella-qu
 The choice between Pine64 and Parallella depends on your design goals. For desktop usage, I would choose Pine64. For an embedded system that needs parallelism and perhaps an FPGA, I would go with Parallella.
 
 Overall, I like the Pine64. I expect the browser (or DMA?) bug in the Arch Linux image to be resolved soon. It's good to have a new quad-core 64-bit platform where parallelism can be explored.
+
+<a href="http://windycitythings.com"><img src="/images/windycitythings-iot-conference.png" alt="WindyCityThings - IoT conference in Chicago, IL, USA" title="WindyCityThings - IoT conference in Chicago, IL, USA" width="150" align="right" style="margin-left:10px;"></a>
+
+### IoT Call for Proposals: WindyCityThings
+
+Are you exploring the [Internet of Things](http://windycitythings.com)? Then you might like the [WindyCityThings IoT conference](http://windycitythings.com). The [call for proposals](https://wisdomgroup.wufoo.com/forms/windycitythings-2016-exhibit-speaking-proposals/) ends on April 15, 2016. Tickets are on sale now.
+
