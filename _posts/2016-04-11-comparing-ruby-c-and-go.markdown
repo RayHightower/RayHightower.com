@@ -73,7 +73,7 @@ The binary model works with the small, 2x2 block example at the beginning of thi
 
 There are six solutions represented in binary, the same number of solutions shown graphically in 2x2 block example.
 
-### An Elegant Math Solution for 10x10
+### Math Solution for 10x10
 
 A mathematician, observing that we want to choose 10 bits from a fixed set of 20 bits, might use combinatorics:
 
