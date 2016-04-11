@@ -240,7 +240,9 @@ sys	0m0.004s
 
 ~~~
 
-Same result, `184756`, as expected. Execution in fifteen milliseconds. Much faster than Ruby, but not as fast as C. Like C, Go offers some advantages:
+Same result, `184756`, as expected. Execution in fifteen milliseconds. Much faster than Ruby, but not as fast as C. 
+
+Like C, Go offers some advantages:
 
 * Flexibility. For a larger square, change the value of one constant, `squareSize`.
 
