@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Observation and Data Representation
+title:  Comparing Ruby, C, and Go
 date:   2016-04-11
 comments: true
 tags: [ Community, C, Go, Ruby ]
@@ -30,17 +30,19 @@ Jack observed a few things about the scenic route:
 
 * At each intersection, there are two directions that a traveler can choose while moving from start to finish along the scenic route: south or east.
 
-* At the end of the walk, the traveler will have walked a total of ten (10) blocks south and ten (10) blocks east.
+* At the end of the walk, the traveler will have walked a total of ten (10) blocks south and ten (10) blocks east. Twenty moves in all.
 
-Any solution that nets 10 south plus 10 east will get the traveller to the end of the route.
+Any solution that nets 10 south plus 10 east will get the traveler to the end of the route.
 
 ### Data Representation
 
 "Two choices... sounds like binary to me", Jack observed during his lightning talk. So he decided to represent each journey as a 20-bit binary number: 
 
-* 1 bit (set to 1) for each of the 10 southward moves
+* 1 bit for each of the 20 moves.
 
-* 1 bit (set to 0) for each of the 10 eastward moves
+* Let the bit = 1 for a southward move.
+
+* Let the bit = 0 for an eastward move.
 
 A successful journey will consist of exactly ten "1" bits and ten "0" bits. The 1s and 0s can be in any order.
 
@@ -93,11 +95,11 @@ puts (0..(2**20)).count { |n| n.to_s(2).chars.count("1") == 10 }
 
 This one-line program...
 
-* Iterates over every integer from 0 to `2**20` (20-bits long),
+* Iterates over every integer from 0 to `2**20` (20-bits long).
 
-* Converts the number into binary,
+* Converts the number into binary.
 
-* Converts that binary number into a string,
+* Converts that binary number into a string.
 
 * Counts the number of "1" characters in the string. 
 
@@ -125,9 +127,7 @@ Ruby found the correct result, `184756`, in just over three seconds.
 
 ### Brute Force in C
 
-The rules of the contest say that the solution should be submitted in Ruby. Jack decided to try other languages. Clearly, the young man has a problem with authority!
-
-Here's Jack's solution in C:
+We expect C to be faster because it's compiled and closer to the hardware. Let's see if that's true. Here's Jack's solution in C:
 
 ~~~ c
 #include <stdio.h>
@@ -178,7 +178,6 @@ Execution in nine milliseconds. Running close to the metal has its advantages! T
 
 * Readability. You can see exactly what's going on inside of the loop. At any given time, the varialbe `paths` stores the number of paths that the program has found, while `bitcount` stores the number of set bits in the current number under examination.
 
-
 ### Brute Force in Go
 
 And now for the brute force Go solution.
@@ -217,7 +216,7 @@ $
 
 ~~~
 
-Next, we compile the program. Note that `Go` is particular about directory structure. Unlike with `C`, the source file and the executable file reside in different directories by default, even with a small `Go` program. Therefore, the next few illustrations will include the full path of the directories where the commands are executed.
+Next, we compile the program. Note that `Go` is particular about directory structure. Unlike with `C`, the source file and the executable file reside in different directories by default, even with a small `Go` program. Therefore, the next few illustrations will include the full path of the directories where the commands were executed on my machine.
 
 ~~~ bash
 ~/Code/gocode/src/github.com/rayhightower/acr16$ go install
@@ -241,19 +240,24 @@ sys	0m0.004s
 
 ~~~
 
+Same result, `184756`, as expected. Execution in fifteen milliseconds. Much faster than Ruby, but not as fast as C. Like C, Go offers some advantages:
 
+* Flexibility. For a larger square, change the value of one constant, `squareSize`.
+
+* Readability. The loop structure makes this program easier to read than the single-line Ruby version.
+
+* Cool functions. For example, `PopCountUint64` is a population counter, counting the number of bits that are equal to `1`.
+
+* Native support for concurrency and parallelism. Not applicable in this example, but useful when we need to improve performance.
 
 ### Conclusion
 
+Programming challenges help to keep the mind flexible. Flexible brains are most helpful for problem solving.
 
+Special thanks to Jack Christensen and Hashrocket for a great Ancient
+City Ruby event and for sharing a problem that stretches the brain!
 
 ### IoT Call for Proposals: WindyCityThings
 
 Are you working with the [Internet of Things](http://windycitythings.com)? Then you might like the [WindyCityThings IoT conference](http://windycitythings.com). The [call for proposals](https://wisdomgroup.wufoo.com/forms/windycitythings-2016-exhibit-speaking-proposals/) ends on April 15, 2016.  
-
-
-### Potential Titles
-
-Ruby, C, and Go: A comparison
-Ruby vs C vs Go
 
