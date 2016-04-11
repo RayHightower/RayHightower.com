@@ -24,7 +24,7 @@ Here's the challenge, as presented to the Ancient City Ruby audience:
 
 We'll assume that the standard compass points apply to the map: North is at the top.
 
-### Observation
+### Studying the Problem
 
 Jack observed a few things about the scenic route:
 
@@ -242,7 +242,7 @@ sys	0m0.004s
 
 Same result, `184756`, as expected. Execution in fifteen milliseconds. Much faster than Ruby, but not as fast as C. 
 
-Like C, Go offers some advantages:
+Like C, this Go solution offers some advantages:
 
 * Flexibility. For a larger square, change the value of one constant, `squareSize`.
 
@@ -252,9 +252,11 @@ Like C, Go offers some advantages:
 
 * Native support for concurrency and parallelism. Not applicable in this example, but useful when we need to improve performance.
 
-### Conclusion
+### Observations
 
 Programming challenges help to keep the mind flexible. Flexible brains are most helpful for problem solving.
+
+C and Go, as compiled languages, will always execute faster than Ruby. Ruby, as an interpreted language, will always make it easy for developers to iterate and experiment because there's no compile step to break our rhythm.
 
 Special thanks to Jack Christensen and Hashrocket for a great Ancient
 City Ruby event and for sharing a problem that stretches the brain!
