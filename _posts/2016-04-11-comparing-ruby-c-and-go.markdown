@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/ruby_c_go_comparison.png" width="250" align="right" style="margin-left:10px;" alt="puzzle for comparing Ruby, C, and Go" title="puzzle for comparing Ruby, C, and Go">
 
-What do we learn when we solve the same problem in Ruby, C, and Go? How might the solutions differ in flexibility, readability, and performance?
+What do we learn when we solve the same problem in Ruby, C, and [Go](/blog/2013/06/22/preparing-for-parallella-64-cores-installing-go-on-mac-os-x/)? How might the solutions differ in flexibility, readability, and performance?
 
 The Hashrocket team presented a `snake_case` programming challenge during [Ancient City Ruby](http://ancientcityruby.com) last week. Nineteen attendees submitted correct solutions. Three of the solvers were selected at random to receive a prize: Raspberry Pi 3.
 
