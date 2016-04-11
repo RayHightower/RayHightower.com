@@ -217,17 +217,27 @@ $
 
 ~~~
 
-Let's compile it...
+Next, we compile the program. Note that `Go` is particular about directory structure. Unlike with `C`, the source file and the executable file reside in different directories by default, even with a small `Go` program. Therefore, the next few illustrations will include the full path of the directories where the commands are executed.
 
 ~~~ bash
+~/Code/gocode/src/github.com/rayhightower/acr16$ go install
 
+~/Code/gocode/src/github.com/rayhightower/acr16$ 
 
 ~~~
 
-...and run it.
+Next, switch to the directory where the new executable is located, and run it while using `time` to measure performance.
 
 ~~~ bash
 
+~/Code/gocode/bin$ time ./acr16
+184756
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+
+~/Code/gocode/bin$ 
 
 ~~~
 
@@ -240,3 +250,10 @@ Let's compile it...
 ### IoT Call for Proposals: WindyCityThings
 
 Are you working with the [Internet of Things](http://windycitythings.com)? Then you might like the [WindyCityThings IoT conference](http://windycitythings.com). The [call for proposals](https://wisdomgroup.wufoo.com/forms/windycitythings-2016-exhibit-speaking-proposals/) ends on April 15, 2016.  
+
+
+### Potential Titles
+
+Ruby, C, and Go: A comparison
+Ruby vs C vs Go
+
