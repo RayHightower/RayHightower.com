@@ -266,5 +266,5 @@ Special thanks to Ancient City Ruby for sharing a challenge that stretches the b
 
 ### IoT Call for Proposals: WindyCityThings
 
-Are you working with the [Internet of Things](http://windycitythings.com)? Then you might like the [WindyCityThings IoT conference](http://windycitythings.com). The [call for proposals](https://wisdomgroup.wufoo.com/forms/windycitythings-2016-exhibit-speaking-proposals/) ends on April 15, 2016. Tickets are on sale now.
+Are you exploring the [Internet of Things](http://windycitythings.com)? Then you might like the [WindyCityThings IoT conference](http://windycitythings.com). The [call for proposals](https://wisdomgroup.wufoo.com/forms/windycitythings-2016-exhibit-speaking-proposals/) ends on April 15, 2016. Tickets are on sale now.
 
