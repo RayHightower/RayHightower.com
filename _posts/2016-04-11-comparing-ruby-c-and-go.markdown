@@ -258,8 +258,7 @@ Programming challenges help to keep the mind flexible. Flexible brains are most 
 
 C and Go, as compiled languages, will always execute faster than Ruby. Ruby, as an interpreted language, will always make it easy for developers to iterate and experiment because there's no compile step to break our rhythm.
 
-Special thanks to Jack Christensen and Hashrocket for a great Ancient
-City Ruby event and for sharing a problem that stretches the brain!
+Special thanks to Jack Christensen and Hashrocket for a great Ancient City Ruby event and for sharing a problem that stretches the brain!
 
 ### IoT Call for Proposals: WindyCityThings
 
