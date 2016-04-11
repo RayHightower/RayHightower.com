@@ -4,7 +4,7 @@ title:  Observation and Data Representation
 date:   2016-04-10
 comments: true
 tags: [ Community, C, Go, Ruby ]
-published: true
+published: false
 ---
 
 <img src="/images/snake_case_acr.png" width="250" align="right" style="margin-left:10px;">
