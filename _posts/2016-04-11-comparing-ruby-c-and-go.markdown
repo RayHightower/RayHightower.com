@@ -126,15 +126,15 @@ $
 
 Ruby found the correct result, `184756`, in just over three seconds.
 
-_Update (14Apr2016)_: In the comments below, `rbhander` observed that we can write the brute force Ruby solution without the `chars` method. It works, and it saves time:
+### Updated Ruby Version (14Apr2016)
+
+In the comments below, `rbhander` observed that we can write the brute force Ruby solution without the `chars` method. It works, and it saves time:
 
 ~~~ ruby
-
 puts (0..(2**20)).count { |n| n.to_s(2).count("1") == 10 }
-
 ~~~
 
-Before we run the new version, let's use the `chmod` command to make it executable. 
+Before we run the new Ruby version, let's use the `chmod` command to make it executable. 
 
 ~~~ bash
 $ ls -al main-nochars.rb
@@ -151,7 +151,7 @@ $
 
 Timing the faster Ruby version...
 
-~~~ ruby
+~~~ bash
 $ time ruby ./main-nochars.rb
 184756
 
