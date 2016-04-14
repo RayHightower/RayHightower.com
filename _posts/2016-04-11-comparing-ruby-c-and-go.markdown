@@ -126,9 +126,7 @@ $
 
 Ruby found the correct result, `184756`, in just over three seconds.
 
-_Update_: In the comments below, `rbhander` observed that we can write
-the brute force Ruby solution without the `chars` method. It works, and
-it saves time:
+_Update (14Apr2016)_: In the comments below, `rbhander` observed that we can write the brute force Ruby solution without the `chars` method. It works, and it saves time:
 
 ~~~ ruby
 
@@ -136,14 +134,36 @@ puts (0..(2**20)).count { |n| n.to_s(2).count("1") == 10 }
 
 ~~~
 
-Timing the faster Ruby version...
+Before we run the new version, let's use the `chmod` command to make it executable. 
 
-~~~ ruby
+~~~ bash
+$ ls -al main-nochars.rb
+-rw-r--r--  1 rth  staff  59 Apr 12 00:22 main-nochars.rb
 
+$ chmod +x main-nochars.rb
+
+$ ls -al main-nochars.rb
+-rwxr-xr-x  1 rth  staff  59 Apr 12 00:22 main-nochars.rb
+
+$ 
 
 ~~~
 
-Open source rocks when we share ideas like this!
+Timing the faster Ruby version...
+
+~~~ ruby
+$ time ruby ./main-nochars.rb
+184756
+
+real	0m0.567s
+user	0m0.555s
+sys	0m0.010s
+
+$ 
+
+~~~
+
+The version without `chars` executes in 567ms, much faster than the first Ruby version. Open source rocks when we share ideas like this!
 
 ### Brute Force in C
 
