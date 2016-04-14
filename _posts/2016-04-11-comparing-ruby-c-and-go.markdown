@@ -126,6 +126,25 @@ $
 
 Ruby found the correct result, `184756`, in just over three seconds.
 
+_Update_: In the comments below, `rbhander` observed that we can write
+the brute force Ruby solution without the `chars` method. It works, and
+it saves time:
+
+~~~ ruby
+
+puts (0..(2**20)).count { |n| n.to_s(2).count("1") == 10 }
+
+~~~
+
+Timing the faster Ruby version...
+
+~~~ ruby
+
+
+~~~
+
+Open source rocks when we share ideas like this!
+
 ### Brute Force in C
 
 We expect C to be faster because it's compiled and closer to the hardware. Let's see if that's true. Here's Jack's solution in C:
