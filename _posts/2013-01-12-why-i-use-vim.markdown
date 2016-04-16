@@ -5,7 +5,7 @@ date: 2013-01-12 11:07
 comments: true
 tags: [Education, Vim]
 ---
-<img src="/images/vim-osx.png" width="300" height="257" alt="Vim on OSX" title="Vim on OSX" />
+<img src="/images/vim-osx.png" width="300" height="257" align="right" alt="Vim on OSX" title="Vim on OSX" />
 
 My primary code-writing tools are:
 
