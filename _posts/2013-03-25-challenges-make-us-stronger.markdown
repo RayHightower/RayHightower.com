@@ -6,7 +6,7 @@ comments: true
 tags: [Business, Education]
 published: true
 ---
-<img src="/images/moth.png" width="300" height="215" align="right" title="Emperor moth photo by Dean Morley" alt="Emperor moth photo by Dean Morley">
+<img src="/images/moth.png" width="300" height="215" align="right" style="margin-left:10px;" title="Emperor moth photo by Dean Morley" alt="Emperor moth photo by Dean Morley">
 A man found a cocoon of an emperor moth. He took it home so that he could watch the moth come out of the cocoon. On the day a small opening appeared, he sat and watched the moth for several hours as the moth struggled to force its body through that little hole. 
 
 Then it seemed to stop making any progress. It appeared as if it had gotten as far as it could and it could go no farther. It just seemed to be stuck.
