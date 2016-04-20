@@ -3,8 +3,8 @@ layout: post
 title:  Node-RED on Parallella
 date:   2016-04-25
 comments: true
-tags: [ NodeJS ]
-published: true
+tags: [ IoT, NodeJS, Parallella ]
+published: false
 ---
  
 Node-RED is a visual wiring tool for the Internet of Things. What does that mean, and why do we care?
