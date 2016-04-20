@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Node-RED on Parallella
-date:   2016-03-15
+date:   2016-04-25
 comments: true
 tags: [ NodeJS ]
-published: false
+published: true
 ---
  
 Node-RED is a visual wiring tool for the Internet of Things. What does that mean, and why do we care?
@@ -42,25 +42,26 @@ Bash completion has been installed to:
 ~/Code/nodejs$ node --version
 v5.5.0
 
-~/Code/nodejs$
+$ 
 
 ~~~
 
 ### Install Node-RED
 
 ~~~ bash
+
 ~/Code/nodejs$ npm install -g node-red
 npm WARN deprecated i18next-client@1.10.3: you can use npm install i18next from version 2.0.0
 /usr/local/bin/node-red-pi -> /usr/local/lib/node_modules/node-red/bin/node-red-pi
 /usr/local/bin/node-red -> /usr/local/lib/node_modules/node-red/red.js
 
-> bufferutil@1.2.1 install /usr/local/lib/node_modules/node-red/node_modules/bufferutil
-> node-gyp rebuild
+  bufferutil@1.2.1 install /usr/local/lib/node_modules/node-red/node_modules/bufferutil
+  node-gyp rebuild
 
 ...
 
-$
- ~~~
+$ 
+~~~
 
 ### Accept Incoming Network Connections?
 
