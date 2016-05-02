@@ -80,7 +80,8 @@ html {
   }
   .sidebar-nav select {
     display: inline;
-    width: 70%;
+    font-size: 1.5em;
+    width: 60%;
   }
 }
 
