@@ -58,7 +58,7 @@ html {
   }
 }
 
-/* by RTH: Determine what gets shown on iPad or larger displays. */
+/* by RTH: Determine what gets shown on iPad or smaller displays. */
 @media (max-width: 45em) {
   .sidebar-featured {
     display: none;
