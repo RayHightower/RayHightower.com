@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="margin-left:20px" src="/images/ray_hightower_pine64.jpg" align="right" />
+<img style="margin-left:20px" src="/images/ray_hightower_pine64.jpg" align="right" alt="Raymond T Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" title="Raymond T Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" />
 
 Raymond T. Hightower is a software developer, founder of [WisdomGroup](http://wisdomgroup.com), organizer of [ChicagoRuby](http://chicagoruby.org), and producer of [WindyCityRails](http://windycityrails.com), [WindyCityThings](http://windycitythings.com), & [RubyCaribe](http://rubycaribe.com). He is currently exploring parallelism and the [Internet of Things](http://windycitythings.com).
 
