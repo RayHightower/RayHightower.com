@@ -60,6 +60,7 @@ So, what's a Mandelbrot set and why do we care?
 {% include image.html img="/images/mandelbrot-parallella.jpg" caption="Mandelbrot example calculated by Parallella." %}
 
 <br/>&nbsp;
+
 >Clouds are not spheres, mountains are not cones, coastlines are not circles, and bark is not smooth, nor does lightning travel in a straight line.<br/>&nbsp;<br/>~Benoit Mandelbrot
 
 A Mandelbrot set is a group of numbers that displays a certain unusual property. Each member of the set is based on a calculation performed on the previous member, and an infinite number of members can be plotted within a finite area of a plane. Since humans are visual, we can easily recognize a Mandelbrot set that has been plotted on a graph, like the Mandelbrot diagram in this article. 
@@ -69,9 +70,11 @@ For a 15-minute explanation of the Mandelbrot set, check out [The Amazing Mandel
 A Mandelbrot algorithm designed for and executed on a parallel system will run faster than a similar algorithm running in serial. The algorithm and the code must be tailored for a parallel system in order for the advantage to be realized.
 
 ### Other Parallella Examples
+
 As of this writing, the other graphical programs in the [parallella-examples repo](https://github.com/parallella/parallella-examples) can be run in a similar fashion. `cd` into the directory, run `make`, and then `./run.sh`.
 
 ### Next steps
+
 Parallella is a learning tool. A learning lab. When we are learning, we ask questions like:
 
 * How can we measure the difference in performance between serial and parallel versions of different algorithms? 
