@@ -11,7 +11,7 @@ published: true
 
 A big "thank you" to the organizers of [RubyConf Kenya](http://rubyconf.nairuby.org/2016) for inviting me to present on Parallella and on entrepreneurship. Rich learning and networking were had by all.
 
-I was especially impressed with _M-Pesa_, payment system used by the vast majority of Kenyans. M-Pesa is a disruptive blend of financial technology, UX, and ecosystem management. Local devs are writing apps that leverage the M-Pesa platform. Banks are already being disrupted by M-Pesa, and the topic is worthy of a separate post on this blog.
+I was especially impressed with _M-Pesa_, the mobile payment system used throughout Kenya. M-Pesa is a disruptive blend of financial technology, UX, and ecosystem management. Local devs are writing financial apps that leverage the M-Pesa platform. Banks are already being disrupted by M-Pesa, and the topic is worth a separate post on this blog.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ Slides from the Entrepreneurship presentation...
 
 ### Parallella, Supercomputing, and Ruby
 
-Slides from the Paralla presentation...
+Slides from the Parallella presentation...
 
 <center><script async class="speakerdeck-embed" data-id="c5ed83fda205482e84dc2f9a2932b075" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
 
