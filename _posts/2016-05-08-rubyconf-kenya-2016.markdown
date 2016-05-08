@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/RubyConfKenya_200x200.jpg" width="200" align="right" style="margin-left:10px;" alt="RubyConf Kenya 2016" title="RubyConf Kenya 2016">
 
-A big "thank you" to the organizers of [RubyConf Kenya](http://rubyconf.nairuby.org/2016) for inviting me to present on Parallella and on entrepreneurship. Rich learning and networking at this conference.
+A big "thank you" to the organizers of [RubyConf Kenya](http://rubyconf.nairuby.org/2016) for inviting me to present on Parallella and on entrepreneurship. Rich learning and networking were had by all.
 
 I was especially impressed with _M-Pesa_, payment system used by the vast majority of Kenyans. M-Pesa is a disruptive blend of financial technology, UX, and ecosystem management. Local devs are writing apps that leverage the M-Pesa platform. Banks are already being disrupted by M-Pesa, and the topic is worthy of a separate post on this blog.
 
