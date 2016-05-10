@@ -21,7 +21,9 @@ Learn more at...
 * [SpeakerDeck](http://speakerdeck.com/rayhightower)
 * [Twitter](http://twitter.com/rayhightower)
 * [YouTube](http://youtube.com/wisdomgroupvideo)
+* [Vimeo](https://vimeo.com/chicagoruby)
 * [Speaker Profile (Orate)](https://www.orate.me/speakers/825-ray-hightower)
 * [Onename Blockchain ID](https://onename.com/rayhightower)
 * [Hackster.io](https://www.hackster.io/rayhightower)
 * [RSS Feed](/atom.xml)
+
