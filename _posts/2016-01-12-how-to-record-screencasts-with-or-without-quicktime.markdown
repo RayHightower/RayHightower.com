@@ -51,7 +51,8 @@ Congrats... no more live typing!
 
 Another _gotcha_: I banged my head against the wall for several days, exploring multiple screencast recording alternatives for Linux on the Parallella. None of the software solutions worked as required. But one hardware solution, smaller than an iPhone and available for $150 at Best Buy, worked immediately: Elgato HD60.
 
-<img src=/images/elgato_parallella_800.jpg alt="Parallella with Elgato Game Capture HD 60" >
+<img src="/images/elgato_parallella_800.jpg" alt="Parallella with Elgato Game Capture HD 60" >
+
 
 This image shows a Parallella (with green case supports), Elgato HD60 (rectangular with rounded corners), and an HDMI monitor.
 
