@@ -15,7 +15,7 @@ What is IoT and why might you care? This article will give a brief answer. Let's
   <iframe src="https://player.vimeo.com/video/169184331?color=f00004&title=0&byline=0&portrait=0" frameborder="0" width="100%" height="100%" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 &nbsp;<br/>
- There’s still time to be an early adopter in IoT. Here's why.
+There’s still time to be an early adopter in IoT. Here's why.
 
 <!--more-->
 
@@ -39,7 +39,7 @@ If you're in a profession other than education, use the discount code CHICAGORUB
 
 ### IoT Youth Program
 
-Students 12 to 17 years of age can register for the half-day [IoT Youth Program](/iot-youth-program/).
+Students 12 to 17 years of age can register for the half-day [IoT Youth Program](http://windycitythings.com/iot-youth-program/).
 
 ### Conclusion
 
