@@ -5,9 +5,8 @@ date: 2013-10-31 16:13
 comments: true
 tags: [Education, Vim]
 ---
-While finishing my presentation for the upcoming [Chippewa Valley Code Camp](http://chippewavalleycodecamp.com/), I decided to add some blocks of code to my slides. I forgot the name of the tool I used for my last slide deck, and it took several minutes of Google-fu to find it. 
 
-Google led me back to `:TOhtml`. Whew! I'm documenting `:TOhtml` here to avoid wasting time with a future search.
+When giving a presentation to a group of developers, you might want to add blocks of code to your slides. It's helpful to maintain the syntax highlighting while you copy the code. `:TOhtml` offers a quick way to copy code snippets from Vim to Keynote, while syntax highlighting remains intact. 
 
 <!--more-->
 
