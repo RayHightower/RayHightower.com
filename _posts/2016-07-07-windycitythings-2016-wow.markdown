@@ -13,11 +13,11 @@ published: true
 &nbsp;<br/>
 2016 marked the first year for a very special IoT conference, [WindyCityThings](http://windycitythings.com). Thank you to everyone who made the event so successful, especially:
 
-* Speakers, sponsors, and attendees all stepped up to make the conference happen.
+* Speakers, sponsors, attendees, and organizers who all stepped up to make the conference happen.
 * [BLUE1647](http://blue1647.com) for running the IoT Youth Program.
-* David Kinney and Amy Kinney for helping with speaker selection and MC-ing.
-* South Shore Cultural Center for providing a great venue.
-* [Ganza Image Productions](http://ganzaimage.com) for summarizing the WindyCityThings experience in this 3-minute video.
+* [David Kinney](dlkinney) and [Amy Kinney](amykinney) for helping with speaker selection and MC-ing.
+* [South Shore Cultural Center](https://www.facebook.com/TheSouthShoreCulturalCenter/) for providing a great venue.
+* [Ganza Image Productions](http://ganzaimage.com) for summarizing the WindyCityThings experience with a 3-minute video.
 
 <!--more-->
 
