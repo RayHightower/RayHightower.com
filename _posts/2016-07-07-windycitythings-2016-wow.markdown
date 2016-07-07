@@ -23,6 +23,6 @@ published: true
 
 ### Next Year
 
-Planning for the next WindyCityThings is already underway. If you’re excited about IoT and if there’s something special that you’d like to see at WindyCityThings in 2017, dash me a message through the [contact form](/contact) and the organizers will consider it.
+Planning for the next WindyCityThings is already underway. If you’re excited about IoT and if there’s something special that you’d like to see at WindyCityThings in 2017, drop a message in the [contact form](/contact) and the organizers will consider it for next year.
 
 We look forward to hearing from you!
