@@ -15,7 +15,7 @@ published: true
 
 * Speakers, sponsors, attendees, and organizers who all stepped up to make the conference happen.
 * [BLUE1647](http://blue1647.com) for running the IoT Youth Program.
-* [David Kinney](dlkinney) and [Amy Kinney](amykinney) for helping with speaker selection and MC-ing.
+* [David Kinney](http://twitter.com/dlkinney) and [Amy Kinney](http://twitter.com/amykinney) for helping with speaker selection and MC-ing.
 * [South Shore Cultural Center](https://www.facebook.com/TheSouthShoreCulturalCenter/) for providing a great venue.
 * [Ganza Image Productions](http://ganzaimage.com) for summarizing the WindyCityThings experience with a 3-minute video.
 
