@@ -11,7 +11,7 @@ published: true
 <iframe src="https://player.vimeo.com/video/173577064?color=f00004&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 &nbsp;<br/>
-2016 marked the first year for a very special IoT conference, WindyCityThings. Thank you to everyone who made the event so successful, especially:
+2016 marked the first year for a very special IoT conference, [WindyCityThings](http://windycitythings.com). Thank you to everyone who made the event so successful, especially:
 
 * Speakers, sponsors, and attendees all stepped up to make the conference happen.
 * [BLUE1647](http://blue1647.com) for running the IoT Youth Program.
