@@ -15,6 +15,6 @@ published: true
 
 ### Next Steps
 
-Entrepreneurs solve problems.
+It is always exciting to be in a room full of entrepreneurs because entrepreneurs solve problems. I look forward to seeing great things from the SBDC at Bethel New Life!
 
 
