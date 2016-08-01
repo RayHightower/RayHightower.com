@@ -18,7 +18,7 @@ Members of Chicago's Python (<a href="http://chipy.org">ChiPy</a>), Java (<a hre
 
 ### Many Languages + One Goal
 
-Sometimes we kid each other about _the one true language_ that a developer must know & use in order to be cool. Beyond the humor lies the knowledge that it's all about using the right tool for a particular job. A compiled language like C works well for embedded projects because the executables are small and the C language is highly portable. Java dominates corporate America because lots of Java libraries have been written and over nine million Java developers are available to maintain the code. Functional languages like Lisp are on the because newer hardware supports concurrency and parallelism. The list goes on.
+Sometimes we kid each other about _the one true language_ that a developer must know & use in order to be cool. Beyond the humor lies the knowledge that it's all about using the right tool for a particular job. A compiled language like C works well for embedded projects because the executables are small and the C language is highly portable. Java dominates corporate America because lots of Java libraries have been written and over nine million Java developers are available to maintain the code. Functional languages like Lisp are on the rise because newer hardware supports concurrency and parallelism. And so on.
 
 When we learn multiple languages, we add tools to our problem-solving toolbox. An experienced developer can take an algorithm learned in FORTRAN in 1982 and apply it to a Ruby project in 2016. 
 
