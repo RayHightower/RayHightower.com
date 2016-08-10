@@ -9,9 +9,8 @@ footer: false
 The challenge:
 
 * All of the logos for our events stand out, except WindyCityThings.
-* The logo design is communicates well. But the colors are almost
-* invisible.
-* What is our best choice for updating the colors?
+* The WindyCityThings logo design is communicates well. But these shades of blue & green are almost invisible.
+* What is our best choice for updated colors?
 
 <br/>&nbsp;<br/>
 <img src="/images/wct_logo_colors/wct_color_options.jpg">
