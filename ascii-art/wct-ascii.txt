@@ -1,9 +1,4 @@
----
-layout: page
-title: ASCII Art
----
-
-<code><span style="display:block;line-height:8px; font-size: 8px; font-weight:bold;white-space:pre;font-family: monospace;color: green; background: black;"><br/>&nbsp;<br/>                                  #@@@@@@@@@@@@@@(                             
+                                  #@@@@@@@@@@@@@@(                             
                           /@@@@@@@@(*@@*       .#@@@@@@@%                      
                       @@@@@%         @@(    ,@@        *@@@@&                  
                    @@@@     (@@@@@@@@@      #@@@@@@@@@%    @@@@@               
@@ -36,7 +31,4 @@ title: ASCII Art
                                                          @@   @@  @@           
                                                          @@@  @@ ,@@@          
                                                              @@@               
-                                                             *@@               
-<br/>&nbsp;<br/>
-</span></code>
-
+                                                             *@@  
