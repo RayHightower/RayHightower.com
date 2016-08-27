@@ -20,7 +20,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Upcoming Presentations
 
-* [Business of Software](http://businessofsoftware.org/)<br/>Boston, MA, USA<br/>September 12, 2016<br/>&nbsp;<br/>
+* [Business of Software](http://businessofsoftware.org/)<br/>Boston, MA, USA<br/>September 12-14, 2016<br/>&nbsp;<br/>
 * [Software Craftsmanship North America (SCNA)](http://scna.softwarecraftsmanship.org/)<br/>Los Angeles, CA, USA<br/>October 21, 2016<br/>&nbsp;<br/>
 * [ConFoo](https://confoo.ca/en/yvr2016)<br/>Vancouver, British Colombia, Canada<br/>December 5-7, 2016<br/>
 
