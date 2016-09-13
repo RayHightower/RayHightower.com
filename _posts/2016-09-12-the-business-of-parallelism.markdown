@@ -15,4 +15,9 @@ Slides appear below. Video will be posted when it becomes available.
 <script async class="speakerdeck-embed" data-id="bdbbe6692a644006a0d794bbc6c7c0b7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </center>
 
+<!--more-->
+
+### First Presentation After Acquisition
+
+The presentation at BoS was my first after [8th Light acquired WisdomGroup](http://www.wisdomgroup.com/8thlight/). It was fascinating to hear from others in the audience who have been through similar deals. Some as buyers, some as sellers, others with multiple transactions on either side. Lots to learn both ways.
 
