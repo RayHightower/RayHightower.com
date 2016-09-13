@@ -11,7 +11,7 @@ published: true
 
 The [Business of Software Conference](http://businessofsoftware.org) is a gathering for people who run software companies. This year marks the tenth year for the conference. 
 
-Thank you BoS organizers for inviting me to present.
+Thank you BoS organizers for inviting me to present _The Business of Parallelism_.
 
 Slides appear below. Video will be posted when it becomes available.
 
