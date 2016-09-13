@@ -7,6 +7,8 @@ tags: [ Business, Parallella, Raspberry_Pi ]
 published: true
 ---
 
+<img src="/images/parallelism_concurrency.png" width="300" align="right" style="margin-left:10px;" alt="Concurrency vs Parallelism" title="Concurrency vs Parallelism">
+
 The [Business of Software Conference](http://businessofsoftware.org) is a gathering for people who run software companies. This year marks the tenth year for the conference. Thank you BoS organizers for inviting me to present.
 
 Slides appear below. Video will be posted when it becomes available.
