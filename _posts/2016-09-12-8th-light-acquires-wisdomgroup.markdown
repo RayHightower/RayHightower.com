@@ -10,9 +10,9 @@ published: true
 
 >We’re gonna need a bigger boat.<br/>&nbsp;<br/>~Police Chief in the movie Jaws
 
-After 21 years of independent operation, WisdomGroup has been acquired by 8th Light.
+After 21 years of independent operation, WisdomGroup has been acquired by [8th Light](http://8thlight.com).
 
-WisdomGroup's 2-decade history has been an adventure of growth and change. We started with network and server installations, morphed to the web, and tightened our focus to Ruby in 2005. 
+WisdomGroup's two-decade history has been an adventure of growth and change. We started with network and server installations, morphed to the web, and tightened our focus to Ruby in 2005. 
 
 <!--more-->
 
