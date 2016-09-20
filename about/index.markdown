@@ -5,11 +5,11 @@ title: About
 
 <img style="margin-left:20px" src="/images/ray_hightower_pine64.jpg" align="right" alt="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" title="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" />
 
-Raymond T. Hightower is a software developer, founder of [WisdomGroup](http://wisdomgroup.com), organizer of [ChicagoRuby](http://chicagoruby.org), and producer of [WindyCityRails](http://windycityrails.com), [WindyCityThings](http://windycitythings.com), & [RubyCaribe](http://rubycaribe.com). He is currently exploring parallelism and the [Internet of Things](http://windycitythings.com).
+Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://wisdomgroup.com), for twenty-one years before selling the company to [8th Light](http://8thlight.com) in 2016. Today, Hightower serves on the senior leadership team at 8th Light where he is responsible for delivering custom software to clients.
 
-Hightower founded WisdomGroup in 1994 as a network consulting firm. In response to client demand, WisdomGroup shifted into software development. WisdomGroup serves clients in multiple vertical markets including [high-performance computing](http://www.wisdomgroup.com/case-studies/texas-am-university/), [online commerce](http://www.wisdomgroup.com/case-studies/singles-travel-international/), and [not-for-profit](http://www.wisdomgroup.com/case-studies/cathedralshelter/). The company is active in the USA and in the Caribbean, and gives back to the community through student internships, running user groups, and hosting conferences. 
+Hightower is a software developer, organizer of [ChicagoRuby](http://chicagoruby.org), and creator of [WindyCityRails](http://windycityrails.com), [WindyCityThings](http://windycitythings.com), & [RubyCaribe](http://rubycaribe.com). He is currently exploring parallelism and the [Internet of Things](http://windycitythings.com).
 
-Prior to launching WisdomGroup, Hightower worked in software development for Hewlett Packard and in sales for IBM and Marcus & Millichap.
+Early in his career, Hightower worked in software development for Hewlett Packard and in sales for IBM and Marcus & Millichap.
 
 Hightower is a scuba diver, marathon runner, skier, aspiring piano player, martial artist, Eagle Scout, Assistant Scoutmaster, and world traveler. He has visited every state in the USA and most continents on planet Earth. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his Bachelors in Computer Science at the University of Illinois at Chicago.
 
