@@ -9,21 +9,21 @@ published: true
 
 >I do the learning thing pretty obsessively.<br/>&nbsp;<br/>~Mandla Magagula’s Twitter profile
 
-Yesterday morning, I had a Skype call with [Mandla Magagula](https://twitter.com/mandlamag), a software developer based in Johannesburg, South Africa. By day he builds software. And when he’s not at work, Mandla and his team teach software craftsmanship to youth in Johannesburg.
-
-<!--more-->
-
-Mandla's passion for software craftsmanship comes through in his 21-minute presentation at Ruby Fuza 2015:
+Yesterday morning, I had a Skype call with [Mandla Magagula](https://twitter.com/mandlamag), a software developer based in Johannesburg, South Africa. By day he builds software. And when he’s not at work, Mandla and his team teach software craftsmanship to youth in Johannesburg. Mandla's passion for teaching and learning comes through in his 21-minute presentation at Ruby Fuza 2015:
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m4JPMSRf4hY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </center>
 
-### Global Desire for Excellence
+<!--more-->
+
+## Software Craftsmanship is Global
 
 We talked about [8th Light’s acquisition of WisdomGroup](https://8thlight.com/blog/paul-pagel/2016/09/12/8th-light-acquisition-wisdomgroup.html), and with a few minutes our conversation turned to [SCNA](http://scna.softwarecraftsmanship.com/).
 
 I’ve had similar craftsmanship conversations with developers from other regions of Planet Earth.
+
+Every time I have this conversation with someone from another country, I'm struck by the global nature of software craftsmanship.
 
 When
 
@@ -42,5 +42,6 @@ If you feel this way, if you have a passion for excellence, come join us at SCNA
 
 SCNA has built a global reputation for excellence in education and networking.
 
-## SCNA in LA
-Are you a software developer looking to take your skills to the next level? Consider the SCNA conference, arriving in Los Angels on October 21, 2016. Learn from industry leaders like Robert “Uncle Bob” Martin and Michael Feathers. Network with your peers, trade ideas, and have a great time with a room full of smart people who will welcome you. Register with discount code SCNA16 to save $50.
+## Come to SCNA
+
+Are you a software developer looking to take your skills to the next level? Consider the [SCNA conference](http://scna.softwarecraftsmanship.com/), arriving in Los Angeles on October 21, 2016. Learn from industry leaders like [Robert “Uncle Bob” Martin](https://twitter.com/unclebobmartin) and [Michael Feathers](https://twitter.com/unclebobmartin). Network with your peers, trade ideas, and have a great time with a room full of smart people who will welcome you. Register with discount code SCNA16 to save $50.
