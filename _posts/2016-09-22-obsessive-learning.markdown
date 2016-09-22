@@ -27,9 +27,7 @@ Software craftsmanship is global.
 
 ## Striving Towards Mastery
 
-Some folks are content to perform at their current level of skill. They deliver an _acceptable_ level of results at work, and they're fine. But some professionals have a burning desire for mastery. 
-
-People with this burning desire to master a craft tend to gather together. To learn from each other. To challenge each other to grow.
+Some folks are content to perform at their current level of skill. They deliver an _acceptable_ level of results at work, and they're fine. But some professionals have a burning desire for mastery. People with this burning desire to master a craft tend to gather together. To learn from each other. To challenge each other to grow.
 
 [SCNA](http://scna.softwarecraftsmanship.com/) is a conference that attracts developers with a burning desire to achieve mastery in software development. To hone their skills continuously over time, and to deliver better results for clients and other stakeholders.
 
