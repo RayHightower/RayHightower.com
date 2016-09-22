@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  Software Craftsmanship is Global
+title:  Obsessive Learning
 date:   2016-09-22
 comments: true
 tags: [ Community, Education ]
 published: true
 ---
 
->I do the learning thing pretty obsessively.<br/>&nbsp;<br/>~[Mandla Magagula’s Twitter profile](https://twitter.com/mandlamag)
+>I do the learning thing pretty obsessively.<br/>&nbsp;<br/>~Mandla Magagula’s Twitter profile
 
 Yesterday morning, I had a Skype call with [Mandla Magagula](https://twitter.com/mandlamag), a software developer based in Johannesburg, South Africa. By day he builds software. And when he’s not at work, Mandla and his team teach software craftsmanship to youth in Johannesburg.
 
 <!--more-->
 
-You can hear more about Mandla's mission of teaching and learning in this 21-minute video from Ruby Fuza 2015.
+Mandla's passion for software craftsmanship comes through in his 21-minute presentation at Ruby Fuza 2015:
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m4JPMSRf4hY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </center>
 
-###
+### Global Desire for Excellence
 
 We talked about [8th Light’s acquisition of WisdomGroup](https://8thlight.com/blog/paul-pagel/2016/09/12/8th-light-acquisition-wisdomgroup.html), and with a few minutes our conversation turned to [SCNA](http://scna.softwarecraftsmanship.com/).
 
