@@ -19,7 +19,7 @@ published: true
 
 <br/>&nbsp;<br/>
 
-## Software Craftsmanship is Global
+## Talking Ends. Action Begins.
 
 During our Skype call, we talked about [8th Light’s acquisition of WisdomGroup](https://8thlight.com/blog/paul-pagel/2016/09/12/8th-light-acquisition-wisdomgroup.html), and within a few minutes our conversation turned to Mandla's thoughts about training the next generation of developers. Conversations like this become powerful when the talking ends and the action begins. In Mandla's case, action takes form in [Uzuko Hill](http://www.uzukohill.org/), the training organization that he formed with a colleague, Theo Bohnen. They launched with a handful of students, and they grow every year.
 
