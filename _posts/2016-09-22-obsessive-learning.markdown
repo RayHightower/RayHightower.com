@@ -9,7 +9,7 @@ published: true
 
 >I do the learning thing pretty obsessively.<br/>&nbsp;<br/>~Mandla Magagula’s Twitter profile
 
-[Mandla Magagula](https://twitter.com/mandlamag) and I spoke via Skype yesterday morning. Mandla is a software developer based in Johannesburg, South Africa. When he’s not at work, Mandla and his team teach software craftsmanship to local youth. Mandla and I met at Ruby Fuza 2015 in Cape Town. His passion for teaching and learning shines through for anyone he meets, as you can see in this 20-minute video:
+[Mandla Magagula](https://twitter.com/mandlamag) and I spoke via Skype yesterday morning. Mandla is a software developer based in Johannesburg, South Africa. When he’s not at work, Mandla and his team teach software craftsmanship to local youth. Mandla and I met at Ruby Fuza 2015 in Cape Town. His passion for teaching and learning radiates for anyone he meets, as you can see in this 20-minute video:
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m4JPMSRf4hY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
