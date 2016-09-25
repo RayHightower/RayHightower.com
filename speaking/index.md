@@ -20,7 +20,6 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Upcoming Presentations
 
-* [Business of Software](http://businessofsoftware.org/)<br/>Boston, MA, USA<br/>September 12-14, 2016<br/>&nbsp;<br/>
 * [Software Craftsmanship North America (SCNA)](http://scna.softwarecraftsmanship.org/)<br/>Los Angeles, CA, USA<br/>October 21, 2016<br/>&nbsp;<br/>
 * [ConFoo](https://confoo.ca/en/yvr2016)<br/>Vancouver, British Colombia, Canada<br/>December 5-7, 2016<br/>
 
@@ -31,6 +30,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Additional Speaking History:
 
+* [Business of Software](http://businessofsoftware.org/)<br/>Boston, MA, USA<br/>&nbsp;<br/>
 * [RubyConf Kenya](http://rubyconf.nairuby.org/2016) - Africa Nazarene University<br/>Ongata Rongai, Kenya<br/>&nbsp;<br/>
 * [ConFoo](http://confoo.ca)<br/>Montreal, QC, Canada<br/>&nbsp;<br/>
 * [Ancient City Ruby](http://www.ancientcityruby.com/)<br/>St. Augustine, FL, USA<br/>&nbsp;<br/>
