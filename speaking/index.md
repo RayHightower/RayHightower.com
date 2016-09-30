@@ -4,7 +4,7 @@ title: "Speaking"
 footer: true
 ---
 
-<img style="margin-left:20px;" src="/images/parallella_hightower_2015.png" alt="parallella madison ruby" align="right" />
+<img style="margin-left:20px" src="/images/ray_hightower_pine64.jpg" align="right" alt="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" title="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" />
 
 Ray Hightower delivers presentations on technology and business growth. If you would like to invite him to speak at your event, you can reach him through the [contact form](/contact).
 

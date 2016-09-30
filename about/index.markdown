@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="margin-left:20px" src="/images/ray_hightower_pine64.jpg" align="right" alt="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" title="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" />
+<img style="margin-left:20px" src="/images/rayhightower_8thlight.jpg" height="200" width="200" align="right" alt="Ray Hightower" title="Ray Hightower" />
 
 Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://wisdomgroup.com), for twenty-one years before selling the company to [8th Light](http://8thlight.com) in 2016. Today, Hightower serves on the senior leadership team at 8th Light where he is responsible for delivering custom software to clients.
 
