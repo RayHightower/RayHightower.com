@@ -31,8 +31,6 @@ You'll get a faster response through email or the contact form (both go to email
 Ph: +1.312.842.2200<br/>
 &nbsp;<br/>
 Raymond T. Hightower<br/>
-President<br/>
-WisdomGroup<br/>
 27 North Wacker Drive, Suite 406<br/>
 Chicago, IL 60606<br/>
 USA<br/>
