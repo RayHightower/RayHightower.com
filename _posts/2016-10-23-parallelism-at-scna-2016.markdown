@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/scna-2016.png" width="250" align="right" style="margin-left:10px;" alt="Concurrency vs Parallelism" title="Concurrency vs Parallelism">
 
-[SCNA](http://scna.softwarecraftsmanship.com/) has long been one of my favorite conferences. Reason: Conversations with other attendees. People who attend SCNA come from a wide range of developer communities  and they represent most of the languages in use today. Each community grows stronger when we borrow good ideas from the other comunities. For example,
+[SCNA](http://scna.softwarecraftsmanship.com/) has long been one of my favorite conferences. Reason: Rich conversations with other attendees. People who attend SCNA come from a wide range of developer communities and they represent most of the languages in use today. Each community grows stronger when we borrow good ideas from each other.
 
 <!--more-->
 
@@ -23,4 +23,4 @@ The organizers of SCNA invited me (several months before [the acquisition](/blog
 
 ### What’s Next?
 
-One advantage of presenting to a room full of smart people: Feedback! Questions from the audience are always rich with new ideas. Lots of new paralleliism-related topics to explore. As always, I’ll post here as the discoveries unfold.l
+One advantage of presenting to a room full of smart people: Feedback! Questions from the audience are always rich with new ideas. Lots of new paralleliism-related topics to explore. As always, I’ll post here as the discoveries unfold.
