@@ -70,7 +70,7 @@ Now that installation is complete, it's time to enjoy the Koans.
 
 ### Get and Run the Clojure Koans
 
-The Clojure Koans were inspired by the Ruby Koans written by a stalwart of the software development community, [Jim Weirich](http://onestepback.org/). To get the Clojure Koans, clone the GitHub repo where they're located.
+The [Clojure Koans](http://clojurekoans.com/) were inspired by the Ruby Koans written by a stalwart of the software development community, [Jim Weirich](http://onestepback.org/). To get the Clojure Koans, clone the GitHub repo where they're located.
 
 ~~~ bash
 
@@ -102,25 +102,33 @@ Every time you solve one of the riddles put forth by a koan, the corresponding t
 
 ### Running a Clojure REPL
 
-Clojure’s read-evaluate-print-loop (REPL) is a quick way to experiment with syntax on the fly. 
-
-Leiningen enables us to run a Clojure  To do so:
+What if you're going through the Koans and you want to experiment a bit? Clojure’s read-evaluate-print-loop (REPL) is a quick way to try syntax on the fly. You can get to the REPL via Leiningen.
 
 ~~~ bash
 
 $ lein repl
-nREPL server started on port 63259 on host 127.0.0.1 - nrepl://127.0.0.1:63259
+nREPL server started on port 59750 on host 127.0.0.1 - nrepl://127.0.0.1:59750
 REPL-y 0.3.7, nREPL 0.2.12
 Clojure 1.8.0
 Java HotSpot(TM) 64-Bit Server VM 1.8.0_101-b13
     Docs: (doc function-name-here)
           (find-doc "part-of-name-here")
   Source: (source function-name-here)
-Javadoc: (javadoc java-object-or-class-here)
+ Javadoc: (javadoc java-object-or-class-here)
     Exit: Control+D or (exit) or (quit)
-Results: Stored in vars *1, *2, *3, an exception in *e
+ Results: Stored in vars *1, *2, *3, an exception in *e
 
+user=> (+ 2 2)
+4
 user=>
 
+user=> Bye for now!
+
 ~~~
+
+You can exit the REPL with `CTRL + D`.
+
+### Conclusion
+
+Next step: Let's keep learning!
 
