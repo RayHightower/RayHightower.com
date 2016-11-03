@@ -3,18 +3,23 @@ layout: post
 title:  Getting Started With Clojure Koans
 date:   2016-11-03
 comments: true
-tags: 
+tags: [ Clojure, Education ]
 published: true
 ---
-Clojure is a dialect of the Lisp programming language. It runs on the on the Java virtual machine (JVM). One advantage of running on the JVM: Clojure apps can leverage the vast library of Java apps that already exist.
-Companies that already have a large base of Java apps can bring Clojure into the mix without having to re-write any of the tried and tested Java code.
 
-This post offers a quick way to get started with Clojure on Mac OS X.
+<img src="/images/clojure-logo.png" width="200" align="right" style="margin-left:10px;" alt="Clojure" title="Clojure">
 
-<!- more ->
+Clojure is a dialect of the Lisp programming language that runs on the on the Java virtual machine (JVM).
+
+One advantage of running on the JVM: Clojure apps can leverage the vast library of Java apps that already exist. If a company has invested heavily in Java, they can bring Clojure into the mix without having to re-write their tried and tested Java code.
+
+This post shows how to start experimenting with Clojure on Mac OS X.
+
+<!--more-->
 
 ### Install Leiningen
 
+Leiningen is a build automation tool for Clojure projects. It offers a quick way to install Clojure and related tools. To install Leiningen on OS X, use [Homebrew](/blog/2014/02/12/homebrew-fundamentals/).
 
 ~~~ bash
 
@@ -39,7 +44,7 @@ zsh completion has been installed to:
 
 ~~~
 
-Confirm `leiningen` installation.
+To confirm `leiningen` installation...
 
 ~~~ bash
 
