@@ -55,6 +55,24 @@ To confirm `leiningen` installation...
 
 ~~~
 
+And to determine which version of Leiningen you have installed...
+
+~~~ bash
+
+$ lein --version
+Leiningen 2.7.1 on Java 1.8.0_101 Java HotSpot(TM) 64-Bit Server VM
+
+$ 
+
+~~~
+
+Now that installation is complete, it's time to enjoy the Koans.
+
+### Get and Run the Clojure Koans
+
+The Clojure Koans were inspired by the Ruby Koans written by a stalwart of the software development community, [Jim Weirich](http://onestepback.org/).
+
+
 
 To start running the Koans.
 
