@@ -19,7 +19,7 @@ This post shows how to start experimenting with Clojure on Mac OS X.
 
 ### Install Leiningen
 
-Leiningen is a build automation tool for Clojure projects. It offers a quick way to install Clojure and related tools. To install Leiningen on OS X, use [Homebrew](/blog/2014/02/12/homebrew-fundamentals/).
+[Leiningen](http://leiningen.org/) is a build automation tool for Clojure projects. It offers a quick way to install Clojure and related tools. To install Leiningen on OS X, use [Homebrew](/blog/2014/02/12/homebrew-fundamentals/).
 
 ~~~ bash
 
@@ -70,13 +70,20 @@ Now that installation is complete, it's time to enjoy the Koans.
 
 ### Get and Run the Clojure Koans
 
-The Clojure Koans were inspired by the Ruby Koans written by a stalwart of the software development community, [Jim Weirich](http://onestepback.org/).
-
-
-
-To start running the Koans.
+The Clojure Koans were inspired by the Ruby Koans written by a stalwart of the software development community, [Jim Weirich](http://onestepback.org/). To get the Clojure Koans, clone the GitHub repo where they're located.
 
 ~~~ bash
+
+$ git clone git://github.com/functional-koans/clojure-koans.git
+
+$ 
+
+~~~
+
+From there, you can `cd` into the directory where you cloned the koans and run them.
+
+~~~ bash
+
 $ lein koan run
 Starting auto-runner...
 Considering /Users/rth/Code/Clojure/clojure-koans/src/koans/01_equalities.clj...
@@ -87,11 +94,11 @@ Assertion failed!
 clojure.lang.ExceptionInfo: We shall contemplate truth by testing reality, via equality
 (= __ true) {:line 6}, compiling:(/Users/rth/Code/Clojure/clojure-koans/src/koans/01_equalities.clj:4:1)
 
-
 ~~~
 
-The `Assertion failed!` line tells us that Clojure is starting us off with a failing test...
+The `Assertion failed!` line tells us that Clojure is starting us off with a failing test. Some developers will leave a project with a failing test at then end of the day so that they have a clear place to start on the next day.
 
+Every time you solve one of the riddles put forth by a koan, the corresponding test passes and you are directed to the next test. The Clojure Koans are a fun way to exercise and build Clojure muscles.
 
 ### Running a Clojure REPL
 
