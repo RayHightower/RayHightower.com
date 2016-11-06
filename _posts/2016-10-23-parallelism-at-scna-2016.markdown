@@ -7,7 +7,7 @@ tags: [ Education, Parallelism, Parallella, Raspberry_Pi ]
 published: true
 ---
 
-<img src="/images/scna-2016.png" width="250" align="right" style="margin-left:10px;" alt="Concurrency vs Parallelism" title="Concurrency vs Parallelism">
+<img src="/images/scna-2016.png" width="200" align="right" style="margin-left:10px;" alt="Concurrency vs Parallelism" title="Concurrency vs Parallelism">
 
 [SCNA](http://scna.softwarecraftsmanship.com/) has long been one of my favorite conferences. Reason: Rich conversations with other attendees. People who attend SCNA come from a wide range of developer communities and they represent most of the languages in use today. Each community grows stronger when we borrow good ideas from each other.
 
