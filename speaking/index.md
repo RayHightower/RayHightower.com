@@ -18,9 +18,8 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 * [Groupon: OpenROV at Geekfest](/blog/2014/10/21/geekfest-and-openrov/)<br/>Geekfest, a weekly event by Groupon - Chicago, IL, USA<br/>&nbsp;<br/>
 * [Four Steps. Five Minutes.](/blog/2012/08/31/four-steps-five-minutes/)<br/>Five-minute video summary of _The Four Steps to the Epiphany_ by Steve Blank<br/>Ignite Chicago - Chicago, IL, USA<br/>&nbsp;<br/>
 
-### Upcoming Presentations
+### Upcoming
 
-* [Software Craftsmanship North America (SCNA)](http://scna.softwarecraftsmanship.org/)<br/>Los Angeles, CA, USA<br/>October 21, 2016<br/>&nbsp;<br/>
 * [ConFoo](https://confoo.ca/en/yvr2016)<br/>Vancouver, British Colombia, Canada<br/>December 5-7, 2016<br/>
 
 ### Podcast Audio:
@@ -30,6 +29,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Additional Speaking History:
 
+* [Software Craftsmanship North America (SCNA)](http://scna.softwarecraftsmanship.org/)<br/>Los Angeles, CA, USA<br/>&nbsp;<br/>
 * [Business of Software](http://businessofsoftware.org/)<br/>Boston, MA, USA<br/>&nbsp;<br/>
 * [RubyConf Kenya](http://rubyconf.nairuby.org/2016) - Africa Nazarene University<br/>Ongata Rongai, Kenya<br/>&nbsp;<br/>
 * [ConFoo](http://confoo.ca)<br/>Montreal, QC, Canada<br/>&nbsp;<br/>
