@@ -12,6 +12,7 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 * [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
 * [Supercomputing for Everyone, Featuring Ruby](/blog/2015/10/29/rubyconf-colombia-conference-with-a-mission/)<br>(First 30 seconds in rookie-level Spanish)<br/>RubyConf Colombia - Medellín, Colombia<br/>&nbsp;<br/>
+* [Exploring Parallelism With Parallella and Raspberry Pi](/blog/2016/10/24/parallelism-at-scna-2016/)<br/>Software Craftsmanship North America (SCNA)<br/>Los Angeles, CA, USA<br/>&nbsp;<br/>
 * [Wrestling With the Internet of Things (IoT)](/blog/2015/12/02/wrestling-with-internet-of-things-iot/)<br/>ChicagoRuby User Group in Chicago, IL, USA<br/>&nbsp;<br/>
 * [Parallella in Five Minutes](/blog/2015/11/16/parallella-in-5-minutes-rubyconf-2015/)<br/>RubyConf 2015 - San Antonio, TX, USA<br/>&nbsp;<br/>
 * [Node.js Under Water (OpenROV)](/blog/2014/09/25/nodejs-under-water/)<br/>NYC Node.JS User Group - New York City, NY, USA<br/>&nbsp;<br/>
@@ -29,7 +30,6 @@ Ray Hightower delivers presentations on technology and business growth. If you w
 
 ### Additional Speaking History:
 
-* [Software Craftsmanship North America (SCNA)](http://scna.softwarecraftsmanship.org/)<br/>Los Angeles, CA, USA<br/>&nbsp;<br/>
 * [Business of Software](http://businessofsoftware.org/)<br/>Boston, MA, USA<br/>&nbsp;<br/>
 * [RubyConf Kenya](http://rubyconf.nairuby.org/2016) - Africa Nazarene University<br/>Ongata Rongai, Kenya<br/>&nbsp;<br/>
 * [ConFoo](http://confoo.ca)<br/>Montreal, QC, Canada<br/>&nbsp;<br/>

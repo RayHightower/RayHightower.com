@@ -23,9 +23,9 @@ The organizers of SCNA invited me (several months before [the acquisition](/blog
 
 <br/>&nbsp;<br/>
 
-<center>
+<div class="video-container">
 <iframe src="https://player.vimeo.com/video/191595395" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</center>
+</div>
 
 ### What’s Next?
 
