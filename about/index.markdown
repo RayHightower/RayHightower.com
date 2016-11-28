@@ -22,7 +22,7 @@ Learn more at...
 * [LinkedIn](http://linkedin.com/in/rayhightower)
 * [SpeakerDeck](http://speakerdeck.com/rayhightower)
 * [Twitter](http://twitter.com/rayhightower)
-* [YouTube](http://youtube.com/wisdomgroupvideo)
+* [YouTube](http://youtube.com/rthlearning)
 * [Vimeo](https://vimeo.com/chicagoruby) (ChicagoRuby, WindyCityRails, & WindyCityThings)
 * [Speaker Profile (Orate)](https://www.orate.me/speakers/825-ray-hightower)
 * [Onename Blockchain ID](https://onename.com/rayhightower)
