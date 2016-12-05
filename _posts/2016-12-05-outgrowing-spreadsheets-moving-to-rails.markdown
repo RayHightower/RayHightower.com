@@ -9,7 +9,9 @@ published: true
 
 <script async class="speakerdeck-embed" data-id="e459e2c30a64456786877b085b3aff74" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-Excel spreadsheets are ok for quick analysis, but when the rows are too many and the formulas are too complex, recalc time slows to a crawl. Plus, sharing a spreadsheet is cumbersome due to security and version control headaches.
+<!--more-->
 
-This presentation will take the audience through a conversion from an old, slow spreadsheet into a zippy Ruby on Rails app.
+Excel spreadsheets are ok for quick analysis, but when the rows are too many and the formulas are too complex, recalc time slows to a crawl. Plus, sharing a spreadsheet is cumbersome due to security and version control headaches. One solution: Moving away from the spreadsheet, and building a web app instead.
+
+This presentation was delived at ConFoo in Vancouver, BC, Canada on December 5, 2016.
 
