@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Outgrowing Spreadsheets, Moving to Rails
+title:  From Spreadsheets to Rails
 date:   2016-12-05
 comments: true
 tags: [ Business, Ruby, Rails, TDD, UXD ]
