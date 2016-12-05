@@ -13,5 +13,5 @@ published: true
 
 Excel spreadsheets are ok for quick analysis, but when the rows are too many and the formulas are too complex, recalc time slows to a crawl. Plus, sharing a spreadsheet is cumbersome due to security and version control headaches. One solution: Moving away from the spreadsheet, and building a web app instead.
 
-This presentation was delived at ConFoo in Vancouver, BC, Canada on December 5, 2016.
+This presentation was delived at [ConFoo](http://confoo.ca) in Vancouver, BC, Canada on December 5, 2016.
 
