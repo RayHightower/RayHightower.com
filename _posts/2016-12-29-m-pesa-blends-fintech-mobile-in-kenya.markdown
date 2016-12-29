@@ -4,30 +4,39 @@ title:  M-Pesa Blends Fintech + Mobile in Kenya
 date:   2016-12-29
 comments: true
 tags: [ Business, Fintech ]
-published: false
+published: true
 ---
 >I rarely go to the bank nowdays.<br/>&nbsp;<br/>~Taxi driver in Nairobi, Kenya speaking to<br/>a 60 Minutes reporter about M-Pesa
 
 <img src="/images/lipa_na_m-pesa.jpg" width="250" align="right" style="margin-left:10px;" alt="Lipa Na M-Pesa" title="Lipa Na M-Pesa">
 M-Pesa is the mobile payment service that dominates Kenya. M-Pesa runs on mobile phones, and you can use it to pay for almost anything. M-Pesa is used by Kenyans regardless of income level, technical skill, or location (urban or rural). In 2015, 42% of the Kenyan GDP was processed through M-Pesa.
 
-“Pesa” is the Swahili word for money, and the “M" stands for mobile. My first M-Pesa experience happened during [RubyConf Kenya](/blog/2016/05/08/rubyconf-kenya-2016/) in May 2016. So many developers at the conference raved about the service that I had to try it.
+“Pesa” is the Swahili word for money, and the “M" stands for mobile. "Lipa na M-Pesa" means "purchase with M-Pesa". My first M-Pesa experience happened during [RubyConf Kenya](/blog/2016/05/08/rubyconf-kenya-2016/) in May 2016. So many developers at the conference raved about the service that I had to try it.
 <!--more-->
 
 ### Running on the SIM Card
 
+M-Pesa runs on a mobile phone's SIM card. Therefore the app can run on any mobile phone, from the latest smartphone to the oldest feature phone. To run the app on my iPhone 6, I followed these steps:
+
+* Signed up for the Safaricom service. 
+* Swapped my existing SIM for one for Safaricomm.
+* Added some money to my new Safaricom account.
+
+...and I was ready to start using M-Pesa.
+
+<img src="/images/safaricom-sim.jpg" width="600" align="center" alt="Safaricom SIM card" title="Safaricom SIM card">
+
+### First Purchase
+
+<img src="/images/sim-applications.jpg" width="250" align="right" style="margin-left:10px;" alt="Safaricom SIM Applications" title="Safaricom SIM Applications">
+Using M-Pesa on a smartphone means navigating to "SIM Applications" and finding the M-Pesa app. If a business accepts M-Pesa for payment, they will have a till number. Enter the till number into the M-Pesa, enter the amount you owe, confirm the transaction, and you're done. It's that simple.
+
+<img src="/images/m-pesa_payment_process.jpg" width="600" align="center" alt="M-Pesa Payment Process" title="M-Pesa Payment Process">
 
 
 
-The Swahili word for money is "pesa". M-Pesa is the mobile payment service used by _everybody_ in Kenya. M-Pesa runs on mobile phones, and you can use it to pay for almost anything. Everyone in Kenya uses it, regardless of income level, technical skill, etc.
 
->We go to conferences to learn about trends while there's still time to be an early adopter.
-~Brian Marick
 
-#RubyConfKenya has proven to be hotbed of...
-As ‪#‎RubyConfKenya‬ draws to a close, can't help reflecting on all I have learned about tech and biz at this conference.
-
-Big item on my list: The Swahili word for money is "pesa". M-Pesa is the mobile payment service used by _everybody_ in Kenya. M-Pesa runs on mobile phones, and you can use it to pay for almost anything. Everyone in Kenya uses it, regardless of income level, technical skill, etc.
 
 
 
@@ -36,14 +45,9 @@ Even more remarkable: I've met Kenyan software developers who are building apps 
 
 Did I mention that everyone in Kenya uses M-Pesa? That one point has my head spinning. Bitcoin is used by a small subset of humans, but M-Pesa is accessible to everyone. "Lipa na M-Pesa" means "pay with M-Pesa". That's powerful!
 
-### Success Has Many Fathers
-Where did M-Pesa come from? Who invented it? 
-
->Success has many fathers. Failure is an orphan.<br/>&nbsp;<br/>~JFK
-
 ### M-Pesa vs Bitcoin
 
-A comparison between M-Pesa and Bitcoin might not make sense to people who understand the blockchain. But I think the comparison has value because:
+A comparison between M-Pesa and Bitcoin might seem "apples-to-oranges" to people who understand the blockchain. But I think the comparison has value because:
 
 * Both are methods of payment that avoid paper currency.
 * Both have the potential to disrupt the banking system.
