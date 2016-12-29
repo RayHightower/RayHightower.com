@@ -4,15 +4,13 @@ title:  M-Pesa Blends Fintech + Mobile in Kenya
 date:   2016-12-29
 comments: true
 tags: 
-published: true
+published: false
 ---
 >I rarely go to the bank nowdays.<br/>&nbsp;<br/>~Taxi driver in Nairobi, Kenya speaking to<br/>a 60 Minutes reporter about M-Pesa
 
 <img src="/images/lipa_na_m-pesa.jpg" width="250" align="right" style="margin-left:10px;" alt="Lipa Na M-Pesa" title="Lipa Na M-Pesa">
 M-Pesa is the mobile payment service that dominates Kenya. M-Pesa runs on mobile phones, and you can use it to pay for almost anything. Everyone in Kenya uses it, regardless of income level, technical skill, or location (urban or rural). TechWeez reports that 42% of the Kenyan GDP is transacted through M-Pesa.
 <!--more-->
-
-Since 
 
 
 
