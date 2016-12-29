@@ -64,7 +64,7 @@ Bitcoin is still in the "early adopter" stage of Clayton Christensen's technolog
 
 Feel free to express yourself in the comments if you disagree :-)
 
-### How to Benefit from M-Pesa
+### Fintech Excitement
 
 Any time we have a product used by so many people, from such a diverse set of backgrounds, network effects come into play. Safaricom is in an excellent position to benefit from the network they've built. Somewhere, maybe sometime soon, a smart group of developers will build on top of the M-Pesa platform and benefit, too.
 
