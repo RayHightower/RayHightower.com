@@ -3,20 +3,19 @@ layout: post
 title:  M-Pesa Blends Fintech + Mobile in Kenya
 date:   2016-12-29
 comments: true
-tags: 
-published: false
+tags: [ Business, Fintech ]
+published: true
 ---
 >I rarely go to the bank nowdays.<br/>&nbsp;<br/>~Taxi driver in Nairobi, Kenya speaking to<br/>a 60 Minutes reporter about M-Pesa
 
 <img src="/images/lipa_na_m-pesa.jpg" width="250" align="right" style="margin-left:10px;" alt="Lipa Na M-Pesa" title="Lipa Na M-Pesa">
-M-Pesa is the mobile payment service that dominates Kenya. M-Pesa runs on mobile phones, and you can use it to pay for almost anything. Everyone in Kenya uses it, regardless of income level, technical skill, or location (urban or rural). TechWeez reports that 42% of the Kenyan GDP is transacted through M-Pesa.
+M-Pesa is the mobile payment service that dominates Kenya. M-Pesa runs on mobile phones, and you can use it to pay for almost anything. M-Pesa is used by Kenyans regardless of income level, technical skill, or location (urban or rural). In 2015, 42% of the Kenyan GDP was processed through M-Pesa.
+
+“Pesa” is the Swahili word for money, and the “M" stands for mobile. My first M-Pesa experience happened during [RubyConf Kenya](/blog/2016/05/08/rubyconf-kenya-2016/) in May 2016. So many developers at the conference raved about the service that I had to try it.
 <!--more-->
 
+### Running on the SIM Card
 
-
-I first used M-Pesa during RubyConf Kenya in May 2016. From the moment I arrived in Nairobi, it seemed that everyone I met engaged me in conversation about M-Pesa.  The organizers of RubyConf Kenya invited me to speak
-
-“Pesa” is the Swahili word for money, and the “M" stands for mobile.
 
 
 
@@ -65,7 +64,7 @@ Now that we have a quick overview of what M-Pesa is, how can a bright entreprene
 One US-based developer said to me: "But Ray, Kenya's population is smaller s in the USA. They also have a smaller GDP.” Both points are true, but they miss the point. 
 My response: You're missing the point. The creators have built a product with:
 * A footprint small enough to run on any mobile device, from the cheapest flip phone to the most advanced iPhone or Android device.
-* A user experience that's so intuitive that everyone I spoke with in Kenya uses it. The numbers back this up. In 2015, 42% of the Kenyan GDP was processed through M-Pesa.
+* A user experience that's so intuitive that everyone I spoke with in Kenya uses it. The numbers back this up. 
 
 Any time we have a product used by so many people, from such a diverse set of backgrounds, network effects come into play. Safaricom is in an excellent position to benefit from the network they've built. Somewhere, maybe sometime soon, a smart group of developers will build on top of the M-Pesa platform and benefit, too.
 
