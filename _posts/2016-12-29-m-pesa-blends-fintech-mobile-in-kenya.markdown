@@ -28,8 +28,8 @@ M-Pesa runs on a mobile phone's SIM card. Therefore the app can run on any mobil
 
 ### First Purchase
 
-<img src="/images/sim-applications.jpg" width="250" align="right" style="margin-left:10px;" alt="Safaricom SIM Applications" title="Safaricom SIM Applications">
-Using M-Pesa on a smartphone means navigating to "SIM Applications" and finding the M-Pesa app. If a business accepts M-Pesa for payment, they will have a till number. Enter the till number into the M-Pesa, enter the amount you owe, confirm the transaction, and you're done. It's that simple.
+<img src="/images/sim_applications.jpg" width="250" align="right" style="margin-left:10px;" alt="Safaricom SIM Applications" title="Safaricom SIM Applications">
+On a feature phone, M-Pesa appears on the menu with all of the other apps on the SIM card. On a smartphone, using M-Pesa requires navigating to "SIM Applications" and finding the M-Pesa app. If a business accepts M-Pesa for payment, they will have a till number. Enter the till number into the M-Pesa, enter the amount you owe, confirm the transaction, and you're done. It's that simple.
 
 <img src="/images/m-pesa_payment_process.jpg" width="600" align="center" alt="M-Pesa Payment Process" title="M-Pesa Payment Process">
 
