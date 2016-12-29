@@ -58,7 +58,7 @@ Having used both M-Pesa and Bitcoin, here's my assessment.
 
 * M-Pesa is like the impulse items near the checkout line at the grocery store. It's easy to start using M-Pesa because it's right at your fingertips.
 
-* Bitcoin is somewhere in the back of the grocery store. You can get it, but you have to look for it.
+* Bitcoin is somewhere in the back of the grocery store. You can get it, but you must look for it.
 
 Bitcoin is still in the "early adopter" stage of Clayton Christensen's technology adoption framework. Early adopters are willing to put up with a few headaches or obstacles. But the masses of people want something easy to use. That's where M-Pesa fits the bill.
 
