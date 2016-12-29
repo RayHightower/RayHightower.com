@@ -4,7 +4,7 @@ title:  M-Pesa Blends Fintech + Mobile in Kenya
 date:   2016-12-29
 comments: true
 tags: [ Business, Fintech ]
-published: true
+published: false
 ---
 >I rarely go to the bank nowdays.<br/>&nbsp;<br/>~Taxi driver in Nairobi, Kenya speaking to<br/>a 60 Minutes reporter about M-Pesa
 
