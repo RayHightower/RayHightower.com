@@ -66,14 +66,6 @@ Feel free to express yourself in the comments if you disagree :-)
 
 ### How to Benefit from M-Pesa
 
-Now that we have a quick overview of what M-Pesa is, how can a bright entrepreneur turn this knowledge into an opportunity?
-
-One US-based developer said to me: "But Ray, Kenya's population is smaller s in the USA. They also have a smaller GDP.” Both points are true, but they miss the point. 
-
-* A footprint small enough to run on any mobile device, from the cheapest flip phone to the most advanced iPhone or Android device.
-
-* A user experience that's so intuitive that everyone I spoke with in Kenya uses it. The numbers back this up. 
-
 Any time we have a product used by so many people, from such a diverse set of backgrounds, network effects come into play. Safaricom is in an excellent position to benefit from the network they've built. Somewhere, maybe sometime soon, a smart group of developers will build on top of the M-Pesa platform and benefit, too.
 
 What an exciting time to be in fintech!
