@@ -60,7 +60,7 @@ Having used both M-Pesa and Bitcoin, here's my assessment.
 
 * Bitcoin is somewhere in the back of the grocery store. You can get it, but you have to look for it.
 
-Bitcoin is still in the "early adopter" stage of Clayton Christensen's technology adoption framework. Early adopters are willing to put up with a few headaches/obstacles. But the masses of people want something easy to use. That's where M-Pesa fits the bill.
+Bitcoin is still in the "early adopter" stage of Clayton Christensen's technology adoption framework. Early adopters are willing to put up with a few headaches or obstacles. But the masses of people want something easy to use. That's where M-Pesa fits the bill.
 
 Feel free to express yourself in the comments if you disagree :-)
 
