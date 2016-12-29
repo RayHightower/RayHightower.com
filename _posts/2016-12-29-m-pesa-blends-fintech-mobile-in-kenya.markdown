@@ -54,7 +54,7 @@ Having used both M-Pesa and Bitcoin, here's my assessment.
 
 * M-Pesa has expanded quickly because it's easy to use and it's available on the one device that everybody uses, the mobile phone.
 
-* Bitcoin is less accessible because a user must open an account with a third party service (like Coinbase or a wallet) to begin acquiring or spending the currency. In other words, the user must really _want_ to use Bitcoin in order to get started.
+* Bitcoin is less accessible because a user must open an account with a third-party service (like Coinbase or a wallet) to begin acquiring or spending the currency. In other words, the user must really _want_ to use Bitcoin in order to get started.
 
 * M-Pesa is like the impulse items near the checkout line at the grocery store. It's easy to start using M-Pesa because it's right at your fingertips.
 
