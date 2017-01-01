@@ -24,7 +24,6 @@ Learn more at...
 * [Twitter](http://twitter.com/rayhightower)
 * [YouTube](http://youtube.com/rthlearning)
 * [Vimeo](https://vimeo.com/chicagoruby) (ChicagoRuby, WindyCityRails, & WindyCityThings)
-* [Speaker Profile (Orate)](https://www.orate.me/speakers/825-ray-hightower)
 * [Hackster.io](https://www.hackster.io/rayhightower)
 * [RSS Feed](/atom.xml)
 
