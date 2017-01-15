@@ -15,6 +15,8 @@ Hightower is a scuba diver, marathon runner, skier, aspiring piano player, marti
 
 Hightower blogs and [speaks](/speaking) on technology and business growth.
 
+<img style="margin-left:20px" src="/images/laptop-rth-wcr-blue-3rd.jpg" width="200" align="right" alt="Ray Hightower" title="Ray Hightower" />
+
 Learn more at...
 
 * [GitHub](http://github.com/rayhightower)
@@ -27,3 +29,4 @@ Learn more at...
 * [Hackster.io](https://www.hackster.io/rayhightower)
 * [RSS Feed](/atom.xml)
 
+_Photos by Chris Peak and Abhinaya Konduru, respectively._
