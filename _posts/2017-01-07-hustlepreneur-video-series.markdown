@@ -14,7 +14,7 @@ Abhinaya interviews entrepreneurs and other leaders as part of her Hustlepreneur
 <!--more-->
 
 <div class="video-container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/LH07mU9eibY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LH07mU9eibY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 <br/>&nbsp;<br/>
 Thanks Abhinaya for the interview. Much success to you as you move forward with your career!
