@@ -1,32 +1,10 @@
 ---
 layout: nonav
-title: "Contact Ray Hightower"
+title: 
 footer: false
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScRWeAcj5KgqvBSEcSyn7MruZDo4eUTvP7qY1mcvEI4C9ZCmQ/viewform?embedded=true#start=embed" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-
-<!--
-<div id="wufoo-r7w8p9">
-What's the best way to reach Ray Hightower? <a href="http://wisdomgroup.wufoo.com/forms/r7w8p9">This form</a>!
-</div>
-<script type="text/javascript">var r7w8p9;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'wisdomgroup', 
-'formHash':'r7w8p9', 
-'autoResize':true,
-'height':'697',
-'async':true,
-'header':'show', 
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { r7w8p9 = new WufooForm();r7w8p9.initialize(options);r7w8p9.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
--->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScRWeAcj5KgqvBSEcSyn7MruZDo4eUTvP7qY1mcvEI4C9ZCmQ/viewform?embedded=true#start=embed" width="760" height="1900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ### Old School Contact Info
 
