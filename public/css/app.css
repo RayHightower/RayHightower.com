@@ -31,6 +31,10 @@
   color: #268bd2;
 }
 
+.sidebar-rubyonrails {
+  font-size: 12px;
+}
+
 /* Sidebar Social Media in mobile */
 @media (max-width: 48em) {
   .sidebar-socmed a {
