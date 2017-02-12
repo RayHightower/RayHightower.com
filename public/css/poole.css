@@ -63,6 +63,9 @@ html {
   .sidebar-featured {
     display: none;
   }
+  .sidebar-rubyonrails {
+    display: none;
+  }
   .sidebar-events {
     display: none;
   }
