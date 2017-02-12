@@ -4,7 +4,7 @@ title:  Cool Ruby Graphics
 date:   2017-02-13
 comments: true
 tags: [ Ruby ]
-published: false
+published: true
 ---
 <p>
 <img src="/images/snake_ruby_loop.gif">
