@@ -6,9 +6,15 @@ comments: true
 tags: [ Ruby ]
 published: true
 ---
+
 <p>
 <img src="/images/snake_ruby_loop.gif">
 </p>
+
+>There is nothing like a good problem to spark the synapses, is there? To open the mind to new possibilities, new ways of seeing things. Of course, one must always confront self doubt and fear. But that is a small price to pay for the exhilaration of finding the perfect solution.<br/>~Mr. Kurros, Think Tank<br/>Star Trek Voyager<br/>S5E19
+
+[Josh Cheek](http://twitter.com/josh_cheek) likes good problems. Last Friday, he tweeted about some of his graphics experiments in Ruby.
+
 <!--more-->
 
 ~~~ ruby
