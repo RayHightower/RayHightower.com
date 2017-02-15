@@ -155,4 +155,4 @@ $ ruby snake.rb
 
 ### Conclusion
 
-Mission accomplished! Thanks Josh for inspiring this post, and thanks Ryan for creating the `graphics` gem.
+Mission accomplished! Thanks Josh Cheek for inspiring this post, and thanks Ryan Davis for creating the `graphics` gem.
