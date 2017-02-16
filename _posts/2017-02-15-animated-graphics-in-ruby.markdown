@@ -58,19 +58,19 @@ class SnakesBodyAsItEatsMice < Graphics::Simulation
     clear :black
     @num_lines.times do |j|
       e_height_radius = (
-        sin(sin(sin(sin(                   # nested sine waves make the output more round
-          (j-time*@speed) /                # not sure why I subtract here, seems like I should add, but then the wave moves left
-            @num_lines *                   # j/num_lines is a percentage along the wave
-            2*PI *                         # now a percentage along a circle. Passed into sine, this gives one wave: -*`*-._.-
-            @num_waves                     # multiply the input so that it traverses more circles (more waves)
+        sin(sin(sin(sin(                   
+          (j-time*@speed) /                
+            @num_lines *                   
+            2*PI *                         
+            @num_waves                     
         )))) /
-          sin(sin(sin(1))) +               # each nested sine decreases the amplitude (b/c needs input of -π..π to include full range, but output of sine is -1..1)
-                                           # so we divide by nested sines of 1 (the max output value) to scale the final wave back to -1..1
-          1                                # scale it from -1..1 to 0..2
+          sin(sin(sin(1))) +               
+                                           
+          1                                
       ) /
-        2 *                                # scale 0..2 to 0..1
-        (@e_max_height - @e_min_height) +  # scale 0..1 to 0..height_diff
-        @e_min_height                      # translate 0..height_diff to min_height..max_height
+        2 *                                
+        (@e_max_height - @e_min_height) +  
+        @e_min_height                      
 
       draw_segment @h_margin+@e_width_rad+j*@e_offset, h/2,
                    @e_width_rad, e_height_radius,
