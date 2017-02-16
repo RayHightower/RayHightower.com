@@ -18,7 +18,13 @@ This post lists Josh's code, along with the steps required to install the depend
 
 ### 3D Sine Wave Source Code
 
-Here's the source code for the 3D sine wave animation. If you download the code as `snake.rb` and try to run it from the command line using `$ ruby snake.rb` it won't run, unless you already have the dependencies installed on your system.
+If you download the code as `snake.rb` and try to run it from the command line using...
+
+~~~ bash
+$ ruby snake.rb
+~~~
+
+...it won't run, unless you already have the dependencies installed on your system. Source code for the 3D sine wave animation appears below.
 
 ~~~ ruby
 
@@ -84,7 +90,7 @@ SnakesBodyAsItEatsMice.new.run
 
 ### SDL, Installed via Homebrew
 
-If you use macOS, some of the dependencies are easier to install via [Homebrew](/blog/2014/02/12/homebrew-fundamentals/). Start with [Simple DirectMedia Layer (SDL)](https://www.libsdl.org/), which is is responsible for displaying graphics for this snippet. 
+For macOS users, some of the dependencies are easier to install via [Homebrew](/blog/2014/02/12/homebrew-fundamentals/). Start with [Simple DirectMedia Layer (SDL)](https://www.libsdl.org/), which is is responsible for displaying graphics for this snippet. 
 
 ~~~ bash
 
