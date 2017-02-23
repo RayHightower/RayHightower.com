@@ -101,6 +101,8 @@ $ brew install sdl
 ==> Pouring sdl-1.2.15.sierra.bottle.3.tar.gz
 🍺  /usr/local/Cellar/sdl/1.2.15: 225 files, 1.4M
 
+$ 
+
 ~~~
 
 You will also need to use Homebrew to install related SDL libraries...
