@@ -52,7 +52,7 @@ Download the files that you will need to burn onto the SD card. I'm running Mac 
 
 * [Ubuntu 14.04 for Parallella](http://downloads.parallella.org/ubuntu/dists/trusty/image/ubuntu-14.04-140611.img.gz) (released June 11, 2014)
 * [Linux kernel with HDMI support](http://downloads.parallella.org/boot/linux/kernel-hdmi-default.tgz)
-* [Parallella-16 Zynq 7010 with HDMI display](https://github.com/parallella/parabuntu/tree/master/fpga_bitfiles) (_Thanks Bryan Zake for providing an updated link on 06Mar2017._)
+* [Parallella-16 Zynq 7010 with HDMI display](https://github.com/parallella/parabuntu/tree/master/fpga_bitfiles) (_Thanks Bryan Zake for providing an updated link on 07Mar2017._)
 
 Unzip the files and place them in a directory that's handy. You'll need them for the next step. With Mac OS X, you can unzip the files by double-clicking them in `Finder`.
 
