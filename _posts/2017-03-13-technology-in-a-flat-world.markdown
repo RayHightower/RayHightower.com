@@ -4,7 +4,7 @@ title:  Technology in a Flat World
 date:   2017-03-13
 comments: true
 tags: [ Business ]
-published: false
+published: true
 ---
 
 <img style="margin-left:20px" src="/images/world_is_flat.jpg" height="300" width="200" align="right" alt="The World is Flat by Thomas Friedman" title="The World is Flat by Thomas Friedman" />
