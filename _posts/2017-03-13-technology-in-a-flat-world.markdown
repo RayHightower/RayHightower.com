@@ -17,7 +17,7 @@ Change has always been with us. When change happens in the business world, compa
 
 _The World is Flat_ by [Thomas L. Friedman](http://www.thomaslfriedman.com/) was published in 2005 and rapidly became a bestseller. Friedman defines a flat world as one where intellectual work and intellectual capital can be created anywhere and delivered anywhere.
 
-How does a business decision-maker lead a team to benefit from flatness? A few throught-provoking ideas are presented here.
+How does a business decision-maker lead a team to benefit from flatness? A few thought-provoking ideas are presented here.
 
 <!--more-->
 
@@ -82,7 +82,7 @@ Who wins in this scenario? Everybody. The engineer wins because he now has anoth
 Flatness isn’t all about technology. Technology is merely a tool that enables change. And like any good tool, technology must serve the big picture. If your computers enable you to serve your customers well, then your company is in good shape. Computers that do not contribute to the achievement of goals are useless. 
 
 ### Flatness Questions
-* Do you have access to the information you need to keep your customers satis ed?
+* Do you have access to the information you need to keep your customers satisfied?
 * Where are your customers and partners located, in the USA or elsewhere in the world? Are you sure?
 * Given the trend toward flatness, what can you do about it? What _must_ you do about it?
 
