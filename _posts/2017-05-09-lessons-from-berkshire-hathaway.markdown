@@ -12,7 +12,7 @@ published: true
 >I like the idea of artificial intelligence because we’re so short of the real thing.
 <br/>&nbsp;<br/>~Charlie Munger
 
-The Berkshire Hathaway annual meeting combines business education, entertainment, shopping, and fellowship into one weekend-long event. Chairman Warren Buffett and Vice Chairman Charlie Munger have held the gathering every year since 1965. This year’s meeting, held on Saturday, May 6, 2017, attracted over 38,000 participants. Omaha’s [CenturyLink Center](http://www.centurylinkcenteromaha.com/ConventionCenter/ConventionCenterHome.aspx)  was filled to the rafters.
+The Berkshire Hathaway annual meeting combines business education, entertainment, shopping, and fellowship into one weekend-long event. Chairman Warren Buffett and Vice Chairman Charlie Munger have held the gathering every year since 1966. This year’s meeting, held on Saturday, May 6, 2017, attracted over 38,000 participants. Omaha’s [CenturyLink Center](http://www.centurylinkcenteromaha.com/ConventionCenter/ConventionCenterHome.aspx)  was filled to the rafters.
 
 What draws people in? I think it’s a combination of straight talk, savvy humor, and a shared mission.
 
