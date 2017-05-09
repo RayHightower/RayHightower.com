@@ -6,16 +6,17 @@ comments: true
 tags: 
 published: true
 ---
- 
-buffett_munger.jpg
 
-<img>
+<img src="/images/buffett_munger.jpg" align="center" alt="Warren Buffett and Charlie Munger" title="Warren Buffett and Charlie Munger">
+
 >I like the idea of artificial intelligence because we’re so short of the real thing.
 <br/>~Charlie Munger
 
 The Berkshire Hathaway annual meeting combines business education, entertainment, shopping, and fellowship into one weekend-long event. Chairman Warren Buffett and Vice Chairman Charlie Munger have held the gathering every year since 1965. This year’s meeting, held on Saturday, May 6, 2017, attracted over 38,000 participants. Omaha’s [CenturyLink Center](http://www.centurylinkcenteromaha.com/ConventionCenter/ConventionCenterHome.aspx)  was filled to the rafters.
 
-What draws people in? I think it’s a combination of straight talk, strategic humor, and a shared mission.
+What draws people in? I think it’s a combination of straight talk, savvy humor, and a shared mission.
+
+<!--more-->
 
 ### Live Streaming Covers Most, Not All
 
@@ -23,7 +24,7 @@ Berkshire has partnered with Yahoo Finance to stream the meeting live at at [htt
 
 Opening movie. Every annual meeting starts with a funny 30-minute movie featuring  celebrities and Berkshire products. The actors and singers who appear in the movie do so at no fee (Warren admits to being cheap) with the understanding that the movie will not be made public beyond the meeting. 
 
-### Questions and Answers
+### Straight Talk: Q & A
 
 The Q & A session is the most education-packed part of the event. Warren and Charlie sit at the front of the room with 38,000+ onlookers (plus the online audience). They answer questions. They drink Coca-Cola. And they munch on See’s Candy.
 
@@ -37,11 +38,11 @@ Warren’s answers tend to be detailed and professorial, with a few wise-cracks 
 
 The exchanges are impromptu and priceless.
 
-### The Business Meeting
+### Shared Mission: The Business Meeting
 
 Berkshire shareholders gather ostensibly for the business part of the annual meeting, which only lasts about 15 minutes, from 3:15pm to 3:30pm most years. The business meeting includes the election of new board members.
 
-Shareholders come for the transparency of the Q & A session. 
+Shareholders enjoy the transparency of the Q & A session. The business meeting is where things get done. 
 
 ### Praising Parents, Families, and Love
 
