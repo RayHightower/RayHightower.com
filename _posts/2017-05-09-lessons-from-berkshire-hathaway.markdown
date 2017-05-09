@@ -22,7 +22,11 @@ What draws people in? I think it’s a combination of straight talk, savvy humor
 
 Berkshire has partnered with Yahoo Finance to stream the meeting live at [https://finance.yahoo.com/brklivestream](https://finance.yahoo.com/brklivestream). The stream covers most of the meeting. Of course, there are a few things that you’ll miss if you only attend online:
 
-Opening movie. Every annual meeting starts with a funny 30-minute movie featuring  celebrities and Berkshire products. The actors and singers who appear in the movie do so at no fee (Warren admits to being cheap) with the understanding that the movie will not be made public beyond the meeting. 
+* Opening movie. Every annual meeting starts with a funny 30-minute movie featuring  celebrities and Berkshire products. The actors and singers who appear in the movie do so at no fee (Warren admits to being cheap) with the understanding that the movie will not be made public beyond the meeting. 
+
+* Shopping. The adjacent exhibit hall has booths for most Berkshire companies. Products are sold for deep discounts. Local stores that are part of the Berkshire portfolio (Nebraska Furniture Mart, Borsheims) also offer deep discounts for shareholders.
+
+* People. Our lives are enriched when we work together. Working together begins with an introduction. Sometimes, a random introduction can lead to a life-long, fruitful relationship (business or otherwise).
 
 ### Straight Talk: Q & A
 
