@@ -34,7 +34,7 @@ Warren’s answers tend to be detailed and professorial, with a few wise-cracks 
 
 “You can’t say that, Charlie. He’s a nice guy”, replied Buffett.
 
-“He may be a nice guy. But he’s still an idiot.” Charlie then followed up with a quick explanation of statistical analysis should work, why a smart person should be willing to change their thinking in the face of evidence, and how stubbornness can get investors in trouble. “And that’s why he’s an idiot”, he concluded.
+“He may be a nice guy. But he’s still an idiot.” Charlie then followed up with a quick explanation of how statistical analysis should work, why a smart person should be willing to change their thinking in the face of new evidence, and how stubbornness gets investors in trouble. “And that’s why he’s an idiot”, he concluded.
 
 The exchanges are impromptu and priceless.
 
