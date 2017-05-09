@@ -50,7 +50,7 @@ Shareholders enjoy the transparency of the Q & A session. The business meeting i
 
 ### Parents, Families, and Love
 
-Warren and Charlie are often asked about the secret of their success. Both attribute their achievements to parents, their community, and their upbringing. They were born five years apart less than two miles from each other. As teenagers, they both worked in the grocery star owned by Warren’s grandfather. Yet they didn’t meet until they were adults. Warren had already begun investing other people’s money. Charlie was practicing law. In time, Warren convinced Charlie that investing was more fun (and more profitable) than practicing law.
+Warren and Charlie are often asked about the secret of their success. Both attribute their achievements to parents, their community, and their upbringing. They were born five years apart less than two miles from each other. As teenagers, they both worked in the grocery store owned by Warren’s grandfather. Yet they didn’t meet until they were adults. Warren had already begun investing other people’s money. Charlie was practicing law. In time, Warren convinced Charlie that investing was more fun (and more profitable) than practicing law.
 
 Life-long friendships are a blessing. Sometimes friends make money together, but always the friendships enrich our lives far beyond anything that money can do. Buffett and Munger tell stories about miserable billionaires who have no one in their lives who love them. What an awful existence. But if we can live our lives with a few people who love us, and whom we also love, that’s a wonderful way to live.
 
