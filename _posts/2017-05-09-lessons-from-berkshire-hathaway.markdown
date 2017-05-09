@@ -10,7 +10,7 @@ published: true
 <img src="/images/buffett_munger.jpg" align="center" alt="Warren Buffett and Charlie Munger" title="Warren Buffett and Charlie Munger">
 
 >I like the idea of artificial intelligence because we’re so short of the real thing.
-<br/>~Charlie Munger
+<br/>&nbsp;<br/>~Charlie Munger
 
 The Berkshire Hathaway annual meeting combines business education, entertainment, shopping, and fellowship into one weekend-long event. Chairman Warren Buffett and Vice Chairman Charlie Munger have held the gathering every year since 1965. This year’s meeting, held on Saturday, May 6, 2017, attracted over 38,000 participants. Omaha’s [CenturyLink Center](http://www.centurylinkcenteromaha.com/ConventionCenter/ConventionCenterHome.aspx)  was filled to the rafters.
 
