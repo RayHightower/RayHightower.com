@@ -20,7 +20,7 @@ What draws people in? I think it’s a combination of straight talk, savvy humor
 
 ### Live Streaming Covers Most, Not All
 
-Berkshire has partnered with Yahoo Finance to stream the meeting live at at [https://finance.yahoo.com/brklivestream](https://finance.yahoo.com/brklivestream). The stream covers most of the meeting. Of course, there are a few things that you’ll miss if you only attend online:
+Berkshire has partnered with Yahoo Finance to stream the meeting live at [https://finance.yahoo.com/brklivestream](https://finance.yahoo.com/brklivestream). The stream covers most of the meeting. Of course, there are a few things that you’ll miss if you only attend online:
 
 Opening movie. Every annual meeting starts with a funny 30-minute movie featuring  celebrities and Berkshire products. The actors and singers who appear in the movie do so at no fee (Warren admits to being cheap) with the understanding that the movie will not be made public beyond the meeting. 
 
@@ -44,9 +44,9 @@ Berkshire shareholders gather ostensibly for the business part of the annual mee
 
 Shareholders enjoy the transparency of the Q & A session. The business meeting is where things get done. 
 
-### Praising Parents, Families, and Love
+### Parents, Families, and Love
 
-Warren and Charlie are often asked about the secret of their success. Both attribute their achievements to parents, their community, and their upbringing. They were born five years apart less than two miles from each other. As teenagers, they both worked in the grocery star owned by Warren’s grandfather. Yet they didn’t meet until they were adults. Warren has already begun investing other people’s money. Charlie was practicing law. In time, Warren convinced Charlie that investing was more fun (and profitable) than practicing law.
+Warren and Charlie are often asked about the secret of their success. Both attribute their achievements to parents, their community, and their upbringing. They were born five years apart less than two miles from each other. As teenagers, they both worked in the grocery star owned by Warren’s grandfather. Yet they didn’t meet until they were adults. Warren had already begun investing other people’s money. Charlie was practicing law. In time, Warren convinced Charlie that investing was more fun (and more profitable) than practicing law.
 
 Life-long friendships are a blessing. Sometimes friends make money together, but always the friendships enrich our lives far beyond anything that money can do. Buffett and Munger tell stories about miserable billionaires who have no one in their lives who love them. What an awful existence. But if we can live our lives with a few people who love us, and whom we also love, that’s a wonderful way to live.
 
