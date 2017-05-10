@@ -32,13 +32,15 @@ Berkshire has partnered with Yahoo Finance to stream the meeting live at [https:
 
 The Q & A session is the most education-packed part of the event. Warren and Charlie sit at the front of the room with 38,000+ onlookers (plus the online audience). They answer questions. They drink Coca-Cola. And they munch on See’s Candy.
 
-Warren’s answers tend to be detailed and professorial, with a few wise-cracks woven in. After answering a question, Warren might ask Charlie to add his view, to which Charlie might respond with a terse “damn right” or “I have nothing to add.” One year, Buffett was asked for his views on the investment approach of a well-known money manager. Buffett then turned to Munger for his view.
+Warren’s answers tend to be detailed and professorial, with a few wise-cracks woven in. After answering a question, Warren might ask Charlie to add his view, to which Charlie might respond with a terse “damn right” or “I have nothing to add.” 
+
+At one annual meeting, Buffett was asked for his views on the investment approach of a well-known money manager. Buffett then turned to Munger for his view.
 
 “He’s an idiot”, responded Munger.
 
 “You can’t say that, Charlie. He’s a nice guy”, replied Buffett.
 
-“He may be a nice guy. But he’s still an idiot.” Charlie then followed up with a quick explanation of how statistical analysis should work, why a smart person should be willing to change their thinking in the face of new evidence, and how stubbornness gets investors in trouble. “And that’s why he’s an idiot”, he concluded.
+“He may be a nice guy. But he’s still an idiot.” Charlie then followed up with a quick explanation of how statistical analysis works, why a smart person should be willing to change their thinking in the face of new evidence, and how stubbornness gets investors in trouble. “And that’s why he’s an idiot”, Charlie concluded.
 
 The exchanges are impromptu and priceless.
 
@@ -52,6 +54,6 @@ Shareholders enjoy the transparency of the Q & A session. The business meeting i
 
 Warren and Charlie are often asked about the secret of their success. Both attribute their achievements to parents, their community, and their upbringing. They were born five years apart less than two miles from each other. As teenagers, they both worked in the grocery store owned by Warren’s grandfather. Yet they didn’t meet until they were adults. Warren had already begun investing other people’s money. Charlie was practicing law. In time, Warren convinced Charlie that investing was more fun (and more profitable) than practicing law.
 
-Life-long friendships are a blessing. Sometimes friends make money together, but always the friendships enrich our lives far beyond anything that money can do. Buffett and Munger tell stories about miserable billionaires who have no one in their lives who love them. What an awful existence. But if we can live our lives with a few people who love us, and whom we also love, that’s a wonderful way to live.
+Life-long friendships are a blessing. Sometimes friends make money together, but always the friendships enrich our lives far beyond anything that money can do. Buffett and Munger tell stories about miserable billionaires who have no one in their lives who love them. What an awful existence. But if we can live our lives with a few people who love us, and whom we also love, that’s a wonderful way to be.
 
 Thanks for the wisdom, Warren and Charlie. I look forward to the next annual meeting.
