@@ -31,7 +31,7 @@ Berkshire has partnered with Yahoo Finance to stream the meeting live at [https:
 
 The Q & A session is the most education-packed part of the event. Warren and Charlie sit at the front of the room with 38,000+ onlookers (plus the online audience). They answer questions. They drink Coca-Cola. And they munch on See’s Candy.
 
-Warren’s answers tend to be detailed and professorial, with a few wise-cracks woven in. After answering a question, Warren might ask Charlie to add his view, to which Charlie might respond with a terse “damn right” or “I have nothing to add.” 
+Warren’s answers tend to be detailed and professorial, with a few wise-cracks woven in. After answering a question, Warren might ask Charlie to add his view, to which Charlie might respond with a terse “damn right” or “I have nothing to add.”
 
 At one annual meeting, Buffett was asked for his views on the investment approach of a well-known money manager. Buffett then turned to Munger for his view.
 
