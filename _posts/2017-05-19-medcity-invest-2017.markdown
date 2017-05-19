@@ -16,6 +16,8 @@ And this is only the beginning.
 
 <!--more-->
 
+### What is MedCity INVEST?
+
 The [MedCity INVEST](http://events.medcitynews.com/invest/) conference gathers physicians, investors, engineers, and entrepreneurs with a shared interest: Everyone is striving to improve healthcare for patients. Collaboration produces awesome results.
 
 <img src="/images/medcity_invest.jpg" width="720" align="center">
@@ -23,10 +25,10 @@ The [MedCity INVEST](http://events.medcitynews.com/invest/) conference gathers p
 [Arundhati Parmar](http://twitter.com/aparmarbb) is VP and Editorial Director of [MedCity News](http://medcitynews.com), the publication that runs the conference. During her opening remarks, Parmar shared how some in the medical profession view the outsiders as "barbarians at the gate" shaking things up with new ideas.
 
 
+### Highlights from the Event
 
 
 
-### What is MedCity INVEST?
 
 [MedCity Invest](http://events.medcitynews.com/invest/) is...
 
