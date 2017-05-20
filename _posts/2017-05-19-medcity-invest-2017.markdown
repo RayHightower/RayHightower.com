@@ -8,7 +8,7 @@ published: true
 ---
 >We don't have years, anymore, to make a decision. We have months. Or in some cases, weeks.<br/>&nbsp;<br/>~ Bruce Brandes, CEO of <a href="http://lucro.com/">Lucro</a>
 
-For thousands of years, physicians have created new ways to prevent and cure illness. All of us live better lives because of their work. 
+Accelerating change is a fact of life in all professions, including healthcare. Decisions that once took years must now be made in weeks. For thousands of years, physicians have created new ways to prevent and cure illness. All of us live better lives because of their work. 
 
 The tradition of improved healthcare continues, even in the face of rapid change. To stay ahead, medical professionals are leveraging ideas from other fields. Some physicians collaborate with engineers to design diagnostic devices. Others partner with software developers build apps. Multi-disciplinary teams join forces to improve workflow in hospitals. The outlook is promising.
 
