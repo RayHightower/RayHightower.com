@@ -22,7 +22,7 @@ And this is only the beginning.
 
 [Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director of MedCity News, opened the conference with an observation about "barbarians at the gate". Barbarians are people from _outside_ the medical profession with ideas for improvement.
 
-Fortunately, medical pros are clever. They've leveraged the barbarians into allies. Some physicians partner with electrical and mechanical engineers to create devices. Others join forces with software developers to build apps. Thinking further outside the box, financial experts have been invited to the table to come up with creative ways to pay for the new ideas. Yes, collaboration produces awesome results.
+Fortunately, medical pros have figured out how to transform the barbarians into allies. Some physicians partner with electrical and mechanical engineers to create devices. Others join forces with software developers to build apps. Thinking further outside the box, financial experts have been invited to the table to come up with creative ways to pay for the new ideas. Yes, collaboration produces awesome results.
 
 For example...
 
@@ -32,7 +32,7 @@ Drugs make the pain go away. But drugs can also have nasty side-effects like nau
 
 What if there was a way to treat pain without drugs? Enter virtual reality (VR).
 
-[David Rhew](https://www.linkedin.com/in/david-rhew-m-d-1832764/) is a physician and the Chief Medical Officer at Samsung. During his keynote at MedCity INVEST, he shared the following MRI image to show how patients using VR have less pain than patients who are not using VR. In the images, the yellow areas indicate pain. More yellow means more pain.
+[David Rhew](https://www.linkedin.com/in/david-rhew-m-d-1832764/) is a physician and the Chief Medical Officer at Samsung. During his keynote at MedCity INVEST, he shared the following MRI images to show how patients using VR have less pain than patients who are not using VR. In the images, the yellow areas indicate pain. More yellow means more pain.
 
 <img src="/images/sansung-applied-vr.jpg" width="401" align="center">
 <br/>&nbsp;
@@ -44,9 +44,11 @@ Samsung partners with [Applied VR](http://appliedvr.io) to make this solution wo
 
 ### History + Research = Great Ideas
 
-> Nothing is ever a fully funded company. You can always do more.<br/>&nbsp;<br/>~VC on stage at #mcINVEST 
+> Nothing is ever a fully funded company. You can always do more.<br/>&nbsp;<br/>~VC on stage at #mcINVEST
 
-Panel discussions are usually boring, but that wasn't the case at this event. During the _What's Hot in Biopharma Investing_ panel, an MD oncologist, a VC, and a PhD researcher shared the history behind microbiome research. The microbiome is the collection of bacteria that all humans carry around inside of us. Some illnesses are best treated via the microbiome. The interesting point: Physicians in China figured out a way to treat microbiome maladies over 1,700 years ago. Reading their records has helped to inform present-day research.
+Panel discussions are usually boring, but that wasn't the case at this event. During the _What's Hot in Biopharma Investing_ panel, an MD oncologist, a VC, and a PhD researcher shared the history behind microbiome research.
+
+The microbiome is the community of bacteria that all humans carry around inside of us. These living organisms help us to digest food, fight illnessSome illnesses are best treated via the microbiome. The interesting point: Physicians in China figured out a way to treat microbiome maladies over 1,700 years ago. Reading their records has helped to inform present-day research.
 
 ### Data and Digital Health
 
@@ -64,53 +66,24 @@ Product development in healthcare starts with some fundamental answers, similar 
 
 Dozens of healthcare startups pitched at the conference. Simultaneous pitches made it impossible to catch all of them. But all of the pitches I saw did a great job of answering the fundamental questions. Investor time was not wasted.
 
+Some of the companies pitched...
 
+* [BrainCheck](http://braincheck.com). Founded by [Yael Katz](https://www.linkedin.com/in/yael-katz-98909825/) who holds a PhD in neuroscience. She observed that concussions are a $50 billion/year problem and decided to build software (including a mobile app) that patients can use to measure their own brain health. Competitive advantages: It's easy to use and it provides relevent information to the doctor.
 
+* [Tissue Analytics](https://www.tissue-analytics.com/). Co-Founder and Chief Medical Officer Gabrial Brat holds an MD and a Masters in Public Health. With Tissue Analytics, nurses can measure and track the size of a wound by using the camera on a mobile phone. Photos can be shared with physicians as needed. Further, since the app gathers data on a variety of wounds, the company uses Big Data to spot trends which helps physicians plan treatment regimens.
 
+### The Hallway Track
 
+Serendipity always plays a positive role at events like this. You never know who you might meet in the hallway between sessions. Here are a few hallway conversations that I enjoyed:
 
+* [3R Cardio](http://3rcardio.com). CEO [Eric Caron](https://www.linkedin.com/in/ericcaron/) made it very clear that he was at the conference to raise $500k for his company. The amount was printed on his badge. Later, he shared that his approach had led to several potentially fruitful conversations.
 
+* [Ilerasoft](https://www.ilerasoft.com/). CEO [Kwaku Owusu](https://www.linkedin.com/in/kwaku-owusu-80207439/) and his team improve safety by helping hospitals to handle FDA equipment recalls in a timely way.
 
+* [Isomark](http://isomark.com/). Infections that are detected earlier are easier to deal with. CEO [Joe Kremer](https://www.linkedin.com/in/joekremer/) and his team use breath analysis to detect infections. This non-intrusive method enables earlier detection and treatment.
 
-
-
+* [Doctella](https://www.doctella.com/). Patients feel better when they have some control over the treatment process. Doctella enables patients to be more active in their own care. Smart checklists within the app keeps patients active and informed.
 
 ### Conclusion
 
-MedCity INVEST was powerful gathering of motivated minds united in a common quest: To make healthcare better.
-
-
-# &nbsp;
-
-# &nbsp;
-
-# &nbsp;
-
-# &nbsp;
-
-# &nbsp;
-
-# Out-Takes
-
-This text appears after the fold...
-
-The accelerated pace of change that has transformed other professions has made its way to healthcare.
-
-Medicine has led the way among professions for thousands of years, constantly creating new ways to cure illness over time.
-
-Physicians are admired for the way they are always learning.
-
-The result: Higher levels of patient care, reduced hospital stays, and longer, happier lives. 
-
-
-During her opening remarks at [MedCity INVEST](http://events.medcitynews.com/invest/), [Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director of [MedCity News](http://medcitynews.com), told how some view the outsiders as "barbarians at the gate" shaking things up with new ideas.
-
-For thousands of years, physicians have created new ways to prevent and cure illness. All of us live better lives because of their work. 
-
-The tradition of improved healthcare continues, even in the face of rapid change. To stay ahead, medical professionals are leveraging ideas from other fields. Some physicians collaborate with engineers to design diagnostic devices. Others partner with software developers build apps. Multi-disciplinary teams join forces to improve workflow in hospitals. The outlook is promising.
-
-. [Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director, kicked off the event with remarks about "barbarians at the gate", people from outside the medical profession...
-[MedCity News](http://medcitynews.com) provides up-to-date infor for those who want to stay ahead of the pack. 
-
-the publication that runs the conference. During her opening remarks, Parmar shared how some in the medical profession view the outsiders as "barbarians at the gate" shaking things up with new ideas.
-
+MedCity INVEST is a learning-rich gathering of motivated minds united in a common quest: To make healthcare better. This event was a great use of time. I look forward to next year!
