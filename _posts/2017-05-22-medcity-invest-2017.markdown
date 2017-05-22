@@ -26,7 +26,7 @@ For example...
 
 Drugs make the pain go away. But drugs can also have nasty side-effects like nausea and addiction.
 
-What if there was a way to treat pain without drugs? Enter virtual reality (VR).
+What if there was a way to treat pain without drugs? Enter virtual reality.
 
 [David Rhew](https://www.linkedin.com/in/david-rhew-m-d-1832764/) is a physician and the Chief Medical Officer at Samsung. During his keynote at MedCity INVEST, he shared the following MRI images to show how patients using VR have less pain than patients who are not using VR. In the images, the yellow areas indicate pain. More yellow means more pain.
 
