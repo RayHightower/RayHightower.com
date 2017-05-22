@@ -40,8 +40,6 @@ Samsung partners with [Applied VR](http://appliedvr.io) to make this solution wo
 
 ### History + Research = Great Ideas
 
-> Nothing is ever a fully funded company. You can always do more.<br/>&nbsp;<br/>~VC on stage at #mcINVEST
-
 Panel discussions are usually boring, but that wasn't the case at this event. During the _What's Hot in Biopharma Investing_ panel, an MD oncologist, a VC, and a PhD researcher shared the history behind microbiome research.
 
 The microbiome is the community of bacteria that all humans carry around inside of our bodies. These living organisms help our digestive and immune systems. Over 1,700 years ago, Chinese physicians discovered how to treat some illnesses by altering the make-up of the microbiome. The records of ancient wisdom have been helpful to present-day researchers.
