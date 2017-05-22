@@ -54,13 +54,17 @@ As physicians and researchers learn more, they discover ways to treat patients a
 
 ### Creating Products that Make Sense
 
-In some ways, product development in healthcare is similar to the same function in other indsustries. Key questions must be answered for any problem we want to solve:
+Product development in healthcare starts with some fundamental answers, similar to other indsustries. Key questions to answer for any problem we want to solve:
 
 * Who really cares about this problem? How do you know?
 * Have you spoken to the person who has this problem?
 * Do you really understand their challenges?
 * Scalability: What will it take for you to take this to more customers?
 * Durability: Do the customers return? A lot of solutions don't stick.
+
+Dozens of healthcare startups pitched at the conference. Simultaneous pitches made it impossible to catch all of them. But all of the pitches I saw did a great job of answering the fundamental questions. Investor time was not wasted.
+
+
 
 
 
