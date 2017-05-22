@@ -10,7 +10,7 @@ published: true
 
 >We don't have years, anymore, to make a decision. We have months. Or in some cases, weeks.<br/>&nbsp;<br/>~ Bruce Brandes, CEO of <a href="http://lucro.com/">Lucro</a>
 
-Every profession faces the pressure of accelerating change, especially healthecare. Decisions that once took years must now be made in weeks, days, or sooner. Fortunately, improvements in technology are helping physicians and other medical pros to match today's rapid pace.
+Every profession faces the pressure of accelerating change, especially healthecare. Decisions that once took years must now be made in weeks, days, or sooner. Fortunately, improvements in technology are helping physicians and other pros to match today's pace.
 
 The [MedCity INVEST](http://events.medcitynews.com/invest/) conference gathers physicians, investors, engineers, and entrepreneurs with a shared interest: Everyone is striving to improve healthcare for patients. The event is produced by [MedCity News](http://medcitynews.com). Collaboration produces awesome results.
 
@@ -20,29 +20,23 @@ And this is only the beginning.
 
 ### Barbarians at the Gate
 
-[Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director, opened the conference with an observation about "barbarians at the gate": People from _outside_ the medical profession with ideas for improvement. Fortunately, medical pros are clever. They've leveraged the barbarians into allies. Some physicians partner with electrical and mechanical engineers to create devices. Others join forces with software developers to build apps. Yes, collaboration produces awesome results.
+[Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director of MedCity News, opened the conference with an observation about "barbarians at the gate": People from _outside_ the medical profession with ideas for improvement. 
+
+Fortunately, medical pros are clever. They've leveraged the barbarians into allies. Some physicians partner with electrical and mechanical engineers to create devices. Others join forces with software developers to build apps. Thinking further outside the box, financial experts have been invited to the table to come up with creative ways to pay for the new ideas. Yes, collaboration produces awesome results.
 
 For example...
 
 ### Using Virtual Reality to Reduce Pain
 
-Drugs make the pain go away. But drugs also have nasty side-effects like nausea and addiction.
+Drugs make the pain go away. But drugs can also have nasty side-effects like nausea and addiction.
 
-What if physicians could treat pain without drugs? Looks like there might be a way.
+What if there was a way to treat pain without drugs? Enter virtual reality (VR).
 
+David Rhew is a physician and the Chief Medical Officer at Samsung. He shared the following MRI image to show how patients using VR have less pain than patients who are not using VR. In the scans, the yellow areas indicate pain; more yellow means more pain.
 
-pain-relievers
-Drugs are a typical remedy for pain. However, some physicians have discovered a way to reduce pain without drugs: Virtual reality.
-
-Pain requires conscious attention. Conscious attention focuses on pain like a spotlight. Virtual reality draws patients into a world that stimulates the senses, drawing attention away from the pain. Patients feel better without (or with reduced) medication, and without the unpleasant side-effects that drugs produce.
-
- without  and enabling patiWhen patients are drawn into the virtual world, they
+Here's why VR works. Pain requires conscious attention. Conscious attention focuses on pain like a spotlight. But VR pulls patients into a separate world that stimulates the senses, drawing attention away from the pain. Patients feel better without (or with reduced) medication, and without the unpleasant side-effects that drugs produce.
 
 
-We are luring that spotlight into the virtual world. Rather than having pain as the focus of their attention, for many patients in Virtual Reality, the pain becomes more of an annoyance, distracting them from their primary goal of exploring the virtual world.
-
-
-The essence of Virtual Reality is the illusion users have of going inside the computer-generated environment. Being drawn into another world drains a lot of attentional resources, leaving less attention available to process pain signals.
 
 
 
