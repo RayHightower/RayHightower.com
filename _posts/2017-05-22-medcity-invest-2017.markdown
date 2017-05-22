@@ -32,9 +32,14 @@ Drugs make the pain go away. But drugs can also have nasty side-effects like nau
 
 What if there was a way to treat pain without drugs? Enter virtual reality (VR).
 
-David Rhew is a physician and the Chief Medical Officer at Samsung. He shared the following MRI image to show how patients using VR have less pain than patients who are not using VR. In the scans, the yellow areas indicate pain; more yellow means more pain.
+[David Rhew](https://www.linkedin.com/in/david-rhew-m-d-1832764/) is a physician and the Chief Medical Officer at Samsung. During his keynote at MedCity INVEST, he shared the following MRI image to show how patients using VR have less pain than patients who are not using VR. In the scans, the yellow areas indicate pain; more yellow means more pain.
 
-Here's why VR works. Pain requires conscious attention. Conscious attention focuses on pain like a spotlight. But VR pulls patients into a separate world that stimulates the senses, drawing attention away from the pain. Patients feel better without (or with reduced) medication, and without the unpleasant side-effects that drugs produce.
+<img src="/images/sansung-applied-vr.jpg" width="401" align="center">
+<br/>&nbsp;
+<img src="/images/applied-vr.jpg" width="401" align="center">
+
+Here's why VR works. Pain requires conscious attention. Conscious attention focuses on pain like a spotlight. But VR immerses patients into a separate world that stimulates the senses, drawing attention away from the pain. Patients feel better without (or with reduced) medication, and without the unpleasant side-effects that drugs produce.
+
 
 
 
