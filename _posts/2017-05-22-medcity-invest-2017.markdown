@@ -60,7 +60,7 @@ Product development in healthcare starts with some fundamental answers, similar 
 
 Dozens of healthcare startups pitched at the conference. Simultaneous pitches made it impossible to catch all of them. But all of the pitches I saw did a great job of answering the fundamental questions. Investor time was not wasted.
 
-Some of the companies pitched...
+Some of the companies that pitched...
 
 * [BrainCheck](http://braincheck.com). Founded by [Yael Katz](https://www.linkedin.com/in/yael-katz-98909825/) who holds a PhD in neuroscience. She observed that concussions are a $50 billion/year problem and decided to build software (including a mobile app) that patients can use to measure their own brain health. Competitive advantages: It's easy to use and it provides relevent information to the doctor.
 
