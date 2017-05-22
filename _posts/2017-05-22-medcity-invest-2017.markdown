@@ -12,7 +12,7 @@ published: true
 
 Every profession faces the pressure of accelerating change, especially healthecare. Decisions that once took years must now be made in weeks, days, or sooner. Fortunately, improvements in technology are helping physicians and other pros to match today's pace.
 
-The [MedCity INVEST](http://events.medcitynews.com/invest/) conference gathers physicians, investors, engineers, and entrepreneurs with a shared interest: Everyone is striving to improve healthcare for patients. The event is produced by [MedCity News](http://medcitynews.com). Collaboration produces awesome results.
+The [MedCity INVEST](http://events.medcitynews.com/invest/) conference gathers physicians, investors, engineers, and entrepreneurs with a shared interest: Everyone is striving to improve healthcare for patients. The event is produced by [MedCity News](http://medcitynews.com). The investors are looking for their next ROI engine while inventors need investors to move an idea into production. Collaboration produces awesome results.
 
 And this is only the beginning.
 
@@ -20,7 +20,7 @@ And this is only the beginning.
 
 ### Barbarians at the Gate
 
-[Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director of MedCity News, opened the conference with an observation about "barbarians at the gate": People from _outside_ the medical profession with ideas for improvement. 
+[Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director of MedCity News, opened the conference with an observation about "barbarians at the gate". Barbarians are people from _outside_ the medical profession with ideas for improvement.
 
 Fortunately, medical pros are clever. They've leveraged the barbarians into allies. Some physicians partner with electrical and mechanical engineers to create devices. Others join forces with software developers to build apps. Thinking further outside the box, financial experts have been invited to the table to come up with creative ways to pay for the new ideas. Yes, collaboration produces awesome results.
 
@@ -32,13 +32,36 @@ Drugs make the pain go away. But drugs can also have nasty side-effects like nau
 
 What if there was a way to treat pain without drugs? Enter virtual reality (VR).
 
-[David Rhew](https://www.linkedin.com/in/david-rhew-m-d-1832764/) is a physician and the Chief Medical Officer at Samsung. During his keynote at MedCity INVEST, he shared the following MRI image to show how patients using VR have less pain than patients who are not using VR. In the scans, the yellow areas indicate pain; more yellow means more pain.
+[David Rhew](https://www.linkedin.com/in/david-rhew-m-d-1832764/) is a physician and the Chief Medical Officer at Samsung. During his keynote at MedCity INVEST, he shared the following MRI image to show how patients using VR have less pain than patients who are not using VR. In the images, the yellow areas indicate pain. More yellow means more pain.
 
 <img src="/images/sansung-applied-vr.jpg" width="401" align="center">
 <br/>&nbsp;
 <img src="/images/applied-vr.jpg" width="401" align="center">
 
 Here's why VR works. Pain requires conscious attention. Conscious attention focuses on pain like a spotlight. But VR immerses patients into a separate world that stimulates the senses, drawing attention away from the pain. Patients feel better without (or with reduced) medication, and without the unpleasant side-effects that drugs produce.
+
+Samsung partners with [Applied VR](http://appliedvr.io) to make this solution work.
+
+### History + Research = Great Ideas
+
+> Nothing is ever a fully funded company. You can always do more.<br/>&nbsp;<br/>~VC on stage at #mcINVEST 
+
+Panel discussions are usually boring, but that wasn't the case at this event. During the _What's Hot in Biopharma Investing_ panel, an MD oncologist, a VC, and a PhD researcher shared the history behind microbiome research. The microbiome is the collection of bacteria that all humans carry around inside of us. Some illnesses are best treated via the microbiome. The interesting point: Physicians in China figured out a way to treat microbiome maladies over 1,700 years ago. Reading their records has helped to inform present-day research.
+
+### Data and Digital Health
+
+As physicians and researchers learn more, they discover ways to treat patients as individuals, not as one data point in a monolith. At the same time, gathering data helps researchers to spot trends and identify new treatments. Researchers are immersing themselves in _Big Data_ while simultaneously exploring the data set of one.
+
+### Creating Products that Make Sense
+
+In some ways, product development in healthcare is similar to the same function in other indsustries. Key questions must be answered for any problem we want to solve:
+
+* Who really cares about this problem? How do you know?
+* Have you spoken to the person who has this problem?
+* Do you really understand their challenges?
+* Scalability: What will it take for you to take this to more customers?
+* Durability: Do the customers return? A lot of solutions don't stick.
+
 
 
 
