@@ -10,9 +10,9 @@ published: true
 
 >We don't have years, anymore, to make a decision. We have months. Or in some cases, weeks.<br/>&nbsp;<br/>~ Bruce Brandes, CEO of <a href="http://lucro.com/">Lucro</a>
 
-Every profession faces the pressure of accelerating change, especially healthecare. Decisions that once took years must now be made in weeks, days, or sooner. Fortunately, improvements in technology are helping physicians and other pros to match today's pace.
+Every profession faces the pressure of accelerating change, especially healthecare. Strategic decisions that once took years must now be made in weeks, days, or sooner. Fortunately, improvements in technology are helping physicians and other pros to match today's pace.
 
-The [MedCity INVEST](http://events.medcitynews.com/invest/) conference gathers physicians, investors, engineers, and entrepreneurs with a shared interest: Everyone is striving to improve healthcare for patients. The event is produced by [MedCity News](http://medcitynews.com). The investors are looking for their next ROI engine while inventors need investors to move an idea into production. Collaboration produces awesome results.
+The [MedCity INVEST](http://events.medcitynews.com/invest/) conference gathers physicians, investors, engineers, and entrepreneurs with a shared interest: Everyone is striving to improve healthcare for patients. The event is produced by [MedCity News](http://medcitynews.com). Investors attend so they can find their next ROI engine, and inventors need investors to finance their growth from prototype into production. Collaboration produces awesome results.
 
 And this is only the beginning.
 
