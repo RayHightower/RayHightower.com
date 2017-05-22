@@ -10,33 +10,59 @@ published: true
 
 >We don't have years, anymore, to make a decision. We have months. Or in some cases, weeks.<br/>&nbsp;<br/>~ Bruce Brandes, CEO of <a href="http://lucro.com/">Lucro</a>
 
-Every profession faces the pressure of accelerating change, especially healthecare. Decisions that once took years must now be made in weeks. Fortunately, improvements in technology are helping physicians and other medical pros to match the pace of change. 
+Every profession faces the pressure of accelerating change, especially healthecare. Decisions that once took years must now be made in weeks, days, or sooner. Fortunately, improvements in technology are helping physicians and other medical pros to match today's rapid pace.
 
-The [MedCity INVEST](http://events.medcitynews.com/invest/) conference gathers physicians, investors, engineers, and entrepreneurs with a shared interest: Everyone is striving to improve healthcare for patients. Collaboration produces awesome results.
+The [MedCity INVEST](http://events.medcitynews.com/invest/) conference gathers physicians, investors, engineers, and entrepreneurs with a shared interest: Everyone is striving to improve healthcare for patients. The event is produced by [MedCity News](http://medcitynews.com). Collaboration produces awesome results.
 
 And this is only the beginning.
 
 <!--more-->
 
-### What is MedCity INVEST?
+### Barbarians at the Gate
 
-The conference is produced by [MedCity News](http://medcitynews.com). [Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director, kicked off the event with remarks about "barbarians at the gate", people from outside the medical profession...
+[Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director, opened the conference with an observation about "barbarians at the gate": People from _outside_ the medical profession with ideas for improvement. Fortunately, medical pros are clever. They've leveraged the barbarians into allies. Some physicians partner with electrical and mechanical engineers to create devices. Others join forces with software developers to build apps. Yes, collaboration produces awesome results.
 
-the publication that runs the conference. During her opening remarks, Parmar shared how some in the medical profession view the outsiders as "barbarians at the gate" shaking things up with new ideas.
+For example...
+
+### Using Virtual Reality to Reduce Pain
+
+Drugs make the pain go away. But drugs also have nasty side-effects like nausea and addiction.
+
+What if physicians could treat pain without drugs? Looks like there might be a way.
 
 
-### Highlights from the Event
+pain-relievers
+Drugs are a typical remedy for pain. However, some physicians have discovered a way to reduce pain without drugs: Virtual reality.
+
+Pain requires conscious attention. Conscious attention focuses on pain like a spotlight. Virtual reality draws patients into a world that stimulates the senses, drawing attention away from the pain. Patients feel better without (or with reduced) medication, and without the unpleasant side-effects that drugs produce.
+
+ without  and enabling patiWhen patients are drawn into the virtual world, they
+
+
+We are luring that spotlight into the virtual world. Rather than having pain as the focus of their attention, for many patients in Virtual Reality, the pain becomes more of an annoyance, distracting them from their primary goal of exploring the virtual world.
+
+
+The essence of Virtual Reality is the illusion users have of going inside the computer-generated environment. Being drawn into another world drains a lot of attentional resources, leaving less attention available to process pain signals.
 
 
 
 
-[MedCity Invest](http://events.medcitynews.com/invest/) is...
 
 
 ### Conclusion
 
 MedCity INVEST was powerful gathering of motivated minds united in a common quest: To make healthcare better.
 
+
+# &nbsp;
+
+# &nbsp;
+
+# &nbsp;
+
+# &nbsp;
+
+# &nbsp;
 
 # Out-Takes
 
@@ -56,3 +82,9 @@ During her opening remarks at [MedCity INVEST](http://events.medcitynews.com/inv
 For thousands of years, physicians have created new ways to prevent and cure illness. All of us live better lives because of their work. 
 
 The tradition of improved healthcare continues, even in the face of rapid change. To stay ahead, medical professionals are leveraging ideas from other fields. Some physicians collaborate with engineers to design diagnostic devices. Others partner with software developers build apps. Multi-disciplinary teams join forces to improve workflow in hospitals. The outlook is promising.
+
+. [Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director, kicked off the event with remarks about "barbarians at the gate", people from outside the medical profession...
+[MedCity News](http://medcitynews.com) provides up-to-date infor for those who want to stay ahead of the pack. 
+
+the publication that runs the conference. During her opening remarks, Parmar shared how some in the medical profession view the outsiders as "barbarians at the gate" shaking things up with new ideas.
+
