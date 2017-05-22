@@ -20,7 +20,7 @@ And this is only the beginning.
 
 ### Barbarians at the Gate
 
-[Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director of MedCity News, opened the conference with an observation about "barbarians at the gate". Barbarians are people from _outside_ the medical profession with ideas for improvement.
+[Arundhati Parmar](http://twitter.com/aparmarbb), VP and Editorial Director of MedCity News, opened the conference with an observation about "barbarians at the gate." Barbarians are people from _outside_ the medical profession with ideas for improvement.
 
 Fortunately, medical pros have figured out how to transform the barbarians into allies. Some physicians partner with electrical and mechanical engineers to create devices. Others join forces with software developers to build apps. Thinking further outside the box, financial experts have been invited to the table to come up with creative ways to pay for the new ideas. Yes, collaboration produces awesome results.
 
@@ -48,7 +48,7 @@ Samsung partners with [Applied VR](http://appliedvr.io) to make this solution wo
 
 Panel discussions are usually boring, but that wasn't the case at this event. During the _What's Hot in Biopharma Investing_ panel, an MD oncologist, a VC, and a PhD researcher shared the history behind microbiome research.
 
-The microbiome is the community of bacteria that all humans carry around inside of us. These living organisms help us to digest food, fight illnessSome illnesses are best treated via the microbiome. The interesting point: Physicians in China figured out a way to treat microbiome maladies over 1,700 years ago. Reading their records has helped to inform present-day research.
+The microbiome is the community of bacteria that all humans carry around inside of us. These living organisms help our bodies to digest food and fight illness. Over 1,700 years ago, Chinese physicians discovered how to treat some illnesses by altering the make-up of the microbiome. The records of ancient wisdom have been helpful to present-day researchers.
 
 ### Data and Digital Health
 
@@ -56,7 +56,7 @@ As physicians and researchers learn more, they discover ways to treat patients a
 
 ### Creating Products that Make Sense
 
-Product development in healthcare starts with some fundamental answers, similar to other indsustries. Key questions to answer for any problem we want to solve:
+Product development in healthcare starts with some fundamental answers, similar to other industries. Key questions to answer for any problem we want to solve:
 
 * Who really cares about this problem? How do you know?
 * Have you spoken to the person who has this problem?
@@ -70,7 +70,7 @@ Some of the companies pitched...
 
 * [BrainCheck](http://braincheck.com). Founded by [Yael Katz](https://www.linkedin.com/in/yael-katz-98909825/) who holds a PhD in neuroscience. She observed that concussions are a $50 billion/year problem and decided to build software (including a mobile app) that patients can use to measure their own brain health. Competitive advantages: It's easy to use and it provides relevent information to the doctor.
 
-* [Tissue Analytics](https://www.tissue-analytics.com/). Co-Founder and Chief Medical Officer Gabrial Brat holds an MD and a Masters in Public Health. With Tissue Analytics, nurses can measure and track the size of a wound by using the camera on a mobile phone. Photos can be shared with physicians as needed. Further, since the app gathers data on a variety of wounds, the company uses Big Data to spot trends which helps physicians plan treatment regimens.
+* [Tissue Analytics](https://www.tissue-analytics.com/). Co-Founder and Chief Medical Officer [Gabriel Brat](https://www.linkedin.com/in/gbrat/) holds an MD and a Masters in Public Health. With Tissue Analytics, nurses can measure and track the size of a wound by using the camera on a mobile phone. Photos can be shared with physicians as needed. Further, since the app gathers data on a variety of wounds, the company uses Big Data to spot trends which helps physicians plan treatment regimens.
 
 ### The Hallway Track
 
@@ -86,4 +86,4 @@ Serendipity always plays a positive role at events like this. You never know who
 
 ### Conclusion
 
-MedCity INVEST is a learning-rich gathering of motivated minds united in a common quest: To make healthcare better. This event was a great use of time. I look forward to next year!
+MedCity INVEST is a learning-rich gathering of motivated minds united in a common quest: To make healthcare better. This event was a great use of time. I look forward to next year.
