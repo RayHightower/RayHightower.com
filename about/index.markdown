@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+<img src="/images/laptop-rth-wcr-blue-3rd.jpg" align="right" width="200" alt="Ray Hightower" title="Ray Hightower" />
 
 Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://wisdomgroup.com), for twenty-one years before selling the company to [8th Light](http://8thlight.com) in 2016. Today, Hightower serves as Director of Sales at 8th Light.
 
@@ -18,8 +19,6 @@ Learn more at...
 * [GitHub](http://github.com/rayhightower)
 * [LinkedIn](http://linkedin.com/in/rayhightower)
 * [Twitter](http://twitter.com/rayhightower)
-
-<img src="/images/laptop-rth-wcr-blue-3rd.jpg" width="400" alt="Ray Hightower" title="Ray Hightower" />
 
 _Photo by Abhinaya Konduru._
 
