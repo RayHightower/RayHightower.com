@@ -9,12 +9,12 @@ tags: [Education, Rails, Ruby]
 
 Some devs choose to use another tool, [RBenv](https://github.com/sstephenson/rbenv), that serves a purpose similar to RVM. I began working with RVM before the other tools existed, and since it has always worked well for me, I have no reason to switch.
 
-### #Ruby 2.0.0-p195
+### Ruby 2.0.0-p195
 The latest patch of Ruby 2.0.0, p195, was released two days ago. Time to take it for a spin. RVM lets devs upgrade Ruby and manage gemsets seamlessly. Here's how the process went.
 
 <!--more-->
 
-### #Get the Latest RVM
+### Get the Latest RVM
 Instructions for installing RVM are at [http://rvm.io](http://rvm.io).
 If you already have RVM installed, you should confirm that you have the
 latest version.
@@ -23,7 +23,7 @@ latest version.
 $ rvm get head
 ~~~
 
-### #Grab the Ruby Patch
+### Grab the Ruby Patch
 With the latest RVM installed, you can upgrade to the latest Ruby
 patch level.
 
