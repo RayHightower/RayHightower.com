@@ -92,4 +92,4 @@ _Programming Ruby_ by Dave Thomas. Anyone who wants to write Rails code must kno
 
 _Agile Web Development With Rails_ by Dave Thomas, Mike Clark, and several other authors. This title builds upon the Ruby book above. Also available in paper and PDF formats.
 
-_Note: A version of this post was originally published at [WisdomGroup.com](http://wisdomgroup.com)._
+Note: A version of this post was originally published at [WisdomGroup.com](http://wisdomgroup.com)._
