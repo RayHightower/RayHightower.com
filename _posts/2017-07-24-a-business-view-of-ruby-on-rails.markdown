@@ -7,13 +7,13 @@ tags: [ Business, Rails, Ruby ]
 published: true
 ---
 
-If your business uses Web-based software (also known as webware), you will hear about Ruby on Rails. This newsletter will answer three questions:
-
-For smart people with non-IT backgrounds: If you want to understand Ruby on Rails, this article is for you. This newsletter will answer three questions:
+If your company does anything with software on the web (some call it Software as a Service or SaaS) then you've already heard about Ruby on Rails. For smart people with non-IT backgrounds,this newsletter will answer a few key questions:
 
 * What is Ruby on Rails?
 * Why do you care?
+* How can your company benefit?
 
+<!--more-->
 
 ### Why Ruby on Rails?
 
