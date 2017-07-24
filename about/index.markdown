@@ -12,7 +12,6 @@ Hightower is the lead organizer of [ChicagoRuby](http://chicagoruby.org) and cre
 
 Early in his career, Hightower worked in software development for Hewlett Packard, technical sales for IBM, and commercial real estate for Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his BS in Computer Science at the University of Illinois at Chicago.
 
-
 Hightower is a scuba diver, marathon runner, skier, aspiring piano player, Eagle Scout, Assistant Scoutmaster, and world traveler. He has visited every state in the USA and most continents on planet Earth.
 
 Learn more at...
