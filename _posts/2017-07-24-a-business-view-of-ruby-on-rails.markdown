@@ -15,6 +15,7 @@ If your company does anything with software on the web (some call it Software as
 * Why do you care?
 * How can your company benefit?
 
+This is an updated version of an article that originally appeared at [WisdomGroup.com](http://wisdomgroup.com) and [ChicagoRuby.org](http://chicagoruby.org).
 <!--more-->
 
 ### Why Ruby on Rails?
