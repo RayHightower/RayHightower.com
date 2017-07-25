@@ -7,9 +7,9 @@ tags: [ Business, Rails, Ruby ]
 published: true
 ---
 
-<img style="margin-left:20px" src="/images/rails_logo.jpg" height="238" width="200" align="right" alt="Ruby on Rails" title="Ruby on Rails" />
+<img style="margin-left:20px" src="/images/rails_logo_hz_250.png" height="89" width="250" align="right" alt="Ruby on Rails" title="Ruby on Rails" />
 
-If your company does anything with software on the web (some call it Software as a Service or SaaS) then you've already heard about Ruby on Rails. For smart people with non-IT backgrounds,this newsletter will answer a few key questions:
+If your company does anything with software on the web (some call it Software as a Service or SaaS) then you've already heard about Ruby on Rails. For smart people with non-IT backgrounds, this post will answer a few key questions:
 
 * What is Ruby on Rails?
 * Why do you care?
