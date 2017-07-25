@@ -16,6 +16,7 @@ If your company does anything with software on the web (sometimes called "Softwa
 * How can your company benefit?
 
 Note: A version of this post was originally published by WisdomGroup and re-published by [ChicagoRuby](http://chicagoruby.org).
+
 <!--more-->
 
 ### Why Ruby on Rails?
