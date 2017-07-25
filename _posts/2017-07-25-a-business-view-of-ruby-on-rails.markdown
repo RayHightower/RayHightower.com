@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A Business View of Ruby on Rails
-date:   2017-07-24
+date:   2017-07-25
 comments: true
 tags: [ Business, Rails, Ruby ]
 published: true
@@ -9,13 +9,13 @@ published: true
 
 <img style="margin-left:20px" src="/images/rails_logo_hz_250.png" height="89" width="250" align="right" alt="Ruby on Rails" title="Ruby on Rails" />
 
-If your company does anything with software on the web (some call it Software as a Service or SaaS) then you've already heard about Ruby on Rails. For smart people with non-IT backgrounds, this post will answer a few key questions:
+If your company does anything with software on the web (sometimes called "Software as a Service" or SaaS) then you've already heard about Ruby on Rails. For smart people with non-IT backgrounds, this post will answer a few key questions:
 
 * What is Ruby on Rails?
 * Why do you care?
 * How can your company benefit?
 
-This is an updated version of an article that originally appeared at [WisdomGroup.com](http://wisdomgroup.com) and [ChicagoRuby.org](http://chicagoruby.org).
+Note: A version of this post was originally published by WisdomGroup and re-published by [ChicagoRuby](http://chicagoruby.org).
 <!--more-->
 
 ### Why Ruby on Rails?
