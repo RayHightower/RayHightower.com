@@ -16,7 +16,7 @@ Hightower is the lead organizer of [ChicagoRuby](http://chicagoruby.org) and cre
 
 Early in his career, Hightower worked in software development for Hewlett Packard, technical sales for IBM, and commercial real estate for Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his BS in Computer Science at the University of Illinois at Chicago.
 
-Hightower launched WisdomGroup as a network consultancy in 1994. He personally earned the Microsoft Certified Systems Engineer (MCSE) certification and pulled the company into the Microsoft Certified Solution Provider (MCSP) ecosystem. Later, as the open source movement gained momentum, Hightower steered the company away from networking and toward software development with open source tools such as [Ruby on Rails](/blog/2017/07/25/a-business-view-of-ruby-on-rails/).
+Hightower launched WisdomGroup as a network consultancy in 1994. He earned the Microsoft Certified Systems Engineer (MCSE) certification and pulled the company into the Microsoft Certified Solution Provider (MCSP) ecosystem. Later, as the open source movement gained momentum, Hightower steered the company away from networking and toward software development with open source tools such as [Ruby on Rails](/blog/2017/07/25/a-business-view-of-ruby-on-rails/).
 
 ### Other Stuff
 
