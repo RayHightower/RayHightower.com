@@ -27,6 +27,8 @@ One fascinating point of the study: No “naturally gifted” performers emerged
 
 ### Sneaking Out to Write Code
 
+<img style="margin-left:20px" src="/images/10000_hours_of_practice.png" width="250" height="250" align="right" alt="10,000 Hours of Practice" title="10,000 Hours of Practice">
+
 You already know how Microsoft was founded. Bill Gates and Paul Allen dropped out of college to form the company in 1975. It’s that simple: Drop out of college, start a company, and become a billionaire, right? Wrong.
 
 Further study reveals that Gates and Allen had thousands of hours of programming practice prior to founding Microsoft. First, the two co-founders met at Lakeside, an elite private school in the Seattle area. The school raised three thousand dollars to purchase a computer terminal for the school’s computer club in 1968.
