@@ -22,4 +22,6 @@ What the man in his kindness and haste did not understand was that the restricti
 ### Obstacles and Growth 
 Sometimes struggles are exactly what we need in our life. If we were to go through our life without any obstacles, we would be crippled. We would not be as strong as what we could have been. Give every opportunity a chance, and leave no room for regrets.
 
-_The author of this article is unknown. Emperor moth photo by [Dean Morley](http://www.flickr.com/photos/33465428@N02/7015602897/)_.
+### _Authorship Notes_
+
+_[Katherine Nero](https://twitter.com/cinemanero) shared this article with RayHightower.com many years ago. The original author is unknown. Emperor moth photo by [Dean Morley](http://www.flickr.com/photos/33465428@N02/7015602897/)_.
