@@ -8,7 +8,7 @@ title: About
 
 Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://wisdomgroup.com), for twenty-one years before selling the company to [8th Light](http://8thlight.com) in 2016. Today, Hightower combines his software development and business skills to drive sales at 8th Light.
 
-### Community & Speaking
+### Tech Community & Speaking
 
 Hightower is the lead organizer of [ChicagoRuby](http://chicagoruby.org) and creator of several tech conferences, including [WindyCityRails](http://windycityrails.com). He travels the world [speaking](/speaking) on technology and business growth. Hightower is a perpetual student, currently exploring parallelism, quantum computing, and IoT.
 
