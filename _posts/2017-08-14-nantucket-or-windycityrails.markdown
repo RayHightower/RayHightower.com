@@ -17,9 +17,8 @@ You’re right. That limerick is only 80% complete.
 
 <!--more-->
 
-Still you should go to [WindyCityRails](http://windycityrails.com). The speakers are outstanding. And the opportunity to network with your peers in the software industry is something that cannot be passed up.
+Still, you should go to [WindyCityRails](http://windycityrails.com). The speakers are outstanding. And the opportunity to network with your fellow software professionals is something that cannot be passed up.
 
-Use the discount code `8THLIGHT` for $50 off of the standard purchase price.
+And here's a bonus for you. Use the discount code `8THLIGHT` for $50 off of the standard conference fee.
 
 See you in September!
-
