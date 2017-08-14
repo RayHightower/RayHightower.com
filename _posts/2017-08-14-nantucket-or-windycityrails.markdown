@@ -1,11 +1,25 @@
 ---
 layout: post
 title:  Nantucket or WindyCityRails
-date:   2017-08-14
+date:   2017-08-15
 comments: true
-tags: 
-published: false
+tags: [ Community, Ruby, Rails ]
+published: true
 ---
- 
-Content for Nantucket or WindyCityRails goes here.
- 
+
+>There once was a dev from Nantucket,<br/>
+Who tried to write code in a bucket.<br/>
+“It works” quoth the coder.<br/>
+Now I want to get bolder.<br/>
+I’m ready for [WindyCityRails](http://windycityrails.com).<br/>
+
+You’re right. That limerick is only 80% complete.
+
+<!--more-->
+
+Still you should go to [WindyCityRails](http://windycityrails.com). The speakers are outstanding. And the opportunity to network with your peers in the software industry is something that cannot be passed up.
+
+Use the discount code `8THLIGHT` for $50 off of the standard purchase price.
+
+See you in September!
+
