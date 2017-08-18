@@ -15,7 +15,7 @@ Who tried to write code in a bucket.<br/>
 Now I want to get bolder.<br/>
 I’m ready for [WindyCityRails](http://windycityrails.com).<br/>
 
-You’re right. That limerick is only 80% complete and completely nonsensical!
+You’re right. That limerick is only 80% finished and completely nonsensical!
 
 <!--more-->
 
