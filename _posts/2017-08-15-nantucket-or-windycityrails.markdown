@@ -7,7 +7,7 @@ tags: [ Community, Ruby, Rails ]
 published: true
 ---
 
-<img style="margin-left:20px" src="/images/bucket.jpg" height="200" width="206" align="right" alt="Nantucket or WindyCityRails" title="Nantucket or WindyCityRails" />
+<img style="margin-left:20px" src="/images/bucket.jpg" width="206" height="200" align="right" alt="Nantucket or WindyCityRails" title="Nantucket or WindyCityRails" />
 
 >There once was a dev from Nantucket,<br/>
 Who tried to write code in a bucket.<br/>
