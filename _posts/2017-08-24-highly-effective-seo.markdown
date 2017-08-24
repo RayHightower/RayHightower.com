@@ -15,7 +15,7 @@ This post describes a highly effective way to achieve SEO without resorting to c
 
 ### Results Achieved
 
-If you Google the term `chicago ruby on rails` on the date of this article, you will get results similar to the image at the top of this article. Note that three of the ten results on page one are owned or controlled by the ChicagoRuby Organizer Team. How did we achieve these results?
+As of the date of this post, Googling the term `chicago ruby on rails` will generate results similar to the above image. Note that three of the ten results on page one are owned or controlled by the ChicagoRuby Organizer Team. I've tried this test on machines in multiple countries, computers that I've never touched before (to eliminate caching as an influence) and the results are the same. How did we push ChicagoRuby's SEO to this level?
 
 <!--more-->
 
