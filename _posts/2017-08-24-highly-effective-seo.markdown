@@ -63,4 +63,4 @@ An effective approach to search engines can be summed up as follows:
 
 Experience demonstrates that web sites following this strategy move higher in the rankings over time. And they stay on top longer.
 
-_Note: An earlier version of this article was posted at [WisdomGroup.com](http://wisdomgroup.com).
+_Note: An earlier version of this article was posted at [WisdomGroup.com](http://wisdomgroup.com)_.
