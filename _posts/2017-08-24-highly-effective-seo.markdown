@@ -21,9 +21,9 @@ If you Google the term `chicago ruby on rails` on the date of this article, you 
 
 ### How Page Ranking Works
 
-<img style="margin-left:20px" src="/images/SEO_page_rank.jpg" width="300" height="241" align="right" alt="Search Engine Optimization" title="Search Engine Optimization" />
-
 Google looks at two attributes when deciding how high to rank a site in the search results: PageRank and relevance. PageRank measures the importance of a page, determined by the number of pages that link to it (indicated by the arrows in the diagram). Each link is a vote, and important pages cast heavier votes than non-important pages. The process is illustrated in this public domain image from [http://en.wikipedia.org/wiki/PageRank](http://en.wikipedia.org/wiki/PageRank).
+
+<img style="margin-left:20px" src="/images/SEO_page_rank.jpg" width="300" height="241" align="right" alt="Search Engine Optimization" title="Search Engine Optimization" />
 
 Relevance (the numbers inside the spheres) measures the value of information contained on the page within the confines of the search term. The major search engines use proprietary algorithms to measure relevance.
 
