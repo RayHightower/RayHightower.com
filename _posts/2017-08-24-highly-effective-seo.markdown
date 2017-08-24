@@ -35,7 +35,9 @@ If you want to improve something, start by measuring it.
 
 ### Clever Schemes
 
-Wherever there is a system, you will find people who try to game the system. Spamdexing is one example of a clever SEO scheme. Spamdexing is making a site appear to be something other than it is merely so that it can appear higher in the results. One form of spamdexing, keyword stuffing, is the act of repeating a set of keywords throughout the site in an effort to get the site highly indexed for that set of words. The stuffed words may have nothing to do with the actual content of the site. Theyʼre just there to raise the site in the rankings. Spamdexing is easily discovered and nullified by the major search engines.
+Wherever there is a system, you will find people who try to game the system. Spamdexing is one example of a clever SEO scheme. Spamdexing is making a site appear to be something other than it is merely so that it can appear higher in the results. One form of spamdexing, keyword stuffing, is the act of repeating a set of keywords throughout the site in an effort to get the site highly indexed for that set of words. The stuffed words may have nothing to do with the actual content of the site. Theyʼre just there to raise the site in the rankings. 
+
+Spamdexing is easily discovered and nullified by the major search engines.
 
 Other schemes include:
 
@@ -43,17 +45,17 @@ Other schemes include:
 
 * Hidden Text – Text that is colored to blend in with the background of a page. Humans canʼt see the text, but search engines can. Modern search engines can also tell when such text is invisible to humans, rendering this tactic ineffective.
 
-* The SEO and spamdexing articles at Wikipedia have more information on SEO schemes for those who are interested.
+The SEO and spamdexing articles at Wikipedia have more information on SEO schemes.
 
 ### Google, Bing, and Yahoo Are Not Stupid
 
-Why does it make sense to avoid clever schemes? Because Google and the other search engines (like Yahoo and Bing) are not stupid. Clever schemes, when discovered by the search engine crawlers, can actually _lower_ your search ranking. In extreme cases, Google may remove the offending site altogether.
+Why does it make sense to avoid clever schemes? Because Google and the other search engines are not stupid. Clever schemes, when discovered by the search engine crawlers, can actually _lower_ your search ranking. In extreme cases, a search engine may remove the offending site altogether.
 
 ### How to Increase Your Page Rank
 
-An effective approach to search engines can be summed up as follows:
+An effective SEO strategy can be summed up as follows:
 
-* Create a great site with solid, informative content.
+* Create a great site with solid, useful content.
 
 * Give legitimate sites a reason to link to you.
 
@@ -61,6 +63,6 @@ An effective approach to search engines can be summed up as follows:
 
 * Track traffic with analytics.
 
-Experience demonstrates that web sites following this strategy move higher in the rankings over time. And they stay on top longer.
+The results are not achieved over night. Experience demonstrates that web sites following this strategy move higher in the rankings over time. And they stay on top longer.
 
 _Note: An earlier version of this article was posted at [WisdomGroup.com](http://wisdomgroup.com)_.
