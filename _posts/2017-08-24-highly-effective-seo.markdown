@@ -63,6 +63,6 @@ An effective SEO strategy can be summed up as follows:
 
 * Track traffic with analytics.
 
-The results are not achieved over night. Experience demonstrates that web sites following this strategy move higher in the rankings over time. And they stay on top longer.
+Experience demonstrates that web sites following this strategy move higher in the rankings over time. And they stay on top longer.
 
 _Note: An earlier version of this article was posted at [WisdomGroup.com](http://wisdomgroup.com)_.
