@@ -35,7 +35,9 @@ If you want to improve something, start by measuring it.
 
 ### Clever Schemes
 
-Wherever there is a system, you will find people who try to game the system. Spamdexing is one example of a clever SEO scheme. Spamdexing is making a site appear to be something other than it is merely so that it can appear higher in the results. One form of spamdexing, keyword stuffing, is the act of repeating a set of keywords throughout the site in an effort to get the site highly indexed for that set of words. The stuffed words may have nothing to do with the actual content of the site. Theyʼre just there to raise the site in the rankings. 
+Clever schemes, like steroids in competitive sports, can produce short term results. But the long-term side effects are painful.
+
+Spamdexing is one example of a clever SEO scheme. Spamdexing is making a site appear to be something other than it is merely so that it can appear higher in the results. One form of spamdexing, keyword stuffing, is the act of repeating a set of keywords throughout the site in an effort to get the site highly indexed for that set of words. The stuffed words may have nothing to do with the actual content of the site. Theyʼre just there to raise the site in the rankings. 
 
 Spamdexing is easily discovered and nullified by the major search engines.
 
