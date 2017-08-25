@@ -30,7 +30,7 @@ ChicagoRuby had 78 members when I assumed leadership in 2007. Since then, we hav
 * Joined forces with colleagues in the Python and Java communities to launch the [Chicago Polyglot Mingle](http://chicagopolyglot.com).
 * Published a blog post on how we get things done: [How to Grow a User Group](/blog/2014/05/30/how-to-grow-a-user-group/).
 
-Yes, our name is ChicagoRuby. But we've never allowed ourselves to be limited by language or geography!
+Yes, our name is ChicagoRuby. But we've never limited ourselves by language or geography!
 
 ### Thank You
 
@@ -38,6 +38,6 @@ Leading ChicagoRuby has been a wonderful adventure. To those of you who are memb
 
 ### By the way...
 
-[WindyCityRails](http://windycityrails.com) happens on Sept 14-15, 2017.  We still have a few tickets available. Use the discount code `CHICAGORUBY` for a $50 discount against the standard price. See you in September!
+[WindyCityRails](http://windycityrails.com) happens on Sept 14-15, 2017. You still have time to grab a ticket. Use the discount code `CHICAGORUBY` for a $50 discount against the standard price. See you in September!
 
 ~Ray Hightower
