@@ -17,7 +17,7 @@ After ten years as lead organizer of ChicagoRuby, I have decided to step down. M
 
 Nicole is a software developer with strong leadership and organizational skills. In addition to solving hard problems for clients, she runs the ChicagoRuby hack nights and [8th Light University](https://www.meetup.com/8th-light-university/). She was my first choice to take over the group.
 
-### About ChicagoRuby
+### History of Growth
 
 ChicagoRuby had 78 members when I assumed leadership in 2007. Since then, we have:
 
