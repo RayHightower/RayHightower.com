@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  Passing the ChicagoRuby Baton
-date:   2017-08-25
+date:   2017-09-12
 comments: true
 tags: [ Community ]
 published: true
 ---
 
 After ten years as lead organizer of ChicagoRuby, I have decided to pass the baton. My 8th Light colleague, Nicole Carpenter, has accepted the baton. Congratulations, Nicole!
+
+<!--more-->
 
 Nicole is a software developer with strong leadership and organizational skills. In addition to solving hard problems for clients, she runs the ChicagoRuby hack nights and 8th Light University. She was my first choice to take over the group.
 
