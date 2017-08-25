@@ -34,7 +34,7 @@ Yes, our name is ChicagoRuby. But we've never limited ourselves by language or g
 
 ### Thank You
 
-Leading ChicagoRuby has been a wonderful adventure. To those of you who are members of ChicagoRuby: Thank you for the opportunity to serve. I look forward to seeing you in and around the community.
+Leading ChicagoRuby has been a wonderful adventure. To those of you who are members of ChicagoRuby: Thank you for the opportunity to serve.
 
 ### By the way...
 
