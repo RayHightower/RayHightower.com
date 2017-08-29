@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  Passing the ChicagoRuby Baton
-date:   2017-09-12
+date:   2017-09-07
 comments: true
 tags: [ Community ]
 published: true
 ---
 
 ### New Leadership
+
+<img style="margin-left:20px" src="/images/chicagoruby_passing_baton.jpg" width="250" height="167" align="right" alt="Passing the ChicagoRuby Baton" title="Passing the ChicagoRuby Baton" />
 
 After ten years as lead organizer of ChicagoRuby, I have decided to step down. My [8th Light](http://8thlight.com) colleague, [Nicole Carpenter](https://www.meetup.com/ChicagoRuby/members/190520517/), has accepted the leadership baton. Congratulations, Nicole!
 
@@ -26,11 +28,11 @@ ChicagoRuby had 78 members when I assumed leadership in 2007. Since then, we hav
 * Created several successful conferences, including, [WindyCityRails](http://windycityrails.com), now in its tenth year.
 * Merged with another Ruby group, Chirb (in 2009).
 * Hosted meetings and conferences across Chicagoland: North Shore, South Shore, Western 'burbs, and all over Downtown.
-* Collaborated with tech enthusiasts in the Caribbean to launch [LinuxBarbados](http://linuxbarbados.org).
-* Joined forces with colleagues in the Python and Java communities to launch the [Chicago Polyglot Mingle](http://chicagopolyglot.com).
+* Collaborated with tech enthusiasts in the Caribbean to launch [LinuxBarbados](http://linuxbarbados.org) (2014).
+* Joined forces with colleagues in the Python and Java communities to launch the [Chicago Polyglot Mingle](http://chicagopolyglot.com) (2016 and 2017).
 * Published a blog post on how we get things done: [How to Grow a User Group](/blog/2014/05/30/how-to-grow-a-user-group/).
 
-Yes, our name is ChicagoRuby. But we've never limited ourselves by language or geography!
+Yes, our name is ChicagoRuby. But we have never limited ourselves by language or geography!
 
 ### Thank You
 
