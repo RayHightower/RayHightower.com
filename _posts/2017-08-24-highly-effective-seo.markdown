@@ -7,7 +7,7 @@ tags: [ Business ]
 published: true
 ---
 
-<img style="margin-left:20px" src="/images/google_chicago_rubyonrails.jpg" width="350" height="532" align="right" alt="Google Chicago Ruby on Rails" title="Google Chicago Ruby on Rails" />
+<img style="margin-left:5px" src="/images/google_chicago_rubyonrails.jpg" width="300" height="456" align="right" alt="Google Chicago Ruby on Rails" title="Google Chicago Ruby on Rails" />
 
 If you're promoting a site on the web, you may be curious about search engine optimization (SEO). Curiosity about SEO makes sense. If there is a way to raise your ranking in the search engines, why not do it?
 
