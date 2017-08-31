@@ -32,11 +32,11 @@ ChicagoRuby had 78 members when I assumed leadership in 2007. Since then, we hav
 * Joined forces with colleagues in the Python and Java communities to launch the [Chicago Polyglot Mingle](http://chicagopolyglot.com) (2016 and 2017).
 * Published a blog post on how we get things done: [How to Grow a User Group](/blog/2014/05/30/how-to-grow-a-user-group/).
 
-Yes, our name is ChicagoRuby. But we have never limited ourselves by language or geography!
+Yes, our name is ChicagoRuby. But we have never limited ourselves by language or geography.
 
 ### Thank You
 
-Leading ChicagoRuby has been a wonderful adventure. To those of you who are members of ChicagoRuby: Thank you for the opportunity to serve.
+Leading ChicagoRuby has been a wonderful adventure. To my fellow Rubyists and members of ChicagoRuby: Thank you for the opportunity to serve.
 
 ### By the way...
 
