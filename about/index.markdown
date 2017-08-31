@@ -10,7 +10,7 @@ Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://
 
 ### Tech Community & Speaking
 
-Hightower is the lead organizer of [ChicagoRuby](http://chicagoruby.org) and creator of several tech conferences, including [WindyCityRails](http://windycityrails.com). He travels the world [speaking](/speaking) on technology and business growth. Hightower is a perpetual student, currently exploring parallelism, quantum computing, and IoT.
+Hightower is the creator of several tech conferences, including [WindyCityRails](http://windycityrails.com). He served as [lead organizer of ChicagoRuby](/blog/2017/09/07/passing-the-chicagoruby-baton/) from 2007 to 2017. Hightower is a perpetual student, currently exploring parallelism, quantum computing, and IoT. He travels the world [speaking](/speaking) on technology and business growth.
 
 ### Career History
 
