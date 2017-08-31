@@ -18,7 +18,7 @@ Early in his career, Hightower worked in software development for Hewlett Packar
 
 Hightower launched WisdomGroup as a network consultancy in 1994. He earned the Microsoft Certified Systems Engineer (MCSE) certification and pulled the company into the Microsoft Certified Solution Provider (MCSP) ecosystem. Later, as the open source movement gained momentum, Hightower steered the company away from networking and toward software development with open source tools such as [Ruby on Rails](/blog/2017/07/25/a-business-view-of-ruby-on-rails/).
 
-WisdomGroup delivered web and mobile projects in multiple industries, including healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities, and a stronger reputation for the company, culminating in the [acquisition by 8th Light](https://8thlight.com/blog/paul-pagel/2016/09/12/8th-light-acquisition-wisdomgroup.html) in 2016.
+WisdomGroup used Rails and Objective-C to deliver web and mobile projects in multiple industries: healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the company, culminating in the [acquisition by 8th Light](https://8thlight.com/blog/paul-pagel/2016/09/12/8th-light-acquisition-wisdomgroup.html) in 2016.
 
 ### Other Stuff
 
