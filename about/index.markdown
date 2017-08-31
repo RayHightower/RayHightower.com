@@ -28,8 +28,8 @@ Hightower is a scuba diver, marathon runner, skier, Eagle Scout, Assistant Scout
 
 Learn more at...
 
-* [GitHub](http://github.com/rayhightower)
-* [LinkedIn](http://linkedin.com/in/rayhightower)
 * [Twitter](http://twitter.com/rayhightower)
+* [LinkedIn](http://linkedin.com/in/rayhightower)
+* [GitHub](http://github.com/rayhightower)
 
 _Photo by Chris Peak._
