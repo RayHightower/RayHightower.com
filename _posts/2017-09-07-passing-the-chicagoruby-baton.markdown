@@ -7,8 +7,6 @@ tags: [ Community ]
 published: true
 ---
 
-### New Leadership
-
 <img style="margin-left:20px" src="/images/chicagoruby_passing_baton.jpg" width="250" height="167" align="right" alt="Passing the ChicagoRuby Baton" title="Passing the ChicagoRuby Baton" />
 
 After ten years as lead organizer of ChicagoRuby, I have decided to step down. My [8th Light](http://8thlight.com) colleague, [Nicole Carpenter](https://www.meetup.com/ChicagoRuby/members/190520517/), has accepted the leadership baton. Congratulations, Nicole!
