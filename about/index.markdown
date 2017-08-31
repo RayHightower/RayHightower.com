@@ -24,7 +24,7 @@ WisdomGroup used Rails and Objective-C to deliver web and mobile projects in mul
 
 ### Other Stuff
 
-Hightower is a scuba diver, marathon runner, skier, martial artist, aspiring piano player, Eagle Scout, Assistant Scoutmaster, and world traveler. He has visited every state in the USA and most continents on planet Earth.
+Hightower is a scuba diver, marathon runner, skier, Eagle Scout, Assistant Scoutmaster, and world traveler. He has visited every state in the USA and most continents on planet Earth.
 
 Learn more at...
 
