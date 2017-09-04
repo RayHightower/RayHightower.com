@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<img style="margin-left:20px" src="/images/rayhightower_bw.jpg" align="right" width="200" alt="Ray Hightower" title="Ray Hightower" />
+<img style="margin-left:20px" src="/images/rayhightower_bw.jpg" align="right" width="150" alt="Ray Hightower" title="Ray Hightower" />
 
 ### Quick Summary
 
