@@ -40,7 +40,7 @@ Moving forward, although my responsibilities at 8th Light weigh heavy, you will 
 
 ### By the way...
 
-My position at 8th Light: Director of Sales. That's a fancy way to say that I find new clients. If your company (or a company that you know) needs custom software, let's talk. Our teams at 8th Light do a great job of keeping the client informed and in control throughout the software development process. If that approach sounds interesting to you, let's talk.
+My position at 8th Light: Director of Sales. That's a fancy way to say that I find new clients. If your company (or a company that you know) needs custom software, let's talk. Our teams at 8th Light do a great job of keeping the client informed and in control throughout the software development process. If that approach sounds interesting to you, dash me an email and we'll setup a time to talk. If you're local, we can grab coffee together.
 
 Email: [first initial] + [last name] @ 8thlight.com. Or Twitter: [@RayHightower](http://twitter.com/rayhightower).
 
