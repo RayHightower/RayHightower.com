@@ -34,17 +34,15 @@ Yes, our name is ChicagoRuby. But we have never limited ourselves by language or
 
 ### Thank You
 
-Leading ChicagoRuby has been a wonderful adventure. For example, I met members of 8th Light through ChicagoRuby back in 2007. That meeting was the beginning of our collaboration, which ultimately led to [8th Light's acquisition of my company](https://8thlight.com/blog/paul-pagel/2016/09/12/8th-light-acquisition-wisdomgroup.html). 
+Leading ChicagoRuby has been a wonderful adventure. For example, I first met members of 8th Light through ChicagoRuby back in 2007. That meeting was the beginning of our collaboration, which ultimately led to [8th Light's acquisition of my company](https://8thlight.com/blog/paul-pagel/2016/09/12/8th-light-acquisition-wisdomgroup.html). Many opportunities have come my way via ChicagoRuby. I will always be grateful.
 
-Many opportunities have come my way through ChicagoRuby, and I will always be grateful.
-
-Moving forward, although my responsibilities at 8th Light weigh heavy, you will see me at ChicagoRuby events from time to time. I will always cheer for ChicagoRuby to succeed. To my fellow members of ChicagoRuby: Thank you for the opportunity to serve.
+Moving forward, although my responsibilities at 8th Light weigh heavy, you will see me at ChicagoRuby events from time to time. I will continue to cheer for ChicagoRuby. To my fellow Rubyists: Thank you for the opportunity to serve.
 
 ### By the way...
 
-My position at 8th Light: Director of Sales. That's a fancy way to say that I find new clients. If your company (or a company that you know) needs custom software, let's talk. Our teams at 8th Light do a great job of keeping the client informed and in control throughout the software development process. If you enjoy the connection between teamwork and great software, let's talk.
+My position at 8th Light: Director of Sales. That's a fancy way to say that I find new clients. If your company (or a company that you know) needs custom software, let's talk. Our teams at 8th Light do a great job of keeping the client informed and in control throughout the software development process. If that approach sounds interesting to you, let's talk.
 
-Email: [first initial] + [last name] @ 8thlight.com.
+Email: [first initial] + [last name] @ 8thlight.com. Or Twitter: [@RayHightower](http://twitter.com/rayhightower).
 
 And... [WindyCityRails](http://windycityrails.com) happens on Sept 14-15, 2017. You still have time to grab a ticket. As always, the presentions and the networking are outstanding. Use the discount code `CHICAGORUBY` for a $50 discount against the standard price. See you in September!
 
