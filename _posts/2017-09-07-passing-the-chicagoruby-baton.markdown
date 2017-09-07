@@ -21,7 +21,7 @@ Nicole is a software developer with strong leadership and organizational skills.
 
 ChicagoRuby had 78 members when I assumed leadership in 2007. Since then, we have:
 
-* Grown to 4,200+ members.
+* Grown the group to 4,200+ members.
 * Built a leadership team of 16 organizers.
 * Created several successful conferences, including, [WindyCityRails](http://windycityrails.com), now in its tenth year.
 * Merged with another Ruby group, Chirb (in 2009).
@@ -34,10 +34,16 @@ Yes, our name is ChicagoRuby. But we have never limited ourselves by language or
 
 ### Thank You
 
-Leading ChicagoRuby has been a wonderful adventure. To my fellow Rubyists and members of ChicagoRuby: Thank you for the opportunity to serve.
+Leading ChicagoRuby has been a wonderful adventure. For example, I met members of 8th Light through ChicagoRuby back in 2007. That meeting was the beginning of our collaboration, which ultimately led to [8th Light's acquisition of my company](https://8thlight.com/blog/paul-pagel/2016/09/12/8th-light-acquisition-wisdomgroup.html). 
+
+Many opportunities have come my way through ChicagoRuby, and I will always be grateful.
+
+Moving forward, although my responsibilities at 8th Light weigh heavy, you will see me at ChicagoRuby events from time to time. And I will always be cheering for ChicagoRuby to succeed. To my fellow members of ChicagoRuby: Thank you for the opportunity to serve.
 
 ### By the way...
 
-[WindyCityRails](http://windycityrails.com) happens on Sept 14-15, 2017. You still have time to grab a ticket. Use the discount code `CHICAGORUBY` for a $50 discount against the standard price. See you in September!
+My position at 8th Light: Director of Sales. That's a fancy way to say that I find new clients. If your company (or a company that you know) needs custom software, let's talk. Our teams at 8th Light do a great job of keeping the client informed and in control throughout the software development process. If you enjoy the connection between teamwork and great software, let's talk. Email: [first initial] + [last name] @ 8thlight.com.
+
+And... [WindyCityRails](http://windycityrails.com) happens on Sept 14-15, 2017. You still have time to grab a ticket. As always, the presentions and the networking are outstanding. Use the discount code `CHICAGORUBY` for a $50 discount against the standard price. See you in September!
 
 ~Ray Hightower
