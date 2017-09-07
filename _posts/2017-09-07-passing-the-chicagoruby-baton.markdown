@@ -23,7 +23,7 @@ ChicagoRuby had 78 members when I assumed leadership in 2007. Since then, we hav
 
 * Grown the group to 4,200+ members.
 * Built a leadership team of 16 organizers.
-* Created several successful conferences, including, [WindyCityRails](http://windycityrails.com), now in its tenth year.
+* Created several successful conferences, including [WindyCityRails](http://windycityrails.com), now in its tenth year.
 * Merged with another Ruby group, Chirb (in 2009).
 * Hosted meetings and conferences across Chicagoland: North Shore, South Shore, Western 'burbs, and all over Downtown.
 * Collaborated with tech enthusiasts in the Caribbean to launch [LinuxBarbados](http://linuxbarbados.org) (2014).
