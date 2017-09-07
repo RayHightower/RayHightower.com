@@ -46,6 +46,4 @@ Email: [first initial] + [last name] @ 8thlight.com. Or Twitter: [@RayHightower]
 
 ### And... WindyCityRails
 
-[WindyCityRails](http://windycityrails.com) happens on Thursday & Friday, September 14-15, 2017. You still have time to grab a ticket. As always, the presentions and the networking are outstanding. Use the discount code `CHICAGORUBY` for a $50 discount against the standard price. See you at WindyCityRails!
-
-~Ray Hightower
+[WindyCityRails](http://windycityrails.com) happens on Thursday & Friday, September 14-15, 2017. You still have time to grab a ticket. As always, the presentations and the networking are outstanding. Use the discount code `CHICAGORUBY` for a $50 discount against the standard price. See you at WindyCityRails!
