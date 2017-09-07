@@ -38,11 +38,13 @@ Leading ChicagoRuby has been a wonderful adventure. For example, I met members o
 
 Many opportunities have come my way through ChicagoRuby, and I will always be grateful.
 
-Moving forward, although my responsibilities at 8th Light weigh heavy, you will see me at ChicagoRuby events from time to time. And I will always be cheering for ChicagoRuby to succeed. To my fellow members of ChicagoRuby: Thank you for the opportunity to serve.
+Moving forward, although my responsibilities at 8th Light weigh heavy, you will see me at ChicagoRuby events from time to time. I will always cheer for ChicagoRuby to succeed. To my fellow members of ChicagoRuby: Thank you for the opportunity to serve.
 
 ### By the way...
 
-My position at 8th Light: Director of Sales. That's a fancy way to say that I find new clients. If your company (or a company that you know) needs custom software, let's talk. Our teams at 8th Light do a great job of keeping the client informed and in control throughout the software development process. If you enjoy the connection between teamwork and great software, let's talk. Email: [first initial] + [last name] @ 8thlight.com.
+My position at 8th Light: Director of Sales. That's a fancy way to say that I find new clients. If your company (or a company that you know) needs custom software, let's talk. Our teams at 8th Light do a great job of keeping the client informed and in control throughout the software development process. If you enjoy the connection between teamwork and great software, let's talk.
+
+Email: [first initial] + [last name] @ 8thlight.com.
 
 And... [WindyCityRails](http://windycityrails.com) happens on Sept 14-15, 2017. You still have time to grab a ticket. As always, the presentions and the networking are outstanding. Use the discount code `CHICAGORUBY` for a $50 discount against the standard price. See you in September!
 
