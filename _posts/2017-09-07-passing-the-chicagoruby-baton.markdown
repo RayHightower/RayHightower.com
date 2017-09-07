@@ -44,6 +44,6 @@ My position at 8th Light: Director of Sales. That's a fancy way to say that I fi
 
 Email: [first initial] + [last name] @ 8thlight.com. Or Twitter: [@RayHightower](http://twitter.com/rayhightower).
 
-And... [WindyCityRails](http://windycityrails.com) happens on Sept 14-15, 2017. You still have time to grab a ticket. As always, the presentions and the networking are outstanding. Use the discount code `CHICAGORUBY` for a $50 discount against the standard price. See you in September!
+And... [WindyCityRails](http://windycityrails.com) happens on Sept 14-15, 2017. You still have time to grab a ticket. As always, the presentions and the networking are outstanding. Use the discount code `CHICAGORUBY` for a $50 discount against the standard price. See you at WindyCityRails!
 
 ~Ray Hightower
