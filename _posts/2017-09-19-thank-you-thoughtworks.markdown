@@ -47,3 +47,5 @@ Special recognition goes to [Josh Cronemeyer](https://twitter.com/cuberick). Jos
 If you are a software developer, designer, or enthusiast who uses Ruby, you should know that ChicagoRuby is a welcoming group for newbies and veterans alike. Sign up at [Meetup.com/ChicagoRuby](http://meetup.com/chicagoruby) to hear about future events.
 
 If you would like to present a topic at ChicagoRuby, check out the [Speaker Guidelines] and contact the organizer team (led by [Nicole Carpenter](https://www.meetup.com/ChicagoRuby/members/190520517/)) through the [ChicagoRuby contact form](http://chicagoruby.org/contact).
+
+We look forward to seeing you at ChicagoRuby!
