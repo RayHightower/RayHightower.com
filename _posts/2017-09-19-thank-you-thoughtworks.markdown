@@ -46,6 +46,6 @@ Special recognition goes to [Josh Cronemeyer](https://twitter.com/cuberick). Jos
 
 If you are a software developer, designer, or enthusiast who uses Ruby, you should know that ChicagoRuby is a welcoming group for newbies and veterans alike. Sign up at [Meetup.com/ChicagoRuby](http://meetup.com/chicagoruby) to hear about future events.
 
-If you would like to present a topic at ChicagoRuby, contact the organizer team, [led by Nicole Carpenter](/blog/2017/09/07/passing-the-chicagoruby-baton/), through the [ChicagoRuby contact form](http://chicagoruby.org/contact).
+Would you like to present a topic at ChicagoRuby? Contact the organizer team, [led by Nicole Carpenter](/blog/2017/09/07/passing-the-chicagoruby-baton/), through the [ChicagoRuby contact form](http://chicagoruby.org/contact). Interested in speaking at WindyCityRails? The call for proposals is announced through the [@WindyCityRails](http://twitter.com/windycityrails) Twitter feed.
 
-If you are interested in speaking at WindyCityRails, the call for proposals is announced through the [@WindyCityRails](http://twitter.com/windycityrails) Twitter feed.
+We look forward to seeing you at 8th Light!
