@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Thank You ThoughtWorks!
+title:  Thank You, ThoughtWorks!
 date:   2017-09-19
 comments: true
 tags: [ Community ]
@@ -11,7 +11,7 @@ published: true
 
 Tuesday, September 12, 2017 was the last [ChicagoRuby:Downtown](http://chicagoruby.org) meeting held at ThoughtWorks. Future Downtown meetings for ChicagoRuby will be held at the new [8th Light](http://8thlight.com) office at 25 East Washington in Chicago.
 
-Thank you, ThoughtWorks, for the support you gave ChicagoRuby over the years!
+Thank you, ThoughtWorks, for everything you have done for ChicagoRuby over the years!
 
 <!--more-->
 
@@ -46,6 +46,6 @@ Special recognition goes to [Josh Cronemeyer](https://twitter.com/cuberick). Jos
 
 If you are a software developer, designer, or enthusiast who uses Ruby, you should know that ChicagoRuby is a welcoming group for newbies and veterans alike. Sign up at [Meetup.com/ChicagoRuby](http://meetup.com/chicagoruby) to hear about future events.
 
-If you would like to present a topic at ChicagoRuby, check out the [Speaker Guidelines] and contact the organizer team (led by [Nicole Carpenter](https://www.meetup.com/ChicagoRuby/members/190520517/)) through the [ChicagoRuby contact form](http://chicagoruby.org/contact).
+If you would like to present a topic at ChicagoRuby, check out the [Speaker Guidelines](https://chicagoruby.org/about/speaker-guidelines/) and contact the organizer team (led by [Nicole Carpenter](https://www.meetup.com/ChicagoRuby/members/190520517/)) through the [ChicagoRuby contact form](http://chicagoruby.org/contact).
 
-We look forward to seeing you at ChicagoRuby!
+If you are interested in speaking at WindyCityRails, the call for proposals is announced through the [@WindyCityRails](http://twitter.com/windycityrails) Twitter feed.
