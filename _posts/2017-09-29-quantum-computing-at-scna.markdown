@@ -6,9 +6,13 @@ comments: true
 tags: [ Community, Quantum ]
 published: true
 ---
+
+<img style="margin-left:20px" src="/images/quantum_dwave.jpg" width="200" align="right" alt="Quantum Computing at SCNA - University of Southern California" title="Quantum Computing at SCNA - University of Southern California" />
+
 >One purpose of a conference is to help you to spot trends while there’s still time to reap the benefits of being an early adopter.<br/>&nbsp;<br/>~Brian Marick at SCNA 2013
 
 Quantum computing is a trend subject to hype and misinformation and inflated expectations. How does a serious professional sort through the noise? By being particular about where you get your information, and by seeking out experts.
+
 
 <!--more-->
 
