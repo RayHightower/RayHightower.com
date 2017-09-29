@@ -11,21 +11,44 @@ published: true
 
 >One purpose of a conference is to help you to spot trends while there’s still time to reap the benefits of being an early adopter.<br/>&nbsp;<br/>~Brian Marick at SCNA 2013
 
-Like any new technology, quantum computing, is subject to hype, misinformation, and inflated expectations. How does a serious professional sort through the noise? By being particular about where you get your information, and by seeking out experts.
+Like any new technology, quantum computing, is subject to hype, misinformation, and inflated expectations. How does a serious professional sort through the noise? By being particular about where you get information, and by seeking out experts.
 
-SCNA can help you with that.
+SCNA can help you with both.
 
 <!--more-->
 
 ### Quantum Computing, in Person
 
-[Professor Federico Spedalieri](https://www.linkedin.com/in/federico-spedalieri-06b9ba5/) is a 20-year veteran of the quantum computing field. He began studying the field as a PhD student at [Caltech](http://www.caltech.edu/). Today, he is the research lead on quantum computing at the [University of Southern California (USC)](https://news.usc.edu/104391/worlds-most-powerful-quantum-computer-now-online-at-usc/). If you attend [SCNA](https://scna.softwarecraftsmanship.com/) this year, you will hear him speak in person. You'll have the opportunity to ask questions and interact. And your knowledge will grow.
+[Professor Federico Spedalieri](https://www.linkedin.com/in/federico-spedalieri-06b9ba5/) is a 20-year veteran of quantum computing. He began studying the field as a PhD student at [Caltech](http://www.caltech.edu/). Today, he is the research lead on quantum computing at the [University of Southern California (USC)](https://news.usc.edu/104391/worlds-most-powerful-quantum-computer-now-online-at-usc/). If you attend [SCNA](https://scna.softwarecraftsmanship.com/) this year, you will hear him speak in person. You'll have the opportunity to ask questions and interact. And your knowledge will grow.
 
 ### Why Quantum Computing Matters
 
-Classical computers, like the one you're probably using to view this blog post, have taken us far. But some problems require a different approach. 
+Classical computers, like the one you're probably using to view this blog post, have taken us far. But some problems require a different approach.
 
-Quantum computing offers an exciting answer.
+For example, consider drug research. Drugs are chemical compounds, made up of atoms. Atoms are composed of protons, neutrons, and electrons. To simiulate drug behavior, researchers must account for interactions between every proton, neutron, and electron in the drug molecule.
+
+This doesn't present a problem for small molecules. Hydrogen, with one proton and one electron, has only one interaction. But the number of potential interactions grows exponentially as the number of sub-atomic particles increases.
+
+In the following table, 
+
+* `n` = the number of particles
+* `n(n-1)/2` = number of potential interactions between the particles
+
+<table>
+<tr><td>n</td><td># of Interactions = n(n-1)/2</td></tr>
+<tr><td>2</td><td>1</td></tr>
+<tr><td>3</td><td>3</td></tr>
+<tr><td>4</td><td>6</td></tr>
+<tr><td>5</td><td>6</td></tr>
+<tr><td>6</td><td>6</td></tr>
+<tr><td>7</td><td>6</td></tr>
+<tr><td>8</td><td>6</td></tr>
+<tr><td>9</td><td>6</td></tr>
+</table>
+
+Classical computers bog down after about ten particles. But quantum computers, based on our observations about quantum mechanics, can handle more interactions. Quantum computers will enable drug researchers to simulate much more complicated drugs. Cures for some of our most deadly diseases may be on the horizon, thanks to advances in quantum computing.
+
+Quantum computing offers exciting answers.
 
 ### Striving Towards Mastery
 
@@ -38,14 +61,3 @@ Do you have a driving desire to achieve? Then perhaps SCNA is for you.
 ### Come to SCNA
 
 Are you a software developer looking to take your skills to the next level? Consider the SCNA conference, arriving in Los Angeles on October 27, 2017. Learn from industry leaders. Network with your peers, trade ideas, and have a great time with a room full of smart people who will welcome you. [Register now](https://scna.softwarecraftsmanship.com/). We look forward to seeing you.
-
-
-
-
-
-
-
-
-
-
-
