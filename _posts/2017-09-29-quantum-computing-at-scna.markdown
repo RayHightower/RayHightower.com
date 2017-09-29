@@ -25,7 +25,7 @@ SCNA can help you with both.
 
 Classical computers, like the one you're probably using to view this blog post, have taken us far. But some problems require a different approach.
 
-For example, consider drug research. Drugs are chemical compounds, made up of atoms and molecules. To simiulate drug behavior, researchers must account for interactions between every proton, neutron, and electron in the drug molecule.
+For example, consider drug research. Drugs are chemical compounds, made up of atoms and molecules. To simulate drug behavior, researchers must account for interactions between every proton, neutron, and electron in the drug molecule.
 
 This doesn't present a problem for small molecules. Hydrogen, with one proton and one electron, has only one interaction. But the number of potential interactions grows exponentially as the size of the molecules increases.
 
