@@ -25,30 +25,13 @@ SCNA can help you with both.
 
 Classical computers, like the one you're probably using to view this blog post, have taken us far. But some problems require a different approach.
 
-For example, consider drug research. Drugs are chemical compounds, made up of atoms. Atoms are composed of protons, neutrons, and electrons. To simiulate drug behavior, researchers must account for interactions between every proton, neutron, and electron in the drug molecule.
+For example, consider drug research. Drugs are chemical compounds, made up of atoms and molecules. To simiulate drug behavior, researchers must account for interactions between every proton, neutron, and electron in the drug molecule.
 
-This doesn't present a problem for small molecules. Hydrogen, with one proton and one electron, has only one interaction. But the number of potential interactions grows exponentially as the number of sub-atomic particles increases.
+This doesn't present a problem for small molecules. Hydrogen, with one proton and one electron, has only one interaction. But the number of potential interactions grows exponentially as the size of the molecules increases.
 
-In the following table, 
+Classical computers bog down under the weight of an exponentially increasing number of interactions. But quantum computers, based on our observations about quantum mechanics, can handle more interactions. Quantum computers will enable drug researchers to simulate much more complicated drugs. Cures for some of our most deadly diseases may be on the horizon, thanks to advances in quantum computing.
 
-* `n` = the number of particles
-* `n(n-1)/2` = number of potential interactions between the particles
-
-<table>
-<tr><td>n</td><td># of Interactions = n(n-1)/2</td></tr>
-<tr><td>2</td><td>1</td></tr>
-<tr><td>3</td><td>3</td></tr>
-<tr><td>4</td><td>6</td></tr>
-<tr><td>5</td><td>6</td></tr>
-<tr><td>6</td><td>6</td></tr>
-<tr><td>7</td><td>6</td></tr>
-<tr><td>8</td><td>6</td></tr>
-<tr><td>9</td><td>6</td></tr>
-</table>
-
-Classical computers bog down after about ten particles. But quantum computers, based on our observations about quantum mechanics, can handle more interactions. Quantum computers will enable drug researchers to simulate much more complicated drugs. Cures for some of our most deadly diseases may be on the horizon, thanks to advances in quantum computing.
-
-Quantum computing offers exciting answers.
+Quantum computing offers exciting answers. Learn more at SCNA.
 
 ### Striving Towards Mastery
 
