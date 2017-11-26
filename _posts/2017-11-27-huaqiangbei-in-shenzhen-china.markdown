@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/huaqiangbei_shenzhen_day.jpg" width="720" alt="Huaqiangbei in Shenzhen, China" title="Huaqiangbei in Shenzhen, China" />
 
-Huaqiangbei (pronounced hoo-WAY chang bay) is a place for makers.
+Huaqiangbei (pronounced hoo-WAY-chang-bay) is a place for makers.
 
 Imagine an IKEA-sized store filled with electronics instead of furniture. Not just cell phones and laptops, but the parts we use to build our digital devices: solid state components, ICs, circuit boards, and all the tools needed for assembly and repair. Double the size of the store in your mind. And then fill a neighborhood with buildings just like it. That’s Huaqiangbei, the electronics market in Shenzhen, China.
 
