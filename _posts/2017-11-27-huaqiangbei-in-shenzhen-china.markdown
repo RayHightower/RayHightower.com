@@ -16,7 +16,7 @@ Imagine an IKEA store filled with electronics instead of furniture. Double the s
 
 Huaquiangbei is a neighborhood in Shenzhen, China filled with stores that sell everything electronic. Sure, you can buy the typical goods: cell phones, laptops, drones, and so on. And IoT enthusiasts are excited to find even more: solid state devices, packaged integrated circuits, Arduinos and Raspberry Pis (and their clones) and even reels of surface-mount components ready for your printed circuit board assembly robot. LEDs of every size, switches of every variety, and non-stop chatter of deals being made.
 
-Wired Magazine published a [1-hour video tour of Huaquiangbei](https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7). When you watch the video
+Huaquiangbei is the primary reason for my visit to China. Wired Magazine published a [1-hour video tour of Huaquiangbei](https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7). When you watch the video 
 
 ### First Impressions
 Overwhelmed.
