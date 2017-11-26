@@ -17,7 +17,7 @@ Imagine an IKEA-sized store filled with electronics instead of furniture. Not ju
 
 ### One Hour Video
 
-Huaquiangbei is the primary reason for my visit to China. Wired Magazine published a [1-hour video tour of Huaquiangbei](https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7). When you watch the video 
+Huaquiangbei was the primary reason for my visit to China. Wired Magazine published a [1-hour video about Shenzhen and Huaquiangbei](https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7). 
 
 <a href="https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7"><img src="/images/huaqiangbei_shenzhen_phone.png" width="720" alt="Huaqiangbei in Shenzhen, China" title="Huaqiangbei in Shenzhen, China" /></a>
 
