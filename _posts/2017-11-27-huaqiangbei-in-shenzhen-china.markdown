@@ -9,15 +9,15 @@ published: true
 
 <img src="/images/huaqiangbei_shenzhen_day.jpg" width="720" alt="Huaqiangbei in Shenzhen, China" title="Huaqiangbei in Shenzhen, China" />
 
-Huaqiangbei (pronounced hoo-WAY-chang-bay) is a place for makers.
+Huaqiangbei (pronounced hoo-WAY-chang-bay) is a place for makers. This neighborhood within Shenzhen was the primary reason for my visit to China.
 
-Imagine an IKEA-sized store filled with electronics instead of furniture. Not just cell phones and laptops, but the parts we use to build our digital devices: solid state components, ICs, circuit boards, and all the tools needed for assembly and repair. Double the size of the store in your mind. And then fill a neighborhood with buildings just like it. That’s Huaqiangbei, the electronics market in Shenzhen, China.
+Here's why: Imagine an IKEA-sized store filled with electronics instead of furniture. Not just cell phones and laptops, but the parts we use to build our digital devices: solid state components, ICs, circuit boards, and all the tools needed for assembly and repair. Double the size of the store in your mind. And then fill a neighborhood with buildings just like it. That’s Huaqiangbei, the electronics market in Shenzhen, China.
 
 <!--more-->
 
-### One Hour Video
+### Shenzhen in One Hour
 
-Huaquiangbei was the primary reason for my visit to China. Wired Magazine published a [1-hour video about Shenzhen and Huaquiangbei](https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7). 
+Wired Magazine published a [1-hour video about Shenzhen and Huaquiangbei](https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7). Check it out.
 
 <a href="https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7"><img src="/images/huaqiangbei_shenzhen_phone.png" width="720" alt="Huaqiangbei in Shenzhen, China" title="Huaqiangbei in Shenzhen, China" /></a>
 
