@@ -21,6 +21,16 @@ Wired Magazine published a [1-hour video about Shenzhen and Huaquiangbei](https:
 
 <a href="https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7"><img src="/images/huaqiangbei_shenzhen_phone.png" width="720" alt="Huaqiangbei in Shenzhen, China" title="Huaqiangbei in Shenzhen, China" /></a>
 
+The video tells you what to expect once you get to Shenzhen. This post will tell you how to prepare for the trip, including some things I wish I had known before my journey.
+
+### Passports and Visas
+
+Driving Ideas...
+
+* Make the reader feel awesome.
+* Help readers know that they can make the trip, too.
+
+
 ### First Impressions
 
 Overwhelmed.
