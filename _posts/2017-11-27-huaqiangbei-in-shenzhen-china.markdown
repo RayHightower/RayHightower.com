@@ -10,6 +10,8 @@ Huaqiangbei is a place for makers.
 
 Imagine an IKEA-sized store filled with electronics instead of furniture. Not just cell phones and laptops, but the parts we use to build our digital devices: solid state components, ICs, circuit boards, and all the tools needed for assembly and repair. Double the size of the store in your mind. And then fill a neighborhood with buildings just like it. That’s Huaqiangbei, the electronics market in Shenzhen, China.
 
+<!--more-->
+
 Imagine an IKEA store filled with electronics instead of furniture. Double the size of the store. And then imagine a neighborhood filled with other stores just like it.
 
 Huaquiangbei is a neighborhood in Shenzhen, China filled with stores that sell everything electronic. Sure, you can buy the typical goods: cell phones, laptops, drones, and so on. And IoT enthusiasts are excited to find even more: solid state devices, packaged integrated circuits, Arduinos and Raspberry Pis (and their clones) and even reels of surface-mount components ready for your printed circuit board assembly robot. LEDs of every size, switches of every variety, and non-stop chatter of deals being made.
