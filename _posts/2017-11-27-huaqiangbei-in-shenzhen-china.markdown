@@ -44,7 +44,7 @@ The Wired video tells you what to expect once you get to Shenzhen. This post wil
 
 ### Passports and Visas
 
-US citizens need a passport and a visa to visit mainland China. As of this writing, it's possible to visit Shenzhen for up to six days without a visa, but a definitely visa is needed if you want to go outside the city. So grab the visa. A service like [Travisa](http://travisa.com) can get you a ten-year multiple entry visa for less than $200, and they'll manage the process for you.
+US citizens need a passport and a visa to visit mainland China. As of this writing, it's possible to visit Shenzhen for up to six days without a visa, but a visa is needed if you want to go outside the city. A service like [Travisa](http://travisa.com) can get you a ten-year multiple entry visa for less than $200, and they'll manage the application process for you.
 
 ### Flights and Hotels
 
