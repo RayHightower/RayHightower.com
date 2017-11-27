@@ -50,15 +50,18 @@ US citizens need need a passport and a visa to visit mainland China. As of this 
 
 [Priceline](http://priceline.com) has consistently given me great deals on flights and hotels all over the world. I used Priceline for my Shenzhen trip, and they delivered well. 
 
-### Managing the Language Barrier
+### Mandarin for English Speakers
 
-If you already speak Mandarin, you will navigate well in Shenzhen. I am
-not fluent in Mandarin, so I relied on a few crutches.
+<img src="/images/google_translate_street_sign.jpg" width="600" alt="Google Translate in Shenzhen, China" title="Google Translate in Shenzhen, China" />
 
-* Google Translate rocks.
+If you already speak Mandarin, you will navigate well in Shenzhen. I am not fluent in Mandarin, so I relied on a few crutches:
+
+* Google Translate. This tool rocks. I had several conversations with
+people speaking Mandarin where we both ran Google translate on our
+phones in order to communicate.
 * [Chineasy](http://chineasy.com) is an excellent intro to the most frequently used characters in Chinese writing.
 
-Astute readers will note that Google's tools are blocked by the Great Firewall, and you'll need a VPN to use Google's Translate and Map apps.
+Astute readers will note that Google's tools are blocked by the Great Firewall, and you'll need a VPN to use them.
 
 ### Visit Hong Kong
 
@@ -66,11 +69,8 @@ If you make it to Shenzhen, try to schedule a trip to Hong Kong as well. The two
 
 If you visit Hong Kong, be sure to buy an Octapus card when you arrive.  You can pay for almost anything via Octopus including rides on the train, and coffee at Starbucks.
 
-Some people might recommend WeChat for payments in China and Hong Kong. In my experience, WeChat works fine for text communications, but for payments it's a pain in the neck. The [VPayFast](http://vpayfast.com) service offers help for non-Chinese citizens who want to use WeChat, but the service did not work for me.Maybe I'm spoiled by the convenience of [M-Pesa in Kenya](/blog/2016/12/29/m-pesa-blends-fintech-mobile-in-kenya/).
+Some people might recommend WeChat for payments in China and Hong Kong. In my experience, WeChat works fine for text communications, but for payments it's a pain in the neck. The [VPayFast](http://vpayfast.com) service offers help for non-Chinese citizens who want to use WeChat, but the service did not work for me. Maybe I'm spoiled by the convenience of [M-Pesa in Kenya](/blog/2016/12/29/m-pesa-blends-fintech-mobile-in-kenya/).
 
 ### Conclusion
 
-I expected to be overwhelmed by my visit to Shenzhen. And still, I was
-overwhelmed beyond my expectations. If you are enthusiastic about open
-source hardware, IoT, or related areas, you will enjoy Shenzhen. Ping
-me when you go. Maybe we can collaborate on something!
+If you are enthusiastic about open source hardware, IoT, or related areas, you will enjoy Shenzhen. Ping me when you go. Maybe we can collaborate on something!
