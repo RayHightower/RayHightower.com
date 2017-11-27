@@ -77,7 +77,10 @@ WeChat’s coolest features are written in Chinese. M-Pesa’s features are in S
 
 ### Conclusion
 
-In _The World is Flat_, author Tom Friedman observed that "distance is dead". 
+I expected to be overwhelmed by my visit to Shenzhen. And still, I was
+overwhelmed beyond my expectations. If you are enthusiastic about open
+source hardware, IoT, or related areas, you will enjoy Shenzhen. Ping
+me when you go. Maybe we can collaborate on something!
 
 
 
