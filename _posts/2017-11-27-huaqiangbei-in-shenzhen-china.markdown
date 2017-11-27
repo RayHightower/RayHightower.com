@@ -19,16 +19,16 @@ Imagine an IKEA-sized store filled with electronics instead of furniture. Not ju
 
 ### Shenzhen in One Hour
 
-Wired Magazine published a [1-hour video about Shenzhen and Huaquiangbei](https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7) in July 2016.
+Wired Magazine published a [1-hour video about Shenzhen and Huaqiangbei](https://www.youtube.com/watch?v=SGJ5cZnoodY&list=PLOnWKC1gI_OMDuVNC0l27FZ2xJUX5UTkg&index=7) in July 2016.
 
 <img src="/images/huaqiangbei_shenzhen_phone.png" width="720" alt="Huaqiangbei in Shenzhen, China" title="Huaqiangbei in Shenzhen, China" />
 
 Key points from the video:
 
-* Twenty years ago, Shenzhen was a tiny 30,000-person fishing villiage. Today, roughly 12 million people call Shenzhen home.
+* Twenty years ago, Shenzhen was a tiny 30,000-person fishing village. Today, roughly 12 million people call Shenzhen home.
 * The government of China created a deliberate plan for Shenzhen's focus on technology. Growth like this does not happen by accident.
 * Shenzhen has evolved in a way much bigger and faster than the central planners predicted.
-* Moore's Law and the global demand for electonics played a role in the growth of Shenzhen.
+* Moore's Law and the global demand for electronics played a role in the growth of Shenzhen.
 * Most vendors at Huaqiangbei prefer to deal in volume.
 * Some of the goods sold in Shenzhen are counterfeit. Caveat emptor.
 * Shenzhen is not just about marketplaces. There are meetups, startup incubators, and accelerators for entrepreneurs who are ready to collaborate with others and grow.
@@ -44,11 +44,11 @@ The Wired video tells you what to expect once you get to Shenzhen. This post wil
 
 ### Passports and Visas
 
-US citizens need need a passport and a visa to visit mainland China. As of this writing, it's possible to visit Shenzhen for up to six days without a visa, but a visa is easy to get if you plan ahead. So grab the visa. A service like [Travisa](http://travisa.com) can get you a ten-year multiple entry visa for less than $200.
+US citizens need a passport and a visa to visit mainland China. As of this writing, it's possible to visit Shenzhen for up to six days without a visa, but a definitely visa is needed if you want to go outside the city. So grab the visa. A service like [Travisa](http://travisa.com) can get you a ten-year multiple entry visa for less than $200, and they'll manage the process for you.
 
 ### Flights and Hotels
 
-[Priceline](http://priceline.com) has consistently given me great deals on flights and hotels all over the world. I used Priceline for my Shenzhen trip, and they delivered well. 
+[Priceline](http://priceline.com) has consistently given me great deals on flights and hotels all over the world. I used Priceline for my Shenzhen flights and hotels. They delivered well.
 
 ### Mandarin for English Speakers
 
@@ -56,14 +56,14 @@ US citizens need need a passport and a visa to visit mainland China. As of this 
 
 If you already speak Mandarin, you will navigate well in Shenzhen. I am not fluent in Mandarin, so I relied on a few crutches:
 
-* Google Translate, availabler for iOS and Android. This tool rocks. I had several conversations with people speaking Mandarin where we both ran Google translate on our phones in order to communicate.
+* Google Translate, available for iOS and Android. This tool rocks. I had several conversations with people speaking Mandarin where we both ran Google translate on our phones in order to communicate.
 * [ShaoLan Hsueh](https://www.youtube.com/watch?v=troxvPRmZm8) gave a TED talk on the most frequently used Chinese characters, and how to recognize them. She created a course called Chineasy to teach her techniques.
 
 Astute readers will note that Google's tools are blocked by the Great Firewall, and you'll need a VPN to use them.
 
 ### Visit Hong Kong
 
-If you make it to Shenzhen, try to schedule a trip to Hong Kong as well. The two cities asre only a short train ride apart, like riding from Midtown Manhattan to Brooklyn. US citizens can travel to Hong Kong without a visa, but you'll still need to go through customs.
+If you make it to Shenzhen, try to schedule a trip to Hong Kong as well. The two cities are only a short train ride apart, like riding from Midtown Manhattan to Brooklyn. US citizens can travel to Hong Kong without a visa, but you'll still need to go through customs.
 
 If you visit Hong Kong, be sure to buy an Octapus card when you arrive.  You can pay for almost anything via Octopus including rides on the train, and coffee at Starbucks.
 
