@@ -27,7 +27,7 @@ Key points from the video:
 
 * Twenty years ago, Shenzhen was a tiny 30,000-person fishing village. Today, roughly 12 million people call Shenzhen home.
 * The government of China created a deliberate plan for Shenzhen's focus on technology. Growth like this does not happen by accident.
-* Shenzhen has evolved in a way much bigger and faster than the central planners predicted.
+* Shenzhen has evolved larger and faster than the central planners predicted.
 * Moore's Law and the global demand for electronics played a role in the growth of Shenzhen.
 * Most vendors at Huaqiangbei prefer to deal in volume.
 * Some of the goods sold in Shenzhen are counterfeit. Caveat emptor.
