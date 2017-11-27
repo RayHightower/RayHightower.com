@@ -29,6 +29,7 @@ Key points from the video:
 * The government of China created a deliberate plan for Shenzhen's focus on technology. Growth like this does not happen by accident.
 * Shenzhen has evolved in a way much bigger and faster than the central planners predicted.
 * Moore's Law and the global demand for electonics played a role in the growth of Shenzhen.
+* Most vendors at Huaqiangbei prefer to deal in volume.
 * Some of the goods sold in Shenzhen are counterfeit. Caveat emptor.
 * Shenzhen is not just about marketplaces. There are meetups, startup incubators, and accelerators for entrepreneurs who are ready to collaborate with others and grow.
 * Hardware prototypes in Shenzhen can be created in record time. Faster prototyping yields faster iterations and faster learning. In the end, customers get better products.
@@ -38,7 +39,6 @@ make it to the USA.
 ### Globalization is Good
 
 Another reason why Shenzhen is so exciting: Globalization is good.  Opportunities in tech are too large for one nation to play a monopoly role.
-
 
 The Wired video tells you what to expect once you get to Shenzhen. This post will tell you how to prepare for the trip, along with a few gotchas that I encountered along the way.
 
@@ -50,15 +50,31 @@ US citizens need need a passport and a visa to visit mainland China. As of this 
 
 [Priceline](http://priceline.com) has consistently given me great deals on flights and hotels all over the world. I used Priceline for my Shenzhen trip, and they delivered well. 
 
+### Managing the Language Barrier
+
+If you already speak Mandarin, you will navigate well in Shenzhen. I am
+not fluent in Mandarin, so I relied on a few crutches.
+
+* Google Translate rocks.
+* [Chineasy](http://chineasy.com) is an excellent intro to the most frequently used characters in Chinese writing. 
+
+Astute readers will note that Google's tools are blocked by the Great Firewall, and you'll need a VPN to use Google's Translate and Map apps. 
+
 ### Visit Hong Kong
 
-If you make it to Shenzhen, try to schedule a trip to Hong Kong as well. The train ride is about as long as a ride from Midtown Manhattan to Brooklyn.
+If you make it to Shenzhen, try to schedule a trip to Hong Kong as well. The two cities asre only a short train ride apart, like riding from Midtown Manhattan to Brooklyn. US citizens can travel to Hong Kong without a visa, but you'll still need to go through customs.
+
+
+
+
+### Out-Takes
+### Out-Takes
+### Out-Takes
+### Out-Takes
+### Out-Takes
+### Out-Takes
 
 ### First Impressions
-
-Overwhelmed.
-Imagine an IKEA store, only the store is filled with electronics instead of furniture. Double the size of the store. And then imagine a neighborhood filled with other stores just like it.
-
 I expected to be overwhelmed by Huaqiangbei. And still, I was overwhelmed.
 
 Prototypes paradise. 
@@ -68,13 +84,7 @@ Yes, you can find mobile phones and laptops. But more importantly, Huaquiangbei
 
 Cyclists and motorized bikes todd the sidewalk. What was unsafe okor people at Football game is now sags for me. 
 
-Bikes and motorized bikes blanket the sidewalk. Bikers are afraid to ride in the streets because  
-
-### Managing the Language Barrier
-
-Google Translate rocks.
-[Google Translate in China">
-
+Bikes and motorized bikes blanket the sidewalk. Bikers are afraid to ride in the streets because
 
 ### History
 30 years ago, Shenzhen was a 300,000-person fishing village. Today, Shenzhen is a modern city of skyscrapers and 15 million people.
