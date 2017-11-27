@@ -67,7 +67,7 @@ If you make it to Shenzhen, consider a bonus trip to Hong Kong as well. The two 
 
 If you visit Hong Kong, be sure to buy an [Octapus](https://www.octopus.com.hk) card when you arrive. The Octopus card can be puchased at any train station. You can pay for almost anything via Octopus including public transporation and Starbucks coffee.
 
-Some people might recommend WeChat for payments in China and Hong Kong. In my experience, WeChat works fine for text communications, but for payments it's a pain in the neck. The [VPayFast](http://vpayfast.com) service offers help for non-Chinese citizens who want to use WeChat, but the service did not work for me. Maybe I'm spoiled by the convenience of [M-Pesa in Kenya](/blog/2016/12/29/m-pesa-blends-fintech-mobile-in-kenya/).
+Some people might recommend WeChat for payments in China and Hong Kong. In my experience, WeChat works fine for text communications, but for payments it's a pain in the neck. The [VPayFast](http://vpayfast.com) service offers help for non-Chinese citizens who want to use WeChat, but the service did not work for me. Maybe I'm spoiled by the seamless convenience of [M-Pesa in Kenya](/blog/2016/12/29/m-pesa-blends-fintech-mobile-in-kenya/).
 
 ### Conclusion
 
