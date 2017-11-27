@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/huaqiangbei_shenzhen_day.jpg" width="720" alt="Huaqiangbei in Shenzhen, China" title="Huaqiangbei in Shenzhen, China" />
 
-Huaqiangbei (pronounced hoo-wah-chang-bay) is a place for makers of electronics, robotics, and anything tech-related. This neighborhood within Shenzhen was the primary reason for my visit to China in November 2017.
+Huaqiangbei (pronounced hoo-wah-chang-bay) is a place for makers of electronics, robotics, and anything tech-related. This prototyper's paradise within Shenzhen was the primary reason for my visit to China in November 2017.
 
 <!--more-->
 
@@ -64,43 +64,6 @@ Astute readers will note that Google's tools are blocked by the Great Firewall, 
 
 If you make it to Shenzhen, try to schedule a trip to Hong Kong as well. The two cities asre only a short train ride apart, like riding from Midtown Manhattan to Brooklyn. US citizens can travel to Hong Kong without a visa, but you'll still need to go through customs.
 
-
-
-
-### Out-Takes
-### Out-Takes
-### Out-Takes
-### Out-Takes
-### Out-Takes
-### Out-Takes
-
-### First Impressions
-I expected to be overwhelmed by Huaqiangbei. And still, I was overwhelmed.
-
-Prototypes paradise. 
-Surface mount components on roles of tape, ready to be added to circuit boards by robots.  
-
-Yes, you can find mobile phones and laptops. But more importantly, Huaquiangbei 
-
-Cyclists and motorized bikes todd the sidewalk. What was unsafe okor people at Football game is now sags for me. 
-
-Bikes and motorized bikes blanket the sidewalk. Bikers are afraid to ride in the streets because
-
-### History
-30 years ago, Shenzhen was a 300,000-person fishing village. Today, Shenzhen is a modern city of skyscrapers and 15 million people.
-
-### Navigation With Google Maps
-
-The astute reader might ask: How can you navigate with Google Maps in China without using a VPN? How, indeed!
-
-### International
-
-Traveling through China.
-Communicating with friends in Kenya about the Kenya-based financial service, M-Pesa via Twitter, a service created in the USA.
-Using a financial service based in Panama to add funds to my Chinese-based WeChat account.
-Using a VPN created in the USA to ensure secure communications throughout, except when certain services don’t allow VPNs.
-Over a VPN running on a virtual server in Hong Kong (verify, RTH!)
-
 ### Charging Up WeChat
 
 http://vpayfast.com
@@ -112,17 +75,27 @@ Based in Panama???
 Link to RTH’s M-Pesa article.
 WeChat’s coolest features are written in Chinese. M-Pesa’s features are in Swahili, but Swahili is easier to read (say this better, RTH).
 
+### Conclusion
 
-### Google Maps
-Open streets are closed due to construction 
+In _The World is Flat_, author Tom Friedman observed that "distance is dead". 
 
-My brother asked: What surprised you most about Shenzhen?
-Answer: That there are so many malls devoted to electronics. HQB is huge!
+
 
 
 ### Out-Takes
+### Out-Takes
+### Out-Takes
+### Out-Takes
+### Out-Takes
+### Out-Takes
 
-Imagine an IKEA store filled with electronics instead of furniture. Double the size of the store. And then imagine a neighborhood filled with other stores just like it.
+### International
+
+Traveling through China.
+Communicating with friends in Kenya about the Kenya-based financial service, M-Pesa via Twitter, a service created in the USA.
+Using a financial service based in Panama to add funds to my Chinese-based WeChat account.
+Using a VPN created in the USA to ensure secure communications throughout, except when certain services don’t allow VPNs.
+Over a VPN running on a virtual server in Hong Kong (verify, RTH!)
 
 Huaquiangbei is a neighborhood in Shenzhen, China filled with stores that sell everything electronic. Sure, you can buy the typical goods: cell phones, laptops, drones, and so on. And IoT enthusiasts are excited to find even more: solid state devices, packaged integrated circuits, Arduinos and Raspberry Pis (and their clones) and even reels of surface-mount components ready for your printed circuit board assembly robot. LEDs of every size, switches of every variety, and non-stop chatter of deals being made.
 
