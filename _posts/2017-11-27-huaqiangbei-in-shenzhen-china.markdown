@@ -56,10 +56,8 @@ US citizens need need a passport and a visa to visit mainland China. As of this 
 
 If you already speak Mandarin, you will navigate well in Shenzhen. I am not fluent in Mandarin, so I relied on a few crutches:
 
-* Google Translate. This tool rocks. I had several conversations with
-people speaking Mandarin where we both ran Google translate on our
-phones in order to communicate.
-* ShaoLan Hsueh gave a TED talk on the most frequently used Chinese characters, and how to recognize them. She created a course called Chineasy to teach her techniques.
+* Google Translate, availabler for iOS and Android. This tool rocks. I had several conversations with people speaking Mandarin where we both ran Google translate on our phones in order to communicate.
+* [ShaoLan Hsueh](https://www.youtube.com/watch?v=troxvPRmZm8) gave a TED talk on the most frequently used Chinese characters, and how to recognize them. She created a course called Chineasy to teach her techniques.
 
 Astute readers will note that Google's tools are blocked by the Great Firewall, and you'll need a VPN to use them.
 
