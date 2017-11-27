@@ -56,24 +56,17 @@ If you already speak Mandarin, you will navigate well in Shenzhen. I am
 not fluent in Mandarin, so I relied on a few crutches.
 
 * Google Translate rocks.
-* [Chineasy](http://chineasy.com) is an excellent intro to the most frequently used characters in Chinese writing. 
+* [Chineasy](http://chineasy.com) is an excellent intro to the most frequently used characters in Chinese writing.
 
-Astute readers will note that Google's tools are blocked by the Great Firewall, and you'll need a VPN to use Google's Translate and Map apps. 
+Astute readers will note that Google's tools are blocked by the Great Firewall, and you'll need a VPN to use Google's Translate and Map apps.
 
 ### Visit Hong Kong
 
 If you make it to Shenzhen, try to schedule a trip to Hong Kong as well. The two cities asre only a short train ride apart, like riding from Midtown Manhattan to Brooklyn. US citizens can travel to Hong Kong without a visa, but you'll still need to go through customs.
 
-### Charging Up WeChat
+If you visit Hong Kong, be sure to buy an Octapus card when you arrive.  You can pay for almost anything via Octopus including rides on the train, and coffee at Starbucks.
 
-http://vpayfast.com
-I used a throw-away number from my credit card company. And I only transferred $50, initially.
-Based in Panama???
-
-### WeChat vs M-Pesa
-
-Link to RTH’s M-Pesa article.
-WeChat’s coolest features are written in Chinese. M-Pesa’s features are in Swahili, but Swahili is easier to read (say this better, RTH).
+Some people might recommend WeChat for payments in China and Hong Kong. In my experience, WeChat works fine for text communications, but for payments it's a pain in the neck. The [VPayFast](http://vpayfast.com) service offers help for non-Chinese citizens who want to use WeChat, but the service did not work for me.Maybe I'm spoiled by the convenience of [M-Pesa in Kenya](/blog/2016/12/29/m-pesa-blends-fintech-mobile-in-kenya/).
 
 ### Conclusion
 
@@ -81,24 +74,3 @@ I expected to be overwhelmed by my visit to Shenzhen. And still, I was
 overwhelmed beyond my expectations. If you are enthusiastic about open
 source hardware, IoT, or related areas, you will enjoy Shenzhen. Ping
 me when you go. Maybe we can collaborate on something!
-
-
-
-
-### Out-Takes
-### Out-Takes
-### Out-Takes
-### Out-Takes
-### Out-Takes
-### Out-Takes
-
-### International
-
-Traveling through China.
-Communicating with friends in Kenya about the Kenya-based financial service, M-Pesa via Twitter, a service created in the USA.
-Using a financial service based in Panama to add funds to my Chinese-based WeChat account.
-Using a VPN created in the USA to ensure secure communications throughout, except when certain services don’t allow VPNs.
-Over a VPN running on a virtual server in Hong Kong (verify, RTH!)
-
-Huaquiangbei is a neighborhood in Shenzhen, China filled with stores that sell everything electronic. Sure, you can buy the typical goods: cell phones, laptops, drones, and so on. And IoT enthusiasts are excited to find even more: solid state devices, packaged integrated circuits, Arduinos and Raspberry Pis (and their clones) and even reels of surface-mount components ready for your printed circuit board assembly robot. LEDs of every size, switches of every variety, and non-stop chatter of deals being made.
-
