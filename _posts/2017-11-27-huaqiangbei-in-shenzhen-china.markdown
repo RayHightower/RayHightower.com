@@ -59,7 +59,7 @@ If you already speak Mandarin, you will navigate well in Shenzhen. I am not flue
 * Google Translate, available for iOS and Android. This tool rocks. I had several conversations with people speaking Mandarin where we both ran Google translate on our phones in order to communicate.
 * [ShaoLan Hsueh](https://www.youtube.com/watch?v=troxvPRmZm8) gave a TED talk on the most frequently used Chinese characters, and how to recognize them. She created a course called Chineasy to teach her techniques.
 
-Astute readers will note that Google's tools are blocked by the Great Firewall, and you'll need a VPN to use them.
+Astute readers will note that Google's tools are blocked by the Great Firewall. You will need a VPN to use them.
 
 ### Bonus: Visit Hong Kong
 
