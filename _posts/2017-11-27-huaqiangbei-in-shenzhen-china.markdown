@@ -59,7 +59,7 @@ If you already speak Mandarin, you will navigate well in Shenzhen. I am not flue
 * Google Translate. This tool rocks. I had several conversations with
 people speaking Mandarin where we both ran Google translate on our
 phones in order to communicate.
-* [Chineasy](http://chineasy.com) is an excellent intro to the most frequently used characters in Chinese writing.
+* ShaoLan Hsueh gave a TED talk on the most frequently used Chinese characters, and how to recognize them. She created a course called Chineasy to teach her techniques.
 
 Astute readers will note that Google's tools are blocked by the Great Firewall, and you'll need a VPN to use them.
 
