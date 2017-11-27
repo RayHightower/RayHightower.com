@@ -30,6 +30,9 @@ Driving Ideas...
 * Make the reader feel awesome.
 * Help readers know that they can make the trip, too.
 
+### Visit Hong Kong
+
+If you make it to Shenzhen, try to schedule a trip to Hong Kong as well. The train ride is about as long as a ride from Midtown Manhattan to Brooklyn.
 
 ### First Impressions
 
