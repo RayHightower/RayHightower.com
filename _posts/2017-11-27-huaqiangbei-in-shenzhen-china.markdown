@@ -27,10 +27,13 @@ Key points from the video:
 
 * Twenty years ago, Shenzhen was a tiny 30,000-person fishing villiage. Today, roughly 12 million people call Shenzhen home.
 * The government of China created a deliberate plan for Shenzhen's focus on technology. Growth like this does not happen by accident.
+* Shenzhen has evolved in a way much bigger and faster than the central planners predicted.
 * Moore's Law and the global demand for electonics played a role in the growth of Shenzhen.
 * Some of the goods sold in Shenzhen are counterfeit. Caveat emptor.
 * Shenzhen is not just about marketplaces. There are meetups, startup incubators, and accelerators for entrepreneurs who are ready to collaborate with others and grow.
-* Hardware prototypes in Shenzhen can be created in record time. Faster prototyping yields faster iterations and faster learning. In the end, customemrs get better products.
+* Hardware prototypes in Shenzhen can be created in record time. Faster prototyping yields faster iterations and faster learning. In the end, customers get better products.
+* Consumer electronics products hit Huaqiangbei a few years before they
+make it to the USA.
 
 ### Globalization is Good
 
@@ -41,10 +44,11 @@ The Wired video tells you what to expect once you get to Shenzhen. This post wil
 
 ### Passports and Visas
 
-Driving Ideas...
+US citizens need need a passport and a visa to visit mainland China. As of this writing, it's possible to visit Shenzhen for up to six days without a visa, but a visa is easy to get if you plan ahead. So grab the visa. A service like [Travisa](http://travisa.com) can get you a ten-year multiple entry visa for less than $200.
 
-* Make the reader feel awesome.
-* Help readers know that they can make the trip, too.
+### Flights and Hotels
+
+[Priceline](http://priceline.com) has consistently given me great deals on flights and hotels all over the world. I used Priceline for my Shenzhen trip, and they delivered well. 
 
 ### Visit Hong Kong
 
