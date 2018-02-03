@@ -6,7 +6,7 @@ title: About
 
 ### Quick Summary
 
-Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://wisdomgroup.com), for twenty-one years before selling the company to [8th Light](http://8thlight.com) in 2016. Today, Hightower combines his technical and business skills to drive sales at 8th Light.
+Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://wisdomgroup.com), for twenty-one years before selling the company to [8th Light](http://8thlight.com) in 2016. Today, Hightower serves as Director of the 8th Light office in Los Angeles, California.
 
 ### Tech Leadership & Speaking
 
