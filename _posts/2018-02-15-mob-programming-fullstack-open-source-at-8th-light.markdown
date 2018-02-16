@@ -11,12 +11,12 @@ published: true
 
 >With enough eyeballs, all bugs are shallow.<br/>~Linus Torvalds
 
-Next week, 8th Light offers two events for knowledge-hungry developers:
+Developers who are hungry for knowledge will enjoy these two upcoming events:
 
-* Tue, 2/20/2018: Mob Programming, with [Woody Zuill](https://scna.softwarecraftsmanship.org/#6)
+* Tue, 2/20/2018: Mob Programming, with Woody Zuill
 * Wed, 2/21/2018: Fullstack Open Source
 
-Both events will be held at the [8th Light](http://8thlight.com) office in downtown Los Angeles. The Mob Programming event will be filmed and refreshments will be served. Video footage may be used on [cleancoders.com](http://cleancoders.com) or in any of Woody Zull's training material. By participating your consenting to the use of the footage in that context.
+Both events will be held at the [8th Light](http://8thlight.com) office in downtown Los Angeles. The Mob Programming event will be filmed and refreshments will be served. Video footage may be used on [cleancoders.com](http://cleancoders.com) or in any of Woody Zull's training material. By participating, you are consenting to the use of the footage in that context.
 
 <!--more-->
 
