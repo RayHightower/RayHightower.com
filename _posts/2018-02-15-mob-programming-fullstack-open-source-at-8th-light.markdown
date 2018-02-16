@@ -11,15 +11,24 @@ published: true
 
 >With enough eyeballs, all bugs are shallow.<br/>~Linus Torvalds
 
-Developers who want to ramp up their skills are in for two special nights at 8th Light. 
+Next week, 8th Light offers two events for knowledge-hungry developers:
 
-* Tue, 2/20/2018: Mob Programming, with Woody Zull
+* Tue, 2/20/2018: Mob Programming, with [Woody Zuill](https://scna.softwarecraftsmanship.org/#6)
 * Wed, 2/21/2018: Fullstack Open Source
 
-The Mob Programming event will be filmed and refreshments will be served. The footage may be used on cleancoders.com or in any of Woody Zull's training material. By participating your consenting to the use of the footage in that context.
+Both events will be held at the [8th Light](http://8thlight.com) office in downtown Los Angeles. The Mob Programming event will be filmed and refreshments will be served. Video footage may be used on [cleancoders.com](http://cleancoders.com) or in any of Woody Zull's training material. By participating your consenting to the use of the footage in that context.
 
 <!--more-->
 
-Mob programming is a way to increase the quality of code while reducing bugs.
+### About Mob Programming
+Perhaps you're familiar with pair programming: Two developers working together to solve a single problem. Mob programming takes pairing to another level. At Tuesday's even, Woody Zuill will demonstrate how mob programming can increase the quality of code while reducing bugs.
 
-[Be sure to RSVP here](https://www.meetup.com/LA-Software-Craftsmanship/events/247787129/) so that we can have refreshments waiting for you. See you then!
+[Be sure to RSVP here](https://www.meetup.com/LA-Software-Craftsmanship/events/247787129/) to get the exact address and so that we can have refreshments waiting for you. See you then!
+
+### About Fullstack Open Source
+
+One of the best ways to ramp up in skill: Work with others who have the same goal. All developers are welcome to participate regardless of skill level.
+
+As always, you can [RSVP for Fullstack Open Source here](https://www.meetup.com/la-fullstack/events/xnkccpyxdbcc/) so we can order refreshments for you.
+
+See you soon!
