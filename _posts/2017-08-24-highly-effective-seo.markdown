@@ -13,9 +13,9 @@ If you're promoting a site on the web, you may be curious about search engine op
 
 This post describes a highly effective way to achieve SEO without resorting to clever schemes.
 
-### Results Achieved
+### For Example...
 
-As of the date of this post, Googling the term `chicago ruby on rails` will generate results similar to the above image. Note that three of the ten results on page one are owned or controlled by the ChicagoRuby Organizer Team. I've tried this test on machines in multiple countries, computers that I've never touched before (to eliminate the influences of caching and geography). The results are the consistent. How did we push ChicagoRuby's SEO to this level?
+As of the date of this post, Googling the term `chicago ruby on rails` will generate results similar to the above image. Note that three of the ten results on page one are owned or controlled by the ChicagoRuby Organizer Team. I've tried this test on machines in multiple countries, computers that I've never touched before (to eliminate the influences of caching and geography). The results are consistent. How did we push ChicagoRuby's SEO to this level?
 
 <!--more-->
 
