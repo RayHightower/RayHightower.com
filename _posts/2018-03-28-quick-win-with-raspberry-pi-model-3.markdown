@@ -144,10 +144,24 @@ Otherwise, install XQuartz (using [Homebrew]()) like so.
 $ brew cask install xquartz
 ==> Satisfying dependencies
 ==> Downloading https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.11.dmg
+######################################################################## 100.0%
+==> Verifying checksum for Cask xquartz
+==> Installing Cask xquartz
+==> Running installer for xquartz; your password may be necessary.
+==> Package installers may write to any location; options such as --appdir are ignored.
+Password:
+==> installer: Package name is XQuartz 2.7.11
+==> installer: Installing at base path /
+==> installer: The install was successful.
+🍺  xquartz was successfully installed!
 
 $
 
 ~~~
+
+XQuartz installation took about 10 minutes on my machine. Your mileage may vary.
+
+
 
 
 
