@@ -8,13 +8,21 @@ published: true
 ---
 <img src="/images/Raspberry_Pi_Cluster.jpg" width="360" height="225" align="center" alt="Raspberry Pi cluster controlled via VNC" title="Raspberry Pi cluster controlled via VNC" />
 
-When we experiment with something new, it can be encouraging to achieve a _quick win_ early in the process. Achieving a quick win can give us that jolt of energy we need to keep us going past (and through) the inevitable roadblocks.
+When we experiment with something new, it can be encouraging to achieve a _quick win_ early in the process. Achieving a quick win can give us that jolt of energy we need to break through the inevitable roadblocks.
 
-This post is designed to give you a quick win with the Raspberry Pi Model 3. Within this single article, you will learn how to:
+This post is designed to give you a quick win with the Raspberry Pi Model 3. Points covered:
 
-* Download and install an operating system for your Raspberry Pi.
-* Use SSH to control your Pi from a laptop, so you won't need an external monitor.
-* Use VNC so that you can use your Pi’s GUI with without carrying a separate monitor.
+* How to download and install an operating system for your Raspberry Pi.
+* Using SSH to control your Pi from a laptop, so you won't need an external monitor.
+* Using virtual network computing (VNC) to control your Pi's GUI without attaching a monitor.
+
+<!--more-->
+
+### Getting the Raspberry Pi Operating System
+
+You can purchase the Raspberry Pi operating system pre-installed on an SD card. Adafruit and Amazon are two retailers who sell the OS this way.
+
+Or you can download the operating system from the [Raspberry Pi site](http://raspberrypi.org). Buying the pre-installed card will save you time, but you might not get the latest versions of the software. It's easier to keep OS images up-to-date online.
 
 ### Choosing an SD Card
 
@@ -24,31 +32,85 @@ As of this writing, the best micro SD cards for the Pi are Class 10 (indicated b
 
 Depending on the configuration of your laptop, you might need an adapter to read your card.
 
-
-
-
-### Getting the Raspberry Pi Operating System
-
-You can purchase the Raspberry Pi operating system pre-installed on an SD card. Adafruit and Amazon are two retailers who sell the OS this way.
-
-Or you can download the operating system from the [Raspberry Pi site](http://raspberrypi.org). Buying the pre-installed card will save you time, but you might not get the latest versions of the software. It's easier to keep OS images up-to-date online.
-
-
 ### Burning the SD Card
 
+There's a GUI for burning a Raspberry Pi OS. I prefer the command line because the shell always works, while GUIs can be subject to operating system updates. Therefore, the command line method will be described here.
+
+First, grab the disk designation of the SD card.
+
+~~~ bash
+$ diskutil list
+/dev/disk0
+   #:                    TYPE NAME              SIZE       IDENTIFIER
+   0:   GUID_partition_scheme                  *960.2 GB   disk0
+   1:                     EFI EFI               209.7 MB   disk0s1
+   2:               Apple_HFS MacSSD            959.3 GB   disk0s2
+   3:              Apple_Boot Recovery HD       650.0 MB   disk0s3
+/dev/disk1
+   #:                    TYPE NAME              SIZE       IDENTIFIER
+   0:  FDisk_partition_scheme                  *15.9 GB    disk1
+   1:              DOS_FAT_32 BOOT              134.2 MB   disk1s1
+   2:                   Linux                   15.8 GB    disk1s2
+
+~~~
+
+Next, unmount the SD card.
+
+~~~ bash
+$ diskutil unmountDisk /dev/disk1
+Unmount of all volumes on disk1 was successful
+
+$ 
+
+~~~
+
+Finally, write the extracted Raspberry Pi image to the SD card.
+
+~~~ bash
+$ sudo dd if=2017-11-29-raspbian-stretch.img of=/dev/disk1 bs=1m
+Password:
+
+~~~
+
+The `dd` command takes a _long_ time to run, over 29 minutes on my machine. Here's a quick run-through of the command options:
+
+* `sudo` gives you [super powers](/sudo-disclaimer/). 
+
+* `dd` is the "copy and convert" command. The letters "dd" have nothing to do with what the tool actually does. It's just a command name. And like so many things in computer science, the name might be based on a pun.
+
+* `if=` specifies the input file. You can include the full path, or if the file is in your current directory, you can omit the path as shown in this example.
+
+* `of=` specifies the output file. We know that the SD card is located at `/dev/disk` so that's where the results of this command are headed.  Note that your destination directory may differ from this one.
+
+* `bs=` specifies the block size used for the destination file.
+
+### Checking Progress While `dd` Burns the Image
+
+The `dd` command does not give any outward sign that it is making progress. That can be a little uncomfortable because it takes a long time for the command to run. Here are two ways to check progress:
+
+* Run the Mac Os X Activity Monitor, and look for a process called `dd`. Watch the `disk writes` number as it increases. You can even sort the processes in descending order by `disk writes`.
+
+* In the terminal window where `dd` is running, hit `control-T` and you'll see a progress report in the terminal window.
 
 
-### Booting the Raspberry Pi for the First Time
+### Once `dd` is Complete
 
+When `dd` is done, you can eject the SD card from your Mac and insert it the micro-SD card reader on the Raspberry Pi. Apply power to the Pi and... it boots!
 
+### Login Credentials
+
+Default username/password:
+
+* user = pi
+* pw = raspberry
 
 ### Finding Your Pi's IP Address
 
 <img src="/images/fing.jpg" width="300" height="312" align="right" alt="Fing network scanner for Android" title="Fing network scanner for Android" />
 
-If you're using a password-protected WiFi network, you will need to connect to the network before the next steps work for you.
+If you're using a password-protected WiFi network, you will need to connect the Pi so that it can obtain an IP address.
 
-After you're connected to WiFi, your Pi will grab an IP address using the dynamic host configuration protocol (DHCP). And then you'll be able to grab your Pi's IP address.
+After you're connected to WiFi, your Pi will grab an IP address using the dynamic host configuration protocol (DHCP). You'll need the IP address in order to control your Pi via SSH or VNC.
 
 A few ways to find the IP address of your Raspberry Pi:
 
@@ -111,17 +173,36 @@ pi@raspberrypi:~ $
 
 Success! Of course, given the security warning, we might want to change the default password on the Pi.
 
-### How to Install VNC
+### Gotcha: Some Non-Working VNC Clients
 
-How do you install VNC on the Pi? Well, with the latest version of the Pi operating system, you don't have to. It's already there. Of course, you will need to enable it.
+Once upon a time, it was possible to use the following VNC clients on macOS:
+
+* Safari.
+* Finder.
+* TightVNC.
+* TigerVNC.
+
+These VNC clients no longer work no longer work on macOS High Sierra. In some cases, the missing functionality is intentional; I'm betting that Apple had security reasons for removing VNC capability from Finder and Safari. For TightVNC and TigerVNC, the authors may have found it difficult to navigate security restrictions in the latest Mac operating system.
+
+Fortunately, we have [RealVNC]().
+
+Download the RealVNC client and install it as you would any other Mac
+software. 
+
+<img src="/images/Raspberry_Pi_Cluster.jpg" width="360" height="225" align="center" alt="Raspberry Pi cluster controlled via VNC" title="Raspberry Pi cluster controlled via VNC" />
+
+
+
+
+### How to Install the VNC Server
+
+How do you install the VNC server on the Pi? Well, with the latest version of the Pi operating system, you don't have to. It's already there. Of course, you will need to enable it.
 
 To enable VNC, go back into `$ sudo raspi-config`, find VNC, and enable it. The steps are similar to the ones we followed to enable SSH.
 
+### Finding a VNC CLient for the Mac
+
 ### TightVNC Client
-
-Once upon a time, it was possible to use Finder or Safari on the Mac to connect to the Raspberry Pi's VNC Server. No longer. The block appears to be the result of new security restrictions.
-
-The good news: We can still use [TightVNC](https://www.tightvnc.com/) on the Mac. Install it, run it, and get the following.
 
 
 ### TigerVNC Client
@@ -160,6 +241,23 @@ $
 ~~~
 
 XQuartz installation took about 10 minutes on my machine. Your mileage may vary.
+
+After XQuartz installation, Homebrew installed TigerVNC without any problems.
+
+### How to Start TigerVNC
+
+To start TigerVNC...
+
+~~~
+
+$ vncviewer
+
+~~~
+
+And you'll get a window asking for the IP address of the VNC server (our Raspberry Pi).
+
+<img src="/images/vncviewer.png" width="360" height="225" align="center" alt="VNC Viewer" title="VNC Viewer" />
+
 
 
 
