@@ -137,7 +137,7 @@ $ brew install tiger-vnc
 
 ~~~
 
-Otherwise, install XQuartz (using [Homebrew]()) like so.
+Otherwise, install XQuartz (using [Homebrew](/blog/2014/02/12/homebrew-fundamentals/)) like so.
 
 ~~~
 
