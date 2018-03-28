@@ -117,6 +117,39 @@ How do you install VNC on the Pi? Well, with the latest version of the Pi operat
 
 To enable VNC, go back into `$ sudo raspi-config`, find VNC, and enable it. The steps are similar to the ones we followed to enable SSH.
 
+### TightVNC Client
+
+Once upon a time, it was possible to use Finder or Safari on the Mac to connect to the Raspberry Pi's VNC Server. No longer. The block appears to be the result of new security restrictions.
+
+The good news: We can still use [TightVNC](https://www.tightvnc.com/) on the Mac. Install it, run it, and get the following.
+
+
+### TigerVNC Client
+
+TigerVNC is a VNC client that runs on macOS. It requires XQuartz, the tool that provides X11 support on macOS.
+
+If you already have XQuartz installed on your Mac (perhaps for other software that requires it) then you can install TigerVNC with the following:
+
+~~~
+
+$ brew install tiger-vnc
+
+
+~~~
+
+Otherwise, install XQuartz (using [Homebrew]()) like so.
+
+~~~
+
+$ brew cask install xquartz
+==> Satisfying dependencies
+==> Downloading https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.11.dmg
+
+$
+
+~~~
+
+
 
 
 
