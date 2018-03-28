@@ -34,6 +34,8 @@ Depending on the configuration of your laptop, you might need an adapter to read
 
 ### Burning the SD Card
 
+_Warning: The card burning procedure could destroy your machine (yes, your laptop). The procedure uses `sudo`, which grants you [superpowers](/sudo-disclaimer/) over the machine. Please backup your laptop before doing anything related to this procedure. And then, double-check the steps as you go._
+
 There's a GUI for burning a Raspberry Pi OS. I prefer the command line because the shell always works, while GUIs can be subject to operating system updates. Therefore, the command line method will be described here.
 
 First, grab the disk designation of the SD card.
@@ -88,7 +90,7 @@ The `dd` command takes a _long_ time to run, over 29 minutes on my machine. Here
 
 The `dd` command does not give any outward sign that it is making progress. That can be a little uncomfortable because it takes a long time for the command to run. Here are two ways to check progress:
 
-* Run the Mac Os X Activity Monitor, and look for a process called `dd`. Watch the `disk writes` number as it increases. You can even sort the processes in descending order by `disk writes`.
+* Run the macOS Activity Monitor, and look for a process called `dd`. Watch the `disk writes` number as it increases. You can even sort the processes in descending order by `disk writes`.
 
 * In the terminal window where `dd` is running, hit `control-T` and you'll see a progress report in the terminal window.
 
@@ -110,22 +112,21 @@ Default username/password:
 
 If you're using a password-protected WiFi network, you will need to connect the Pi so that it can obtain an IP address.
 
-After you're connected to WiFi, your Pi will grab an IP address using the dynamic host configuration protocol (DHCP). You'll need the IP address in order to control your Pi via SSH or VNC.
+After the Pi connects to your WiFi network, it will grab an IP address using the dynamic host configuration protocol (DHCP). You'll need the Pi's IP address in order to control it via SSH or VNC.
 
-A few ways to find the IP address of your Raspberry Pi:
+A few ways to find the IP address of your Raspberry Pi (you can use any one of the following):
 
-* Go into the network configuration on your Pi and see what IP address
-it grabbed (it defaults to DHCP).
-* Use the `$ ifconfig` command at your Pi's command prompt. Ignore any
-IP address that it gives you starting with `169.n.n.n` or `127.n.n.n`
-(where n = any integer between 0 and 255). 
+* Go into the network configuration on your Pi and see what IP address it grabbed (it defaults to DHCP).
+
+* Use the `$ ifconfig` command at your Pi's command prompt. Ignore any IP address that it gives you starting with `169.n.n.n` or `127.n.n.n` (where n = any integer between 0 and 255).
+
 * Use a network scanner.
 
-Using a network scanner is more fun because you get to see other devices on the network, too. For our purposes, almost any network scanner will do. I like to use [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en) on my Android phone, available through Google Play.
+Using a network scanner is more fun because you get to see other devices on the network, in addition to your Pi. For our purposes, almost any network scanner will do. I like to use [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en) on my Android phone, available through Google Play.
 
 ### Using SSH to Log In
 
-At this point, you can try to ssh into your Pi from a laptop that's on the same subnet. Do that, and you'll get the following:
+At this point, you can try to ssh into your Pi from a laptop that's on the same subnet. Do that right now, and you'll get the following:
 
 ~~~
 ~$ ssh 10.10.1.167
@@ -135,6 +136,8 @@ ssh: connect to host 10.10.1.167 port 22: Connection refused
 
 ~~~
 
+Connection refused! Why?
+
 By default, SSH is disabled on the Pi. Here's how to enable SSH on the Raspberry Pi.
 
 1. Open a terminal window on your PI.
@@ -142,7 +145,7 @@ By default, SSH is disabled on the Pi. Here's how to enable SSH on the Raspberry
 3. Scroll down to Interfacing Options.
 4. Choose SSH.
 5. In response to `Would you like the SSH server to be enabled?` choose `Yes`.
-6. The Pi will tell you that SSH has been enabled. 
+6. The Pi will tell you that SSH has been enabled.
 
 Now when you try to SSH into the Pi...
 
@@ -182,99 +185,36 @@ Once upon a time, it was possible to use the following VNC clients on macOS:
 * TightVNC.
 * TigerVNC.
 
-These VNC clients no longer work no longer work on macOS High Sierra. In some cases, the missing functionality is intentional; I'm betting that Apple had security reasons for removing VNC capability from Finder and Safari. For TightVNC and TigerVNC, the authors may have found it difficult to navigate security restrictions in the latest Mac operating system.
+These VNC clients no longer work on macOS High Sierra. In some cases, the missing functionality is probably intentional. I'm betting that Apple had security reasons for removing VNC capability from Finder and Safari. For TightVNC and TigerVNC, the authors may have found it difficult to navigate security restrictions in the latest Mac operating system.
 
-Fortunately, we have [RealVNC]().
+Fortunately, the [RealVNC client](https://www.realvnc.com/en/connect/download/vnc/) works well.
 
-Download the RealVNC client and install it as you would any other Mac
-software. 
+Download the RealVNC client and install it using drag & drop like many other Mac software packages.
 
-<img src="/images/Raspberry_Pi_Cluster.jpg" width="360" height="225" align="center" alt="Raspberry Pi cluster controlled via VNC" title="Raspberry Pi cluster controlled via VNC" />
-
-
+<img src="/images/real_vnc_install.png" width="300" height="175" align="center" alt="RealVNC Installation" title="RealVNC Installation" />
 
 
 ### How to Install the VNC Server
 
-How do you install the VNC server on the Pi? Well, with the latest version of the Pi operating system, you don't have to. It's already there. Of course, you will need to enable it.
+How do you install the VNC server on the Pi? Good news! With the latest version of the Pi operating system, you don't have to. The VNC server is already installed. Of course, you will need to enable it.
 
-To enable VNC, go back into `$ sudo raspi-config`, find VNC, and enable it. The steps are similar to the ones we followed to enable SSH.
+1. To enable VNC, go back into `$ sudo raspi-config` (described above).
+2. Find VNC.
+3. Enable VNC.
 
-### Finding a VNC CLient for the Mac
-
+The steps are similar to the ones we followed to enable SSH.
 
 ### Using VNC
 
+To use Real VNC
 
+1. Double-click on the VNC Viewer icon.
+2. Enter the IP address of the Pi that you want to control.
+3. Login using the credentials given above.
+4. You're in!
 
+<img src="/images/Raspberry_Pi_VNC_Viewer.jpg" width="600" height="343" align="center" alt="Raspberry Pi controlled via VNC" title="Raspberry Pi controlled via VNC" />
 
+### Conclusion
 
-
-
-# Out-Takes
-The Raspberry Pi remains at the top of the heap of single-board computers. Other single-board computers may have more cores or more power or a lower price. But the Pi remains on top largely due to the community of support that surrounds the device.
-
-
-### TightVNC Client
-
-
-### TigerVNC Client
-
-TigerVNC is a VNC client that runs on macOS. It requires XQuartz, the tool that provides X11 support on macOS.
-
-If you already have XQuartz installed on your Mac (perhaps for other software that requires it) then you can install TigerVNC with the following:
-
-~~~
-
-$ brew install tiger-vnc
-
-
-~~~
-
-Otherwise, install XQuartz (using [Homebrew](/blog/2014/02/12/homebrew-fundamentals/)) like so.
-
-~~~
-
-$ brew cask install xquartz
-==> Satisfying dependencies
-==> Downloading https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.11.dmg
-######################################################################## 100.0%
-==> Verifying checksum for Cask xquartz
-==> Installing Cask xquartz
-==> Running installer for xquartz; your password may be necessary.
-==> Package installers may write to any location; options such as --appdir are ignored.
-Password:
-==> installer: Package name is XQuartz 2.7.11
-==> installer: Installing at base path /
-==> installer: The install was successful.
-🍺  xquartz was successfully installed!
-
-$
-
-~~~
-
-XQuartz installation took about 10 minutes on my machine. Your mileage may vary.
-
-After XQuartz installation, Homebrew installed TigerVNC without any problems.
-
-### How to Start TigerVNC
-
-To start TigerVNC...
-
-~~~
-
-$ vncviewer
-
-~~~
-
-And you'll get a window asking for the IP address of the VNC server (our Raspberry Pi).
-
-<img src="/images/vncviewer.png" width="360" height="225" align="center" alt="VNC Viewer" title="VNC Viewer" />
-
-
-
-
-
-
-
-
+Now that you can control your Pi without having to lug around an external monitor, you're in a position to conduct some cool experiments.  Pi users are fortunate to be part of a large and enthusiastic community. Much success to you as you go out and make something great with your Raspberry Pi!
