@@ -202,6 +202,19 @@ To enable VNC, go back into `$ sudo raspi-config`, find VNC, and enable it. The 
 
 ### Finding a VNC CLient for the Mac
 
+
+### Using VNC
+
+
+
+
+
+
+
+# Out-Takes
+The Raspberry Pi remains at the top of the heap of single-board computers. Other single-board computers may have more cores or more power or a lower price. But the Pi remains on top largely due to the community of support that surrounds the device.
+
+
 ### TightVNC Client
 
 
@@ -265,14 +278,3 @@ And you'll get a window asking for the IP address of the VNC server (our Raspber
 
 
 
-
-### Using VNC
-
-
-
-
-
-
-
-### Out Takes
-The Raspberry Pi remains at the top of the heap of single-board computers. Other single-board computers may have more cores or more power or a lower price. But the Pi remains on top largely due to the community of support that surrounds the device.
