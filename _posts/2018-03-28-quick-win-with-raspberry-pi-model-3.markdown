@@ -185,7 +185,7 @@ Once upon a time, it was possible to use the following VNC clients on macOS:
 * TightVNC.
 * TigerVNC.
 
-These VNC clients no longer work on macOS High Sierra. In some cases, the missing functionality is probably intentional. I'm betting that Apple had security reasons for removing VNC capability from Finder and Safari. For TightVNC and TigerVNC, the authors may have found it difficult to navigate security restrictions in the latest Mac operating system.
+These VNC clients no longer allow a Mac running High Sierra to connect with a Raspberry Pi. In some cases, the missing functionality is probably intentional. I'm betting that Apple had security reasons for removing VNC capability from Finder and Safari. For TightVNC and TigerVNC, the authors may have found it difficult to navigate security restrictions in the latest Mac operating system.
 
 Fortunately, the [RealVNC client](https://www.realvnc.com/en/connect/download/vnc/) works well.
 
