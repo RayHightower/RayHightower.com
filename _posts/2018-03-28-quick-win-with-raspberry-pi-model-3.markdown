@@ -69,10 +69,17 @@ $
 Finally, write the extracted Raspberry Pi image to the SD card.
 
 ~~~ bash
-$ sudo dd if=2017-11-29-raspbian-stretch.img of=/dev/disk1 bs=1m
+$ sudo dd if=2017-11-29-raspbian-stretch.img of=/dev/rdisk1 bs=1m
 Password:
 
 ~~~
+
+Note the use of `/dev/rdisk1` instead of `/dev/disk1`. Writing to
+`rdisk` is much faster than writing to `disk`, 6 minutes vs 29 minutes.
+From what I've observed in Activity Monitor, when we write to `rdisk`,
+the `dd` utility reads the entire file first, and then it writes it to
+the SD card in one operation.
+
 
 The `dd` command takes a _long_ time to run, over 29 minutes on my machine. Here's a quick run-through of the command options:
 
@@ -185,7 +192,7 @@ Once upon a time, it was possible to use the following VNC clients on macOS:
 * TightVNC.
 * TigerVNC.
 
-These VNC clients will no longer allow a Mac running High Sierra to connect with a Raspberry Pi. In some cases, the missing functionality is probably intentional. I'm betting that Apple had security reasons for removing VNC capability from Finder and Safari. For TightVNC and TigerVNC, the authors may have found it difficult to navigate security restrictions in the latest Mac operating system.
+ In some cases, the missing functionality is probably intentional. I'm betting that Apple had security reasons for removing VNC capability from Finder and Safari. For TightVNC and TigerVNC, the authors may have found it difficult to navigate security restrictions in the latest Mac operating system.
 
 Fortunately, the [RealVNC client](https://www.realvnc.com/en/connect/download/vnc/) works well.
 
