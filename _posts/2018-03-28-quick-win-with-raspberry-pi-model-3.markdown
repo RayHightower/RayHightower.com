@@ -28,7 +28,7 @@ Or you can download the operating system from the [Raspberry Pi site](http://ras
 
 <img src="/images/micro_SD_cards.jpg" width="300" height="182" align="right" alt="Micro SD Cards" title="Micro SD Cards" />
 
-As of this writing, the best micro SD cards for the Pi are Class 10 (indicated by the number `10` surrounded by a circle). I've always had success with the SanDisk Ultra Plus. Other cards might work just as well, but this is the one that has always performed for me.
+As of this writing, the best micro SD cards for the Pi are Class 10 (indicated by the number `10` surrounded by a circle). I've always enjoyed success with the SanDisk Ultra Plus. Other cards might work just as well, but this is the one that has always performed for me.
 
 Depending on the configuration of your laptop, you might need an adapter to read your card.
 
@@ -62,7 +62,7 @@ Next, unmount the SD card.
 $ diskutil unmountDisk /dev/disk1
 Unmount of all volumes on disk1 was successful
 
-$
+$ 
 
 ~~~
 
