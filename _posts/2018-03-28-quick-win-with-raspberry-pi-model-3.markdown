@@ -62,7 +62,7 @@ Next, unmount the SD card.
 $ diskutil unmountDisk /dev/disk1
 Unmount of all volumes on disk1 was successful
 
-$ 
+$
 
 ~~~
 
@@ -74,14 +74,17 @@ Password:
 
 ~~~
 
-Note the use of `/dev/rdisk1` instead of `/dev/disk1`. Writing to
-`rdisk` is much faster than writing to `disk`, 6 minutes vs 29 minutes.
-From what I've observed in Activity Monitor, when we write to `rdisk`,
-the `dd` utility reads the entire file first, and then it writes it to
-the SD card in one operation.
+Note how the `dd` command writes to `/dev/rdisk1` instead of `/dev/disk1`. I have learned, and verified through experiment, that writing to `rdisk` is much faster than writing to `disk`. The process takes 6 minutes with `rdisk` vs 29 minutes with `disk`.
 
+Why?
 
-The `dd` command takes a _long_ time to run, over 29 minutes on my machine. Here's a quick run-through of the command options:
+We can observe the difference in Activity Monitor. When we use `disk`, the `dd` utility grabs a few bytes at a time, and then it writes to the output device. When we write to `rdisk`, the `dd` utility grabs the entire 4GB file and then writes it to the output device in one operation.
+
+A metaphor: Using `disk` is like scooping up water with a teaspoon, with lots of wasted motion. Using `rdisk` is like using a bucket, scooping up a huge volume of water in one swoop.
+
+### Command Options for `dd`
+
+Here's a quick run-through of the command options:
 
 * `sudo` gives you [super powers](/sudo-disclaimer/). 
 
