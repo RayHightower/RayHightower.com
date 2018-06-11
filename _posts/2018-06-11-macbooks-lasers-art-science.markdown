@@ -9,9 +9,9 @@ published: true
 
 <img src="/images/MacBook_laser_engraving.gif" width="640" align="center" alt="MacBook laser engraving" title="MacBook laser engraving" />
 
-Nerdy tattoos. That's how one person described the laser-engraved symbols on my MacBook. 
+Nerdy tattoos. That's how one person described the laser-engraved symbols on my MacBook. Stickers are fine, but sometimes you want to try something new. Besides, lasers are cool!
 
-If you would like to laser-engrave your laptop, here's a procedure that worked for me. There's also a brief description for each of my engraved symbols at the end of this post.
+If you would like to laser-engrave your laptop, here's a procedure that works. There's also a brief description for each of the symbols engraved on this particul MacBook.
 
 <!--more-->
 
