@@ -56,7 +56,7 @@ Here's a description for each of the symbols, starting with the top-left corner 
 * **Warped space-time**. Graphical representation of space-time being warped by a massive, spherical object. Physicists theorize that what we perceive as gravity is actually the warping of space-time. The math supports the theory.
 * **Unit Circle**. Graphical representation of Euler's identity, which can be proven with series expansion.
 * **Apple**.
-* **Feynman Diagram**. Richard Feynman was a professor of physics at Caltech. He created these diagrams to graphically represent what happens when sub-atomic particles collide. In a Feyman diagram, time runs from left to right, and the lines show collisions and the release/absorption of energy.
+* **Feynman Diagram**. Richard Feynman was a professor of physics at Caltech. He created these diagrams to graphically represent what happens when sub-atomic particles collide. In a Feynman diagram, time runs from left to right, and the lines show collisions and the release/absorption of energy.
 * **WindyCityDB**. WindyCityDB was a NoSQL database conference held by my team in Chicago.
 * **H**. The favicon and app icon for the RayHightower.com site.
 * **WindyCityThings**. WindyCityThings was an Internet of Things (IoT) conference held by my team in Chicago.
