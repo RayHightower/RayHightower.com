@@ -11,7 +11,7 @@ published: true
 
 Nerdy tattoos. That's how one person described the laser-engraved symbols on my MacBook. Stickers are fine, but sometimes you want to try something new. Besides, lasers are cool!
 
-If you would like to laser-engrave your laptop, here's a procedure that works. There's also a brief description for each of the symbols engraved on this particul MacBook.
+If you would like to laser-engrave your laptop, here's a procedure that works. There's also a brief description for each of the symbols engraved on this particular MacBook.
 
 <!--more-->
 
