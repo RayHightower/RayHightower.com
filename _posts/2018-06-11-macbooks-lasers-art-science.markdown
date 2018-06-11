@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/MacBook_laser_engraving.gif" width="640" align="center" alt="MacBook laser engraving" title="MacBook laser engraving" />
 
-Nerdy tattoos. That's how one person described the laser-engraved symbols on my MacBook. Stickers were fine for a awhile, but it was time to upgrade to something new. Time to break out the laser.
+Nerdy tattoos. That's how one person described the laser-engraved symbols on my MacBook. 
 
 If you would like to laser-engrave your laptop, here's a procedure that worked for me. There's also a brief description for each of my engraved symbols at the end of this post.
 
@@ -67,7 +67,7 @@ Here's a description for each of the symbols, starting with the top-left corner 
 * **华强北真棒**. Chinese for "Huaqiangbei is awesome". [Huaqiangbei](/blog/2017/11/27/huaqiangbei-in-shenzhen-china/) is a region within the city of Shenzehen where tech manufacturers do business. If you own anything electronic, you can bet that some of the components passed through Huaqiangbei.
 * **Warp Drive**. Physicists are researching ways to turn warp drive into reality. Two pioneers in the field: [Miguel Alcubierre](https://en.wikipedia.org/wiki/Miguel_Alcubierre), theoretical physicist based in Mexico and [Harold "Sonny" White](https://en.wikipedia.org/wiki/Harold_G._White), engineer and applied physicist at NASA in the USA. According to the math, it might be possible to propel a ship faster than the speed of light by warping space-time.
 * **Blue 1647**. [Blue 1647](http://blue1647.com) is an amazing space for makers, technologists, entrepreneurs, software developers, artists, and musicians.
-* **8th Light**. I currently serve as director of the Los Angeles office for [8th Light](http://8thlight.com), a custom software development company, based in Chicago.
+* **8th Light**. [8th Light](http://8thlight.com) is a world class software development firm. I currently serve as director of the Los Angeles office for 8th Light.
 * **Enso**. Shotokan Karate Dojo led by Sensei Jay Nacu, Sensei Denise Nacu, and Sensei Saul Notorio.
 * **WindyCityRails**. The [Ruby on Rails](/blog/2017/07/25/a-business-view-of-ruby-on-rails/) conference that my team launched in Chicago in 2008.
 * **WisdomGroup**. [WisdomGroup](http://wisdomgroup.com) is the technology company that I founded in 1994 and sold to 8th Light in 2016.
