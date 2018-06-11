@@ -60,7 +60,7 @@ Here's a description for each of the symbols, starting with the top-left corner 
 * **WindyCityDB**. WindyCityDB was a NoSQL database conference held by my team in Chicago.
 * **H**. The favicon and app icon for the RayHightower.com site.
 * **WindyCityThings**. WindyCityThings was an Internet of Things (IoT) conference held by my team in Chicago.
-* **Maxwell's Equations**. Since light is a form of electromagnetic radiation, the reference to God's words from the book of Genesis is fitting. Tying them together in this way was an idea that I first saw on from a poster in a professor's office.
+* **Maxwell's Equations**. Since light is a form of electromagnetic radiation, the reference to God's words from the book of Genesis is fitting. I first saw science and faith tied together in this way on a poster in a professor's office.
 * **Eagle Scout Medal**. Some of my richest life experiences are connected to [Scouting](http://troop534.org), including earning the rank of Eagle as a youth.
 * **Prioritization Matrix**. This is from Stephen Covey's book, _The Seven Habits of Highly Effective People_. Quadrant 2 is highlighted because if we spend our time on things that are important (but not urgent) we will avoid running around on random tasks (quadrant 1) and we will move closer to our goals.
 * **Lipa Na M-Pesa**. Swahili for "Pay with M-Pesa". [M-Pesa](/blog/2016/12/29/m-pesa-blends-fintech-mobile-in-kenya/) is a mobile payment system that is integral to the economy in Kenya. M-Pesa has achieved higher penetration among mobile users within a country than any other mobile payment system in the world.
