@@ -48,7 +48,7 @@ CAS uses an [Epilog Laser machine](https://www.epiloglaser.com/). Beyond equipme
 
 Here's a description for each of the symbols, starting with the top-left corner and moving down, and then left to right.
 
-* **Bloch Sphere**. Graphical representation of a quibit, the quantum computing equivalent of a digital computer's bit. Quantum computing is fascinating largely because we know so little about quantum mechanics.
+* **Bloch Sphere**. Graphical representation of a qubit, the quantum computing equivalent of a digital computer's bit. Quantum computing is fascinating largely because we know so little about quantum mechanics.
 * **Full-wave rectifier**. The fundamental circuit of every computer power supply because it's the first step in turning alternating current (from the electrical outlet) into direct current that our computers can use.
 * **Quantum Composer**. From [IBM's quantum simulator](https://quantumexperience.ng.bluemix.net/qx/experience). That was the state of quantum simulators in June 2018. If you're reading this post far in the future, all of this may change.
 * **Conic sections**. The trajectory of a baseball thrown by a player and the path of a planet revolving around a star can both be described by the mathematics of conic sections.
