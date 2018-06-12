@@ -68,7 +68,7 @@ Here's a description for each of the symbols, starting with the top-left corner 
 * **Warp Drive**. Physicists are researching ways to turn warp drive into reality. Two pioneers in the field: [Miguel Alcubierre](https://en.wikipedia.org/wiki/Miguel_Alcubierre), theoretical physicist based in Mexico and [Harold "Sonny" White](https://en.wikipedia.org/wiki/Harold_G._White), engineer and applied physicist at NASA in the USA. According to the math, it might be possible to propel a ship faster than the speed of light by warping space-time.
 * **Blue 1647**. [Blue 1647](http://blue1647.com) is an amazing space for makers, technologists, entrepreneurs, software developers, artists, and musicians.
 * **8th Light**. [8th Light](http://8thlight.com) is a world class software development firm. I currently serve as director of the Los Angeles office for 8th Light.
-* **Enso**. [Enso](http://ensokarate.com) is a Shotokan Karate Dojo led by Sensei Jay Nacu, Sensei Denise Nacu, and Sensei Saul Notario. Enso's students come from all ages, all backgrounds. The instructors have built a community based on continuous improvement and mutual respect.
+* **Enso**. [Enso](http://ensokarate.com) is a Shotokan Karate Dojo led by Sensei Jay Nacu, Sensei Denise Nacu, and Sensei Saul Notario. Enso's students are people of all ages, all backgrounds. The instructors have built a community based on continuous improvement and mutual respect.
 * **WindyCityRails**. The [Ruby on Rails](/blog/2017/07/25/a-business-view-of-ruby-on-rails/) conference that my team launched in Chicago in 2008.
 * **WisdomGroup**. [WisdomGroup](http://wisdomgroup.com) is the technology company that I founded in 1994 and sold to 8th Light in 2016.
 
