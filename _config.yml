@@ -24,7 +24,7 @@ twitter_username: rayhightower
 twitter_user:
 twitter_tweet_button: true
   
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
 
