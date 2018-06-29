@@ -23,7 +23,7 @@ google_analytics_tracking_id: UA-330946-28
 twitter_username: rayhightower
 twitter_user:
 twitter_tweet_button: true
-  
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
