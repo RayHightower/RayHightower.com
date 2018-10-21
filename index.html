@@ -23,17 +23,17 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older [to be modified by RTH]</a>
+    <a class="pagination-item older" href="https://rayhightower.com/page{{paginator.next_page}}">Older [to be modified by RTH]</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer [to be modified by RTH]</a>
+      <a class="pagination-item newer" href="https://rayhightower.com/">Newer [to be modified by RTH]</a>
     {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer [to be modified by RTH]</a>
+      <a class="pagination-item newer" href="https://rayhightower.com/page{{paginator.previous_page}}">Newer [to be modified by RTH]</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Newer [to be modified by RTH]</span>
+    <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
