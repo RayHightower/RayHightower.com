@@ -35,7 +35,8 @@ author:
   url:            https://twitter.com/rayhightower
 
 paginate:         5
-paginate_path: "page:num/"
+# paginate_path: "page:num/"
+paginate_path: "/"
 
 github_username: rayhightower
 github:
