@@ -31,13 +31,13 @@ plugins:
 feed:
   path: atom.xml
 author:
-  name:           'Raymond T. Hightower'
-  url:            https://twitter.com/rayhightower
+  name: 'Raymond T. Hightower'
+  url: https://twitter.com/rayhightower
 
-paginate:         5
+paginate: 5
 paginate_path: "page:num/"
 
 github_username: rayhightower
 github:
-  repo:           https://github.com/rayhightower
+  repo: https://github.com/rayhightower
 
