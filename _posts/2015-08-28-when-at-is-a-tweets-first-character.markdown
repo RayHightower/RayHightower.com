@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When \"@\" is a Tweet\'s First Character"
+title: "When \'@\' is a Tweet\'s First Character"
 date: 2015-08-28 15:59:01 -0500
 comments: true
 tags: [ Community ]
