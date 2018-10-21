@@ -4,7 +4,7 @@ title: Blog Archive
 ---
 
 <div id="blog-archives">
-{% for post in site.posts reverse %}
+{% for post in site.posts reversed %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% unless year == this_year %}
   {% assign year = this_year %}
