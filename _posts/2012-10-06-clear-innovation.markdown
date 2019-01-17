@@ -5,6 +5,8 @@ date: 2012-10-06 22:47
 comments: true
 tags: [Business]
 ---
+
+<img src="/images/corning_craft_innovation.jpg" width = "150" align = "right" alt="Corning and the Craft of Innovation - Graham Shuldiner" title="Corning and the Craft of Innovation - Graham Shuldiner">
 Some organizations are innovative, while others are just lucky. How can you tell the difference? I would submit that longevity is a great divider between true innovators and those who are just lucky. An organization that generates new ideas time after time breaks the statistical rules that define luck. These are the organizations worthy of study.
 
 <!--more-->
