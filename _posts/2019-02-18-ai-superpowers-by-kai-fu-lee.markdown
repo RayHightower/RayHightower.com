@@ -14,9 +14,17 @@ Machines powered by artificial intelligence can beat humans at games. IBM’s Bi
 
 But what about general purpose AI? What about applications beyond games?
 
-General purpose AI that mimics human intelligence continues to elude researchers. Fortunately, one subset of AI, deep learning, is already delivering results in professions that were once considered beyond automation. Deep learning will quickly engulf us, eliminating many so-called "safe" professions as early as 2030. So says Dr. Kai-Fu Lee, author of the book [AI Superpowers](https://aisuperpowers.com).
+General purpose AI that mimics human intelligence continues to elude researchers. Fortunately, one subset of AI, deep learning, is already delivering results in professions that were once considered beyond automation. Deep learning will quickly engulf us, eliminating many of our so-called "safe" professions as early as 2030. So says Dr. Kai-Fu Lee, author of the book [AI Superpowers](https://aisuperpowers.com).
 
 <!--more-->
+
+### What Is Deep Learning?
+
+Deep learning is ...
+
+
+
+
 
 ### About the Author of AI Superpowers
 
