@@ -23,6 +23,9 @@ General purpose AI that mimics human intelligence continues to elude researchers
 Deep learning is ...
 
 
+### GPU Acceleration
+
+Graphics processing units (GPUs) are specialized processors which were originally designed to perform the calculations necessary for advanced graphics.
 
 
 
