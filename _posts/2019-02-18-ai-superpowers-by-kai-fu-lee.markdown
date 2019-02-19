@@ -12,11 +12,13 @@ published: true
 
 Machines powered by artificial intelligence can beat humans at games. IBM’s Big Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated a champion Go player, Lee Sedol, in 2015.
 
-But what about general purpose AI? What about applications beyond games?
+The machines that play `chess` and `Go` are highly specialized and hardly useful for everyday problems faced by most people and businesses. What about general purpose AI, machines that can mimic human intelligence and make human decisions? What about applications beyond games?
 
-General purpose AI that mimics human intelligence continues to elude researchers. Fortunately, one subset of AI, deep learning, is already delivering results in professions that were once considered beyond automation. Deep learning will quickly engulf us, eliminating many of our so-called "safe" professions as early as 2030. So says Dr. Kai-Fu Lee, author of the book [AI Superpowers](https://aisuperpowers.com).
+Dr. Kai-Fu Lee explores these questions in his book, [AI Superpowers: China, Silicon Valley, and the New World Order](https://aisuperpowers.com). Lee draws on his background as a pioneering AI researcher and successful entrepreneur to explain why general purpose AI continues to elude researchers.
 
 <!--more-->
+
+General purpose AI that mimics human intelligence continues to elude researchers. Fortunately, one subset of AI, deep learning, is already delivering results in professions that were once considered beyond automation. Deep learning will quickly engulf us, eliminating many of our so-called "safe" professions as early as 2030. So says Dr. Kai-Fu Lee, author of the book 
 
 ### What Is Deep Learning?
 
@@ -27,7 +29,9 @@ Deep learning is ...
 
 Graphics processing units (GPUs) are specialized processors which were originally designed to perform the calculations necessary for advanced graphics.
 
+### Jobs Less Likely to be Replaced by AI
 
+Jobs that require human creativity and human compassion, two things that AI cannot do.
 
 ### About the Author of AI Superpowers
 
