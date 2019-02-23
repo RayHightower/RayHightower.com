@@ -10,11 +10,11 @@ published: true
 
 <img src="/images/ai_superpowers_kaifu_lee.jpg" width="150" align="right" alt="AI Superpowers by Kai-Fu Lee" title="AI Superpowers by Kai-Fu Lee" />
 
-Machines powered by artificial intelligence can beat humans at games. IBM’s Big Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated a champion Go player, Lee Sedol, in 2015.
+Computers powered by artificial intelligence can beat humans at games. IBM’s Big Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated a champion Go player, Lee Sedol, in 2015.
 
-The machines that play `chess` and `Go` are highly specialized and hardly useful for everyday problems faced by most people and businesses. What about general purpose AI, machines that can mimic human intelligence and make human decisions? What about applications beyond games?
+Game-playing machines can be impressive when they win. But they are highly specialized, which makes them ineffective against typical business challenges. What about general purpose AI, machines that can mimic human intelligence and make human decisions? What about applications beyond games?
 
-Dr. Kai-Fu Lee explores these questions in his book, [AI Superpowers: China, Silicon Valley, and the New World Order](https://aisuperpowers.com). Lee draws on his background as a pioneering AI researcher and successful entrepreneur to explain why general purpose AI continues to elude researchers.
+Dr. Kai-Fu Lee examines these questions in his book, [AI Superpowers: China, Silicon Valley, and the New World Order](https://aisuperpowers.com). Lee draws on his background as a pioneering AI researcher and successful entrepreneur to explore the subsets of AI that produce results, and to explain why.
 
 <!--more-->
 
