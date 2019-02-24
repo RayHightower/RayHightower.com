@@ -3,9 +3,14 @@ layout: post
 title:  Quantum Computing at Caltech
 date:   2019-02-23
 comments: true
-tags: 
-published: false
+tags: [ Quantum ]
+published: true
 ---
- 
-Content for Quantum Computing at Caltech goes here.
- 
+
+<img style="margin-left:20px" src="/images/parallella_perspective_250_bw.jpg" alt="images/parallella_perspective_250_bw.jpg" align="right">
+
+Dr. Maria Spiropulu, professor of physics at Caltech, gave the
+keynote presentation.
+
+
+
