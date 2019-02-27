@@ -34,7 +34,7 @@ Next, the moderator reviewed some QC terms, summarized in the chart below...
 
 ### Keynote
 
-Dr. Maria Spiropulu, professor of physics at Caltech, gave the keynote presentation. The presentation began with the obligatoray chart of Moore's Law, but with a twist. The exponential curve was extended to include improvements likely to come from quantum computing.
+Dr. Maria Spiropulu, professor of physics at Caltech, gave the keynote. The presentation began with the obligatoray chart of Moore's Law, but with a twist. The exponential curve was extended to include improvements likely to come from quantum computing.
 
 Spiropulu's talk covered quantum clocks, quantum keys, and a list of three-letter government agencies that are all active in the QC world.
 
