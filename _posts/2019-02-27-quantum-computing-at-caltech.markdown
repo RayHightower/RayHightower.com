@@ -12,7 +12,7 @@ published: true
 
 <img src="/images/quantum_panel.jpg" alt="Quantum panel at Caltech Entrepreneurs Forum" title="Quantum panel at Caltech Entrepreneurs Forum" align="center">
 
-The [Caltech Entrepreneurs Forum](http://entforum.caltech.edu/) offers a blend of tech + business on roughly one Saturday morning each month. The February 2019 session featured quantum computing enthusiasts from a variety of disciplines:
+The [Caltech Entrepreneurs Forum](http://entforum.caltech.edu/) offers a blend of tech + business on approximately one Saturday morning per month. The February 2019 session featured quantum computing enthusiasts from a variety of disciplines:
 
 * Quantum Physicist: Prof Maria Spiropulu of Caltech
 * Corporate Research Scientist: Joe Latone of IBM
