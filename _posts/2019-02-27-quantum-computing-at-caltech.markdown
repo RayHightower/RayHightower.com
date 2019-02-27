@@ -7,7 +7,7 @@ tags: [ Quantum ]
 published: true
 ---
 
-<img style="margin-left:20px" src="/images/parallella_perspective_250_bw.jpg" alt="images/parallella_perspective_250_bw.jpg" align="right">
+<img src="/images/classical_vs_quantum_computing.png" alt="Classical vs Quantum Computing Terms" align="center">
 
 Dr. Maria Spiropulu, professor of physics at Caltech, gave the
 keynote presentation.
