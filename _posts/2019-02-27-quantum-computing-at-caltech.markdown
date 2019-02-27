@@ -12,7 +12,7 @@ published: true
 
 <img src="/images/quantum_panel.jpg" alt="Quantum panel at Caltech Entrepreneurs Forum" title="Quantum panel at Caltech Entrepreneurs Forum" align="center">
 
-The [Caltech Entrepreneurs Forum](http://entforum.caltech.edu/) offers a blend of tech + business on approximately one Saturday morning per month. The February 2019 session featured quantum computing enthusiasts from a variety of disciplines:
+The [Caltech Entrepreneurs Forum](http://entforum.caltech.edu/) offers a blend of tech + business on Saturday mornings, roughly once per month. The February 2019 session featured quantum computing enthusiasts from a variety of disciplines:
 
 * Quantum Physicist: Prof Maria Spiropulu of Caltech
 * Corporate Research Scientist: Joe Latone of IBM
@@ -26,7 +26,7 @@ Purpose of the gathering: To wrestle with questions in the field of quantum comp
 
 ### Physicists and Film Makers
 
-The moderator, Andy Tomat, began the session by asking if there were any physicsts in the room. A few hands shot up (out of roughly 80 people in the room). After a few more questions, it became clear that the audience contained people from fields that one would not immediately connect with quantum computing. For example, I happened to be sitting next to a film-maker. He was attending the session because he enjoys science _and_ he's looking for the next big thing in realistic rendering.
+The moderator, Andy Tomat, began the session by asking if there were any physicists in the room. A few hands shot up (out of roughly 80 people in the room). After a few more questions, it became clear that the audience contained people from fields that one would not immediately connect with quantum computing. For example, I happened to be sitting next to a film-maker. He was attending the session because he enjoys science _and_ he's looking for the next big thing in realistic rendering.
 
 Next, the moderator reviewed some QC terms, summarized in the chart below...
 
@@ -34,7 +34,7 @@ Next, the moderator reviewed some QC terms, summarized in the chart below...
 
 ### Keynote
 
-Dr. Maria Spiropulu, professor of physics at Caltech, gave the keynote presentation. The presentation began with the obligatoray chart of Moore's Law, but with a twist. The exponential curve was extended to include improvements likely to come from quantum computing.
+Dr. Maria Spiropulu, professor of physics at Caltech, gave the keynote. The presentation began with the obligatoray chart of Moore's Law, but with a twist. The exponential curve was extended to include improvements likely to come from quantum computing.
 
 Spiropulu's talk covered quantum clocks, quantum keys, and a list of three-letter government agencies that are all active in the QC world.
 
