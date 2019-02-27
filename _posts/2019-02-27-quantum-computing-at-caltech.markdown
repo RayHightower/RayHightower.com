@@ -26,7 +26,7 @@ Purpose of the gathering: To wrestle with questions in the field of quantum comp
 
 ### Physicists and Film Makers
 
-The moderator, Andy Tomat, began the session by asking if there were any physicsts in the room. A few hands shot up (out of roughly 80 people in the room). After a few more questions, it became clear that the audience contained people from fields that one would not immediately connect with quantum computing. For example, I happened to be sitting next to a film-maker. He was attending the session because he enjoys science _and_ he's looking for the next big thing in realistic rendering.
+The moderator, Andy Tomat, began the session by asking if there were any physicists in the room. A few hands shot up (out of roughly 80 people in the room). After a few more questions, it became clear that the audience contained people from fields that one would not immediately connect with quantum computing. For example, I happened to be sitting next to a film-maker. He was attending the session because he enjoys science _and_ he's looking for the next big thing in realistic rendering.
 
 Next, the moderator reviewed some QC terms, summarized in the chart below...
 
