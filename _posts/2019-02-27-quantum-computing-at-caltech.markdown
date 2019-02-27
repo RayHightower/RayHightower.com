@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Quantum Computing at Caltech
-date:   2019-02-23
+date:   2019-02-27
 comments: true
 tags: [ Quantum ]
 published: true
