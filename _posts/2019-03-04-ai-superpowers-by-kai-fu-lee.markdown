@@ -29,7 +29,6 @@ In their quest to mimic human intelligence, AI researchers in the 1980s pursued 
 
 Today, in the year 2019, most researchers refer to neural networks by their new name: deep learning.
 
-General purpose AI that mimics human intelligence continues to elude researchers. Fortunately, one subset of AI, deep learning, is already delivering results in professions that were once considered beyond automation. Deep learning will quickly engulf us, eliminating many of our so-called "safe" professions as early as 2030. So says Dr. Kai-Fu Lee, author of the book 
 
 ### What Is Deep Learning?
 
@@ -51,3 +50,11 @@ For deeper insight into _AI Superpowers_, it might be helpful to know more about
 Dr. Kai-Fu Lee is a PhD computer scientist and founder of Sinovation Ventures, a $2 billion technology investment firm with offices in Beijing, Shanghai, Shenzhen, Seattle, and Silicon Valley. Prior to launching Sinovation Ventures, Lee served as Google’s highest ranking executive in China. Lee’s resume includes engineering and leadership positions at Microsoft, Silicon Graphics, and Apple.
 
 Lee was born in China. He was sent to the USA at the age of eleven because his mother wanted him to be educated beyond the rote memorization curriculum that was locally available. Lee’s mother required him to write to her weekly in Chinese
+
+
+
+# Out Takes
+# Out Takes
+# Out Takes
+
+General purpose AI that mimics human intelligence continues to elude researchers. Fortunately, one subset of AI, deep learning, is already delivering results in professions that were once considered beyond automation. Deep learning will quickly engulf us, eliminating many of our so-called "safe" professions as early as 2030. So says Dr. Kai-Fu Lee, author of the book 
