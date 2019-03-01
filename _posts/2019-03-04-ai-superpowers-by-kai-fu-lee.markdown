@@ -5,10 +5,10 @@ title:  AI Superpowers by Kai-Fu Lee
 date:   2019-03-04
 comments: true
 tags: [ AI, Business ]
-published: false
+published: true
 ---
 
-<img src="/images/ai_superpowers_kaifu_lee.jpg" width="150" align="right" alt="AI Superpowers by Kai-Fu Lee" title="AI Superpowers by Kai-Fu Lee" />
+<img style="margin-left:20px" src="/images/ai_superpowers_kaifu_lee.jpg" width="150" align="right" alt="AI Superpowers by Kai-Fu Lee" title="AI Superpowers by Kai-Fu Lee" />
 
 Computers powered by artificial intelligence can beat humans at games. IBM’s Big Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated a champion Go player, Lee Sedol, in 2015.
 
