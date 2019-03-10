@@ -10,9 +10,9 @@ published: true
 
 <img style="margin-left:20px" src="/images/ai_superpowers_kaifu_lee.jpg" width="150" align="right" alt="AI Superpowers by Kai-Fu Lee" title="AI Superpowers by Kai-Fu Lee" />
 
-Computers powered by artificial intelligence can beat humans at games. IBM’s Big Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated a champion Go player, Lee Sedol, in 2015.
+Machines powered by artifical intelligence have excelled at games for decades. IBM’s Big Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated a champion Go player, Lee Sedol, in 2015.
 
-Game-playing machines are impressive when they win. But such machines are highly specialized, which makes them ineffective in the business world. What about general purpose AI, software that can mimic human intelligence and make human decisions? What about applications beyond games?
+Game-focused AI is highly specialized and mostly ineffective in in other areas. What about general purpose AI, software that can mimic human intelligence and make human-like decisions? What about applications beyond games?
 
 Dr. Kai-Fu Lee examines these questions in his book, [AI Superpowers: China, Silicon Valley, and the New World Order](https://aisuperpowers.com). Lee draws on his background as a pioneering AI researcher and successful entrepreneur to explain why certain subsets of AI produce results, and how readers of the book might benefit.
 
@@ -22,13 +22,10 @@ Dr. Kai-Fu Lee examines these questions in his book, [AI Superpowers: China, Sil
 
 In their quest to mimic human intelligence, AI researchers in the 1980s pursued two primary paths.
 
-* Rules-based systems. Long chains of if-then-else rules 
-* Neural networks. Rather than try to think of every possible scenario up from, the idea is to expose the system to a wide variety of circumstances that force the system to "learn" the desired behavior. For example, a certain robot designed by Boston Dynamics learns how to walk every time the sytem is rebooted.
+* **Rules-based systems**. Long chains of `if-then-else` statements. In order to build a rules-based system, the developer must have access to subject matter experts who know the problem domain well. And then they must work arduously to predict every possible stimulus and response. Broad, unpredictable domains are more difficult to handle this way.
+* **Neural networks**. Rather than try to think of every possible scenario in advance, the developer exposes the neural net to a wide variety of scenarios that force the system to "learn" the desired behavior over time. For example, when teaching a neural net to recognize a picture of a cat, the developer might shows the system a large number of cat pictures (labeled "cat") and a large number of pictures without cats (labeled "not-cat"). Over time, the neural net grows stronger in its predictive ability.
 
-[show an illustration of that robot]
-
-Today, in the year 2019, most researchers refer to neural networks by their new name: deep learning.
-
+Neural networks fell out of favor in the 1990s because computer hardware was not powerful enough to make them effective. In recent years, neural nets have re-emerged under a new name, _deep learning networks_.
 
 ### What Is Deep Learning?
 
