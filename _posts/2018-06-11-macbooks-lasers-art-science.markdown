@@ -7,7 +7,7 @@ tags: [ Apple, Art ]
 published: true
 ---
 
-<img src="/images/MacBook_laser_engraving.gif" width="640" align="center" alt="MacBook laser engraving" title="MacBook laser engraving" />
+<img src="/images/macbook_engraving_symbol_meaning.jpg" width="700" align="center" alt="MacBook laser engraving - meaning of symbols" title="MacBook laser engraving - meaning of symbols" />
 
 Nerdy tattoos. That's how one person described the laser-engraved symbols on my MacBook. Stickers are fine, but sometimes you want to try something new. Besides, lasers are cool!
 
@@ -19,7 +19,7 @@ If you would like to laser-engrave your laptop, here's a procedure that works. T
 
 Does engraving void Apple’s warranty? I have no idea. The laser doesn't cut very deep. But if you're really concerned about the warranty, you might want to speak with Apple.
 
-<img src="/images/macbook_engraving_symbol_meaning.jpg" width="700" align="center" alt="MacBook laser engraving - meaning of symbols" title="MacBook laser engraving - meaning of symbols" />
+<img src="/images/MacBook_laser_engraving.gif" width="640" align="center" alt="MacBook laser engraving" title="MacBook laser engraving" />
 
 ### Planning
 
