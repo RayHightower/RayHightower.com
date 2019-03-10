@@ -86,5 +86,5 @@ Lee holds degrees in Computer Science from Columbia University (A.B.) and Carneg
 
 ### Conclusion
 
-[AI Superpowers](https://aisuperpowers.com) offers insights that go beyond technology. The author considers economic, social, and emotional consequences that are rarely discussed in a business book. Anyone interested in AI, business, or the interaction between Chinese and American industries will find the book valuable.
+[AI Superpowers](https://aisuperpowers.com) offers insights that go beyond technology. The author considers economic, social, and emotional concerns that are rarely discussed in a business book. Anyone interested in AI, business, or the interaction between Chinese and American industries will find the book valuable.
 
