@@ -68,9 +68,9 @@ Lee argues that the deep learning wave will different in two ways:
 
 * **Range**. When farmers were displaced by farm automation, things worked out because that was during the industrial revolution, which opened factory opportunities for the former farm workers. One segment reduced in size as a different segment emerged. But this time, deep learning will touch every economic level, blue collar _and_ white collar, college educated and trade-school grad.
 
-Even deeper, so many of us, especially in the USA, define ourselves by our careers. What will it mean to be human when the basis for self-definition has evaporated?
+Even deeper, so many of us, especially in the USA, define ourselves by our careers. What will it mean to be human when career-based definitions have evaporated?
 
-Lee argues that the shift will give us an opportunity to connect with a uniquely human gift in new and positive ways. Lee believes that we will re-connect with our ability to love, create, and show compassion.
+Lee observes that the shift may give us an opportunity to connect with a uniquely human gift in new and positive ways. Lee believes that we will re-connect with our ability to love.
 
 And to hear the remarkable story of how he came to think this way, read the book!
 
