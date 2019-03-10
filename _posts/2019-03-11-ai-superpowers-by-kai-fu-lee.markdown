@@ -50,11 +50,11 @@ Bottom line: Deep learning will eliminate (or drastically alter) many profession
 
 ### Deep Learning in China
 
-As the founder of a VC firm operating in China, Lee offers some interesting thoughts about how Chinese companies will thrive in an era of deep learning.
+As the founder of a VC firm operating in China, Lee offers some interesting thoughts about how Chinese companies will perform in an era of deep learning.
 
 Deep learning thrives when given two key resources: Processing power and large amounts of data. The processing power is here, today. But data can be tougher to get, especially in the United States where privacy concerns are part of the culture.
 
-But in China, the data required to train deep learning algorithms is plentiful and largely untethered by privacy laws. Algorithms designed to learn from Chinese data have plenty of data - a big advantage. Lee shares examples of companies, based in China, that were once considered imitators of their US-counterparts. But in most cases, the Chinese company has grown larger than the US company it formerly emulated, thanks to deep learning and a mountain of data.
+But in China, the data required to train deep learning algorithms is plentiful and largely untethered by privacy laws. Algorithms designed to learn from Chinese consumer behavior have plenty of data - a big advantage. Lee shares examples of companies, based in China, that were once considered imitators of their US-counterparts. But in most cases, the Chinese company has grown larger than the US company it formerly emulated, thanks to deep learning and a mountain of data.
 
 ### People Displaced by Deep Learning? What's Next?
 
