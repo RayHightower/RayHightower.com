@@ -10,6 +10,8 @@ published: true
 
 <img style="margin-left:20px" src="/images/ai_superpowers_kaifu_lee.jpg" width="150" align="right" alt="AI Superpowers by Kai-Fu Lee" title="AI Superpowers by Kai-Fu Lee" />
 
+>Deep learning will eliminate many jobs that were once considered safe from automation. White collar, blue collar... every profession will feel the impact before the year 2039.
+
 Machines powered by artificial intelligence have excelled at games for decades. IBM’s Deep Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated world champion Go player, Ke Jie, in 2017.
 
 Game-focused AI is highly specialized and mostly ineffective in in other areas. What about general purpose AI, software that can mimic human intelligence and make human-like decisions? What about applications beyond games?
@@ -40,7 +42,7 @@ Advancements in computer vision and speech recognition have given our machines n
 
 Deep learning will wreak havoc with careers. Human jobs that require pattern recognition will be replaced by deep learning tools. For example:
 
-* **Driving**. When Lee was in graduate school, most researchers believed that we would consider a computer "intelligent" if it could drive a car. Over time, our scientists reframed the car driving problem as a challenge involving pattern recognition and appropriate responses. And while better algorithms were being developed, the price-to-performance ratio of computer hardware continued to improve due to Moore's law. Today we have self-driving cars. Our self-driving vehicles are leveraging advanced mathematics masquerading as intelligence.
+* **Driving**. When Lee was in graduate school, most researchers believed that we would consider a computer “intelligent” if it could drive a car. Over time, our scientists reframed the car driving problem as a challenge involving pattern recognition and appropriate responses. And while better algorithms were being developed, the price-to-performance ratio of computer hardware continued to improve. For safety reasons, today’s self-driving cars must have a human back-up driver. But full autonomous driving is within our grasp.
 
 * **Law**. As recently as a few decades ago, the newest lawyers on a legal team might be assigned the task of discovery, sifting through mountains of paper documents looking for strings of words relevant to the case. This pattern recognition problem is better handled by a deep learning system that reads flawlessly without getting tired. A character from Shakespeare advised his companions to "kill all the lawyers." Deep learning would be a happier alternative for most members of the bar.
 
