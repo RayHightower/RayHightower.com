@@ -65,7 +65,7 @@ Some people will argue that we've been through changes like this before. Wheneve
 Lee argues that the deep learning wave will different in two ways:
 
 * Speed. Never in human history have we displaced 40% of our jobs, worldwide, in the span of a few decades.
-* Range. When farmers were displaced by farm automation, things worked out because that was during the industrial revolution and we needed the former farm workers to move to factories, anyway. One segment reduced in size as a different segment emerged. But this time, deep learning will touch every economic level, blue collar _and_ white collar, college educated and trade-school grad.
+* Range. When farmers were displaced by farm automation, things worked out because that was during the industrial revolution, which opened factory opportunities for the former farm workers. One segment reduced in size as a different segment emerged. But this time, deep learning will touch every economic level, blue collar _and_ white collar, college educated and trade-school grad.
 
 Even deeper, so many of us, especially in the USA, define ourselves by our careers. What will it mean to be human when the basis for self-definition has evaporated?
 
