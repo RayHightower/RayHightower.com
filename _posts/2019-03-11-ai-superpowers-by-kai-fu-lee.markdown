@@ -23,6 +23,7 @@ Dr. Kai-Fu Lee examines these questions in his book, [AI Superpowers: China, Sil
 In their quest to mimic human intelligence, AI researchers in the 1980s pursued two main paths.
 
 * **Rules-based systems**. Long chains of `if-then-else` conditions. In order to build a rules-based system, the developer must have access to subject matter experts with intimate knowledge of the problem domain. And then they must work arduously to predict every possible stimulus and response. Broad, unpredictable domains are more difficult to handle this way.
+
 * **Neural networks**. Rather than try to think of every possible scenario in advance, the developer exposes the neural net to a wide variety of scenarios that force the system to "learn" the desired behavior over time. For example, when teaching a neural net to recognize a picture of a cat, the developer might shows the system a large number of cat pictures (labeled "cat") and a large number of pictures without cats (labeled "not-cat"). Over time, the neural net learns how to classify the photos correctly.
 
 Neural networks fell out of favor in the 1990s because computer hardware was not powerful enough to make them work well. However, the technology has recently re-emerged under a new moniker, _deep learning networks_.
@@ -36,7 +37,9 @@ Lee believes that deep learning is the subset of AI likely to bear the most frui
 Deep learning will also wreak havoc with careers. Human jobs that require pattern recognition are likely to be replaced by deep learning tools. For example:
 
 * **Driving**. When Lee was in graduate school, it was believed that we would call computers "intelligent" if they could drive a car. Today, AI researchers have determined that driving is largely a pattern recognition and response problem. Now that computer vision systems are powerful enough to recognize and respond to patterns correctly, self-driving cars are here. Today.
+
 * **Law**. As recently as a few decades ago, a new lawyer working on a large legal team might be assigned the task of discovery, the process of sifting through mountains of paper documents looking for strings of words relevant to the case. This pattern recognition problem is better handled by a deep learning system that reads flawlessly and never gets tired. Shakespeare said to "killing all the lawyers." We might replace most of them with AI, instead.
+
 * **Medicine**. Physicians who practice radiology spend years in medical school developing their skills. The experienced eyes of a radiologist can tell the difference between a life-threatening growth and something benign. Of course, this is another example of a pattern recognition problem. A computer vision algorighm that can accurately identify faces in a crowd can also scan x-ray images for health issues. Further, the algorithm can draw on a database containing medical knowledge from around the planet in an instant. And the algorithm never gets tired.
 
 Bottom line: Deep learning will eliminate (or drastically alter) many professions that were once considered safe from AI.
