@@ -34,7 +34,7 @@ The most advanced deep learning networks learn from each other. For example, Alp
 
 Of all the AI subsets, Lee believes that deep learning will generate the largest ROI in the next few years. His belief is based on decades of experience and these observations: Today, our computers are powerful enough and our algorithms are good enough.
 
-Further, advancements in computer vision and speech recognition have given our machines new ways to collect massive aounts of data. Cameras are cheap and ubiquitous. Speech recognition is so inexpensive and so good that Amazon/Google can give it away for (almost) free and turn a profit when customers buy goods through the voice interfaces. And let us not forget the data. Deep learning needs massive amounts of data in order to work. Data collected by so many cameras and microphones is more valuable than petroleum.
+Advancements in computer vision and speech recognition have given our machines new ways to collect massive aounts of data. Cameras are cheap and ubiquitous. Speech recognition is so inexpensive and so good that Amazon/Google can give it away for (almost) free and turn a profit when customers buy goods through the voice interfaces. And let us not forget the data. Deep learning needs massive amounts of data in order to work. Data collected by so many cameras and microphones is more valuable than petroleum.
 
 ### Deep Learning and Human Careers
 
