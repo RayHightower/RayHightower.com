@@ -32,15 +32,15 @@ The most advanced deep learning networks learn from each other. For example, Alp
 
 ### Deep Learning Re-Emerges
 
-Of all the AI subsets, Lee believes that deep learning will generate the largest ROI in the next few years. His belief is based on decades of experience and these observations: Our computers are powerful enough and our algorothms are good enough.
+Of all the AI subsets, Lee believes that deep learning will generate the largest ROI in the next few years. His belief is based on decades of experience and these observations: Today, our computers are powerful enough and our algorithms are good enough.
 
 Further, advancements in computer vision and speech recognition have given us new ways to communicate with our machines. Cameras are cheap and ubiquitous. Speech recognition is so inexpensive and so good that Amazon/Google can give it away for (almost) free and turn a profit when customers buy goods through the voice interfaces.
 
-### Deel Learning and Human Careers
+### Deep Learning and Human Careers
 
-Deep learning will also wreak havoc with careers. Human jobs that require pattern recognition will be replaced by deep learning tools. For example:
+Deep learning will wreak havoc with careers. Human jobs that require pattern recognition will be replaced by deep learning tools. For example:
 
-* **Driving**. When Lee was in graduate school, most researchers believed that we would consider a computer "intelligent" if it could drive a car. Over time, our scientists reframed the car driving problem as a challenge involving pattern recognition followed by appropriate responses. And while better algorithms were being developed, the price-to-performance ratio of computer hardware continued to improve thanks to Moore's law. Today we have self-driving cars and we recognize that they're not truly intelligent. Our self-driving vehicles are leveraging advanced mathematics masquerading as intelligence.
+* **Driving**. When Lee was in graduate school, most researchers believed that we would consider a computer "intelligent" if it could drive a car. Over time, our scientists reframed the car driving problem as a challenge involving pattern recognition and appropriate responses. And while better algorithms were being developed, the price-to-performance ratio of computer hardware continued to improve due to Moore's law. Today we have self-driving cars. Our self-driving vehicles are leveraging advanced mathematics masquerading as intelligence.
 
 * **Law**. As recently as a few decades ago, the newest lawyers on a legal team might be assigned the task of discovery, sifting through mountains of paper documents looking for strings of words relevant to the case. This pattern recognition problem is better handled by a deep learning system that reads flawlessly without getting tired. A character from Shakespeare advised his companions to "kill all the lawyers." Deep learning would be a happier alternative for most members of the bar.
 
