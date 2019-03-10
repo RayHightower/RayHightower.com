@@ -10,7 +10,7 @@ published: true
 
 <img style="margin-left:20px" src="/images/ai_superpowers_kaifu_lee.jpg" width="150" align="right" alt="AI Superpowers by Kai-Fu Lee" title="AI Superpowers by Kai-Fu Lee" />
 
-Machines powered by artifical intelligence have excelled at games for decades. IBM’s Deep Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated world champion Go player, Ke Jie, in 2017.
+Machines powered by artificial intelligence have excelled at games for decades. IBM’s Deep Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated world champion Go player, Ke Jie, in 2017.
 
 Game-focused AI is highly specialized and mostly ineffective in in other areas. What about general purpose AI, software that can mimic human intelligence and make human-like decisions? What about applications beyond games?
 
@@ -44,9 +44,9 @@ Deep learning will wreak havoc with careers. Human jobs that require pattern rec
 
 * **Law**. As recently as a few decades ago, the newest lawyers on a legal team might be assigned the task of discovery, sifting through mountains of paper documents looking for strings of words relevant to the case. This pattern recognition problem is better handled by a deep learning system that reads flawlessly without getting tired. A character from Shakespeare advised his companions to "kill all the lawyers." Deep learning would be a happier alternative for most members of the bar.
 
-* **Medicine**. Physicians who practice radiology spend years in medical school developing their skills. The experienced eyes of a radiologist can tell the difference between a life-threatening growth and something benign. Of course, this is another example of a pattern recognition problem. A computer vision algorighm that can accurately identify faces in a crowd can also scan x-ray images for health issues. Further, the algorithm can draw on every piece of medical information stored in any shared database on the planet, in an instant. And the algorithm never gets tired.
+* **Medicine**. Physicians who practice radiology spend years in medical school developing their skills. The experienced eyes of a radiologist can tell the difference between a life-threatening growth and something benign. Of course, this is another example of a pattern recognition problem. A computer vision algorithm that can accurately identify faces in a crowd can also scan x-ray images for health issues. Further, the algorithm can draw on every piece of medical information stored in any shared database on the planet, in an instant. And the algorithm never gets tired.
 
-Bottom line: Deep learning will eliminate (or drastically alter) many professions that were once considered safe from any sort of mechanical automation. Lee predicts that 40% of jobs worldwide will be displacable by deep learning and related technologies by 2039.
+Bottom line: Deep learning will eliminate (or drastically alter) many professions that were once considered safe from any sort of mechanical automation. Lee predicts that 40% of jobs worldwide will be displaceable by deep learning and related technologies by 2039.
 
 ### Deep Learning in China
 
@@ -54,22 +54,22 @@ As the founder of a VC firm operating in China, Lee offers some interesting thou
 
 Deep learning thrives when given two key resources: Processing power and large amounts of data. The processing power is here, today. But data can be tougher to get, especially in the United States where privacy concerns are part of the culture.
 
-But in China, the data required to train deep learning algorithms is plentiful and largely untethered by privacy laws. Algorithms designed to learn from Chinese data have plenty of data - a big advantage. Lee shares examples of companies, based in China, that were once considered immitators of their US-counterparts. But in most cases, the Chinese company has grown larger than the US company it formerly emulated, thanks to deep learning and a mountain of data.
+But in China, the data required to train deep learning algorithms is plentiful and largely untethered by privacy laws. Algorithms designed to learn from Chinese data have plenty of data - a big advantage. Lee shares examples of companies, based in China, that were once considered imitators of their US-counterparts. But in most cases, the Chinese company has grown larger than the US company it formerly emulated, thanks to deep learning and a mountain of data.
 
 ### People Displaced by Deep Learning? What's Next?
 
 Revisiting the concern about displaced careers: Since we know that the wave of deep learning is coming, what should we do?
 
-Some people will argue that we've been through changes like this before. Whenever humans develope new, labor-saving technology, new jobs emerge that we never would have dreamed of before. How many readers of this blog post work in careers that didn't exist twenty years ago?
+Some people will argue that we've been through changes like this before. Whenever humans develop new, labor-saving technology, new jobs emerge that we never would have dreamed of before. How many readers of this blog post work in careers that didn't exist twenty years ago?
 
 Lee argues that the deep learning wave will different in two ways:
 
 * Speed. Never in human history have we displaced 40% of our jobs, worldwide, in the span of a few decades.
 * Range. When farmers were displaced by farm automation, things worked out because that was during the industrial revolution and we needed the former farm workers to move to factories, anyway. One segment reduced in size as a different segment emerged. But this time, deep learning will touch every economic level, blue collar _and_ white collar, college educated and trade-school grad.
 
-Even deeper, so many of us, expecially in the USA, define ourselves by our careers. What will it mean to be human when the basis for self-definition has evaporated?
+Even deeper, so many of us, especially in the USA, define ourselves by our careers. What will it mean to be human when the basis for self-definition has evaporated?
 
-Lee argues that the shift will give us an opporunity to connect with a uniquely human gift in new and positive ways. Lee believes that we will re-connect with our ability to love, create, and show compassion.
+Lee argues that the shift will give us an opportunity to connect with a uniquely human gift in new and positive ways. Lee believes that we will re-connect with our ability to love, create, and show compassion.
 
 And to hear the remarkable story of how he came to think this way, read the book!
 
