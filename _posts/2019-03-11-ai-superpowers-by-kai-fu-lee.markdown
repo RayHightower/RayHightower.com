@@ -72,7 +72,7 @@ Even deeper, so many of us, especially in the USA, define ourselves by our caree
 
 Lee observes that the shift may give us an opportunity to connect with a uniquely human gift in new and positive ways. Lee believes that we will re-connect with our ability to love.
 
-And to hear the remarkable story of how he came to think this way, read the book!
+Lee shares more about the path that led to this way of thinking in the book.
 
 ### About Kai-Fu Lee
 
