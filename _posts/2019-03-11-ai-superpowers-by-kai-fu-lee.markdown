@@ -10,7 +10,7 @@ published: true
 
 <img style="margin-left:20px" src="/images/ai_superpowers_kaifu_lee.jpg" width="150" align="right" alt="AI Superpowers by Kai-Fu Lee" title="AI Superpowers by Kai-Fu Lee" />
 
-Machines powered by artifical intelligence have excelled at games for decades. IBM’s Big Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated world champion Go player, Ke Jie, in 2017.
+Machines powered by artifical intelligence have excelled at games for decades. IBM’s Deep Blue defeated chess champion Garry Kasparov in 1996. Alphabet's AlphaGo defeated world champion Go player, Ke Jie, in 2017.
 
 Game-focused AI is highly specialized and mostly ineffective in in other areas. What about general purpose AI, software that can mimic human intelligence and make human-like decisions? What about applications beyond games?
 
@@ -40,9 +40,9 @@ Further, advancements in computer vision and speech recognition have given us ne
 
 Deep learning will also wreak havoc with careers. Human jobs that require pattern recognition will be replaced by deep learning tools. For example:
 
-* **Driving**. When Lee was in graduate school, most researchers believed that we would call a computer "intelligent" if it could drive a car. Over time, our scientists reframed the car driving problem as a challenge involving pattern recognition followed by appropriate responses. And while better algorithms were being developed, the price:performance ratio of computer hardware continued to improve thanks to Moore's law. Today we have self-driving cars and we recognize that they're not truly intelligent. Our self-driving vehicles are leveraging advanced mathematics masquerading as intelligence.
+* **Driving**. When Lee was in graduate school, most researchers believed that we would consider a computer "intelligent" if it could drive a car. Over time, our scientists reframed the car driving problem as a challenge involving pattern recognition followed by appropriate responses. And while better algorithms were being developed, the price-to-performance ratio of computer hardware continued to improve thanks to Moore's law. Today we have self-driving cars and we recognize that they're not truly intelligent. Our self-driving vehicles are leveraging advanced mathematics masquerading as intelligence.
 
-* **Law**. As recently as a few decades ago, a new lawyer working on a large legal team might be assigned the task of discovery, sifting through mountains of paper documents looking for strings of words relevant to the case. This pattern recognition problem is better handled by a deep learning system that reads flawlessly without getting tired. A character from Shakespeare advised his companions to "kill all the lawyers." Deep learning would be a happier alternative for most members of the bar.
+* **Law**. As recently as a few decades ago, the newest lawyers on a legal team might be assigned the task of discovery, sifting through mountains of paper documents looking for strings of words relevant to the case. This pattern recognition problem is better handled by a deep learning system that reads flawlessly without getting tired. A character from Shakespeare advised his companions to "kill all the lawyers." Deep learning would be a happier alternative for most members of the bar.
 
 * **Medicine**. Physicians who practice radiology spend years in medical school developing their skills. The experienced eyes of a radiologist can tell the difference between a life-threatening growth and something benign. Of course, this is another example of a pattern recognition problem. A computer vision algorighm that can accurately identify faces in a crowd can also scan x-ray images for health issues. Further, the algorithm can draw on every piece of medical information stored in any shared database on the planet, in an instant. And the algorithm never gets tired.
 
@@ -50,24 +50,28 @@ Bottom line: Deep learning will eliminate (or drastically alter) many profession
 
 ### Deep Learning in China
 
-As the founder of a VC firm operating in China, Lee offers some interesting thoughts about how the companies will thrive in an era of deep learning.
+As the founder of a VC firm operating in China, Lee offers some interesting thoughts about how Chinese companies will thrive in an era of deep learning.
 
-First, deep learning depends on two key resources: Processing power and large amounts of data. The processing power is here, today. Data can be tough to come by sometimes, especially in the United States and other Western countries.
+Deep learning thrives when given two key resources: Processing power and large amounts of data. The processing power is here, today. But data can be tougher to get, especially in the United States where privacy concerns are part of the culture.
 
-But in China, the data required to train deep learning algorithms is plentiful and largely untethered by privacy laws. Algorithms designed to learn from Chinese data have an advantage. Lee shares examples of companies, based in China, that were once considered immitators of their US-counterparts. But in many cases, the Chinese company has grown larger than the company it formerly emulated, thanks to deep learning and a huge mountain of data.
-
+But in China, the data required to train deep learning algorithms is plentiful and largely untethered by privacy laws. Algorithms designed to learn from Chinese data have plenty of data - a big advantage. Lee shares examples of companies, based in China, that were once considered immitators of their US-counterparts. But in most cases, the Chinese company has grown larger than the US company it formerly emulated, thanks to deep learning and a mountain of data.
 
 ### People Displaced by Deep Learning? What's Next?
 
-Some people will argue that we've been through changes like this before. Whenever humans develope new, labor-saving technology, 
+Revisiting the concern about displaced careers: Since we know that the wave of deep learning is coming, what should we do?
 
+Some people will argue that we've been through changes like this before. Whenever humans develope new, labor-saving technology, new jobs emerge that we never would have dreamed of before. How many readers of this blog post work in careers that didn't exist twenty years ago?
 
+Lee argues that the deep learning wave will different in two ways:
 
+* Speed. Never in human history have we displaced 40% of our jobs, worldwide, in the span of a few decades.
+* Range. When farmers were displaced by farm automation, things worked out because that was during the industrial revolution and we needed the former farm workers to move to factories, anyway. One segment reduced in size as a different segment emerged. But this time, deep learning will touch every economic level, blue collar _and_ white collar, college educated and trade-school grad.
 
+Even deeper, so many of us, expecially in the USA, define ourselves by our careers. What will it mean to be human when the basis for self-definition has evaporated?
 
-### Jobs Less Likely to be Replaced by AI
+Lee argues that the shift will give us an opporunity to connect with a uniquely human gift in new and positive ways. Lee believes that we will re-connect with our ability to love, create, and show compassion.
 
-Jobs that require human creativity and human compassion, two things that AI cannot do.
+And to hear the remarkable story of how he came to think this way, read the book!
 
 ### About Kai-Fu Lee
 
@@ -77,27 +81,4 @@ For deeper insight into _AI Superpowers_, it might be helpful to know more about
 
 Lee was born in China. He was sent to the USA at the age of eleven because his mother wanted him to be educated beyond the rote memorization curriculum that was available in the town of his birth. To maintain his Chinese writing skills, Lee’s mother required him to write to her weekly in Chinese. And she would return each of his letters to him with corrections. Motherly encouragement paid off. Today, Lee is fluent in Chinese and English and he flows easily between the cultures.
 
-Lee holds degrees in Computer Science from Columbia University (A.B.) and Carnegie Mellon (PhD). He pioneered speech recognition research at Apple. Later, he served in technical leadership positions at SGI, Microsoft, and Google. He left Google as the highest ranking Google exec in China, and founded Sinovation Ventures, a VC firm that focuses on AI. 
-
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<hr>
-<hr>
-# Out Takes
-# Out Takes
-# Out Takes
-Prior to launching Sinovation Ventures, Lee served as Google’s highest ranking executive in China. Lee’s resume includes engineering and leadership positions at Microsoft, Silicon Graphics, and Apple.
-
-General purpose AI that mimics human intelligence continues to elude researchers. Fortunately, one subset of AI, deep learning, is already delivering results in professions that were once considered beyond automation. Deep learning will quickly engulf us, eliminating many of our so-called "safe" professions as early as 2030. So says Dr. Kai-Fu Lee, author of the book 
-
-### GPU Acceleration
-
-Graphics processing units (GPUs) are specialized processors which were originally designed to perform the calculations necessary for advanced graphics.
-
+Lee holds degrees in Computer Science from Columbia University (A.B.) and Carnegie Mellon (PhD). He pioneered speech recognition research at Apple. Later, he served in technical leadership positions at SGI, Microsoft, and Google. He left Google as the highest ranking Google exec in China, and founded Sinovation Ventures, a VC firm that focuses on AI.
