@@ -60,7 +60,7 @@ But in China, the data required to train deep learning algorithms is plentiful a
 
 Revisiting the concern about displaced careers: Since we know that the wave of deep learning is coming, what should we do?
 
-Some people will argue that we've been through changes like this before. Whenever humans develop new, labor-saving technology, new jobs emerge that we never would have dreamed of before. How many readers of this blog post work in careers that didn't exist twenty years ago?
+Some people will argue that we've been through changes like this before. Whenever humans develop new, labor-saving technology, new jobs emerge that we never would have dreamed of before. How many readers of this blog work in careers that didn't exist twenty years ago?
 
 Lee argues that the deep learning wave will different in two ways:
 
@@ -83,3 +83,8 @@ For deeper insight into _AI Superpowers_, it might be helpful to know more about
 Lee was born in China. He was sent to the USA at the age of eleven because his mother wanted him to be educated beyond the rote memorization curriculum that was available in the town of his birth. To maintain his Chinese writing skills, Lee’s mother required him to write to her weekly in Chinese. And she would return each of his letters to him with corrections. Motherly encouragement paid off. Today, Lee is fluent in Chinese and English and he flows easily between the cultures.
 
 Lee holds degrees in Computer Science from Columbia University (A.B.) and Carnegie Mellon (PhD). He pioneered speech recognition research at Apple. Later, he served in technical leadership positions at SGI, Microsoft, and Google. He founded Sinovation Ventures in 2009.
+
+### Conclusion
+
+[AI Superpowers](https://aisuperpowers.com) offers insights that go beyond technology. The author considers economic, social, and emotional consequences that are rarely discussed in a business book. Anyone interested in AI, business, or the interaction between Chinese and American industries will find the book valuable.
+
