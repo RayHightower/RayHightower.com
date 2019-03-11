@@ -24,7 +24,7 @@ Dr. Kai-Fu Lee examines these questions in his book, [AI Superpowers: China, Sil
 
 In their quest to mimic human intelligence, AI researchers in the 1980s pursued two main paths.
 
-* **Rules-based systems**. Long chains of `if-then-else` conditions. In order to build a rules-based system, the developer must have access to subject matter experts with intimate knowledge of the problem domain. And then they must work arduously to predict every possible stimulus and response. Broad, unpredictable domains are more difficult to handle this way.
+* **Rule-based systems**. Also known as _symbolic systems_ or _expert systems_. Long chains of `if-then-else` conditions. In order to build a rules-based system, the developer must have access to subject matter experts with intimate knowledge of the problem domain. And then they must work arduously to predict every possible stimulus and response. Broad, unpredictable domains are more difficult to handle this way.
 
 * **Neural networks**. Rather than try to think of every possible scenario in advance, the developer exposes the neural net to a wide variety of scenarios that force the system to "learn" the desired behavior over time. For example, when teaching a neural net to recognize a picture of a cat, the developer might show the system a large number of cat pictures (labeled "cat") and a large number of pictures without cats (labeled "not-cat"). After enough iterations, the neural net learns how to classify the photos correctly.
 
