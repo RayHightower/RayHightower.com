@@ -30,13 +30,13 @@ In their quest to mimic human intelligence, AI researchers in the 1980s pursued 
 
 Neural networks fell out of favor in the 1990s because computer hardware was not powerful enough to make them work well. However, the technology has recently re-emerged under a new moniker, _deep learning networks_.
 
-The most advanced deep learning networks learn from each other. For example, AlphaGo Zero, the latest version of the system that beat the world's best Go player, learned to play the game by competing against other instances of itself. As with humans, the toughtest competitors emerge from the fiercest battles.
+The most advanced deep learning networks learn from each other. For example, AlphaGo Zero, a newer version of the system that beat the human Go champion, learned to play the game by competing against other instances of itself. As with humans, the toughtest competitors emerge from the fiercest battles.
 
 ### Deep Learning Re-Emerges
 
 Of all the AI subsets, Lee believes that deep learning will generate the largest ROI in the next few years. His belief is based on decades of experience and these observations: Today, our computers are powerful enough and our algorithms are good enough.
 
-Advancements in computer vision and speech recognition have given our machines new ways to collect massive aounts of data. Cameras are cheap and ubiquitous. Speech recognition is so inexpensive and so good that Amazon/Google can give it away for (almost) free and turn a profit when customers buy goods through the voice interfaces. And let us not forget the data. Deep learning needs massive amounts of data in order to work. Data collected by so many cameras and microphones is more valuable than petroleum.
+Advancements in computer vision and speech recognition have given our machines new ways to collect massive amounts of data. Cameras are cheap and ubiquitous. Speech recognition is so inexpensive and so good that Amazon/Google can give it away for (almost) free and turn a profit when customers buy goods through the voice interfaces. And let us not forget the data. Deep learning needs massive amounts of data in order to work. Data collected by so many cameras and microphones is more valuable than petroleum.
 
 ### Deep Learning and Human Careers
 
@@ -64,7 +64,7 @@ Revisiting the concern about displaced careers: Since we know that the wave of d
 
 Some people will argue that we've been through changes like this before. Whenever humans develop new, labor-saving technology, new jobs emerge that we never would have dreamed of before. How many readers of this blog work in careers that didn't exist twenty years ago?
 
-Lee argues that the deep learning wave will different in two ways:
+Lee argues that the deep learning wave will be different in two ways:
 
 * **Speed**. Never in human history have we displaced 40% of our jobs, worldwide, in the span of a few decades.
 
