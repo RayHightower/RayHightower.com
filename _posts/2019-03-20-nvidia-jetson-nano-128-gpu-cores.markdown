@@ -24,6 +24,10 @@ More about the GPU and the Jetson Nano...
 
 ### Jetson Nano vs Raspberry Pi
 
+<img src="/images/nvidia-jetson-nano-vs-raspberry-pi.jpg" width="600" align="center" alt="Nvidia Jetson Nano vs Raspberry Pi" title="Nvidia Jetson Nano vs Raspberry Pi" />
+
+The Jetson Nano is a larger than a Raspberry Pi, but it’s still small enough to fit in your hand. That makes it well suited for robotics projects, like the Pi. 
+
 
 ### Jetson Nano vs Parallella
 
