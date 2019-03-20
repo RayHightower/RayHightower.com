@@ -7,5 +7,11 @@ tags: [ GPU, Parallelism ]
 published: true
 ---
  
-Content for Nvidia Jetson Nano: 128 GPU Cores goes here.
+<img src="/images/nvidia-jetson-nano-developer-kit.jpg" width="600" align="center" alt="Screenshot: Nvidia Jetson Nano Developer Kit" title="Screenshot: Nvidia Jetson Nano Developer Kit" />
  
+Nvidia announced...
+
+<!--more-->
+
+More about the GPU and the Jetson Nano...
+
