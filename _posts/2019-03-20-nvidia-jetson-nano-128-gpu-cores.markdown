@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Nvidia Jetson Nano
+title:  Nvidia Jetson Nano - 128 GPU Cores
 date:   2019-03-20
 comments: true
 tags: [ GPU, Parallelism ]
@@ -8,6 +8,8 @@ published: true
 ---
 
 <img src="/images/nvidia-jetson-nano-developer-kit.jpg" width="600" align="center" alt="Screenshot: Nvidia Jetson Nano Developer Kit" title="Screenshot: Nvidia Jetson Nano Developer Kit" />
+
+The Nvidia Jetson Nano features four ARM cores and 128 GPU cores. Makers of the board are on a mission to bring AI to everyone.
 
 The Nvidia Jetson Nano is a full Linux computer, as shown in the above screenshot.
 
@@ -32,6 +34,8 @@ More about the GPU and the Jetson Nano...
 <img src="/images/nvidia-jetson-nano-vs-raspberry-pi.jpg" width="600" align="center" alt="Nvidia Jetson Nano vs Raspberry Pi" title="Nvidia Jetson Nano vs Raspberry Pi" />
 
 The Jetson Nano is a larger than a Raspberry Pi, but it’s still small enough to fit in your hand. That makes it well suited for robotics projects, like the Pi. 
+
+GPIO pin configuration is the same as Raspberry Pi?? Verify this!
 
 
 ### Jetson Nano vs Parallella
