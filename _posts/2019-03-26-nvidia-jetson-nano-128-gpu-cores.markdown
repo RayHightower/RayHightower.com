@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Nvidia Jetson Nano - 128 GPU Cores
-date:   2019-03-20
+date:   2019-03-26
 comments: true
 tags: [ GPU, Parallelism ]
 published: true
