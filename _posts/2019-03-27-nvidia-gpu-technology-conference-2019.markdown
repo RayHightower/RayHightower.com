@@ -94,6 +94,7 @@ GTC took the networking a step further by offering a special program: _Dinner Wi
 
 <img src="/images/nvidia_gtc2019_academic_posters.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Academic Posters" title="Nvidia GTC 2019 - Academic Posters" />
 
+Academic posters filled the hallways between the exhibit hall and the lecture rooms. There wasn't enough time to review all of the posters. But the ones I saw covered an amazing level of detail in a tiny space. The conference awarded $5,000 to the creator of the best academic poster, determined via voting by the conference attendees.
 
 ### GPU ROI
 
