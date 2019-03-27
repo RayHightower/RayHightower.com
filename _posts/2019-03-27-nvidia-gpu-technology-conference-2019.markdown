@@ -49,9 +49,18 @@ Day one of my GTC experience was spent in a full-day deep learning, computer vis
 backward propagation.
 * Repetition in learning makes a difference, with humans and with deep learning networks.
 
-There were a few technical glitches at the beginning of the session, mostly involving virtual machines at the cloud provider that didn't spin up. A few of us had to stop & start our connections multiple times in order to find a working VM. The deep learning "cloud" is wonderful, but it might be some years before it achieves utility-level reliability.
+There were a few technical glitches at the beginning of the session, mostly involving virtual machines at the cloud provider that didn't spin up. A few of us had to stop & start our connections multiple times in order to find a working VM. 
 
-Fortunately, GTC included a surprise that might solve the cloud reliability problem.
+The deep learning "cloud" is wonderful, but it might be some years before it achieves utility-level reliability.
+
+Another problem with conducting a course like this with a cloud provider: Each student was only allowed to spin up one cloud instance at a time. This makes sense for financial reasons. Why spend money for multiple instances when (in theory) the student is only working on one exercise at a time. However, some students learn best when they can bounce back and forth between the examples in an _almost_ random fashion. Limiting students to only one instance at a time means you have to...
+
+* Shut down the current instance, and wait (typically 5-10 seconds).
+* Spin up the second instance, and wait (typically 5-10 seconds).
+
+The delay is slow enough that train-of-thought is lost and learning is diminished.
+
+Fortunately, GTC included a surprise that might make cloud reliability a moot point for future DLI courses.
 
 ### Surprise: Jetson Nano
 
@@ -61,7 +70,12 @@ The Jetson Nano, announced during GTC 2019, is a single-board computer that's a 
 
 During the Nano annoucement, I immediately jumped on Amazon, Element14, Ada Fruit, _everywhere_ looking for a way to buy that board!  No such luck. Fortunately, Nvidia had the boards for sale right outisde the auditorium after the announcement. Plenty of inventory for everyone to go away happy.
 
+Wouldn't it be cool for Nvidia to offer future Deep Learning Institute courses on the Jetson Nano instead of being dependent on a cloud provider's reliability?
+
 Jetson Nano is especially attractive because it runs the entire CUDA-X suite of GPU applications. I am currently putting my board to the test, and you'll see a post on this blog very soon.
+
+### Exhibitors: Solving Real-World Problems
+
 
 ### Dinner With Strangers
 
@@ -70,9 +84,6 @@ Jetson Nano is especially attractive because it runs the entire CUDA-X suite of 
 The most valuable part of any conference for me: Meeting people. Listening to people. Learning from people.
 
 GTC took the networking a step further by offering a special program: _Dinner With Strangers_. Go to a booth and sign up for dinner with a bunch of people you've never met before. In addition to software developers and engineers, I met entrepreneurs, investment bankers, VCs, private investors, and a few people who were just wondering whether opportunities in the GPU market are for real. Next time I make it back to GTC, I will sign up for _Dinner With Strangers_ on day one.
-
-### Exhibitors: Solving Real-World Problems
-
 
 
 ### Conclusion
