@@ -17,6 +17,8 @@ Every industry has been hit by a tsunami of data, a tsunami offering advantages 
 <!--more-->
 ### GPUs: Quick History
 
+Skip this section if you already know about GPUs.
+
 The idea of a graphical processing unit has been around since at least the 1970s. For quality graphics, we need matrix mathematics performed at a high rate of speed. It made sense to delegate that work to specialized hardware so that the CPU can focus on general tasks. GPUs grew in popularity during the 1990s as personal computer prices dropped low enough to make them attractive to gamers. Gamers always want more power, so PC companies competed to meet the demand.
 
 Any problem that can be expressed with matrix math is a candidate for GPU acceleration. Hardware companies began to pursue new markets for their rapidly improving GPUs, including:
@@ -69,12 +71,16 @@ The most valuable part of any conference for me: Meeting people. Listening to pe
 
 GTC took the networking a step further by offering a special program: _Dinner With Strangers_. Go to a booth and sign up for dinner with a bunch of people you've never met before. In addition to software developers and engineers, I met entrepreneurs, investment bankers, VCs, private investors, and a few people who were just wondering whether opportunities in the GPU market are for real. Next time I make it back to GTC, I will sign up for _Dinner With Strangers_ on day one.
 
+### Exhibitors: Solving Real-World Problems
+
+
+
+### Conclusion
 
 
 
 
-
-
+## Out-Takes
 
 Even with my concerns, the course was worth the fee because the instructures exposed the class to useful new material.
 
@@ -83,24 +89,6 @@ ar. Other instructors covered the room, answering questions as they arose.  pres
 
 My concerns with the DL/CV class have nothing to do with the course material, and more to do with the setup of the lab environment.
 
-
-
-
-
-
-### Nvidia Jetson Nano
-
-### Deep Learning Full-Day Workshop
-
-### Exhibitors: Solving Real-World Problems
-
-### Keynote by by Jensen Huang, CEO
-
-### Dinner With Strangers
-
-
-
-### Pleasant Surprise: Jetson Nano
 
 
 
