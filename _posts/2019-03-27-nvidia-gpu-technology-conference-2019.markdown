@@ -41,7 +41,7 @@ GTC is expensive. So it was important for me to have a clear purpose before sett
 
 ### Hands-on With Deep Learning
 
-Day one of my GTC experience was spent in a full-day deep learning, computer vision class. The class was lead by one of Nvidia's deep learning architects, [Alex Qi](https://www.linkedin.com/in/qiling/), an Enterprise Solutions Architect with Nvidia's deep learning team, led us through five exercises, each building on the previous one. Special thanks to [Professor Mariofanna Milanova](https://www.linkedin.com/in/mariofanna-milanova-9a84865/), who provide help with a particularly thorny exercises. Key takaways:
+Day one of my GTC experience was spent in a full-day deep learning, computer vision class. The class was lead by one of Nvidia's deep learning architects, [Alex Qi](https://www.linkedin.com/in/qiling/), an Enterprise Solutions Architect with Nvidia's deep learning team, led us through five exercises, each building on the previous one. Special thanks to [Mariofanna Milanova](https://www.linkedin.com/in/mariofanna-milanova-9a84865/), a professor of AI and computer vision at University of Arkansas, who provided help with a particularly thorny exercise. Key takaways:
 
 * Models that are trained agains a large number of examples will make better predictions than models trained with fewer examples.
 * The convolution integral that I learned in college is alive and well in convolutional neural networks. It's alwasy cool to see that the old concepts work, over & over again.
@@ -55,7 +55,7 @@ Fortunately, GTC included a surprise that might solve the cloud reliability prob
 
 ### Surprise: Jetson Nano
 
-<img src="/images/autonomous_vehicles.jpg" width="600" align="center" alt="Nvidia GPU Technology Conference 2019 - Autonomous Vehicles" title="Nvidia GPU Technology Conference 2019 - Autonomous Vehicles" />
+<img src="/images/nvidia-jetson-nano-vs-raspberry-pi.jpg" width="600" align="center" alt="Nvidia Jetson Nano with Raspberry Pi" title="Nvidia Jetson Nano with Raspberry Pi" />
 
 The Jetson Nano, announced during GTC 2019, is a single-board computer that's a little bit larger than a [Raspberry Pi](/blog/2018/03/28/quick-win-with-raspberry-pi-model-3/). It has four ARM cores, 128 Nvidia GPU cores, it runs Linux, and it sells for $99.
 
@@ -65,7 +65,7 @@ Jetson Nano is especially attractive because it runs the entire CUDA-X suite of 
 
 ### Dinner With Strangers
 
-<img src="/images/autonomous_vehicles.jpg" width="600" align="center" alt="Nvidia GPU Technology Conference 2019 - Autonomous Vehicles" title="Nvidia GPU Technology Conference 2019 - Autonomous Vehicles" />
+<img src="/images/dinner_with_strangers.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Dinner With Strangers" title="Nvidia GTC 2019 - Dinner With Strangers" />
 
 The most valuable part of any conference for me: Meeting people. Listening to people. Learning from people.
 
