@@ -63,7 +63,7 @@ Day one of my GTC experience was spent in a full-day deep learning, computer vis
 * Learning, in a neural network, is a non-linear process of forward and backward propagation. Remarkably like human learning.
 * Repetition in learning makes a difference, with humans and with deep learning networks.
 
-One challenge: Each student was only allowed to spin up one exercise (including one Jupyter Notebook and one cloud instance) at a time. This makes sense for financial reasons. Why spend money for multiple instances when the student is only working on one exercise at a time? However, some students (like me) learn best in a non-linear fashion. We bounce back and forth between the examples absorbing information from multiple sources until it clicks.
+One challenge: Each student was only allowed to spin up one exercise (including one [Jupyter Notebook](https://jupyter.org/) and one cloud instance) at a time. This makes sense for financial reasons. Why spend money for multiple instances when the student is only working on one exercise at a time? However, some students (like me) learn best in a non-linear fashion. We bounce back and forth between the examples absorbing information from multiple sources until it clicks.
 
 But the linear, lock-step, one instance at a time approach forces the student to do the following if they learn by bouncing around...
 
