@@ -80,8 +80,6 @@ Jetson Nano is especially attractive because it runs the entire CUDA-X suite of 
 
 ### Exhibitors: Solving Real-World Problems
 
-<img src="/images/nvidia_gtc2019_exhibits.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Exhibits" title="Nvidia GTC 2019 - Exhibits" />
-
 Every major computer hardware player was represented at GTC: Microsoft, IBM, Lenovo, Dell, HP. Absent: Apple. This struck me as strange because Apple uses Nvidia GPUs in their high-end products.
 
 Also strange: Most users and exhibitors were running Microsoft Windows.  Ubuntu Linux was the second most-dominant operating system, followed by macOS. Maybe my judgment is skewed because I have attended mostly web and mobile development conferences in recent years, where 95% of the attendees use macOS. Interesting things are happening in Redmond, Washington. Especially in the GPU space.
