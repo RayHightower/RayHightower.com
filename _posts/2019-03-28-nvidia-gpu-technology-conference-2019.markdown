@@ -92,7 +92,7 @@ Jetson Nano is especially attractive because it runs the entire CUDA-X suite of 
 
 Every major computer hardware player was represented at GTC: IBM, Lenovo, Dell, HP, Cisco. Every major cloud player was present: Amazon, Google, Microsoft. Absent: Apple. This struck me as strange because Apple uses Nvidia GPUs in their high-end products.
 
-Also strange: Most users and exhibitors were running Microsoft Windows.  Ubuntu Linux was the second most-dominant operating system, followed by macOS. Maybe my judgment is skewed because I have attended mostly web and mobile development conferences in recent years, where 95% of the attendees use macOS. Interesting things are happening in Redmond, Washington. Especially in the GPU space.
+Interesting note re laptop operating systems: Most attendees and exhibitors were running Microsoft Windows. Ubuntu Linux was the second most-dominant operating system, followed by macOS. Maybe my judgment is skewed because I have attended mostly web and mobile development conferences in recent years, where 95% of the attendees use macOS. Looks like powerful things are happening in Redmond, Washington. Especially in the GPU space.
 
 Also on display: Jetson Nano, configured as a JetBot. Check out the video:
 
