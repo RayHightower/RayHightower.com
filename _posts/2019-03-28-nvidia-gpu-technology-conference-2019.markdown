@@ -80,7 +80,7 @@ Fortunately, the DLI instructors were excellent. Even with the cloud instance is
 
 The Jetson Nano (shown at left in the photo) is a single-board computer that's a little bit larger than a [Raspberry Pi](/blog/2018/03/28/quick-win-with-raspberry-pi-model-3/) (at right). The Nano has four ARM cores, 128 Nvidia GPU cores, it runs Ubuntu Linux, and it sells for $99.
 
-During the Nano annoucement, I immediately jumped on Amazon, Element14, Ada Fruit, _everywhere_ looking for a way to buy that board!  No such luck at the time; too soon! Fortunately, Nvidia had the boards for sale right outisde the auditorium after the announcement. Plenty of Jetson Nano inventory for everyone to go away happy.
+During the Nano announcement, I immediately jumped on Amazon, Element14, Ada Fruit, _everywhere_ looking for a way to buy that board!  No such luck at the time; too soon! Fortunately, Nvidia had the boards for sale right outside the auditorium after the keynote. Plenty of Jetson Nano inventory for everyone to go away happy.
 
 Wouldn't it be cool for Nvidia to offer future Deep Learning Institute courses on the Jetson Nano instead of being dependent on a cloud provider's reliability?
 
@@ -102,7 +102,7 @@ In the video, the Jetson Nano "sees" the edge of the table surface and other obs
 
 ### Incubating and Investing
 
-Nvidia realizes that they're selling picks & shovels to gold miners, and they've taken steps to invest in those ventures they consider promising. [Nvidia Inception](https://www.nvidia.com/en-us/deep-learning-ai/startups/) is an incubaator, and [Nvidia GPU Ventures](https://www.nvidia.com/en-us/about-nvidia/gpu-ventures/) invests money with select ventures.
+Nvidia realizes that they're selling picks & shovels to gold miners, and they've taken steps to invest in those ventures they consider promising. [Nvidia Inception](https://www.nvidia.com/en-us/deep-learning-ai/startups/) is an incubator, and [Nvidia GPU Ventures](https://www.nvidia.com/en-us/about-nvidia/gpu-ventures/) invests money with select ventures.
 
 ### Dinner With Strangers
 
@@ -121,4 +121,4 @@ Academic posters filled the hallways between the exhibit hall and the lecture ro
 
 ### Conclusion
 
-If you are interested in GPUs, parallelism, or any field that can benefit from the two, then I would encourage you to explore Nvidia's GPU Technology Conference. Look at the agenda in advance and decide whether you want to attend the sessions, DLI workshops, or just the exhibits. The exhbits alone are worth the trip, especially when you consider the people you meet in the process. And be sure to sign up for _Dinner With Strangers_. Congrats, Nvidia, on a well-executed event.
+If you are interested in GPUs, parallelism, or any field that can benefit from the two, then I would encourage you to explore Nvidia's GPU Technology Conference. Look at the agenda in advance and decide whether you want to attend the sessions, DLI workshops, or just the exhibits. The exhibits alone are worth the trip, especially when you consider the people you meet in the process. And be sure to sign up for _Dinner With Strangers_. Congrats, Nvidia, on a well-executed event.
