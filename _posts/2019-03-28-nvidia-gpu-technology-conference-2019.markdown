@@ -46,7 +46,7 @@ Faster turnaround at a lower cost. Enough to make any CFO smile.
 
 ### Learning With Intent
 
-GTC is expensive. So it was important for me to have a clear purpose before setting foot in the door. Further, GTC offers depth across a wide spectrum of material... overwhelming for anyone who tries to digest everything at once. Given these constraints, I only registered & paid for those portions of the conference that met my needs. My pre-conference objectives:
+GTC is expensive. Therefore it was important for me to have a clear purpose before setting foot in the door. Further, GTC offers depth across a wide spectrum of material... overwhelming for anyone who tries to digest everything at once. Given these constraints, I only registered & paid for those portions of the conference that met my needs. My pre-conference objectives:
 
 * To get some hands-on exposure to deep learning. I've read articles and watched presentations on the subject. Reviewed a book, [AI Superpowers](/blog/2019/03/11/ai-superpowers-by-kai-fu-lee/), which describes how deep learning will change our planet socially and economically. Enough study, time to get the hands dirty.
 * To learn more about the problems being solved by GPUs. I knew about medical imaging and autonomous driving. What about new solutions for people in business and other fields?
