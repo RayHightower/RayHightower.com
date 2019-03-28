@@ -82,23 +82,19 @@ Jetson Nano is especially attractive because it runs the entire CUDA-X suite of 
 
 <img src="/images/nvidia_gtc2019_exhibits.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Exhibits" title="Nvidia GTC 2019 - Exhibits" />
 
-Every major player in computing was represented at GTC: Microsoft, IBM,
-Lenovo, Dell, HP. Absent: Apple. This struck me as strange because Apple
-uses Nvidia GPUs in its high-end products.
+Every major computer hardware player was represented at GTC: Microsoft, IBM, Lenovo, Dell, HP. Absent: Apple. This struck me as strange because Apple uses Nvidia GPUs in their high-end products.
 
-Also strange: Most users and exhibitors were running Microsoft Windows.  Ubuntu Linux was the second most-dominant operating system, followed by macOS. Maybe my judgment is skewed because I have attended mostly web and mobile development conferences in the past few years, where macOS dominates by roughly 9:1. Interesting things are happening in Redmond, Washington. Especially in the GPU space.
+Also strange: Most users and exhibitors were running Microsoft Windows.  Ubuntu Linux was the second most-dominant operating system, followed by macOS. Maybe my judgment is skewed because I have attended mostly web and mobile development conferences in recent years, where 95% of the attendees use macOS. Interesting things are happening in Redmond, Washington. Especially in the GPU space.
 
 Also on display: Jetson Nano, configured as a JetBot. Check out the video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uwbv8v-ai6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uwbv8v-ai6E?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+In the video, the Jetson Nano "sees" the edge of the table surface and other obstacles, and it avoids them. The JetBot learned how to identify edges and obstacles through a deep learning algorighm running on the Nano. Nvidia made all of the software for this demo open source. Check out the GitHub repo for details: [https://github.com/NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot).
 
+### Incubating and Investing
 
-
-
-The GTC 2019 exhibitors were amazing.
-
-
+Nvidia realizes that they're selling picks & shovels to gold miners, and they've taken steps to invest in those ventures they consider promising. [Nvidia Inception](https://www.nvidia.com/en-us/deep-learning-ai/startups/) is an incubaator, and [Nvidia GPU Ventures](https://www.nvidia.com/en-us/about-nvidia/gpu-ventures/) invests money with select ventures.
 
 ### Dinner With Strangers
 
