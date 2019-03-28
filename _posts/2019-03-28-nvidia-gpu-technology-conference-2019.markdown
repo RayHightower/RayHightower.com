@@ -41,35 +41,29 @@ GTC is expensive. So it was important for me to have a clear purpose before sett
 
 ### Hands-on With Deep Learning
 
-Day one of my GTC experience was spent in a full-day deep learning, computer vision class. The class was lead by one of Nvidia's deep learning architects, [Alex Qi](https://www.linkedin.com/in/qiling/), an Enterprise Solutions Architect with Nvidia's deep learning team, led us through five exercises, each building on the previous one. Special thanks to [Mariofanna Milanova](https://www.linkedin.com/in/mariofanna-milanova-9a84865/), professor of AI and computer vision at the University of Arkansas, who  helped with a particularly thorny exercise. Key take-aways:
+Day one of my GTC experience was spent in a full-day deep learning, computer vision class. The class was lead by [Alex Qi](https://www.linkedin.com/in/qiling/), an Enterprise Solutions Architect with Nvidia's deep learning team. The instructor led us through five exercises, each building on the previous one. Special thanks to [Mariofanna Milanova](https://www.linkedin.com/in/mariofanna-milanova-9a84865/), professor of AI and computer vision at the University of Arkansas, who helped with a particularly thorny exercise. Key take-aways:
 
 * Models that are trained against a large number of examples will make better predictions than models trained against fewer examples. Experience is a great teacher with humans and with neural networks.
 * The convolution integral that was taught at universities decades ago is alive and well in convolutional neural networks. It's always cool to see the old concepts at work.
 * Learning, in a neural network, is a non-linear process of forward and backward propagation. Remarkably like human learning.
 * Repetition in learning makes a difference, with humans and with deep learning networks.
 
-There were a few technical glitches at the beginning of the session, mostly involving virtual machines at the cloud provider that didn't spin up. A few of us had to stop & start our connections multiple times in order to find a working VM.
+One challenge: Each student was only allowed to spin up one exercise (including one Jupyter Notebook and one cloud instance) at a time. This makes sense for financial reasons. Why spend money for multiple instances when the student is only working on one exercise at a time? However, some students (like me) learn best in a non-linear fashion. We bounce back and forth between the examples absorbing information from multiple sources until it clicks.
 
-The deep learning "cloud" is wonderful, but it might be some years before it achieves utility-level reliability.
+But the linear, lock-step, one instance at a time approach forces the student to do the following if they learn by bouncing around...
 
-Another problem with conducting a course like this with a cloud provider: Each student was only allowed to spin up one cloud instance at a time. This makes sense for financial reasons. Why spend money for multiple instances when the student is only working on one exercise at a time? However, some students (like me) learn best in a non-linear fashion. We bounce back and forth between the examples absorbing information until we get it.
+* Shut down the current instance, and wait (typically 5-10 seconds) for the shutdown to complete.
+* Spin up the second instance, and wait (typically 5-10 seconds) for the spin-up to complete.
 
-But the linear, lock-step, one instance at a time approach means you have to...
+That delay is a killer. Train-of-thought gets lost and learning is diminished. Linear learning is too slow, especially in a world of parallelism.
 
-* Shut down the current instance, and wait (typically 5-10 seconds).
-* Spin up the second instance, and wait (typically 5-10 seconds).
+Fortunately, the DLI instructors were excellent. Even with the cloud instance issues, the professionalism of the instructors turned the class into a good use of time and money.
 
-The delay is slow enough that train-of-thought is lost and learning is diminished. Linear learning is too slow.
-
-Fortunately the instructors were top-knotch. Even with the cloud provider glitches, the professionalism of the instructors turned the class into a good use of time and money.
-
-Even better: GTC included a surprise that might make cloud reliability (and linear learning) a moot point for future DLI courses.
-
-### Surprise: Jetson Nano
+### The Jetson Nano Surprise
 
 <img src="/images/nvidia-jetson-nano-vs-raspberry-pi.jpg" width="600" align="center" alt="Nvidia Jetson Nano with Raspberry Pi" title="Nvidia Jetson Nano with Raspberry Pi" />
 
-The Jetson Nano, announced during GTC 2019, is a single-board computer that's a little bit larger than a [Raspberry Pi](/blog/2018/03/28/quick-win-with-raspberry-pi-model-3/). It has four ARM cores, 128 Nvidia GPU cores, it runs Ubuntu Linux, and it sells for $99.
+The Jetson Nano (shown at left in the photo) is a single-board computer that's a little bit larger than a [Raspberry Pi](/blog/2018/03/28/quick-win-with-raspberry-pi-model-3/) (at right). The Nano has four ARM cores, 128 Nvidia GPU cores, it runs Ubuntu Linux, and it sells for $99.
 
 During the Nano annoucement, I immediately jumped on Amazon, Element14, Ada Fruit, _everywhere_ looking for a way to buy that board!  No such luck at the time; too soon! Fortunately, Nvidia had the boards for sale right outisde the auditorium after the announcement. Plenty of Jetson Nano inventory for everyone to go away happy.
 
@@ -81,7 +75,7 @@ Jetson Nano is especially attractive because it runs the entire CUDA-X suite of 
 
 <img src="/images/nvidia_gtc2019_exhibits.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Exhibits" title="Nvidia GTC 2019 - Exhibits" />
 
-Every major computer hardware player was represented at GTC: Microsoft, IBM, Lenovo, Dell, HP. Absent: Apple. This struck me as strange because Apple uses Nvidia GPUs in their high-end products.
+Every major computer hardware player was represented at GTC: IBM, Lenovo, Dell, HP, Cisco. Every major cloud player was present: Amazon, Google, Microsoft. Absent: Apple. This struck me as strange because Apple uses Nvidia GPUs in their high-end products.
 
 Also strange: Most users and exhibitors were running Microsoft Windows.  Ubuntu Linux was the second most-dominant operating system, followed by macOS. Maybe my judgment is skewed because I have attended mostly web and mobile development conferences in recent years, where 95% of the attendees use macOS. Interesting things are happening in Redmond, Washington. Especially in the GPU space.
 
@@ -89,7 +83,7 @@ Also on display: Jetson Nano, configured as a JetBot. Check out the video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uwbv8v-ai6E?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the video, the Jetson Nano "sees" the edge of the table surface and other obstacles, and it avoids them. The JetBot learned how to identify edges and obstacles through a deep learning algorighm running on the Nano. Nvidia made all of the software for this demo open source. Check out the GitHub repo for details: [https://github.com/NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot).
+In the video, the Jetson Nano "sees" the edge of the table surface and other obstacles, and it avoids them. The JetBot learned how to identify edges and obstacles through a deep learning algorithm running on the Nano. Nvidia made all of the software for this demo open source. Check out the GitHub repo for details: [https://github.com/NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot).
 
 ### Incubating and Investing
 
