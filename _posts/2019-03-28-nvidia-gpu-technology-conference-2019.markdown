@@ -29,6 +29,21 @@ Any problem that can be expressed with matrix math is a candidate for GPU accele
 * Gaming. Faster GPUs make the gaming experience more realistic. And when the gamers demand more performance, everybody wins.
 * Entertainment. The current crop of GPUs make a new level of realism possible at an ever decreasing cost.
 
+### GPU ROI Example: Pixar
+
+Jensen's keynote included an ROI chart for one of Nvidia's customers, Pixar.
+
+<img src="/images/nvidia_gtc2019_pixar_roi.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Academic Posters" title="Nvidia GTC 2019 - Academic Posters" />
+
+Highlights from this ROI example:
+
+* RTX is Nvidia's Ray Tracing Accelerator, based on their GPU technology.
+* Pixar spent 38 hours and $250,000 to render a particular scene with their old system.
+* With the newer, faster Nvidia RTX Server, Pixar can render the same scene in 6 hours at a cost of $30,000.
+* The power savings over five years is enough for Pixar to buy another RTX Server.
+
+Faster turnaround at a lower cost. Enough to make any CFO smile.
+
 ### Learning With Intent
 
 GTC is expensive. So it was important for me to have a clear purpose before setting foot in the door. Further, GTC offers depth across a wide spectrum of material... overwhelming for anyone who tries to digest everything at once. Given these constraints, I only registered & paid for those portions of the conference that met my needs. My pre-conference objectives:
@@ -103,21 +118,6 @@ GTC took the networking a step further by offering a special program: _Dinner Wi
 <img src="/images/nvidia_gtc2019_academic_posters.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Academic Posters" title="Nvidia GTC 2019 - Academic Posters" />
 
 Academic posters filled the hallways between the exhibit hall and the lecture rooms. There wasn't enough time to review all of the posters. But the ones I saw covered an amazing level of detail in a tiny space. GTC awarded $5,000 to the creator of the best academic poster, determined via voting by the conference attendees.
-
-### GPU ROI
-
-Jensen's keynote (I keep returning to the keynote because it was _full_ of
-good info) included an ROI chart for one of Nvidia's customers, Pixar.
-
-<img src="/images/nvidia_gtc2019_pixar_roi.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Academic Posters" title="Nvidia GTC 2019 - Academic Posters" />
-
-Here are the highlights from this ROI example:
-
-* Pixar spent 38 hours and $250,000 to render a particular scene with their old system.
-* With the newer, faster ray tracing Nvidia RTX system, they can render
-the same scene in 6 hours at a cost of $30,000.
-
-Faster turnaround at a lower cost. Enough to make any CFO smile.
 
 ### Conclusion
 
