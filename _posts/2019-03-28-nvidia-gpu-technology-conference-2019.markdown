@@ -23,7 +23,7 @@ The idea of a graphical processing unit has been around since at least the 1970s
 
 Any problem that can be expressed with matrix math is a candidate for GPU acceleration. Hardware companies began to pursue new markets for their rapidly improving GPUs, including:
 
-* Geology. Especially petroleum exploration. Sound waves are sent into rock formations, the echos are recorded and displayed as images rendered by GPUs. Deposits of oil, minerals, water, and other resources are found this way.
+* Geology. Especially petroleum exploration. Sound waves are sent into rock formations, the echoes are recorded and displayed as images rendered by GPUs. Deposits of oil, minerals, water, and other resources are found this way.
 * Autonomous driving. GPUs store information about the cars on the road as entries in a matrix. From there, GPUs provide data to enable decisions that keep people safe on the road.
 * Medical imaging. Anything involving imaging is ripe for acceleration by GPUs.
 * Gaming. Faster GPUs make the gaming experience more realistic. And when the gamers demand more performance, everybody wins.
