@@ -48,7 +48,7 @@ Faster turnaround at a lower cost. Enough to make any CFO smile.
 
 GTC is expensive. So it was important for me to have a clear purpose before setting foot in the door. Further, GTC offers depth across a wide spectrum of material... overwhelming for anyone who tries to digest everything at once. Given these constraints, I only registered & paid for those portions of the conference that met my needs. My pre-conference objectives:
 
-* To get some hands-on exposure to deep learning. I've read articles and watched presentations on the subject. Reviewed a book, [AI Superpowers](/blog/2019/03/11/ai-superpowers-by-kai-fu-lee/), which describes how deep learning will effect our planet socially and economically. Enough study, time to get the hands dirty.
+* To get some hands-on exposure to deep learning. I've read articles and watched presentations on the subject. Reviewed a book, [AI Superpowers](/blog/2019/03/11/ai-superpowers-by-kai-fu-lee/), which describes how deep learning will change our planet socially and economically. Enough study, time to get the hands dirty.
 * To learn more about the problems being solved by GPUs. I knew about medical imaging and autonomous driving. What about new solutions for people in business and other fields?
 * To figure out how my 8th Light colleagues and I might use GPUs and [parallelism](/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/) to solve problems for current and future clients. Parallelism has fascinated me for years, and my interest grows as the price barrier continues to fall.
 * To meet people in the GPU space, to learn from them, and to (perhaps) add value to their work. One never knows how people might help each other.
