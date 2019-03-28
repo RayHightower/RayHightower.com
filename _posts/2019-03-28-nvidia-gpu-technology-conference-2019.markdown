@@ -56,7 +56,7 @@ GTC is expensive. Therefore it was important for me to have a clear purpose befo
 
 ### Hands-on With Deep Learning
 
-Day one of my GTC experience was spent in a full-day deep learning, computer vision class. The class was lead by [Alex Qi](https://www.linkedin.com/in/qiling/), an Enterprise Solutions Architect with Nvidia's deep learning team. The instructor led us through five exercises, each building on the previous one. Special thanks to [Mariofanna Milanova](https://www.linkedin.com/in/mariofanna-milanova-9a84865/), professor of AI and computer vision at the University of Arkansas, who helped with a particularly thorny exercise. Key take-aways:
+Day one of my GTC experience was spent in a full-day deep learning, computer vision class. The class was led by [Alex Qi](https://www.linkedin.com/in/qiling/), an Enterprise Solutions Architect with Nvidia's deep learning team. The instructor led us through five exercises, each building on the previous one. Special thanks to [Mariofanna Milanova](https://www.linkedin.com/in/mariofanna-milanova-9a84865/), professor of AI and computer vision at the University of Arkansas, who helped with a particularly thorny exercise. Key take-aways:
 
 * Models that are trained against a large number of examples will make better predictions than models trained against fewer examples. Experience is a great teacher with humans and with neural networks.
 * The convolution integral that was taught at universities decades ago is alive and well in convolutional neural networks. It's always cool to see the old concepts at work.
