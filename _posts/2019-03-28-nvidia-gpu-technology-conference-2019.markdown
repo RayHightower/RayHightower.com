@@ -41,12 +41,11 @@ GTC is expensive. So it was important for me to have a clear purpose before sett
 
 ### Hands-on With Deep Learning
 
-Day one of my GTC experience was spent in a full-day deep learning, computer vision class. The class was lead by one of Nvidia's deep learning architects, [Alex Qi](https://www.linkedin.com/in/qiling/), an Enterprise Solutions Architect with Nvidia's deep learning team, led us through five exercises, each building on the previous one. Special thanks to [Mariofanna Milanova](https://www.linkedin.com/in/mariofanna-milanova-9a84865/), a professor of AI and computer vision at University of Arkansas, who provided help with a particularly thorny exercise. Key takaways:
+Day one of my GTC experience was spent in a full-day deep learning, computer vision class. The class was lead by one of Nvidia's deep learning architects, [Alex Qi](https://www.linkedin.com/in/qiling/), an Enterprise Solutions Architect with Nvidia's deep learning team, led us through five exercises, each building on the previous one. Special thanks to [Mariofanna Milanova](https://www.linkedin.com/in/mariofanna-milanova-9a84865/), professor of AI and computer vision at the University of Arkansas, who  helped with a particularly thorny exercise. Key take-aways:
 
-* Models that are trained agains a large number of examples will make better predictions than models trained with fewer examples.
-* The convolution integral that I learned in college is alive and well in convolutional neural networks. It's alwasy cool to see that the old concepts work, over & over again.
-* Learning, in a neural network, is a non-linear process of forward and
-backward propagation.
+* Models that are trained against a large number of examples will make better predictions than models trained against fewer examples. Experience is a great teacher with humans and with neural networks.
+* The convolution integral that was taught at universities decades ago is alive and well in convolutional neural networks. It's always cool to see the old concepts at work.
+* Learning, in a neural network, is a non-linear process of forward and backward propagation. Remarkably like human learning.
 * Repetition in learning makes a difference, with humans and with deep learning networks.
 
 There were a few technical glitches at the beginning of the session, mostly involving virtual machines at the cloud provider that didn't spin up. A few of us had to stop & start our connections multiple times in order to find a working VM.
@@ -79,6 +78,8 @@ Wouldn't it be cool for Nvidia to offer future Deep Learning Institute courses o
 Jetson Nano is especially attractive because it runs the entire CUDA-X suite of GPU applications. I am currently putting my board to the test, and you'll see a post on this blog very soon.
 
 ### Exhibitors: Solving Real-World Problems
+
+<img src="/images/nvidia_gtc2019_exhibits.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Exhibits" title="Nvidia GTC 2019 - Exhibits" />
 
 Every major computer hardware player was represented at GTC: Microsoft, IBM, Lenovo, Dell, HP. Absent: Apple. This struck me as strange because Apple uses Nvidia GPUs in their high-end products.
 
