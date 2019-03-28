@@ -82,6 +82,20 @@ Jetson Nano is especially attractive because it runs the entire CUDA-X suite of 
 
 <img src="/images/nvidia_gtc2019_exhibits.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Exhibits" title="Nvidia GTC 2019 - Exhibits" />
 
+Every major player in computing was represented at GTC: Microsoft, IBM,
+Lenovo, Dell, HP. Absent: Apple. This struck me as strange because Apple
+uses Nvidia GPUs in its high-end products.
+
+Also strange: Most users and exhibitors were running Microsoft Windows.  Ubuntu Linux was the second most-dominant operating system, followed by macOS. Maybe my judgment is skewed because I have attended mostly web and mobile development conferences in the past few years, where macOS dominates by roughly 9:1. Interesting things are happening in Redmond, Washington. Especially in the GPU space.
+
+Also on display: Jetson Nano, configured as a JetBot. Check out the video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uwbv8v-ai6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 The GTC 2019 exhibitors were amazing.
 
 
@@ -118,4 +132,4 @@ Faster turnaround at a lower cost. Enough to make any CFO smile.
 
 ### Conclusion
 
-If you are interested in GPUs, parallelism, or any field that can benefit from GPUs and parallelism, then I would encourage you to explore Nvidia's GPU Technology Conference. Look at the agenda in advance and decide whether you want to attend the sessions, DLI workshops, or just the exhibits. The exhbits alone are worth the trip, especially when you consider the people you meet in the process. Contgrats, Nvidia, on a well-executed event.
+If you are interested in GPUs, parallelism, or any field that can benefit from the two, then I would encourage you to explore Nvidia's GPU Technology Conference. Look at the agenda in advance and decide whether you want to attend the sessions, DLI workshops, or just the exhibits. The exhbits alone are worth the trip, especially when you consider the people you meet in the process. And be sure to sign up for _Dinner With Strangers_. Congrats, Nvidia, on a well-executed event.
