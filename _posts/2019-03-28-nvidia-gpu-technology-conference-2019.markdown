@@ -11,7 +11,7 @@ published: true
 
 >What do people do when they have a terabyte of data coming in every day? They ignore it. Because they know there's another terabyte coming in tomorrow. Pretty soon, they’ll be infinitely behind!<br/>~Jensen Huang, CEO of Nvidia
 
-The best humor contains a kernel of truth. Jensen Huang shared the above observation during his keynote at [Nvidia's GPU Technology Conference](https://blogs.nvidia.com/blog/2019/03/18/gtc-2019-datacenter-jensen-huang-keynote/) last week in San Jose, CA. The 9,000-person audience laughed knowingly!
+The best humor contains a kernel of truth. [Jensen Huang](https://www.linkedin.com/in/jenhsunhuang/) shared the above observation during his keynote at [Nvidia's GPU Technology Conference](https://blogs.nvidia.com/blog/2019/03/18/gtc-2019-datacenter-jensen-huang-keynote/) last week in San Jose, CA. The 9,000-person audience laughed knowingly!
 
 Every industry has been hit by a tsunami of data, a tsunami offering advantages and challenges. Advantage: The volume of data means we can quantify our work and our decisions like never before. The challenge: Turning data into actionable information takes work. GTC 2019 was a gathering for people exploring ways to meet the challenge. This article offers a summary of the event.
 <!--more-->
