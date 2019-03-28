@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Nvidia GPU Technology Conference 2019
-date:   2019-03-27
+date:   2019-03-28
 comments: true
 tags: [ GPU, Business ]
 published: true
@@ -53,22 +53,26 @@ There were a few technical glitches at the beginning of the session, mostly invo
 
 The deep learning "cloud" is wonderful, but it might be some years before it achieves utility-level reliability.
 
-Another problem with conducting a course like this with a cloud provider: Each student was only allowed to spin up one cloud instance at a time. This makes sense for financial reasons. Why spend money for multiple instances when (in theory) the student is only working on one exercise at a time. However, some students learn best when they can bounce back and forth between the examples in an _almost_ random fashion. Limiting students to only one instance at a time means you have to...
+Another problem with conducting a course like this with a cloud provider: Each student was only allowed to spin up one cloud instance at a time. This makes sense for financial reasons. Why spend money for multiple instances when the student is only working on one exercise at a time? However, some students (like me) learn best in a non-linear fashion. We bounce back and forth between the examples absorbing information until we get it.
+
+But the linear, lock-step, one instance at a time approach means you have to...
 
 * Shut down the current instance, and wait (typically 5-10 seconds).
 * Spin up the second instance, and wait (typically 5-10 seconds).
 
-The delay is slow enough that train-of-thought is lost and learning is diminished.
+The delay is slow enough that train-of-thought is lost and learning is diminished. Linear learning is too slow.
 
-Fortunately, GTC included a surprise that might make cloud reliability a moot point for future DLI courses.
+Fortunately the instructors were top-knotch. Even with the cloud provider glitches, the professionalism of the instructors turned the class into a good use of time and money.
+
+Even better: GTC included a surprise that might make cloud reliability (and linear learning) a moot point for future DLI courses.
 
 ### Surprise: Jetson Nano
 
 <img src="/images/nvidia-jetson-nano-vs-raspberry-pi.jpg" width="600" align="center" alt="Nvidia Jetson Nano with Raspberry Pi" title="Nvidia Jetson Nano with Raspberry Pi" />
 
-The Jetson Nano, announced during GTC 2019, is a single-board computer that's a little bit larger than a [Raspberry Pi](/blog/2018/03/28/quick-win-with-raspberry-pi-model-3/). It has four ARM cores, 128 Nvidia GPU cores, it runs Linux, and it sells for $99.
+The Jetson Nano, announced during GTC 2019, is a single-board computer that's a little bit larger than a [Raspberry Pi](/blog/2018/03/28/quick-win-with-raspberry-pi-model-3/). It has four ARM cores, 128 Nvidia GPU cores, it runs Ubuntu Linux, and it sells for $99.
 
-During the Nano annoucement, I immediately jumped on Amazon, Element14, Ada Fruit, _everywhere_ looking for a way to buy that board!  No such luck. Fortunately, Nvidia had the boards for sale right outisde the auditorium after the announcement. Plenty of inventory for everyone to go away happy.
+During the Nano annoucement, I immediately jumped on Amazon, Element14, Ada Fruit, _everywhere_ looking for a way to buy that board!  No such luck at the time; too soon! Fortunately, Nvidia had the boards for sale right outisde the auditorium after the announcement. Plenty of Jetson Nano inventory for everyone to go away happy.
 
 Wouldn't it be cool for Nvidia to offer future Deep Learning Institute courses on the Jetson Nano instead of being dependent on a cloud provider's reliability?
 
@@ -78,6 +82,7 @@ Jetson Nano is especially attractive because it runs the entire CUDA-X suite of 
 
 <img src="/images/nvidia_gtc2019_exhibits.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Exhibits" title="Nvidia GTC 2019 - Exhibits" />
 
+The GTC 2019 exhibitors were amazing.
 
 
 
@@ -94,28 +99,23 @@ GTC took the networking a step further by offering a special program: _Dinner Wi
 
 <img src="/images/nvidia_gtc2019_academic_posters.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Academic Posters" title="Nvidia GTC 2019 - Academic Posters" />
 
-Academic posters filled the hallways between the exhibit hall and the lecture rooms. There wasn't enough time to review all of the posters. But the ones I saw covered an amazing level of detail in a tiny space. The conference awarded $5,000 to the creator of the best academic poster, determined via voting by the conference attendees.
+Academic posters filled the hallways between the exhibit hall and the lecture rooms. There wasn't enough time to review all of the posters. But the ones I saw covered an amazing level of detail in a tiny space. GTC awarded $5,000 to the creator of the best academic poster, determined via voting by the conference attendees.
 
 ### GPU ROI
 
-Jensen's keynote included 
+Jensen's keynote (I keep returning to the keynote because it was _full_ of
+good info) included an ROI chart for one of Nvidia's customers, Pixar.
 
+<img src="/images/nvidia_gtc2019_pixar_roi.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Academic Posters" title="Nvidia GTC 2019 - Academic Posters" />
 
+Here are the highlights from this ROI example:
+
+* Pixar spent 38 hours and $250,000 to render a particular scene with their old system.
+* With the newer, faster ray tracing Nvidia RTX system, they can render
+the same scene in 6 hours at a cost of $30,000.
+
+Faster turnaround at a lower cost. Enough to make any CFO smile.
 
 ### Conclusion
 
-
-
-
-## Out-Takes
-
-Even with my concerns, the course was worth the fee because the instructures exposed the class to useful new material.
-
-ar. Other instructors covered the room, answering questions as they arose.  presented the concepts with clear examples.  She took ust through five exercises through
-
-
-My concerns with the DL/CV class have nothing to do with the course material, and more to do with the setup of the lab environment.
-
-
-
-
+If you are interested in GPUs, parallelism, or any field that can benefit from GPUs and parallelism, then I would encourage you to explore Nvidia's GPU Technology Conference. Look at the agenda in advance and decide whether you want to attend the sessions, DLI workshops, or just the exhibits. The exhbits alone are worth the trip, especially when you consider the people you meet in the process. Contgrats, Nvidia, on a well-executed event.
