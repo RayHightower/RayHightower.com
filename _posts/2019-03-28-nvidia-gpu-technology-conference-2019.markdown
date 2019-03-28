@@ -17,7 +17,7 @@ Every industry has been hit by a tsunami of data, a tsunami offering advantages 
 <!--more-->
 ### GPUs: Quick History
 
-Skip this section if you already know about GPUs.
+Skip this section the history is already familiar to you.
 
 The idea of a graphical processing unit has been around since at least the 1970s. For quality graphics, we need matrix mathematics performed at a high rate of speed. It made sense to delegate that work to specialized hardware so that the CPU can focus on general tasks. GPUs grew in popularity during the 1990s as personal computer prices dropped low enough to make them attractive to gamers. Gamers always want more power, so PC companies competed to meet the demand.
 
