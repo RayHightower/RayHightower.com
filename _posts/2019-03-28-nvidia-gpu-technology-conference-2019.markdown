@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/autonomous_vehicles.jpg" width="600" align="center" alt="Nvidia GPU Technology Conference 2019 - Autonomous Vehicles" title="Nvidia GPU Technology Conference 2019 - Autonomous Vehicles" />
 
->What do people do when they have a terabyte of data coming in every day? They ignore it. Because they know there's another terabyte coming in tomorrow. Pretty soon, they’ll be infinitely behind!<br/>~Jensen Huang, CEO of Nvidia
+>What do people do when they have a terabyte of data coming in every day? They ignore it, because they know there's another terabyte coming in tomorrow. Pretty soon, they’ll be infinitely behind!<br/>~Jensen Huang, CEO of Nvidia
 
 The best humor contains a kernel of truth. [Jensen Huang](https://www.linkedin.com/in/jenhsunhuang/) shared the above observation during his keynote at [Nvidia's GPU Technology Conference](https://blogs.nvidia.com/blog/2019/03/18/gtc-2019-datacenter-jensen-huang-keynote/) last week in San Jose, CA. The 9,000-person audience laughed knowingly!
 
