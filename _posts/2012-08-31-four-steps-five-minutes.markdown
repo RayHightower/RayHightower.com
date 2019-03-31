@@ -10,6 +10,8 @@ Nine out of ten startups fail in the first year. Why? More important, what can w
 <iframe name="foursteps" width="560" height="349" src="http://www.youtube.com/embed/uIYUTKP1pl8?rel=0" frameborder="0" allowfullscreen></iframe>
 <br/>&nbsp;
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uIYUTKP1pl8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!--more-->
 
 ### About the Author of _The Four Steps to the Epiphany_
