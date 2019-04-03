@@ -30,7 +30,7 @@ I spotted a fair number of typos in the book's code examples. Typos in human-rea
 
 Suggestion for the publishers: Setup a [GitHub](http://github.com) repo with the code samples. That way, if typos in code are discovered (always certain because we're human) the typos can be corrected and shared immediately.
 
-###Conclusion
+### Conclusion
 The bottom line: _HTML5 & CSS3: The Complete Manual_ is worth reading, especially if you need a quick way to keep up with web trends.
 
 
