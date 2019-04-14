@@ -33,7 +33,7 @@ Any problem that can be expressed with matrix math is a candidate for GPU accele
 
 Jensen's keynote included an ROI chart for one of Nvidia's customers, Pixar.
 
-<img src="/images/nvidia_gtc2019_pixar_roi.jpg" width="600" align="center" alt="Nvidia GTC 2019 - Academic Posters" title="Nvidia GTC 2019 - Academic Posters" />
+<img src="/images/nvidia_gtc2019_pixar_roi.png" width="600" align="center" alt="Nvidia GTC 2019 - Pixar" title="Nvidia GTC 2019 - Pixar" />
 
 Highlights from this ROI example:
 
