@@ -7,7 +7,7 @@ tags: [ Jetson Nano, Raspberry Pi ]
 published: true
 ---
 
-Exciting things are happening in the world of parallel programming. The organizers of [IndyCode()](https://indycode.amegala.com/) gave me the opportunity to share some updates with their audience this year. Thank you Ken Versaw, Lois Versaw, and the entire team of organizers for inviting me to speak.
+Exciting things are happening in the world of parallel programming. The organizers of [IndyCode()](https://indycode.amegala.com/) gave me the opportunity to share some updates with their audience this year. Thank you Ken Versaw, Lois Versaw, and the entire team of organizers for inviting me to speak!
 
 Slides from the talk appear below. 
 
