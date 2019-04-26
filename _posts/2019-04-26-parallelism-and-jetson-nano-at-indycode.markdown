@@ -20,5 +20,5 @@ Slides from the talk appear below.
 If you're interested in the tools I used to develop the talk and the
 experiments, jump ahead to [slide number 67](https://speakerdeck.com/rayhightower/exploring-parallelism-at-indycode?slide=67).
 
-And feel free to post here if you see anything that I missed. Thanks!
+Feel free to post here if you see anything that I missed. Thanks!
 
