@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Parallelism, Raspberry Pi, and Jetson Nano at IndyCode
+title:  Parallelism, Raspberry Pi, and Jetson Nano at IndyCode()
 date:   2019-04-26
 comments: true
 tags: [ Jetson Nano, Raspberry Pi ]
