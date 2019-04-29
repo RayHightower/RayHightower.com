@@ -4,7 +4,7 @@ title:  Nvidia Jetson Nano - Getting Started and Avoiding Gotchas
 date:   2019-05-01
 comments: true
 tags: [ GPU, Parallelism ]
-published: true
+published: false
 ---
 
 <img src="/images/nvidia-jetson-nano-developer-kit.jpg" width="600" align="center" alt="Screenshot: Nvidia Jetson Nano Developer Kit" title="Screenshot: Nvidia Jetson Nano Developer Kit" />
@@ -22,12 +22,21 @@ CUDA is...
 
 <!--more-->
 
-### Gotchas
+### Gotcha: WiFi Not Included
 
-* Missing WiFi.
+* No WiFi. If you want WiFi on your 
+
+### Gotcha: Power Requirements
+
+
+
+
+
 * Large form factor. Not a complaint, but an observation. The Jetson Nano is about 60% larger than the Raspberry Pi Model 3, and the Nano requires a larger heatsink.
 
 More about the GPU and the Jetson Nano...
+
+
 
 ### Jetson Nano vs Raspberry Pi
 
