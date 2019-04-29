@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Nvidia Jetson Nano - Getting Started and Avoiding Gotchas
-date:   2019-04-22
+date:   2019-05-01
 comments: true
 tags: [ GPU, Parallelism ]
 published: true
