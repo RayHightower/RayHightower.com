@@ -36,7 +36,7 @@ additional items you'll need to get up and running.
 * USB keyboard
 * USB mouse
 * Ethernet cable (for wired connections)
-* WiFi dongle or M.2 card. Details discussed below.
+* EDIMax WiFi dongle or M.2 card. Details discussed below.
 * Case or other mounting device. I used wooden screws to fasten my Nano to a block of wood. That way, people can handle the device without touching the circuit board, traces, ICs, etc.
 
 ### Gotcha: Power Requirements
