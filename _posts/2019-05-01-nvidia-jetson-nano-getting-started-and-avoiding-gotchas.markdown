@@ -33,11 +33,11 @@ additional items you'll need to get up and running.
 * SD card with at least least 64GB of storage capacity. I prefer the SanDisk Class 10 cards.
 * Power adapter. A micro-USB cable will work in a crunch and for less intensive tasks. But for intensive tasks, you'll need a ((barrel connetor adapater)). The "why" behind this choice is given in the next section.
 * HDMI or DisplayPort cable. Or both, because the Nano is powerful enough to drive two monitors at once.
-* USB keyboard
-* USB mouse
+* HDMI or DisplayPort monitor.
+* USB keyboard & mouse
 * Ethernet cable (for wired connections)
 * EDIMax WiFi dongle or M.2 card. Details discussed below.
-* Case or other mounting device. I used wooden screws to fasten my Nano to a block of wood. That way, people can handle the device without touching the circuit board, traces, ICs, etc.
+* Case or other mounting device. I fastned my Nano to a block of wood with screws. That way, folks can handle the device without touching the circuit board. Friends at [BLUE](http://thebluelacuna.com) 3D-printed a case that I plan to use for my second Nano.
 
 ### Gotcha: Power Requirements
 
