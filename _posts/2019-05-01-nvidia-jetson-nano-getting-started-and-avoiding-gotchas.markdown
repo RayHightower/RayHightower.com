@@ -9,11 +9,11 @@ published: true
 
 <img src="/images/nvidia-jetson-nano-developer-kit.jpg" width="600" align="center" alt="Screenshot: Nvidia Jetson Nano Developer Kit" title="Screenshot: Nvidia Jetson Nano Developer Kit" />
 
-The Nvidia Jetson Nano is a single board computer, slightly larger than a Raspberry Pi. It has 128 GPU cores, it runs Linux, and it supports CUDA, the Nvidia library that lets you write GPU-accelerated code in high level languages. Finally, at $99, the Nano puts GPU accelertion in the hands of a much larger community of software developers who hunger for performance.
+The Nvidia Jetson Nano is a single board computer slightly larger than a Raspberry Pi. It has 128 GPU cores, it runs Linux, and it supports CUDA, the Nvidia library that lets you write GPU-accelerated code in high level languages. Further, the Nano's $99 price makes GPUs available for some cool hobbyist experiments. When powerful technology becomes available to hobbyists, exciting products (and even industries) can be born.
 
-### Objectives of This Post
+### What This Article Will Do
 
-This article will show the reader how to get started with the Jetson Nano. In the end, you will be able to:
+This article will show the reader how to get started with the Jetson Nano. You will be able to:
 
 * Burn an SD card with the appropriate Linux4Tegra image.
 * Compile and run the GPU-accelerated demos that come with the image.
@@ -57,6 +57,35 @@ Surprise! The Jetson Nano does not come with built-in WiFi out of the
 box. If you want WiFi on your Nano, here are a few options:
 
 * M.2 Card
+
+
+### Gotcha: Running the Demos
+
+Running the Nano's demos from their original directory will require you
+to use `sudo` for compilation and execution. Not a good use of sudo, in
+my opinion. To avoid this extra step, copy the demos into your `$HOME`
+directory like so:
+
+
+```
+
+
+```
+
+Next, you can compile and run the `smoke` demo as follows:
+
+```
+
+
+```
+
+Note that compilation can take a few minutes (or even as long as 30 minutes) for some of the demos. Compilation for GPU-accelerated programs requires these major steps:
+
+* Compliing executables for the host. In the case of the Nano, this step users `gcc`, the GNU C Compiler, to target the four ARM-based cores where the Linux4Tegra operating system runs.
+* Using `nvcc`, the Nvidia C compiler, to compile those parts of the code that will run on the GPU.
+* Linking the two machine-readable files with the appropriate libraries to form a single object file that can be executed.
+
+
 
 
 ### How to Instal the M.2 Card
