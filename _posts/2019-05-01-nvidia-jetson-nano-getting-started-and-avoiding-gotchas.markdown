@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Nvidia Jetson Nano - Getting Started and Avoiding Gotchas
+title:  Nvidia Jetson Nano - Getting Started &amp; Avoiding Gotchas
 date:   2019-05-01
 comments: true
 tags: [ GPU, Parallelism ]
@@ -9,23 +9,25 @@ published: true
 
 <img src="/images/nvidia-jetson-nano-developer-kit.jpg" width="600" align="center" alt="Screenshot: Nvidia Jetson Nano Developer Kit" title="Screenshot: Nvidia Jetson Nano Developer Kit" />
 
-The Nvidia Jetson Nano is a single board computer slightly larger than a Raspberry Pi. It has 128 GPU cores, it runs Linux, and it supports CUDA, the Nvidia library that lets you write GPU-accelerated code in high level languages. Further, the Nano's $99 price makes GPUs available for some cool hobbyist experiments. When powerful technology becomes available to hobbyists, exciting products (and even industries) can be born.
+The Nvidia Jetson Nano is a single board computer slightly larger than a Raspberry Pi. This Linux-powered device has 128 GPU cores that support CUDA, the Nvidia library that lets developers write GPU-accelerated code in high level languages. Further, the Nano's $99 price makes GPUs available for some cool hobbyist experiments. When powerful technology becomes available to hobbyists, exciting products (and even industries) can be born.
 
-### What This Article Will Do
+### Jetson Nano, Up & Running
 
-This article will show the reader how to get started with the Jetson Nano. You will be able to:
+This article will show the reader how to get started with the Jetson Nano as rapidly as possible. You will be able to:
 
 * Burn an SD card with the appropriate Linux4Tegra image.
 * Compile and run the GPU-accelerated demos that come with the image.
 * Write, compile, and run a GPU-accelerated program using Nvidia's CUDA library.
 * Measure the performance improvement that comes from GPU-accelerated code.
-* Save time by avoiding some of the gotchas that got me.
+* Save time by avoiding some of the _gotchas_ that got me.
 
 Let's get started!
 
 <!--more-->
 
-### Product Highlights
+### Jetson Nano Product Highlights
+
+Here are some Jetson Nano specs at a glance:
 
 * 4 ARM cores + 128 GPU cores.
 * Support for CUDA, the Nvidia library that lets you write GPU-accelerated code in high level languages like C, C++, Python, Java, Ruby.
@@ -33,6 +35,12 @@ Let's get started!
 * A camera connector that's compatible with the standard Raspberry Pi camera.
 * Operating system: Linux4Tegra, an Ubuntu-based distro customized by Nvidia.
 * Price: $99.
+
+### What is CUDA? Why does CUDA exist?
+
+CUDA stands for Compute Unified Device Architecture. In the early days of GPU-accelerated computing, deveopers would need to study _how_ graphics acceleration works in order to adapt non-graphics problems to GPUs. CUDA adds a layer of abstraction so that you can write software for GPUs without studying the principles of computer graphics.
+
+Nvidia created CUDA, so CUDA only runs on GPU products from Nvidia.
 
 ### Shut Up and Take My Money
 
@@ -53,18 +61,18 @@ CUDA is...
 
 ### Gotcha: WiFi Not Included
 
-Surprise! The Jetson Nano does not come with built-in WiFi out of the
-box. If you want WiFi on your Nano, here are a few options:
+It was surprising to learn that the Jetson Nano did not come with
+built-in Wifi, like the Raspberry Pi Model 3. To add WiFi to your Nano, here are a few options:
 
-* M.2 Card
+<img src="/images/intel-m2-for-jetson_nano.jpg" width="200" align="righht" alt="Intel M.2 card adds WiFi and Bluetooth to Jetson Nano" title="Intel M.2 card adds WiFi and Bluetooth to Jetson Nano" />
+* M.2 Card. Similar to the WiFi/Bluetooth card found inside many laptop computers. Installing the card on the Nano is relatively simple. But adding antennas to the M.2 card caused me to question how/why M.2 devices are sold! Fortunately, there's an easier way to add WiFi to the Jetson Nano.
+
+* 
 
 
 ### Gotcha: Running the Demos
 
-Running the Nano's demos from their original directory will require you
-to use `sudo` for compilation and execution. Not a good use of sudo, in
-my opinion. To avoid this extra step, copy the demos into your `$HOME`
-directory like so:
+Running the Nano's demos from their original directory will require you to use `sudo` for compilation and execution. Not a good use of sudo, in my opinion. To avoid this extra step, copy the demos into your `$HOME` directory like so:
 
 
 ```
