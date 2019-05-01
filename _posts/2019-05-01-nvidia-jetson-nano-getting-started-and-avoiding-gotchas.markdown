@@ -4,7 +4,7 @@ title:  Nvidia Jetson Nano - Getting Started &amp; Avoiding Gotchas
 date:   2019-05-01
 comments: true
 tags: [ GPU, Parallelism ]
-published: false
+published: true
 ---
 
 <img src="/images/nvidia-jetson-nano-developer-kit.jpg" width="600" align="center" alt="Screenshot: Nvidia Jetson Nano Developer Kit" title="Screenshot: Nvidia Jetson Nano Developer Kit" />
@@ -30,8 +30,8 @@ Let's get started!
 The Jetson Nano box includes the Nano and that's about it. Here are the
 additional items you'll need to get up and running.
 
-* SD card with at least least 64GB of storage capacity. I prefer the SanDisk Class 10 cards.
-* Power adapter. A micro-USB cable will work in a crunch and for less intensive tasks. But for intensive tasks, you'll need a ((barrel connetor adapater)). The "why" behind this choice is given in the next section.
+* One micro-SD card with at least least 64GB of storage capacity. SanDisk Class 10 cards work well for me.
+* Power adapter. A micro-USB cable will provide sufficient power for less intensive tasks. But for intensive tasks, you'll need a ((barrel connetor adapater)). The "why" behind this choice is given in the next section.
 * HDMI or DisplayPort cable. Or both, because the Nano is powerful enough to drive two monitors at once.
 * HDMI or DisplayPort monitor.
 * USB keyboard & mouse
@@ -67,6 +67,10 @@ Here are some Jetson Nano specs at a glance:
 * Price: $99.
 
 You might think of the 128-core GPU as specialist that performs a certain task extremely fast and extremely well. Most of the code runs on the ARM cores. But when the time comes for rapid floating point mathematics, we call in the GPU.
+
+### Keyboard Shortcuts
+
+`Ctrl + Alt + T` Open a terminal window. 
 
 
 
