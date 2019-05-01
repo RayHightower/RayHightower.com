@@ -133,6 +133,7 @@ Note that compilation can take a few minutes (or even as long as 30 minutes) for
 
 ### Installing VNC (w/a Few Gotchas)
 
+For VNC, you need...
 
 
 
