@@ -94,6 +94,12 @@ CUDA stands for Compute Unified Device Architecture. In the early days of GPU-ac
 
 Nvidia created CUDA, so CUDA only runs on GPU products from Nvidia.
 
+### Sound Thru HDMI
+
+The Nano's HDMI port carries both sound and video. To enable sound, navigate to ` Settings  | Sound ` and choose `HDMI/DisplayPort` in the `Play sound through` section of the dialog box.
+
+
+
 ### Gotcha: WiFi Not Included
 
 It was surprising to learn that the Jetson Nano did not come with built-in Wifi, like the Raspberry Pi Model 3. Fortunately, the device comes with gigabit Ethernet, so you can plug it directly into your router while you're waiting for a WiFi device to arrive.
