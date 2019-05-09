@@ -41,11 +41,13 @@ additional items you'll need to get up and running.
 
 ### Gotcha: Power Requirements
 
-There are two ways to apply power to the Nano (voltage in both cases = 5V):
+There are three ways to apply power to the Nano (voltage in both cases = 5V):
 
 * Micro-USB. The _gotcha_: At most, this method will provide 2A of current to the Jetson Nano. GPU-intensive tasks will require more current. And if you exceed the current that can be provided by the power source, the Nano will either hang or shut down entirely.
 
 * 3.5mm Barrel connector (verify size!!!!!!!). This source will supply up to 4A of current, more than enough for any task that can be run on the Nano.
+
+* Power Over Ethernet (POE).
 
 The micro-USB option is enabled by default. To switch to the higher-amperager barrel connector, apply a jumper to pins XX and YY as shown in the above photo.
 
