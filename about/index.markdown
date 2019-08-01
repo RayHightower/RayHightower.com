@@ -22,7 +22,7 @@ Hightower launched WisdomGroup as a network consultancy in 1994. He earned the M
 
 After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries: healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the company, culminating in the acquisition by 8th Light in 2016.
 
-Hightower launched [Bridgetown Partners](https://bridgetownpartners.com) in 2019. The new venture operates at the intersection of commercial real estate and software development.
+Hightower's latest venture, [Bridgetown Partners](https://bridgetownpartners.com), serves clients at the intersection of commercial real estate and software development.
 
 ### Other Stuff
 
