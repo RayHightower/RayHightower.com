@@ -6,7 +6,7 @@ title: About
 
 ### Quick Summary
 
-Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://wisdomgroup.com), for twenty-one years before selling the company to [8th Light](http://8thlight.com) in 2016. Today, Hightower serves as Director of the 8th Light office in Los Angeles, California.
+Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://wisdomgroup.com), for twenty-one years before selling the company to a larger firm in 2016. Today, Hightower leads the tech team for his latest venture, [Bridgetown Partners](https://bridgetownpartners.com).
 
 ### Tech Leadership & Speaking
 
@@ -16,11 +16,13 @@ Hightower is the creator of several tech conferences, including [WindyCityRails]
 
 Early in his career, Hightower worked in software development for Hewlett Packard, technical sales for IBM, and commercial real estate for Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his BS in Computer Science at the University of Illinois at Chicago.
 
-### WisdomGroup & 8th Light
+### Tech Company Founder
 
 Hightower launched WisdomGroup as a network consultancy in 1994. He earned the Microsoft Certified Systems Engineer (MCSE) certification and pulled the company into the Microsoft Certified Solution Provider (MCSP) ecosystem. Later, as the open source movement gained momentum, Hightower steered the company away from networking and toward software development with open source tools such as [Ruby on Rails](/blog/2017/07/25/a-business-view-of-ruby-on-rails/).
 
-After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries: healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the company, culminating in the [acquisition by 8th Light](https://8thlight.com/blog/paul-pagel/2016/09/12/8th-light-acquisition-wisdomgroup.html) in 2016.
+After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries: healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the company, culminating in the acquisition by 8th Light in 2016.
+
+Hightower launched [Bridgetown Partners](https://bridgetownpartners.com) in 2019. The new venture operates at the intersection of commercial real estate and software development.
 
 ### Other Stuff
 
