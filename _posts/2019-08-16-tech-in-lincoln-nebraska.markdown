@@ -4,7 +4,7 @@ title:  Tech in Lincoln, Nebraska
 date:   2019-08-16
 comments: true
 tags: [ IoT ]
-published: true
+published: false
 ---
 
 Why did SpeakerDeck decide to complicate the embed process?

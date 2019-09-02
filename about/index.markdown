@@ -6,7 +6,7 @@ title: About
 
 ### Quick Summary
 
-Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://wisdomgroup.com), for twenty-one years before selling the company to 8th Light in 2016. Today, Hightower leads the tech team for his latest venture, [Bridgetown Partners](https://bridgetownpartners.com).
+Raymond T. Hightower founded and ran a technology company, [WisdomGroup](http://wisdomgroup.com), for twenty-one years before selling the company in 2016. Today, Hightower is founder and CEO of [Bridgetown Partners](https://bridgetownpartners.com). Bridgetown builds asset management software for the commercial real estate industry.
 
 ### Tech Leadership & Speaking
 
