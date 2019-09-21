@@ -22,7 +22,7 @@ Hightower launched [WisdomGroup](http://wisdomgroup.com) as a network consultanc
 
 After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries: healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the team, culminating in the sale of the company in 2016.
 
-Hightower's latest venture, [Bridgetown Partners](https://bridgetownpartners.com), serves clients at the intersection of commercial real estate and software development.
+Hightower's latest venture, [Bridgetown Partners](https://bridgetownpartners.com), builds asset management software for the commercial real estate industry.
 
 ### Other Stuff
 
