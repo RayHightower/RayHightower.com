@@ -2,7 +2,8 @@
 layout: page
 title: About
 ---
-<img style="margin-left:20px" src="/images/rayhightower_bw.jpg" align="right" width="150" alt="Ray Hightower" title="Ray Hightower" />
+
+<img style="margin-right:20px" src="/images/ray_hightower_shanghai_china.jpg" align="center" width="450" alt="Ray Hightower in Shanghai, China" title="Ray Hightower in Shanghai, China" />
 
 ### Quick Summary
 
@@ -34,4 +35,3 @@ Learn more at...
 * [LinkedIn](http://linkedin.com/in/rayhightower)
 * [GitHub](http://github.com/rayhightower)
 
-_Photo by Chris Peak._
