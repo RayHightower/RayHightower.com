@@ -15,11 +15,7 @@ published: true
 
 ### Presenting Parallelism: Thanks!
 
-The organizers of SCNA invited me (several months before [the acquisition](/blog/2016/09/12/8th-light-acquires-wisdomgroup/)) to present _Exploring Parallelism With Parallella and Raspberry Pi_. Thank you, organizers, for having me on stage. Slides and video appear below.
-
-<center>
-<script async class="speakerdeck-embed" data-id="3b23fb578b3a4912bee2924314034b1f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-</center>
+The organizers of SCNA invited me (several months before [the acquisition](/blog/2016/09/12/8th-light-acquires-wisdomgroup/)) to present _Exploring Parallelism With Parallella and Raspberry Pi_. Thank you, organizers, for having me on stage. 
 
 <br/>&nbsp;<br/>
 
