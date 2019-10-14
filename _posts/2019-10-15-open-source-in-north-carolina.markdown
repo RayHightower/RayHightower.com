@@ -6,6 +6,7 @@ comments: true
 tags: 
 published: true
 ---
+<img src="/images/all_things_open_2019_north_carolina.jpg" alt="All Things Open 2019 - Raleigh, NC" title="All Things Open 2019 - Raleigh, NC">
 
 Over 4,000 tech enthusiasts attended the [All Things Open]() conference in Raleigh, NC this week.
 
