@@ -4,7 +4,7 @@ title:  Open Source in North Carolina
 date:   2019-10-15
 comments: true
 tags: 
-published: true
+published: false
 ---
 <img src="/images/all_things_open_2019_north_carolina.jpg" alt="All Things Open 2019 - Raleigh, NC" title="All Things Open 2019 - Raleigh, NC">
 
