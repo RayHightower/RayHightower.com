@@ -19,5 +19,5 @@ Slides from the talk appear below.
 
 If you're interested in the tools I used to develop the talk and the experiments, jump ahead to [slide number 67](https://speakerdeck.com/rayhightower/exploring-parallelism-with-raspberry-pi-and-nvidia-jetson-nano?slide=67).
 
-Feel free to post here if you see anything that I missed. Thanks!
+Feel free to post here if you would like to have a discussion about the Jetson Nano, parallelism, or related topics. Thanks!
 
