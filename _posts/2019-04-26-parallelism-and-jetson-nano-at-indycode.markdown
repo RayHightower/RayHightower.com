@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Parallelism, Raspberry Pi, and Jetson Nano at ()
+title:  Parallelism, Raspberry Pi, and Jetson Nano at IndyCode()
 date:   2019-04-26
 comments: true
 tags: [ Jetson Nano, Raspberry Pi ]
 published: true
 ---
 
-Exciting things are happening in the world of parallel programming. The organizers of [IndyCode()](https://.amegala.com/) invited me to share some updates with their audience this year. Thank you Ken Versaw, Lois Versaw, and the entire team of organizers for having me on stage!
+Exciting things are happening in the world of parallel programming. The organizers of [IndyCode()](https://indycode.amegala.com/) invited me to share some updates with their audience this year. Thank you Ken Versaw, Lois Versaw, and the entire team of organizers for having me on stage!
 
 <!--more-->
 
