@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Open Source in North Carolina
-date:   2019-10-13
+date:   2019-10-14
 comments: true
 tags: 
 published: true
