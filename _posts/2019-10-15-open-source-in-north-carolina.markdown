@@ -8,7 +8,7 @@ published: true
 ---
 <img src="/images/all_things_open_2019_north_carolina.jpg" alt="All Things Open 2019 - Raleigh, NC" title="All Things Open 2019 - Raleigh, NC">
 
-Over 5,000 tech enthusiasts attended the [All Things Open](http://allthingsopen.org) conference in Raleigh, NC this week. The topics were rich: AI, IoT, devops, UXD, developer tools, burn-out, technical leadership... what an ecclectic collection to choose from!
+Over 5,000 tech enthusiasts attended the [All Things Open](http://allthingsopen.org) conference in Raleigh, NC this week. The topics were rich: AI, IoT, devops, UXD, developer tools, burn-out, technical leadership... what an eclectic collection to choose from!
 <!--more-->
 
 The organizers invited me to present [Raspberry Pi is a Gateway Drug for GPUs](https://twitter.com/AllThingsOpen/status/1178751365264429059). Slides from the talk appear below...
