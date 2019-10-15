@@ -19,4 +19,4 @@ The organizers invited me to present [Raspberry Pi is a Gateway Drug for GPUs](h
 &nbsp;<br/>
 Questions from the audience reflected their varied backgrounds: developers, designers, entrepreneurs, and general open source hardware enthusiasts. Learning happens when ideas are freely exchanged by groups like this.
 
-Thank you to the AllThingsOpen organizers for having me on stage this year!
+Thanks [Todd Lewis](http://twitter.com/toddlew), [Danny ](http://twitter.com/DannyJPC), and all of the [AllThingsOpen](http://twitter.com/AllThingsOpen) organizers for creating a great event!
