@@ -13,6 +13,8 @@ published: true
 >&nbsp;
 >~Questions pondered by Peter Thiel
 
+PayPal was led by six people who went on to be regarded as the "PayPal Mafia". Peter Thiel is one of them.
+
 [Zero to One]() is...
 
 What does it take to take a startup from Zero to One?
