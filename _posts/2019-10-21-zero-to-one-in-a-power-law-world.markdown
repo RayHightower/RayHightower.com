@@ -4,13 +4,13 @@ title:  Zero to One in a Power Law World
 date:   2019-10-21
 comments: true
 tags: 
-published: true
+published: false
 ---
 <img style="margin-left:20px" src="/images/zero_to_one_peter_thiel.jpg" width="150" align="right" alt="Zero to One by Peter Thiel" title="Zero to One by Peter Thiel" />
 
 >What important truth do very few people agree with you on?
 >What valuable company is nobody building?
->&nbsp;
+>&nbsp;<br/>
 >~Questions pondered by Peter Thiel
 
 PayPal was led by six people who went on to be regarded as the "PayPal Mafia". Peter Thiel is one of them.
@@ -23,7 +23,7 @@ What does it take to take a startup from Zero to One?
 
 ### Seven Questions 
 
-Thiel believes that there are seven questions that every business must answer in order to achieve greatness:
+Building on the two contrar... questions shared at the beginning of this post, Thiel believes that there are seven questions that every business must answer in order to achieve greatness:
 
 1. The <b>Engineering</b> Question<br/>
 Can you create breakthrough technology instead of incremental improvements? 
