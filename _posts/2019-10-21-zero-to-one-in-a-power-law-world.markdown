@@ -8,10 +8,30 @@ published: false
 ---
 <img style="margin-left:20px" src="/images/zero_to_one_peter_thiel.jpg" width="150" align="right" alt="Zero to One by Peter Thiel" title="Zero to One by Peter Thiel" />
 
->What important truth do very few people agree with you on?
->What valuable company is nobody building?
+>Instead of fighting a war, look for ways to delight customers that they have never experienced before. 
 >&nbsp;<br/>
->~Questions pondered by Peter Thiel
+>~Peter Thiel, Venture Capitalist and Serial Entrepreneur
+
+Peter Thiel is a member of _The PayPal Mafia_, that group of PayPal founders and early employees who went on to launch other successful ventures. In addition to Thiel, the PayPal Mafia includes Elon Musk (SpaceX and Tesla), Reid Hoffman (LinkedIn), and .
+
+Why have the alums of PayPal enjoyed so much success while so many startups wither and die? The author explores this and other questions in the book _Zero to One_.
+
+<!--more-->
+
+### Contrari... Questions
+Two of Thiel's favorite interview questions are...
+
+* What important truth do very few people agree with you on?
+* What valuable company is nobody building?
+
+
+
+
+### The PayPal Mafia
+
+The PayPal Mafia is a group of
+
+The group includes Elon Musk (SpaceX, Tesla), Reid Hoffman (LinkedIn), and Peter Thiel, author of the book Zero to One.
 
 PayPal was led by six people who went on to be regarded as the "PayPal Mafia". Peter Thiel is one of them.
 
@@ -19,7 +39,6 @@ PayPal was led by six people who went on to be regarded as the "PayPal Mafia". P
 
 What does it take to take a startup from Zero to One?
 
-<!--more-->
 
 ### Seven Questions 
 
