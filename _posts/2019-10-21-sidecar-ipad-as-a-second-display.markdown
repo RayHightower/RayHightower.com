@@ -12,7 +12,7 @@ Apple’s latest laptop operating system, macOS Catalina, includes a feature tha
 
 <!--more-->
 
-### Happy Discovery
+### Pleasant Discovery
 
 <img style="margin-left:20px" src="/images/sidecar_icon_macos.png" width="150" align="right" alt="Sidecar icon in macOS Catalina" title="Sidecar icon in macOS Catalina" />
 
