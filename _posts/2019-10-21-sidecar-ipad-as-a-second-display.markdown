@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sidecar iPad as a Second Display
+title:  Sidecar&colon; iPad as a Second Display
 date:   2019-10-21
 comments: true
 tags: 
@@ -10,12 +10,14 @@ published: true
 
 Apple’s latest laptop operating system, macOS Catalina, includes a feature that took me completely by surprise: Sidecar.
 
-<!-  - more -  ->
+<!--more-->
 
 <img style="margin-left:20px" src="/images/sidecar_icon_macos.png" width="150" align="right" alt="Sidecar icon in macOS Catalina" title="Sidecar icon in macOS Catalina" />
 
-I stumbled across Sidecar right after upgrading to Catalina. Looking through System Preferences, I saw an unfamiliar icon. Clicking on it revealed Sidecar. The name and the logo are perfect; Mac users will immediatly intuit what to do. Try it out!
+I stumbled across Sidecar right after upgrading to Catalina. Looking through System Preferences, I saw an unfamiliar icon next to `Displays`. Clicking on the new icon revealed Sidecar. The name and the logo are perfect; Mac users will immediatly know what to do.
 
 ### Real World Experience
 
 Sidecar crashed during my first few experiences with the feature. Fortunately, Apple’s latest macOS update seems to be stable. 
+
+Try it out!
