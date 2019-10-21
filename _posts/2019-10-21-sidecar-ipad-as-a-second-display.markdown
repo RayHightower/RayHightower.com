@@ -6,7 +6,7 @@ comments: true
 tags: 
 published: true
 ---
-<img src="/images/sidecar_macbook_ipad_rayhightower_bridgetown_partners.jpg" alt="Sidecar: iPad as a Second Display. Zero to One. Bridgetown Partners" title="Sidecar: iPad as a Second Display. Zero to One. Bridgetown Partners">
+<img src="/images/sidecar_macbook_ipad_rayhightower_bridgetown_partners.jpg" alt="Sidecar: iPad as a Second Display. Zero to One. Bridgetown Partners." title="Sidecar: iPad as a Second Display. Zero to One. Bridgetown Partners.">
 
 Apple’s latest laptop operating system, macOS Catalina, includes a feature that took me completely by surprise: Sidecar.
 
