@@ -20,7 +20,7 @@ I stumbled across Sidecar right after upgrading to Catalina. Looking through Sys
 
 ### What About Duet?
 
-Like many users of this blog, I was a [Duet](https://www.duetdisplay.com) user. Duet is still useful for users who need MS Windows or Android support. Plus, competition between Duet and Apple will encourage both teams to keep innovating.
+Like many readers of this blog, I was a [Duet](https://www.duetdisplay.com) user. Duet is still useful for users who need MS Windows or Android support. Plus, competition between Duet and Apple will encourage both teams to keep innovating.
 
 ### Real World Experience
 
