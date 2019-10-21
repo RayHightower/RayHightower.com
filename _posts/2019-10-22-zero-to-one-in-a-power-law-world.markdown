@@ -5,7 +5,7 @@ date:   2019-10-22
 
 comments: true
 tags: 
-published: false
+published: true
 ---
 <img style="margin-left:20px" src="/images/zero_to_one_peter_thiel.jpg" width="150" align="right" alt="Zero to One by Peter Thiel" title="Zero to One by Peter Thiel" />
 
@@ -13,6 +13,19 @@ published: false
 >&nbsp;<br/>
 >&nbsp;<br/>
 >~Peter Thiel, Venture Capitalist and Serial Entrepreneur
+
+The best companies serve customers by creating products and services that have never existed before. Many search engines existed before Google, but Google was the first to give users what they want quickly and without distractions; the company’s search page is sparse! Further, Google figured out how to serve two key sets of customers simultaneously:
+* Web users, who want quick search results with minimal clutter.
+* Advertisers, who want to influence buyers right at the decision point.
+
+Several electric car companies existed before Tesla. But Tesla figured out how to deliver _green_ results in an attractive, high-performance automobile.
+
+How will future entrepreneurs build great businesses? _Zero to One_ explores recent business history to provide some answers.
+
+<!--more-->
+
+### Zero to One: Meaning
+
 
 Peter Thiel is a member of _The PayPal Mafia_, that group of PayPal founders and early employees who went on to launch other successful ventures. In addition to Thiel, the PayPal Mafia includes Elon Musk (SpaceX and Tesla), Reid Hoffman (LinkedIn), and .
 
