@@ -5,7 +5,7 @@ date:   2019-10-24
 
 comments: true
 tags: 
-published: true
+published: false
 ---
 <img style="margin-left:20px" src="/images/zero_to_one_peter_thiel.jpg" width="150" align="right" alt="Zero to One by Peter Thiel" title="Zero to One by Peter Thiel" />
 
