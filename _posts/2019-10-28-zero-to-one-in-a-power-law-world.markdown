@@ -4,7 +4,7 @@ title:  Zero to One in a Power Law World
 date:   2019-10-28
 
 comments: true
-tags: 
+tags: [ Business ]
 published: true
 ---
 <img style="margin-left:20px" src="/images/zero_to_one_peter_thiel.jpg" width="150" align="right" alt="Zero to One by Peter Thiel" title="Zero to One by Peter Thiel" />
@@ -13,7 +13,7 @@ published: true
 >&nbsp;<br/>&nbsp;<br/>
 >~Peter Thiel’s contrarian question
 
-Peter Thiel is a silicon Valley billionaire, co-founder of multiple successful startups (including PayPal), and a venture capitalist. In those roles, Thiel asks _the contrarian question_ while interviewing job candidates. 
+Peter Thiel is a Silicon Valley billionaire, co-founder of multiple successful startups (including PayPal), and a venture capitalist. In those roles, Thiel asks _the contrarian question_ while interviewing job candidates. 
 
 The question is simple, but difficult to answer because it requires the respondent to express an unpopular opinion. As observed in the book _Zero to One_, courage is less common than genius.
 
@@ -41,13 +41,15 @@ The author explains the _Zero to One_ concept with the following chart.
 
 <img src="/images/zero_to_one.png" width="350" align="center" alt="Zero to One chart" title="Zero to One chart" />
 
-Moving from Zero to One (vertical) means creating the first version of something useful while others are unable to see the vision. Moving from 1 to n (horizontnal) means creating more copies of something that works.
+Moving from Zero to One (vertical) means creating the first version of something useful while others are unable to see the vision. Moving from 1 to n (horizontal) means creating more copies of something that works.
 
-For example, making typewriters in the year 1970 would be an example of horizontal progress because typewriters were common in that year. But creating a word processor (Wang, IBM DisplayWriter, etc.) would be vertical (zero to one) because word processors were unknown at that time.
+For example, making typewriters in the year 1970 would be an example of horizontal progress because typewriters were common in that year. But creating the first word processor (Wang, IBM DisplayWriter, etc.) was a vertical move (zero to one) because word processors were unknown until then.
+
+Taking a company from Zero to One is hard because it involves creating something that has never been seen before. At the same time, payoffs are huge.
 
 ### Building Companies Using Zero to One
 
-What work is required to take to take a company from Zero to One? To start, the author offers a company-building version of the contrarian question:
+What work is required to take to take a company from Zero to One? As a first step, the author offers a company-building version of the contrarian question:
 
 >What valuable company is nobody building? 
 
@@ -68,8 +70,8 @@ Will your market position be defensible 10 and 20 years into the future?
 * <b>Secret</b>: 
 Have you identified a unique opportunity that others don’t see?
 
-In the last 10-15 years, many green energy startups have launched with good intentions. However, they were unable to differentiate them selves from competitors and unable to deliver real value to customers. They did not have solid answers to the above questions. Tesla, on the other hand, entered the market with solid answers for the set of questions. Therefore, Tesla has made the jump from zero to one.
+In the last 10-15 years, many green energy startups have launched with good intentions. However, they were unable to differentiate themselves from competitors and unable to deliver real value to customers. They did not have solid answers to the above questions. Tesla, on the other hand, entered the market with solid answers for the set of questions. Therefore, Tesla has made the jump from zero to one.
 
 ### Conclusion
 
-Leading a company from zero to one has always been tough because humans gravitate to products they already know. Henry Ford's customers might have [asked for a faster horse](/blog/2014/01/15/henry-ford-faster-horse/). However, progress depends on the courage of leaders who are willing to embrace the unfamiliar. Choosing the unfamiliar path... that's the way to move from Zero to One.
+Leading a company from zero to one has always been tough because humans gravitate to products they already know. Henry Ford's customers might have [asked for a faster horse](/blog/2014/01/15/henry-ford-faster-horse/). However, progress depends on the courage of leaders who are willing to embrace the unfamiliar. Choosing the unfamiliar path... that's how to move from Zero to One.
