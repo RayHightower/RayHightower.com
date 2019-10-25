@@ -70,7 +70,7 @@ Will your market position be defensible 10 and 20 years into the future?
 * <b>Secret</b>: 
 Have you identified a unique opportunity that others don’t see?
 
-In the last 10-15 years, many green energy startups have launched with good intentions. However, they were unable to differentiate themselves from competitors and unable to deliver real value to customers. They did not have solid answers to the above questions, and they failed. Tesla, on the other hand, entered the market with solid answers for the set of questions. Therefore, Tesla has made the jump from zero to one.
+In recent years, many green energy startups launched with good intentions. However, they were unable to differentiate themselves from competitors and unable to deliver real value to customers. They did not have solid answers to the above questions, and they failed. Tesla, on the other hand, entered the market with solid answers for the set of questions. Therefore, Tesla has made the jump from zero to one.
 
 ### Conclusion
 
