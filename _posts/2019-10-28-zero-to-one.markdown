@@ -74,4 +74,4 @@ In recent years, many green energy startups launched with good intentions. Howev
 
 ### Conclusion
 
-Leading a company from zero to one has always been tough because humans gravitate to products they already know. Henry Ford's customers might have [asked for a faster horse](/blog/2014/01/15/henry-ford-faster-horse/). However, progress depends on the courage of leaders who are willing to embrace the unfamiliar. Choosing the unfamiliar path, answering tough questions, and executing well... that's how to move from Zero to One.
+Leading a company from zero to one has always been tough because customers gravitate towards products they already know. Henry Ford's customers might have [asked for a faster horse](/blog/2014/01/15/henry-ford-faster-horse/). However, progress depends on the courage of leaders who are willing to embrace the unfamiliar. Choosing the unfamiliar path, answering tough questions, and executing well... that's how to move from Zero to One.
