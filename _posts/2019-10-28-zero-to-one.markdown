@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Zero to One in a Power Law World
+title:  Zero to One
 date:   2019-10-28
 
 comments: true
