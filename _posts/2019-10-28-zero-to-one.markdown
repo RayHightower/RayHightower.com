@@ -49,7 +49,7 @@ Taking a company from Zero to One is hard because it involves creating something
 
 ### Building Companies Using Zero to One
 
-What work is required to take to take a company from Zero to One? As a first step, the author offers a company-building version of the contrarian question:
+What work is required to take a company from Zero to One? As a first step, the author offers a company-building version of the contrarian question:
 
 >What valuable company is nobody building? 
 
