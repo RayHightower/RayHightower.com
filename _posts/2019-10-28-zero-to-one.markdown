@@ -13,7 +13,7 @@ published: true
 >&nbsp;<br/>&nbsp;<br/>
 >~Peter Thiel’s contrarian question
 
-Peter Thiel is a Silicon Valley billionaire, co-founder of multiple successful startups (including PayPal), and a venture capitalist. In those roles, Thiel asks _the contrarian question_ while interviewing job candidates. 
+Peter Thiel is a Silicon Valley billionaire, co-founder of multiple successful startups (including PayPal), and a venture capitalist. In those roles, Thiel asks the above _contrarian question_ while interviewing job candidates. 
 
 The question is simple, but difficult to answer because it requires the respondent to express an unpopular opinion. As observed in the book _Zero to One_, courage is less common than genius.
 
