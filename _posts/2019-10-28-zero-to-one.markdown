@@ -23,7 +23,7 @@ The question is simple, but difficult to answer because it requires the responde
 
 A good answer to the _contrarian question_ might look like this:
 
->Most people believe in x, but the truth is the opposite of x.
+>Most people believe in x,<br/>but the truth is the opposite of x.
 
 Answer the question well, and you might launch a  successful enterprise. For example:
 
