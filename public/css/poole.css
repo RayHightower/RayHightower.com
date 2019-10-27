@@ -160,6 +160,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 1.2rem; /* experiment on 20191027 */
 }
 
 strong {
@@ -171,6 +172,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 1.2rem; /* experiment on 20191027 */
 }
 
 dt {
