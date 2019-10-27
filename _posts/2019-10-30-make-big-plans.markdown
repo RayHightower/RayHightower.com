@@ -4,7 +4,7 @@ title:  Make Big Plans
 date:   2019-10-30
 comments: true
 tags: 
-published: true
+published: false
 ---
 
 <img src="/images/bay_area_plan_san_francisco.jpg" width="800" alt="Bay Area Plan San Francisco, California, USA" title="Bay Area Plan San Francisco, California, USA">
