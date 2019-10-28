@@ -73,6 +73,3 @@ If you would like to dive into the details of Rails, you might want to:
 
 * Attend a conference. [WindyCityRails](http://windycityrails.com) is the one that we run. There are several solid Ruby and Rails conferences around the world.
 
-### Next Step
-
-If you have a Rails app that needs improvement, or if you have a business idea that could benefit from Rails, we invite you to contact [8th Light](http://8thlight.com). We look forward to hearing from you.
