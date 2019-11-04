@@ -15,7 +15,7 @@ published: true
 
 Burnham is known as a pioneer of the Chicago school of architecture. The [Great Chicago Fire of 1871](https://en.wikipedia.org/wiki/Great_Chicago_Fire) leveled most of the city, giving architects a clean slate to create new buildings of concrete and steel. People called the new buildings skyscrapers. Although Burnham's quote may have initially applied to Chicago, his words fit any plan that requires significant human effort.
 
-Example: The [San Francisco Bay-Delta Model](https://www.spn.usace.army.mil/Missions/Recreation/Bay-Model-Visitor-Center/) shown in photo at the top of this article. The model fills an entire 1.5 acre warehouse. It's a 3-dimensional concrete representation of Bay Area water dynamics. 
+Example: The [San Francisco Bay-Delta Model](https://www.spn.usace.army.mil/Missions/Recreation/Bay-Model-Visitor-Center/) shown in photo at the top of this article. The model fills an entire 1.5 acre warehouse. It's a 3-dimensional concrete + water representation of Bay Area water dynamics. Walking the model, you feel like a giant hovering over the entire Bay. 
 
 Make big plans.
 
