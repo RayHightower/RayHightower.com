@@ -13,15 +13,17 @@ published: true
 &nbsp;<br/>&nbsp;<br/>
 ~Daniel Burnham
 
+<!--more-->
+
+### Chicago + San Francisco
+
 Burnham is known as a pioneer of the Chicago school of architecture. The [Great Chicago Fire of 1871](https://en.wikipedia.org/wiki/Great_Chicago_Fire) leveled most of the city, giving architects a clean slate to create new buildings of concrete and steel. People called the new buildings skyscrapers. Although Burnham's quote may have applied to Chicago, his words fit any plan that requires significant human effort.
 
 Example: The [San Francisco Bay-Delta Model](https://www.spn.usace.army.mil/Missions/Recreation/Bay-Model-Visitor-Center/) shown in the photo at the top of this post. The model fills an entire 1.5-acre warehouse in Sausalito. It's a 3-dimensional concrete + water representation of Bay Area water dynamics. Walking the model, you feel like a giant hovering over the entire Bay. 
 
 Make big plans.
 
-<!--more-->
-
-### The Model
+### The Bay Area Model
 
 The book [Zero to One](/blog/2019/10/28/zero-to-one/) was my first introduction to the Bay Area Model. In the early 1950s, local planners were concerned about their ability to provide water for the growing population. A self-trained engineer named John Reber proposed a solution for the water problem, one involving a pair of dams for the area. Reber promoted his plan so effectively that the US Army Corps of Engineers built the Bay Area model to test the plan in 1957. Reber's plan was tested on the physical model, and it was shown to be unfeasible.
 
