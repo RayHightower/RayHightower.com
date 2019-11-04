@@ -25,11 +25,11 @@ Make big plans.
 
 ### The Bay Area Model
 
-The book [Zero to One](/blog/2019/10/28/zero-to-one/) was my first introduction to the Bay Area Model. In the early 1950s, local planners were concerned about their ability to provide water for the growing population. A self-trained engineer named John Reber proposed a solution for the water problem, one involving a pair of dams for the area. Reber promoted his plan so effectively that the US Army Corps of Engineers built the Bay Area model to test the plan in 1957. Reber's plan was tested on the physical model, and it was shown to be unfeasible.
+The book [Zero to One](/blog/2019/10/28/zero-to-one/) was my first introduction to the Bay Area Model. In the early 1950s, local planners were concerned about their ability to provide water for the growing population. A self-trained engineer named John Reber proposed a solution for the water problem, including a pair of dams for the area. Reber promoted his plan so effectively that the US Army Corps of Engineers built the Bay Area model to test it. Reber's plan was tested on the physical model, and it was proven to be infeasible.
 
 Was Reber's plan a failure? Maybe on a surface level. But the model had already been built, so other plans were tested. Some of those ideas worked, and they were put into place. Reber's audacious plan caused the building of a physical model where scientists and engineers could test dams, dredging, and emergency responses to oil spills _before_ spending money on huge civil engineering projects. Reber's vision planted the seeds of success for future projects.
 
-By the 1990s, computer simulations grew powerful enough to replace the physical model. Today's scientists run software simulations on supercomputers packed with GPUs. The physical model serves as a tourist attraction and a source of inspiration for big thinkers. Public tours are available as of this writing.
+By the 1990s, computer simulations grew powerful enough to replace the physical model. Today's scientists run software simulations on supercomputers packed with [GPUs](/blog/2019/03/28/nvidia-gpu-technology-conference-2019/). The physical model serves as a tourist attraction and a source of inspiration for big thinkers. Public tours are available as of this writing.
 
 ### Plans vs Planning
 
