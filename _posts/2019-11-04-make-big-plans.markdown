@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Make Big Plans
-date:   2019-11-05
+date:   2019-11-04
 comments: true
 tags: [Business]
 published: true
@@ -15,7 +15,7 @@ published: true
 
 Burnham is known as a pioneer of the Chicago school of architecture. The [Great Chicago Fire of 1871](https://en.wikipedia.org/wiki/Great_Chicago_Fire) leveled most of the city, giving architects a clean slate to create new buildings of concrete and steel. People called the new buildings skyscrapers. Although Burnham's quote may have applied to Chicago, his words fit any plan that requires significant human effort.
 
-Example: The [San Francisco Bay-Delta Model](https://www.spn.usace.army.mil/Missions/Recreation/Bay-Model-Visitor-Center/) shown in the photo at the top of this post. The model fills an entire 1.5 acre warehouse in Sausalito. It's a 3-dimensional concrete + water representation of Bay Area water dynamics. Walking the model, you feel like a giant hovering over the entire Bay. 
+Example: The [San Francisco Bay-Delta Model](https://www.spn.usace.army.mil/Missions/Recreation/Bay-Model-Visitor-Center/) shown in the photo at the top of this post. The model fills an entire 1.5-acre warehouse in Sausalito. It's a 3-dimensional concrete + water representation of Bay Area water dynamics. Walking the model, you feel like a giant hovering over the entire Bay. 
 
 Make big plans.
 
@@ -27,7 +27,7 @@ The book [Zero to One](/blog/2019/10/28/zero-to-one/) was my first introduction 
 
 Was Reber's plan a failure? Maybe on a surface level. But the model had already been built, so other plans were tested. Some of those ideas worked, and they were put into place. Reber's audacious plan caused the building of a physical model where scientists and engineers could test dams, dredging, and emergency responses to oil spills _before_ spending money on huge civil engineering projects. Reber's vision planted the seeds of success for future projects.
 
-By the 1990s, computer simulations grew powerful enough to replace the physical model. Today's scientists run software simulations on supercomputers packed with GPUs. The physical model serves as a tourist attraction and a source of inspiration for big-thinkers. Public tours are available as of this writing.
+By the 1990s, computer simulations grew powerful enough to replace the physical model. Today's scientists run software simulations on supercomputers packed with GPUs. The physical model serves as a tourist attraction and a source of inspiration for big thinkers. Public tours are available as of this writing.
 
 ### Plans vs Planning
 
