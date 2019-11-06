@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sam Zell, Dealmaker
+title:  Sam Zell, Business Rebel
 date:   2019-11-11
 comments: true
 tags: 
