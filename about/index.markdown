@@ -11,7 +11,7 @@ Raymond T. Hightower founded and ran a technology company for twenty-one years b
 
 ### Tech Leadership & Speaking
 
-Hightower is the creator of several tech conferences, including [WindyCityRails](http://windycityrails.com). He served as [lead organizer of ChicagoRuby](/blog/2017/09/07/passing-the-chicagoruby-baton/) from 2007 to 2017. He is a perpetual student, currently exploring parallelism, quantum computing, and IoT. Hightower is [invited to speak](/speaking/) at tech conferences around the world, and he blogs on technology and business growth right here at [RayHightower.com](http://RayHightower.com).
+Hightower is the creator of several business and technical conferences, including [WindyCityRails](http://windycityrails.com) and [BizDay.LA](https://BizDay.LA). He served as [lead organizer of ChicagoRuby](/blog/2017/09/07/passing-the-chicagoruby-baton/) from 2007 to 2017. He is a perpetual student, currently exploring parallelism, quantum computing, and IoT. Hightower is [invited to speak](/speaking/) at tech conferences around the world, and he blogs on technology and business growth right here at [RayHightower.com](http://RayHightower.com).
 
 ### Early Career
 
