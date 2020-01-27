@@ -37,7 +37,7 @@ What about asset classes? From the chart below, more investors are focused on mu
 
 Presentations from REI industry leaders were rich with learning and insight. Here are a few snippets.
 
-* Macroeconomics: No investor invests in a vacuum. Millennials  are less inclined to purchase single family homes because they have high college debt and they prefer the experience of travel vs putting down roots. Therefore, opportunities in multifamily investment are likely to grow.
+* Macroeconomics: No investor invests in a vacuum. Millennials  are less inclined to purchase single family homes because they have high college debt and they prefer the experience of travel vs putting down roots. Therefore, investments in multifamily rentals are likely to do well.
 
 * Retail Apocalypse: Retail investors fear Amazon (rightly so). Fear reduces competition, and therefore opportunities are surfacing. Grocer-anchored retail centers are a favorite.
 
