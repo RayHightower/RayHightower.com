@@ -43,7 +43,7 @@ Presentations from REI industry leaders were rich with learning and insight. Her
 
 * Opportunity Zones: OZs offer another way to shield capital gains while helping to stimulate values in OZ areas. 
 
-* Charts. If you need to make a decision and the data is available, make a chart. Charts give us clarity. This approach has served Bob Norris well for decades.
+* Charts. If you need to make a decision and the data is available, make a chart. Charts give us clarity. This approach has served Bob Norris for decades.
 
 * Recession-Resistant RE: Tough to find when Wall Street and the large private equity firms compete for assets by over-paying. It's great to sell to them, but what do you do next?
 
