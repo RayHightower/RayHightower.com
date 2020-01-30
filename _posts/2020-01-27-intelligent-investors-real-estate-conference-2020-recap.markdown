@@ -21,7 +21,7 @@ Every attendee was exposed to tools that we can use to deliver better value for 
 
 ### Where are Investors Investing?
 
-Where are investors investing? Two ways to answer that question: By geography, and by asset class. The IIREC organizers gathered informal data via a wall-sized map and a stack of Post-it® Notes, seen below.
+Where are investors investing? Two ways to answer that question: By geography, and by asset class. The IIREC organizers gathered informal data via a wall-sized map and a stack of sticky notes, seen below.
 
 <img src="/images/USA_investment_locations_2020.jpg" width="800" alt="USA Investment - Intelligent Investors Real Estate Conference 2020 - Los Angeles, CA, USA" title="USA Investment - Intelligent Investors Real Estate Conference 2020 - Los Angeles, CA, USA">
 
