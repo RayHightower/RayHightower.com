@@ -19,7 +19,7 @@ Early in his career, Hightower worked in software development for Hewlett Packar
 
 ### Launching Companies
 
-Hightower launched [WisdomGroup](http://wisdomgroup.com) as a network consultancy in 1994. He earned the Microsoft Certified Systems Engineer (MCSE) certification and pulled the company into the Microsoft Certified Solution Provider (MCSP) ecosystem. Later, as the open source movement gained momentum, Hightower steered the company away from networking and toward software development with open source tools such as [Ruby on Rails](/blog/2017/07/25/a-business-view-of-ruby-on-rails/).
+Hightower launched WisdomGroup as a network consultancy in 1994. He earned the Microsoft Certified Systems Engineer (MCSE) certification and pulled the company into the Microsoft Certified Solution Provider (MCSP) ecosystem. Later, as the open source movement gained momentum, Hightower steered the company away from networking and toward software development with open source tools such as [Ruby on Rails](/blog/2017/07/25/a-business-view-of-ruby-on-rails/).
 
 After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries: healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the team, culminating in the sale of the company in 2016.
 
