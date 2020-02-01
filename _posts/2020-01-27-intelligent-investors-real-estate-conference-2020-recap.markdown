@@ -11,21 +11,21 @@ published: true
 
 One reason to attend conferences: To discover trends while we still have time to be on the cutting edge. Over 400 trend-spotters gathered in downtown Los Angeles for this weekend's [Intelligent Investors Real Estate Conference](https://www.intelligentinvestors2020.com/). This post offers a snap-shot of the event.
 
-### Summary
+<!--more-->
+
+### Event Summary
 
 IIREC2020 was an amazing collection of investors and service providers, coming together to learn and to teach. Beyond the learning, a few people that I chatted up during the _hallway track_ (see below) shared their approach to problems that real estate investors are uniquely posistioned to attack.
 
 Every attendee was exposed to tools that we can use to deliver better value for our stakeholders: Investors, residents, tenants, service providers... every stakeholder wins.
 
-<!--more-->
-
 ### Where are Investors Investing?
 
-Where are investors investing? Two ways to answer that question: By geography, and by asset class. The IIREC organizers gathered informal data via a wall-sized map and a stack of Post-Its, seen below.
+Where are investors investing? Two ways to answer that question: By geography, and by asset class. The IIREC organizers gathered informal data via a wall-sized map and a stack of sticky notes, seen below.
 
 <img src="/images/USA_investment_locations_2020.jpg" width="800" alt="USA Investment - Intelligent Investors Real Estate Conference 2020 - Los Angeles, CA, USA" title="USA Investment - Intelligent Investors Real Estate Conference 2020 - Los Angeles, CA, USA">
 
-Geographically, IIREC attendees appear to be focused in the south and on the coasts. The southern trend fits with my intuition, but strong interest in the coasts surprised me. My conversations with other real estate investors have led me to believe that money is moving away from the coasts due to the high cost of entering deals.
+Geographically, IIREC attendees appear to be focused in the Southern US and on the Atlantic and Pacific coasts. The southern trend fits with my intuition, but strong interest in the coasts surprised me. My conversations with other real estate investors have led me to believe that money is moving away from the coasts due to the high cost of entering deals.
 
 Lesson learned: It's important to offset intuition with data.
 
