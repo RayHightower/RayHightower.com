@@ -27,6 +27,10 @@ After law school (yes, this blog post skips a few years in Sam's life) Zell inte
 Finally, he struck a deal with one firm. Leaders of the firm allowed Sam to do deals out of their office in exchange for the legal work that his deal flow was sure to bring.
 
 
+### The Value of Partnership
+
+Zell's partner in law school was Bob Lurie (verify name). Lurie's strengths were...
+
 
 ### Investing Against the Herd
 
@@ -47,5 +51,6 @@ Success in real estate, combined with a shortage of real estate investment oppor
 
 ### Devouring Books
 
-With the launch of [Bridgetown Partners](https://bridgetownpartners.com), I find myself devouring books on all aspects of commercial real estate. Articles, too. Topics include syndication, taxation, cash flow analysis, raising private money, and... biography. Well-written biographies are fascinating because you get to explore the subject before they become the fully-formed high-achiever who attracts the attention of a biographer. Zell's biography does not disappoint. 
+With the launch of [Bridgetown Partners](https://bridgetownpartners.com), I find myself devouring books on all aspects of commercial real estate. Articles, too. Topics include syndication, taxation, cash flow analysis, raising private money, and... biography. Well-written biographies are fascinating because you get to explore the subject before they become the fully-formed high-achiever who attracts the attention of a biographer. Zell's autobiography succeeds on this mission.
+
 
