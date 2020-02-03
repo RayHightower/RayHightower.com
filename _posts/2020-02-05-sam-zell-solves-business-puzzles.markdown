@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sam Zell Solves Business Puzzles
-date:   2020-02-03
+date:   2020-02-05
 comments: true
 tags: [ Business, Commmercial Real Estate ]
 published: true
