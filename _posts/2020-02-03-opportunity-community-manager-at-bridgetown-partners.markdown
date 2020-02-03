@@ -47,7 +47,7 @@ The ideal candidate will fit the following description:
 
 To learn more about Bridgetown Partners, visit:
 * [BridgetownPartners.com](https://BridgetownPartners.com) - company website.
-* [BizDay.LA](https://BizDay.LA) - an event that we created in LA in Jan2020. We collaborated with other business owners to _launch in eighty-three days_, from start to finish. The pace was exhilarating. Next step: To grow BizDay.LA into a media engine. The CM will play a critical role in shaping that media engine. 
+* [BizDay.LA](https://BizDay.LA) - an event that we created in LA in Jan2020. We collaborated with other companies and _launched in eighty-three days_, from start to finish. The pace was exhilarating. Next step: To grow BizDay.LA into a media engine. The CM will play a critical role in shaping that media engine. 
 * [RayHightower.com](https://RayHightower.com) - CEO’S personal blog.
 
 ### To Apply
