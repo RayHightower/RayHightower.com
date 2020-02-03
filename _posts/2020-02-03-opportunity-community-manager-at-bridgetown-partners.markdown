@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Opportunity&colon; Community Manager at Bridgetown Partners
-date:   2020-02-04
+date:   2020-02-03
 comments: true
 tags: 
 published: true
