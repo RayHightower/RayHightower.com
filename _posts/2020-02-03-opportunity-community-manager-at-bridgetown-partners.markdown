@@ -39,7 +39,7 @@ During a typical month, the CM might be engaged in the following:
 
 The ideal candidate will fit the following description:
 * **Self Starter** - Capable of working remotely to produce outstanding results with minimal supervision. Runs through walls to get things done.
-* **Team Player** - Works well with other members of the Bridgetown Partners team. Shares information with team members via email, Slack, and other collaboration tools.
+* **Team Player** - Works well with other members of the Bridgetown Partners team. Communicates well, both orally and in writing. Shares information with team members via email, Slack, and other collaboration tools.
 * **Strategic Thinker** - Understands how the CM position fits into Bridgetown’s big picture. Demonstrates understanding by personally taking action where needed.
 * **Aggressive Learner** - Currently uses social media tools like Twitter and Facebook. Learns and creates new ways to engage the community with social media tools.
 
