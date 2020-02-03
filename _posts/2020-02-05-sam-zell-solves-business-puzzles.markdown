@@ -4,7 +4,7 @@ title:  Sam Zell Solves Business Puzzles
 date:   2020-02-05
 comments: true
 tags: [ Business, Commmercial Real Estate ]
-published: true
+published: false
 ---
 <img style="margin-left:20px" src="/images/sam_zell_am_i_being_too_subtle.jpg" width="150" align="right" alt="Sam Zell - Am I Being Too Subtle" title="Sam Zell - Am I Being Too Subtle" /> 
  
