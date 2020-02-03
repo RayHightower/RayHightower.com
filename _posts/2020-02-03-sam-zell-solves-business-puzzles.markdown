@@ -10,7 +10,7 @@ published: true
  
 >Business is not a war to be won, but a puzzle to be solved.<br/>&nbsp;<br/>~Sam Zell
 
-Sam Zell is a Chicago-based investor in real estate and troubled assets. He has a reputation for successful business turnaournds as well as direct & clear communication. Sometimes he ends his verbal messages with a question: “Am I being too subtle?” 
+Sam Zell is a Chicago-based investor in real estate and troubled assets. He is known for successful business turnaournds and his direct style of communicating. Sometimes he ends his verbal messages with a question: “Am I being too subtle?” 
 
 Perfect title for his autobiography.
 
@@ -18,7 +18,9 @@ Perfect title for his autobiography.
 
 ### Staying Informed
 
-Readers learn about the period prior to Sam's birth when his parents were forced to leave Poland at the beginning of World War II. His parents were multi-lingual and intellectually curious. While many of their relatives and neighbors were content to follow local news, Sam's parents read newspapers from Germany, France, Switzerland, and other nearby countries. Their curiosity about the world around them meant that they were well informed _before_ the fall of Poland. Zell's parents left Poland on the day before German armies marched in. They didn't know it at the time, but Sam's mother was pregnant with him as they journeyed to America.
+Readers learn about the period prior to Sam's birth when his parents were forced to leave Poland at the beginning of World War II. His parents were multi-lingual and intellectually curious. While many of their relatives and neighbors were content to consume local news, Sam's parents read newspapers from Germany, France, Switzerland, and other nations where signs of war were brewing. Their curiosity about the world around them meant that they were well informed _before_ the fall of Poland. 
+
+Zell's parents and his older sister left Poland on the day before Germany marched in. During the journey to America, Sam's mother learned that she was pregnant with him.
 
 ### Law Firms Wouldn't Hire Sam Zell
 
