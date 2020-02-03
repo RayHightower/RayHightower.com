@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Opportunity&colon; Community Manager at Bridgetown Partners
-date:   2020-02-02
+date:   2020-02-04
 comments: true
 tags: 
 published: true
@@ -12,9 +12,9 @@ published: true
 
 ### Smart People, Growing Together
 
-Our community philosophy: When smart people challenge each other to grow, great things happen. Our team built a powerful community reputation over two decades in Chicago. Ref: How to Grow a User Group.
+Our community philosophy: When smart people challenge each other to grow, great things happen. Our team spent two decades building a great reputation in Chicago's tech community. (See: <a href="/blog/2014/05/30/how-to-grow-a-user-group/">How to Grow a User Group</a>. We intend to duplicate (and exceed) that track record here in Los Angeles.
 
-The Community Manager will be part of the team that duplicates (and exceeds) that track record right here in Los Angeles.
+The Community Manager will be a critical part of the team that gets us over the goal line.
 
 <!--more-->
 

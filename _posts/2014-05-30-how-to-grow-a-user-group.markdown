@@ -6,8 +6,6 @@ comments: true
 tags: [ Community, Education ]
 ---
 
-**_Note: An updated version of this article is published on the 8th Light blog as<br/>[How to Grow a User Group, the Remix](https://8thlight.com/blog/ray-hightower/2017/09/13/how-to-grow-a-user-group-remix.html)._**
-
 The current team of [ChicagoRuby](http://chicagoruby.org) organizers assumed leadership in August 2007. Back then, typical monthly attendance was about five people and the group's [Meetup.com](http://meetup.com/chicagoruby) database contained 78 members. The previous organizer was swamped with work at his day job, so he handed the baton to a new crew.
 
 Today, the _new crew_ has grown ChicagoRuby to over 2,700 members. The group hosts three meetups every month, and the downtown meetings consistently max out the 100-person RSVP limit. Bonus: ChicagoRuby hosts two conferences, [WindyCityRails](http://windycityrails.org) in Chicago and [RubyCaribe](http://rubycaribe.com) on the Caribbean island of Barbados.
