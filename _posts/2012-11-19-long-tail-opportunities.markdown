@@ -11,7 +11,7 @@ You are already familiar with the [80/20 rule](http://en.wikipedia.org/wiki/80/2
 
 ### Another View of the 80/20 Rule
 
-[The Long Tail](http://www.thelongtail.com/about.html) by Chris Anderson offers another way to look at the 80/20 rule. Our business example: A book store. The graph below shows book sales ranked by sales volume. Best-sellers are on the left side of the chart (in green) while slower sellers fill in the curve toward the right. Since shelf space is limited and expensive, the store only carries the most popular books along the left side of the chart. Smart application of the 80/20 rule, right? Maybe.
+_The Long Tail_ by Chris Anderson offers another way to look at the 80/20 rule. Our business example: A book store. The graph below shows book sales ranked by sales volume. Best-sellers are on the left side of the chart (in green) while slower sellers fill in the curve toward the right. Since shelf space is limited and expensive, the store only carries the most popular books along the left side of the chart. Smart application of the 80/20 rule, right? Maybe.
 
 <img src="/assets/TheLongTail.png" align="center" alt="The Long Tail" title="The Long Tail">
 
