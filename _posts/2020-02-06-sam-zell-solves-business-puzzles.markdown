@@ -32,7 +32,7 @@ Sam's formative years were spent at Camp Ramah, a Hebrew-speaking summer camp in
 
 Sam readily acknowledges the role that his parents played in shaping his life. They blessed him with an inheritance of intelligence, curiosity, drive, resilience, and self-determination. 
 
-### College and Law School
+### College Years
 
 Sam studied political science at the University of Michigan in Ann Arbor. He chafed at rote memorization. His love of motorcycles began in college. Today, he and his friends (the call themselves _Zell's Angels_) take two motorcycle trips per year along windy roads with beautiful landscapes.
 
@@ -42,48 +42,28 @@ After their first deal with the 15-unit owner, Sam and his friend created a broc
 
 Sam held summer sales jobs with Helene Curtis, calling on drugstores and supermarkets. Working in sales built up his tolerance for rejection. Today, he will tell entrepreneurs that indifference to rejection is a fundamental part of being successful.
 
-Sam's feelings about law school can be summed up in one quote from the book: "Law school was boring beyond belief." He enrolled and graduated to please his parents. Later, as he found himself in the middle of complex deals, he was greatful for the thinking framework that his legal education had given him. 
+### Law School
 
-Zell bought his first building, a three-unit apartment building, during his second year of law school. His father was an early investor in his deals. This gave Sam a great sense of pride, knowing that his father recognized him as a legitimate businessman.
+Sam's initial feelings about law school can be summed up in one quote from the book: "Law school was boring beyond belief." He enrolled and graduated to please his parents. Decades later, as he found himself in complex business deals, he was greatful for the thinking framework that his legal education had given him. 
+
+Zell bought his first building, a three-unit apartment building, during his second year of law school. His father was an early investor. This gave Sam a great sense of pride. The father's investment was tangible proof that he recognized Sam as a legitimate businessman.
 
 ### Investing Against the Herd
 
 >“Knowing the numbers” means having the discipline to listen to them—even if they’re not telling you what you want to hear.<br/>&nbsp;<br/>~Sam Zell
 
+Like the authors of [Blue Ocean Strategy](/blog/2012/11/10/make-your-competition-irrelevant/), Zell prefers to invest where there is little competition. Bidding wars are expensive. Succeeding in areas where others are fearful means that the investor must know their stuff. Attention to detail, mastery of numbers... these are areas that Sam and his team have mastered over the years.
 
-### Avoiding Competition
-
-Like the authors of [Blue Ocean Strategy](/blog/2012/11/10/make-your-competition-irrelevant/), Zell prefers to invest where there is little competition. Bidding wars are expensive.
-
-
-### Birth of the Grave Dancer
+Later, as investment real estate went through one of its cycles (as it always does), Sam found himself considering business opportunities beyond real estate. And he observed the following:
 
 >If we’ve been as successful in real estate as we have been, aren’t we really just good businessmen? And if we’re good businessmen, then why wouldn’t the same principles that apply to buying real estate apply to buying anything else? We checked the boxes—supply and demand, barriers to entry, tax considerations—all of the criteria that governed our decisions in real estate, and didn’t see any differences. So we set a goal that we would diversify our investment portfolio to be 50 percent real estate and 50 percent non–real estate by 1990.<br/>&nbsp;<br/>~Sam Zell
 
-Success in real estate, combined with a shortage of profitable real estate investment opportunities, led Zell to explore other businesses. He looked for troubled companies where he might help. Some saw his approach to opportunites as exploitation... He sees value in buying and creating value from others' mistakes. Is that a form of exploitation? Zell sees things differently. He's taking a neglected asset and giving it new life. Zell wrote an article about his approach to resurrecting dead properties in 1976. Title of the article: _The Grave Dancer_. That title is the source of his often-cited nickname.
+Success in real estate, combined with a shortage of profitable real estate investment opportunities, led Zell to explore other businesses. He looked for troubled companies where he might help. Some saw his approach to opportunites as exploitation... He sees value in buying and creating value from others' mistakes. 
 
+Is that a form of exploitation? No. Zell sees things differently. He's taking a neglected asset and giving it new life. Zell wrote an article about his approach to resurrecting dead properties in 1976. The article's title, _The Grave Dancer_, is the source of his often-cited nickname. Sam loves the nickname; colleagues present him with Grave Dancer-themed gifts.
 
 ### Devouring Books
 
-With the launch of [Bridgetown Partners](https://bridgetownpartners.com), I find myself devouring books on all aspects of commercial real estate. Articles, too. Topics include syndication, taxation, cash flow analysis, raising private money, and... biography. Well-written biographies are fascinating because you get to explore the subject before they become the fully-formed high-achiever who attracts the attention of a biographer. Zell's autobiography succeeds on this mission.
+With the launch of [Bridgetown Partners](https://bridgetownpartners.com), I find myself devouring books on all aspects of commercial real estate. Articles, too. Topics include syndication, taxation, cash flow analysis, raising private money, and... biography. Well-written biographies are fascinating because you get to learn how industry heroes got to be that way. 
 
-
-
-
-
-
-# Out-Takes
-
-### Law Firms Wouldn't Hire Sam Zell
-
-After law school Zell interviewed for entry-level jobs at several firms. He was repeatedly rejected in the hiring process. Finally, a hiring partner at one law firm told him why. 
-
-
-
-Finally, he struck a deal with one firm. Leaders of the firm allowed Sam to do deals out of their office in exchange for the legal work that his deal flow was sure to bring.
-
-
-### The Value of Partnership
-
-Zell's partner in law school was Bob Lurie (verify name). Lurie's strengths were...
-
+If you are building a business, Sam Zell's autobiography offers helpful lessons and amusing anecdotes. Highly recommended.
