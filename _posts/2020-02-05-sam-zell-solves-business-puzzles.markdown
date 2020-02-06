@@ -20,13 +20,35 @@ Hence the title for his autobiography. Sam has an embedded sense of urgency.
 
 Readers learn about the period prior to Sam's birth when his parents were forced to leave Poland at the beginning of World War II. His parents, Bernard and Rochelle, were multi-lingual and intellectually curious. While many of their relatives and neighbors were content to consume local news from the Polish authorities, Sam's parents read newspapers from Germany, France, Switzerland, and other nations where signs of war were brewing. Their curiosity about the world around them meant that they were well informed _before_ the fall of Poland. 
 
+Zell's parents and his older sister, Julie, left Poland just hours before Germany bombed the railroad tracks and marched in. 
+
 ### Voyage to America
 
-Zell's parents and his older sister, Julie, left Poland just hours before Germany bombed the railroad tracks and marched in. During the journey to America, Rochelle learned that she was pregnant with Sam. The year was 1941. Traveling from Europe to America meant several intermediate stops along the way, always avoiding the shadown of the Nazis. The family passed through Russia, Japan, and Curaçao before arriving in Seattle, WA, USA. Bernard had been a grain merchant in Poland. He saw the centrally-located city of Chicago as a natural place to continue his profession. The family relocated in Chicago, and Sam was born there on Sept 28, 1941.
+During the journey to America, Rochelle learned that she was pregnant with Sam. The year was 1941. Traveling from Europe to America meant several stops along the way, always avoiding the shadown of the Nazis. The family passed through Russia, Japan, and Curaçao before arriving in Seattle, WA, USA. Bernard had been a grain merchant in Poland. He saw the centrally-located city of Chicago as a natural place to continue his profession. The family relocated to Chicago, and Sam was born there on Sept 28, 1941.
+
+Bernard's and Rochelle's insatiable curiosity was passed on to their son, Sam. After the family moved to the northern suburbs, Sam coninuted to take the train into the city, _officially_ for school, but mainly to explore. As a pre-teen, he discovered that certain magazines were in demand among his friends. He purchased the mags for fifty cents each in the city, and sold them for three bucks in Highland Park. At age twelve, Sam had discovered arbitrage.
+
+Sam's formative years were spent at Camp Ramah, a Hebrew-speaking summer camp in Wisconsin. Young campers were treated as responsible citizens from day one. Same enjoyed the independence and the meritocracy for eight weeks every summer. The experience built his self-confidence.
+
+Sam readily acknowledges the role that his parents played in shaping his life. They blessed him with an inheritance of intelligence, curiosity, drive, resilience, and self-determination. 
+
+### College and Law School
+
+Sam studied political science at the University of Michigan in Ann Arbor. He chafed at rote memorization. His love of motorcycles began in college. Today, he and his friends (the call themselves _Zell's Angels_) take two motorcycle trips per year along windy roads with beautiful landscapes.
+
+Zell's real estate adventure started during his junior year at U of M. A friend's landlord was building a 15-unit apartment building. Sam convinced his friend that they could manage the property for the landlord. They made the pitch and they got the management business. It never occured to Sam that he and his friend couldn't do it. "Why not?" is part of his DNA.
+
+After their first deal with the 15-unit owner, Sam and his friend created a brochure and they went around Ann Arbor pitching other landlords. He met his business partner, Bob Lurie, during this time. Bob's detail-orientation was a welcome complement to Sam's big-picture optimism.
+
+Sam held summer sales jobs with Helene Curtis, calling on drugstores and supermarkets. Working in sales built up his tolerance for rejection. Today, he will tell entrepreneurs that indifference to rejection is a fundamental part of being successful.
+
+Sam's feelings about law school can be summed up in one quote from the book: "Law school was boring beyond belief." He enrolled and graduated to please his parents. Later, as he found himself in the middle of complex deals, he was greatful for the thinking framework that his legal education had given him. 
+
+Zell bought his first building, a three-unit apartment building, during his second year of law school.
 
 ### Law Firms Wouldn't Hire Sam Zell
 
-After law school (yes, this blog post skips a few years in Sam's life) Zell interviewed for entry-level jobs at several firms. He was repeatedly rejected in the hiring process. Finally, a hiring partner at one law firm told him why. 
+After law school Zell interviewed for entry-level jobs at several firms. He was repeatedly rejected in the hiring process. Finally, a hiring partner at one law firm told him why. 
 
 
 
