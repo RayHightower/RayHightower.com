@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sam Zell Solves Business Puzzles
-date:   2020-02-05
+date:   2020-02-06
 comments: true
 tags: [ Business, Commmercial Real Estate ]
 published: true
@@ -44,12 +44,7 @@ Sam held summer sales jobs with Helene Curtis, calling on drugstores and superma
 
 Sam's feelings about law school can be summed up in one quote from the book: "Law school was boring beyond belief." He enrolled and graduated to please his parents. Later, as he found himself in the middle of complex deals, he was greatful for the thinking framework that his legal education had given him. 
 
-Zell bought his first building, a three-unit apartment building, during his second year of law school.
-
-### The Value of Partnership
-
-Zell's partner in law school was Bob Lurie (verify name). Lurie's strengths were...
-
+Zell bought his first building, a three-unit apartment building, during his second year of law school. His father was an early investor in his deals. This gave Sam a great sense of pride, knowing that his father recognized him as a legitimate businessman.
 
 ### Investing Against the Herd
 
@@ -87,4 +82,8 @@ After law school Zell interviewed for entry-level jobs at several firms. He was 
 
 Finally, he struck a deal with one firm. Leaders of the firm allowed Sam to do deals out of their office in exchange for the legal work that his deal flow was sure to bring.
 
+
+### The Value of Partnership
+
+Zell's partner in law school was Bob Lurie (verify name). Lurie's strengths were...
 
