@@ -34,7 +34,7 @@ Sam readily acknowledges the role that his parents played in shaping his life. T
 
 ### College Years
 
-Sam studied political science at the University of Michigan in Ann Arbor. He chafed at rote memorization. His love of motorcycles began in college. Today, he and his friends (the call themselves _Zell's Angels_) take two motorcycle trips per year along windy roads with beautiful landscapes.
+Sam studied political science at the University of Michigan in Ann Arbor. He chafed at rote memorization. His love of motorcycles began in college. Today, he and his friends (they call themselves _Zell's Angels_) take two motorcycle trips per year along windy roads with beautiful landscapes.
 
 Zell launched his real estate career during his junior year at U of M. A friend's landlord was building a 15-unit apartment building. Sam convinced his friend that they could manage the property for the landlord. They made the pitch and they got the management business. It never occured to Sam that he and his friend couldn't do it. "Why not?" is part of his DNA.
 
@@ -54,16 +54,16 @@ Zell bought his first building, a three-unit apartment building, during his seco
 
 Like the authors of [Blue Ocean Strategy](/blog/2012/11/10/make-your-competition-irrelevant/), Zell prefers to invest where there is little competition. Bidding wars are expensive. Succeeding in areas where others are fearful means that the investor must know their stuff. Attention to detail, mastery of numbers... these are areas that Sam and his team have mastered over the years.
 
-Later, as investment real estate went through one of its cycles (as it always does), Sam found himself considering business opportunities beyond real estate. And he observed the following:
+Later, as investment real estate opportunities became scarce, Sam found himself considering business deals beyond real estate. And he observed the following:
 
 >If we’ve been as successful in real estate as we have been, aren’t we really just good businessmen? And if we’re good businessmen, then why wouldn’t the same principles that apply to buying real estate apply to buying anything else? We checked the boxes—supply and demand, barriers to entry, tax considerations—all of the criteria that governed our decisions in real estate, and didn’t see any differences. So we set a goal that we would diversify our investment portfolio to be 50 percent real estate and 50 percent non–real estate by 1990.<br/>&nbsp;<br/>~Sam Zell
 
 Success in real estate, combined with a shortage of profitable real estate investment opportunities, led Zell to explore other businesses. He looked for troubled companies where he might help. Some saw his approach as exploitation. Sam sees value in buying and creating value from others' mistakes. 
 
-Is that exploitation? No. Zell sees things differently. He's taking a neglected asset and giving it new life. Zell wrote an article about his approach to resurrecting dead properties in 1976. The article's title, _The Grave Dancer_, is the source of his often-cited nickname. Sam loves the nickname; colleagues present him with Grave Dancer-themed gifts.
+Is that exploitation? No. When a turnaround artist acquires a troubled company, they're taking a neglected asset and giving it new life. Zell wrote an article about his approach to resurrecting dead properties in 1976. The article's title, _The Grave Dancer_, is the source of his often-cited nickname. Sam loves the nickname; colleagues present him with Grave Dancer-themed gifts.
 
 ### Devouring Books
 
-With the launch of [Bridgetown Partners](https://bridgetownpartners.com), I find myself devouring books on all aspects of commercial real estate. Articles, too. Topics include syndication, taxation, cash flow analysis, raising private money, and... biography. Well-written biographies are fascinating because you get to learn how industry heroes got to be that way. 
+With the launch of [Bridgetown Partners](https://bridgetownpartners.com), I find myself devouring books on all aspects of commercial real estate. Articles, too. Topics include syndication, taxation, cash flow analysis, raising private money, and... biography. Well-written biographies are fascinating because we get to learn about the circumstances that shaped the subject's life, and how the subject responds to adversity.
 
 If you are building a business, Sam Zell's autobiography offers helpful lessons and amusing anecdotes. Highly recommended.
