@@ -46,15 +46,6 @@ Sam's feelings about law school can be summed up in one quote from the book: "La
 
 Zell bought his first building, a three-unit apartment building, during his second year of law school.
 
-### Law Firms Wouldn't Hire Sam Zell
-
-After law school Zell interviewed for entry-level jobs at several firms. He was repeatedly rejected in the hiring process. Finally, a hiring partner at one law firm told him why. 
-
-
-
-Finally, he struck a deal with one firm. Leaders of the firm allowed Sam to do deals out of their office in exchange for the legal work that his deal flow was sure to bring.
-
-
 ### The Value of Partnership
 
 Zell's partner in law school was Bob Lurie (verify name). Lurie's strengths were...
@@ -80,5 +71,20 @@ Success in real estate, combined with a shortage of profitable real estate inves
 ### Devouring Books
 
 With the launch of [Bridgetown Partners](https://bridgetownpartners.com), I find myself devouring books on all aspects of commercial real estate. Articles, too. Topics include syndication, taxation, cash flow analysis, raising private money, and... biography. Well-written biographies are fascinating because you get to explore the subject before they become the fully-formed high-achiever who attracts the attention of a biographer. Zell's autobiography succeeds on this mission.
+
+
+
+
+
+
+# Out-Takes
+
+### Law Firms Wouldn't Hire Sam Zell
+
+After law school Zell interviewed for entry-level jobs at several firms. He was repeatedly rejected in the hiring process. Finally, a hiring partner at one law firm told him why. 
+
+
+
+Finally, he struck a deal with one firm. Leaders of the firm allowed Sam to do deals out of their office in exchange for the legal work that his deal flow was sure to bring.
 
 
