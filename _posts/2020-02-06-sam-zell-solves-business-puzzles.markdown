@@ -44,7 +44,7 @@ Sam held summer sales jobs with Helene Curtis, calling on drugstores and superma
 
 ### Law School
 
-Sam's initial feelings about law school can be summed up in one quote from the book: "Law school was boring beyond belief." He enrolled and graduated to please his parents. Decades later, as he found himself in complex business deals, he was greatful for the thinking framework that his legal education had given him. 
+Sam's initial feelings about law school can be summed up in one quote from the book: "Law school was boring beyond belief." He enrolled and graduated to please his parents. Decades later, as he found himself working through complex business deals, he was greatful for the thinking framework that his legal education had given him. 
 
 Zell bought his first building, a three-unit apartment building, during his second year of law school. His father was an early investor. This gave Sam a great sense of pride. The father's investment was tangible proof that he recognized Sam as a legitimate businessman.
 
@@ -56,7 +56,7 @@ Like the authors of [Blue Ocean Strategy](/blog/2012/11/10/make-your-competition
 
 Later, as investment real estate opportunities became scarce, Sam found himself considering business deals beyond real estate. And he observed the following:
 
->If we’ve been as successful in real estate as we have been, aren’t we really just good businessmen? And if we’re good businessmen, then why wouldn’t the same principles that apply to buying real estate apply to buying anything else? We checked the boxes—supply and demand, barriers to entry, tax considerations—all of the criteria that governed our decisions in real estate, and didn’t see any differences. So we set a goal that we would diversify our investment portfolio to be 50 percent real estate and 50 percent non–real estate by 1990.<br/>&nbsp;<br/>~Sam Zell
+>If we’ve been as successful in real estate as we have been, aren’t we really just good businessmen? And if we’re good businessmen, then why wouldn’t the same principles that apply to buying real estate apply to buying anything else? We checked the boxes — supply and demand, barriers to entry, tax considerations — all of the criteria that governed our decisions in real estate, and didn’t see any differences. So we set a goal that we would diversify our investment portfolio to be 50 percent real estate and 50 percent non–real estate by 1990.<br/>&nbsp;<br/>~Sam Zell
 
 Success in real estate, combined with a shortage of profitable real estate investment opportunities, led Zell to explore other businesses. He looked for troubled companies where he might help. Some saw his approach as exploitation. Sam sees value in buying and creating value from others' mistakes. 
 
