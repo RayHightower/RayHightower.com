@@ -24,9 +24,9 @@ Zell's parents and his older sister, Julie, left Poland just hours before German
 
 ### Voyage to America
 
-During the journey to America, Rochelle learned that she was pregnant with Sam. The year was 1941. Traveling from Europe to America meant several stops along the way, always avoiding the shadown of the Nazis. The family passed through Russia, Japan, and Curaçao before arriving in Seattle, WA, USA. Bernard had been a grain merchant in Poland. He saw the centrally-located city of Chicago as a natural place to continue his profession. The family relocated to Chicago, and Sam was born there on Sept 28, 1941.
+During the journey to America, Rochelle learned that she was pregnant with Sam. The year was 1941. Traveling from Europe to America meant several stops along the way, always avoiding the shadow of the Nazis. The family passed through Russia, Japan, and Curaçao before arriving in Seattle, WA, USA. Bernard had been a grain merchant in Poland. He saw the centrally-located city of Chicago as a natural place to continue his profession. The family relocated to Chicago, and Sam was born there on Sept 28, 1941.
 
-Bernard's and Rochelle's insatiable curiosity was passed on to their son, Sam. After the family moved to the northern suburbs, Sam coninuted to take the train into the city, _officially_ for school, but mainly to explore. As a pre-teen, he discovered that certain magazines were in demand among his friends. He purchased the mags for fifty cents each in the city, and sold them for three bucks in Highland Park. At age twelve, Sam had discovered arbitrage.
+Bernard's and Rochelle's insatiable curiosity was passed on to their son, Sam. After the family moved to the northern suburbs, Sam continued to take the train into the city, _officially_ for school, but mainly to explore. As a pre-teen, he discovered that certain magazines were in demand among his friends. He purchased the mags for fifty cents each in the city, and sold them for three bucks in Highland Park. At age twelve, Sam had discovered arbitrage.
 
 Sam's formative years were spent at Camp Ramah, a Hebrew-speaking summer camp in Wisconsin. Young campers were treated as responsible citizens from day one. Same enjoyed the independence and the meritocracy for eight weeks every summer. The experience built his self-confidence.
 
@@ -36,7 +36,7 @@ Sam readily acknowledges the role that his parents played in shaping his life. T
 
 Sam studied political science at the University of Michigan in Ann Arbor. He chafed at rote memorization. His love of motorcycles began in college. Today, he and his friends (the call themselves _Zell's Angels_) take two motorcycle trips per year along windy roads with beautiful landscapes.
 
-Zell's real estate adventure started during his junior year at U of M. A friend's landlord was building a 15-unit apartment building. Sam convinced his friend that they could manage the property for the landlord. They made the pitch and they got the management business. It never occured to Sam that he and his friend couldn't do it. "Why not?" is part of his DNA.
+Zell launched his real estate career during his junior year at U of M. A friend's landlord was building a 15-unit apartment building. Sam convinced his friend that they could manage the property for the landlord. They made the pitch and they got the management business. It never occured to Sam that he and his friend couldn't do it. "Why not?" is part of his DNA.
 
 After their first deal with the 15-unit owner, Sam and his friend created a brochure and they went around Ann Arbor pitching other landlords. He met his business partner, Bob Lurie, during this time. Bob's detail-orientation was a welcome complement to Sam's big-picture optimism.
 
@@ -58,9 +58,9 @@ Later, as investment real estate went through one of its cycles (as it always do
 
 >If we’ve been as successful in real estate as we have been, aren’t we really just good businessmen? And if we’re good businessmen, then why wouldn’t the same principles that apply to buying real estate apply to buying anything else? We checked the boxes—supply and demand, barriers to entry, tax considerations—all of the criteria that governed our decisions in real estate, and didn’t see any differences. So we set a goal that we would diversify our investment portfolio to be 50 percent real estate and 50 percent non–real estate by 1990.<br/>&nbsp;<br/>~Sam Zell
 
-Success in real estate, combined with a shortage of profitable real estate investment opportunities, led Zell to explore other businesses. He looked for troubled companies where he might help. Some saw his approach to opportunites as exploitation... He sees value in buying and creating value from others' mistakes. 
+Success in real estate, combined with a shortage of profitable real estate investment opportunities, led Zell to explore other businesses. He looked for troubled companies where he might help. Some saw his approach as exploitation. Sam sees value in buying and creating value from others' mistakes. 
 
-Is that a form of exploitation? No. Zell sees things differently. He's taking a neglected asset and giving it new life. Zell wrote an article about his approach to resurrecting dead properties in 1976. The article's title, _The Grave Dancer_, is the source of his often-cited nickname. Sam loves the nickname; colleagues present him with Grave Dancer-themed gifts.
+Is that exploitation? No. Zell sees things differently. He's taking a neglected asset and giving it new life. Zell wrote an article about his approach to resurrecting dead properties in 1976. The article's title, _The Grave Dancer_, is the source of his often-cited nickname. Sam loves the nickname; colleagues present him with Grave Dancer-themed gifts.
 
 ### Devouring Books
 
