@@ -41,6 +41,9 @@ Beware if the customer is saying nothing. Silent customers are deadly to busines
 
 The world changes over time. Customers are part of the world, therefore customers change over time, too. Listening to customers puts us in an excellent position to anticipate their needs and to meet their neeeds, sometimes in ways that they never could have imagined.
 
-Classic example: Akio Morita, CEO of Sony Corporation in the 1970s, was walking along Venice Beach in California. He observed that people were roller skating along the sidewalk with large boom-boxes on their shoulders. He empathized with the skaters. And he imagined, what if the skaters could carry high-quality music without the weight of a boom box? That's how the Sony Walkman was born. 
+Classic example: Akio Morita was CEO of Sony Corporation in the 1970s. One sunny day, Morita was walking along Venice Beach in California. He observed that people were roller skating on the sidewalk with large boom-boxes on their shoulders. He empathized with the skaters. And he imagined, what if the skaters could carry high-quality music without the weight of a boom box? That's how the Sony Walkman was born. 
 
+### Satisfied Customers are Not Enough: Raving Fans
+
+The book _Raving Fans_ is an excellent read for any business leader who wants to grow their company into a powerhouse.
 
