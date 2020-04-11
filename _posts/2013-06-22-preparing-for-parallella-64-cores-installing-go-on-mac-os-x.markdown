@@ -40,7 +40,7 @@ $ rm -rf /usr/local/go
 ~~~
 
 <ul>
-<li>Define the <code>GOROOT</code> and <code>GOPATH</code> environmental variables. My system uses <code>~/.bash_profile</code> to define environmental variables, so I added the following lines to the end of that file:
+<li>Define the <code>GOROOT</code> and <code>GOPATH</code> environmental variables. My system uses <code>~/.bash_profile</code> to define environmental variables, so I added the following lines to the end of that file:</li>
 </ul>
 
 ~~~ bash
@@ -51,7 +51,8 @@ export GOPATH=~/Code/gocode
 
 ~~~
 
-Note: I'm using the default <code>GOROOT</code> variable, but your <code>GOPATH</code> may differ from mine. I store all of my source code in a subdirectory of home:<code>~/Code</code>. My complete Go directory structure is given below. By looking at my structure, you can adjust these steps to fit your system.</li>
+<ul>
+<li>Note: I'm using the default <code>GOROOT</code> variable, but your <code>GOPATH</code> may differ from mine. I store all of my source code in a subdirectory of home:<code>~/Code</code>. My complete Go directory structure is given below. By looking at my structure, you can adjust these steps to fit your system.</li>
 <br/>
 
 <li>Tell your terminal session to recognize the new environmental variables. You can either restart terminal, or if your environmental variables are in <code>~/.bash_profile</code> like mine, you can do the following:</li>
@@ -114,7 +115,7 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Printf("\n****** Hey Parallella enthusiasts: Learn Go! ******\n")
+    fmt.Printf("\n** Hey Parallella enthusiasts: Learn Go! **\n")
 }
 
 ~~~
