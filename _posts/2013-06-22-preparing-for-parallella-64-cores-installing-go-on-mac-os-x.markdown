@@ -160,7 +160,7 @@ The newly created `bin/` directory contains our `hello` executable. And now, let
 
 ~/Code/gocode/bin$ ./hello
 
-****** Hey Parallella enthusiasts: Learn Go! ******
+** Hey Parallella enthusiasts: Learn Go! **
 
 ~/Code/gocode/bin$ 
 
