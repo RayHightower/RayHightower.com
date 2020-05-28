@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Turning Pro - Again and Again
+title:  Turning Pro, Repeatedly
 date:   2020-05-26
 comments: true
 tags: [ Business, Leadership ]
@@ -21,6 +21,12 @@ Is this book going to beat me up for all of my shortcomings?
 The answer: Yes.
 
 And then it offers a path for moving beyond the shortcomings, moving to the next level of performance. Turning pro.
+
+<!--more-->
+
+### Turning Pro Repeatedly
+
+Why repeatedly? Because... sometimes I find that after I've reaped the results of _turning pro_ I succumb to the urge to rest on my laurels.
 
 
 
