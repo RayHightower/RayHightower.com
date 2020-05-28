@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Turning Pro. Conquering Fear.
+title:  Turning Pro - Again and Again
 date:   2020-05-26
 comments: true
 tags: [ Business, Leadership ]
