@@ -7,7 +7,7 @@ title: About
 
 ### Quick Summary
 
-Raymond T. Hightower founded and ran a technology company for twenty-one years before selling the company in 2016. Today, Hightower is CEO of [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate and a builder of software for the CRE industry. Bridgetown is based in Los Angeles, California, USA.
+Raymond T. Hightower founded and ran a technology company for twenty-one years before selling the company in 2016. Today, Hightower is CEO of [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate and builder of software for the CRE industry. Bridgetown is based in Los Angeles, California, USA.
 
 ### Tech Leadership & Speaking
 
