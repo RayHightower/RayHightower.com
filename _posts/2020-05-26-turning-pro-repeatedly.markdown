@@ -4,7 +4,7 @@ title:  Turning Pro, Repeatedly
 date:   2020-05-26
 comments: true
 tags: [ Business, Leadership ]
-published: true
+published: false
 ---
  
 <img src="/images/turning_pro_steven_pressfield.jpg" width="200" align="right" alt="Turning Pro by Steven Pressfield" title="Turning Pro by Steven Pressfield" />
