@@ -10,7 +10,7 @@ What an adventure… WindyCityRails 2015 achieved record attendance. Feedback ha
 Here’s a 2-minute video recap of WindyCityRails 2015:
 
 <div class="video-container">
-<iframe name="wcr2015-recap" src="https://player.vimeo.com/video/141427471?color=f00004&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/W5Naqa9XWAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 &nbsp;<br/>
