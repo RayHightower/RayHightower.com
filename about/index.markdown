@@ -7,11 +7,11 @@ title: About
 
 ### Quick Summary
 
-Raymond T. Hightower founded and ran a technology company for twenty-one years before selling the company in 2016. Today, Hightower is CEO of [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate and a builder of software for the CRE industry. Bridgetown is based in Los Angeles, California, USA.
+Ray Hightower is a tech company founder and commercial real estate investor based in Los Angeles, California, USA. He started and ran a technology company for twenty-one years before selling the company in 2016. In 2017, he launched [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate and builder of software for the CRE industry.
 
 ### Tech Leadership & Speaking
 
-Hightower is the creator of several business and technology conferences, including [BizDay.LA](https://BizDay.LA) and WindyCityRails. He served as [lead organizer of ChicagoRuby](/blog/2017/09/07/passing-the-chicagoruby-baton/) from 2007 to 2017. He is a perpetual student, currently exploring parallelism, quantum computing, and IoT. Hightower is [invited to speak](/speaking/) at biz/tech conferences around the world, and he blogs on technology and business growth right here at [RayHightower.com](/).
+Hightower is the creator of several business and technology media outlets, including [BizDay.LA](https://BizDay.LA) and [WindyCityRails](/blog/2015/10/05/windycityrails-2015-recap/). He served as [lead organizer of ChicagoRuby](/blog/2017/09/07/passing-the-chicagoruby-baton/) from 2007 to 2017. He is a perpetual student, currently exploring parallelism, quantum computing, and IoT. Hightower is [invited to speak](/speaking/) at biz/tech conferences around the world, and he blogs on technology and business growth right here at [RayHightower.com](/).
 
 ### Early Career
 
