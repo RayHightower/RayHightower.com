@@ -24,14 +24,14 @@ Thank you to every member of the organizer team for making the conference a succ
 
 * [Kevin Zolkiewicz](https://twitter.com/zolk) – conference manager.
 * [Bobby Reyes](http://twitter.com/bobbyreys) – master of ceremonies.
-* [LaToya Allen](http://twitter.com/hashtaglatoya) – master of ceremonies.
+* LaToya Allen – master of ceremonies.
 * [Alonda McCree](http://twitter.com/themccreefiles) – logistics.
 * [Ryan Nanni](http://ryannanni.com) – videography.
 * [Michael Zarowny](https://www.linkedin.com/pub/michael-zarowny/ba/52a/28a) – videography.
 * [Tonya Johnson](http://twitter.com/tonyaljohnson_) – media management.
 * [Monty Ksycki](https://picasaweb.google.com/117859044250341793876) – photography.
 * [Justin Love](http://twitter.com/wondible) – organizer.
-* [Marty Lavin](http://www.meetup.com/ChicagoRuby/members/1345203/) – organizer.
-* [Sterling Hankins](http://www.meetup.com/ChicagoRuby/members/25308002/) – organizer.
+* Marty Lavin – organizer.
+* Sterling Hankins – organizer.
 
 As always, if you have ideas or suggestions for a future WindyCityRails, go ahead and let the organizers know. We always enjoy hearing from you.
