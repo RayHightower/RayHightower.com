@@ -29,7 +29,7 @@ Thank you to every member of the organizer team for making the conference a succ
 * [Ryan Nanni](http://ryannanni.com) – videography.
 * [Michael Zarowny](https://www.linkedin.com/pub/michael-zarowny/ba/52a/28a) – videography.
 * [Tonya Johnson](http://twitter.com/tonyaljohnson_) – media management.
-* [Monty Ksycki](https://picasaweb.google.com/117859044250341793876) – photography.
+* Monty Ksycki – photography.
 * [Justin Love](http://twitter.com/wondible) – organizer.
 * Marty Lavin – organizer.
 * Sterling Hankins – organizer.
