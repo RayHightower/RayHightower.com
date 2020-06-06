@@ -22,7 +22,7 @@ Here’s a 2-minute video recap of WindyCityRails 2015:
 
 Thank you to every member of the organizer team for making the conference a success. Specifically:
 
-* [Kevin Zolkiewicz](https://www.windycityrails.org/videos/2015/) – conference manager.
+* [Kevin Zolkiewicz](https://twitter.com/zolk) – conference manager.
 * [Bobby Reyes](http://twitter.com/bobbyreys) – master of ceremonies.
 * [LaToya Allen](http://twitter.com/hashtaglatoya) – master of ceremonies.
 * [Alonda McCree](http://twitter.com/themccreefiles) – logistics.
