@@ -14,7 +14,7 @@ Here’s a 2-minute video recap of WindyCityRails 2015:
 </div>
 
 &nbsp;<br/>
-[Presentation videos](https://www.windycityrails.org/videos/2015/) are available for all to see.
+[Presentation videos](https://www.windycityrails.com/videos/2015/) are available for all to see.
 
 <!--more--> 
 
