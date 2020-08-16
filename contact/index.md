@@ -1,6 +1,6 @@
 ---
 layout: nonav
-title: 
+title: #&nbsp;
 footer: false
 ---
 
