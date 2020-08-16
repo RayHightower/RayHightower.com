@@ -1,10 +1,10 @@
 ---
 layout: nonav
-title: #&nbsp;
+title: 
 footer: false
 ---
 
-### Fastest way to reach Ray Hightower? This form.
+
 <p>
 &nbsp;<br/>
 </p>
