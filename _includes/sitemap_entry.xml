@@ -1,6 +1,6 @@
 
   <url>
-    <loc>http://rayhightower.com{{site.baseurl}}{{include.entry.url}}</loc>
+    <loc>https://rayhightower.com{{site.baseurl}}{{include.entry.url}}</loc>
 
     {% if include.entry.changefreq %}
       <changefreq>{{include.entry.changefreq}}</changefreq>
