@@ -31,7 +31,7 @@ Hightower is a scuba diver, marathon runner, martial artist, skier, Eagle Scout,
 
 Learn more at...
 
-* [Twitter](http://twitter.com/rayhightower)
-* [LinkedIn](http://linkedin.com/in/rayhightower)
-* [GitHub](http://github.com/rayhightower)
+* [Twitter](https://twitter.com/rayhightower)
+* [LinkedIn](https://linkedin.com/in/rayhightower)
+* [GitHub](https://github.com/rayhightower)
 
