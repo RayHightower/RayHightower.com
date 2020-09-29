@@ -7,7 +7,7 @@ title: About
 
 ### Quick Summary
 
-Ray Hightower is a tech company founder and commercial real estate investor based in Los Angeles, California, USA. He started and ran a technology company for twenty-one years before selling the company in 2016. In 2017, he launched [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate and builder of software for the CRE industry.
+Ray Hightower is a tech company founder and commercial real estate investor based in Phoenix, Arizona, USA. He started and ran a technology company for twenty-one years before selling the company in 2016. In 2017, he launched [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate and builder of software for the CRE industry.
 
 ### Tech Leadership & Speaking
 
