@@ -25,7 +25,7 @@ Hightower's latest venture, [Bridgetown Partners](https://bridgetownpartners.com
 
 ### Other Stuff
 
-Hightower is a scuba diver, marathon runner, martial artist, skier, Eagle Scout, Assistant Scoutmaster, and world traveler. He has visited every state in the USA and most continents on planet Earth.
+Hightower is a scuba diver, marathon runner, martial artist, skier, Eagle Scout, Assistant Scoutmaster, and world traveler. He has visited every state in the USA and most continents on planet Earth. Fastest way to reach him? The [contact](/contact) page.
 
 Learn more at...
 
