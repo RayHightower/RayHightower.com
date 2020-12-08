@@ -9,7 +9,7 @@ Ray Hightower is a tech company founder and commercial real estate investor base
 
 ### Tech Leadership & Speaking
 
-Hightower is the creator of several business and technology media outlets, including [BizDay.LA](https://BizDay.LA) and [WindyCityRails](/blog/2015/10/05/windycityrails-2015-recap/). He served as [lead organizer of ChicagoRuby](/blog/2017/09/07/passing-the-chicagoruby-baton/) from 2007 to 2017. He is a perpetual student, currently exploring parallelism, quantum computing, and IoT. Hightower is [invited to speak](/speaking/) at biz/tech conferences around the world, and he blogs on technology and business growth right here at [RayHightower.com](/).
+Hightower is the creator of several business and technology media outlets, including [BizDayGlobal](https://BizDayGlobal.com) and [WindyCityRails](/blog/2015/10/05/windycityrails-2015-recap/). He served as [lead organizer of ChicagoRuby](/blog/2017/09/07/passing-the-chicagoruby-baton/) from 2007 to 2017. He is a perpetual student, currently exploring parallelism, quantum computing, and IoT. Hightower is [invited to speak](/speaking/) at biz/tech conferences around the world, and he blogs on technology and business growth right here at [RayHightower.com](/).
 
 ### Early Career
 
