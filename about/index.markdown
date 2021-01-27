@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="margin-right:10px" src="/images/rayhightower_headshot_2019.jpg" align="left" width="150" alt="Ray Hightower - Headshot" title="Ray Hightower - Headshot" />
+<img style="margin-right:10px" src="/images/ray_hightower_shanghai_china.jpg" width="250" alt="Ray Hightower in Shanghai China" title="Ray Hightower in Shanghai China" /><br/>
 
 Ray Hightower is a tech company founder and commercial real estate investor based in Phoenix, Arizona, USA. He started and ran a technology company for twenty-one years before selling the company in 2016. In 2017, he launched [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate and builder of software for the CRE industry.
 
