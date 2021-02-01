@@ -1,18 +1,23 @@
 ---
 layout: post
 title:  Focusing on the One Thing
-date:   2021-01-30
+date:   2021-02-01
 comments: true
 tags: Business
 published: true
 ---
 
-<img src="/images/one_thing_focusing_question.jpg" width="600" alt="Focusing Question: What's the one thing I can do right now to make everything else easier or unnecessary?" title="Focusing Question: What's the one thing I can do right now to make everything else easier or unnecessary?" /><br/>
+<img src="/images/one_thing_focusing_question.jpg" width="600" alt="Focusing Question: What's the one thing I can do right now to make everything else easier or unnecessary? From The One Thing by Gary Keller + Jay Papasan" title="Focusing Question: What's the one thing I can do right now to make everything else easier or unnecessary? From The One Thing by Gary Keller + Jay Papasan" /><br/>
 
 >Alex Van Halen has said that when he would go out at night his brother Eddie would be sitting on his bed practicing the guitar, and when he came home many hours later Eddie would be in the same place, still practicing. That's the journey of mastery - it never ends.<br/><br/>
 ~Excerpt from _The One Thing_, p177
 
+We live in a world of distractions.
+
+
 <!--more-->
+
+
 
 January is over. How's that 2021 business plan going?
 
