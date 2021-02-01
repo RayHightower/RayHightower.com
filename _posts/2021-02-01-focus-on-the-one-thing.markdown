@@ -11,7 +11,7 @@ published: true
 
 We live in a world of distractions. As business leaders, we always have many things to do and limited time in which to do them.
 
-What if there were a way to cut through the clutter and get better results in less time?  _The One Thing_ by Gary Keller and Jay Papasan offers some ideas.
+What if we could cut through the clutter and get better results in less time? _The One Thing_ by Gary Keller and Jay Papasan offers some ideas.
 
 <!--more-->
 
