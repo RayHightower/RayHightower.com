@@ -7,7 +7,7 @@ tags: Business
 published: true
 ---
 
-<img src="/images/one_thing_focusing_question.jpg" width="600" alt="Focusing Question: What's the one thing I can do right now to make everything else easier or unnecessary? From The One Thing by Gary Keller + Jay Papasan" title="Focusing Question: What's the one thing I can do right now to make everything else easier or unnecessary? From The One Thing by Gary Keller + Jay Papasan" /><br/>
+<a href="/blog/2021/02/01/focus-on-the-one-thing/"><img src="/images/one_thing_focusing_question.jpg" width="600" alt="Focusing Question: What's the one thing I can do right now to make everything else easier or unnecessary? From The One Thing by Gary Keller + Jay Papasan" title="Focusing Question: What's the one thing I can do right now to make everything else easier or unnecessary? From The One Thing by Gary Keller + Jay Papasan" /></a><br/>
 
 We live in a world of distractions. As business leaders, we always have many things to do and limited time in which to do them.
 
