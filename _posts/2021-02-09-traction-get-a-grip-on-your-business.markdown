@@ -7,11 +7,25 @@ tags:
 published: true
 ---
 
-<a href="/blog/2021/02/09/traction-get-a-grip-on-your-business/"><img src="/images/Traction_EOS_Gino_Wickman.jpg" width="600" alt="Traction: Get a Grip on Your Business" title="Traction: Get a Grip on Your Business" /></a><br/> 
+<a href="/blog/2021/02/09/traction-get-a-grip-on-your-business/"><img src="/images/Traction_EOS_Gino_Wickman_book.jpg" align="right" width="150" alt="Traction: Get a Grip on Your Business" title="Traction: Get a Grip on Your Business" /></a> 
 
-Content for Traction: Get a Grip on Your Business goes here.
+Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. 
+
+Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. 
  
 <!--more-->
+
+### Section Heading
+
+Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. 
+
+### Another Section Heading
+
+Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. 
+
+Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. Content for Traction: Get a Grip on Your Business goes here. 
+
+Content for Traction: Get a Grip on Your Business goes here. 
 
 ### EOS Implementors
 
