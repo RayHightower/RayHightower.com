@@ -70,7 +70,7 @@ EOS implementation does not happen overnight. Many companies find it helpful to 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tna53jv1GII" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Busby is a seasoned leader and entrepreneur. She works with companies of various sizes, and in multiple industries, to make EOS happen. 
+Busby is a seasoned leader and entrepreneur. She brings the EOS methodology to companies of various sizes, and in multiple industries.
 
 ### Conclusion
 
