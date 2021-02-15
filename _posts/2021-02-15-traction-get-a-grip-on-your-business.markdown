@@ -49,7 +49,7 @@ We've all been in business meetings that seem to drag on forever. _Identify, Dis
 * Discuss. Cover any information relevant to the issues raised above. 
 * Solve. Many times, this will mean assigning ownership of the solution to a member of the time. Sometimes issues disappear because they were merely symptoms of a previously solved issue. 
 
-When multiple people in the room are schooled with tools like IDS, clarity is achieved sooner and work gets done.
+When people in the room have the shared language of IDS, clarity arrives sooner and work gets done.
 
 ### Six Key Components
 
