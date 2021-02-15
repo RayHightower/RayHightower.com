@@ -23,7 +23,7 @@ Traction tells how to implement the Entrepreneurial Operating System (EOS) withi
 
 Everyone on the team needs a target number. From this number, each team member knows whether they're on or off course. The best metrics will guide the member on how to self-correct.
 
-For example, one company assignes the number _two_ to their telephone reception team. All phone calls must be answered within two rings. Everyone who answers phones knows immediately whether they're on course, and the number tells them how to self-correct.
+For example, one company assigns the number _two_ to their telephone reception team. All phone calls must be answered within two rings. Everyone who answers phones knows immediately whether they're on course, and the number tells them how to self-correct.
 
 Another example: The CEO of a steel company motivated the steel producers by taking a piece of chalk and writing a single number on a the refinery floor. The number represented the quantity of steel produced by the day shift. When the night shift arrived, they noticed the number, asked about it, and immediately set out to achieve more. At the end of their shift, they rubbed out the old number and replaced it with their own (larger) number. The day shift repeated this competitive cycle. This plant became the best steel producer in the company. Each shift was driven by a number, and they knew how to self-correct.
 
@@ -66,7 +66,7 @@ Breaking an organization into standard components gives the leadership clear con
 
 ### EOS Implementors
 
-EOS implementation does not happen overnight. Many companies find it helpful to engage a full-time Traction/EOS implementer to maximize effectiveness. I had the pleasure of interviewing one implementer through BizDayGlobal: [Rainee Busby](https://raineebusby.com). Here's the interview:
+EOS implementation does not happen overnight. Many companies find it helpful to engage a full-time Traction/EOS implementer to maximize effectiveness. Through [BizDayGlobal](https://bizdayglobal.com), I had the pleasure of interviewing [Rainee Busby](https://raineebusby.com), based in Houston, TX. Here's the discussion:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tna53jv1GII" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
