@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Traction - Get a Grip on Your Business
+title:  Traction and the Entrepreneurial Operating System
 date:   2021-02-15
 comments: true
 tags: 
