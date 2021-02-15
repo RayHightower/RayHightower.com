@@ -74,7 +74,7 @@ Busby is a seasoned leader and entrepreneur. She works with companies of various
 
 ### Conclusion
 
->You have to do the work. Don't think that reading this book will fix your company.<br/><br/>~Gino WIckman, author of Traction
+>You have to do the work. Don't think that reading this book will fix your company.<br/><br/>~Gino Wickman, author of Traction
 
 It is very easy to read a book like _Traction_, to nod knowingly, and to return the book to the shelf without taking action. It feels so good to read about solutions! Implementation can be painful, like a good athletic workout.
 
