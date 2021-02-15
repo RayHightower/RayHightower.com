@@ -60,7 +60,7 @@ EOS divides organizations into six key components.
 * Data: Food for the metrics. Everyone must have at least one number.
 * Issues: Identified in the clearest possible terms, attacked through IDS.
 * Process: Standard, repeatable methods for getting things done.
-* Traction: Getting the right things done.
+* Traction: Forward momentum. Getting the right things done.
 
 Breaking an organization into standard components gives the leadership clear concepts to think about. Further, these components form the foundation of the shared vocabulary that enables effective communication.
 
