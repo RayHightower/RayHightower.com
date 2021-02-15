@@ -35,8 +35,8 @@ In the words of Jason Fried and the team at Basecamp, [meetings are the practica
 
 Some attributes of a Level 10 Meeting:
 
-* Starts on time. Ends on time.
-* Has a clear agenda where issues are identified, discussed, and solved via EOS's IDS methodology, described below.
+* The meeting starts and ends on time.
+* The agenda is clear. Issues are identified, discussed, and solved via EOS's IDS methodology, described below.
 * When a course of action is determined, one person is given ownership of the action. That owner will execute the action and report on success or failure during the next meeting.
 
 Under EOS, solid systems and sound metrics will render many meetings unnecessary. The meetings that remain should aspire to Level Ten.
