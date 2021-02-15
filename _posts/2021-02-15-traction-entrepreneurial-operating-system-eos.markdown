@@ -9,7 +9,7 @@ published: true
 
 <a href="/blog/2021/02/09/traction-get-a-grip-on-your-business/"><img src="/images/Traction_EOS_Gino_Wickman_book.jpg" align="right" width="250" padding="10" alt="Traction: Get a Grip on Your Business" title="Traction: Get a Grip on Your Business" /></a> 
 
-As we grow [Bridgetown Partners](https://BridgetownPartners.com), the leadership team is building the company on a foundation of systems and metrics. Systems enable everyone on the team to speak, listen, and think with a shared language and a common vocabulary. Clear metrics enable everyone to know that the company ship is on course. The best metrics also give guidance on self-correction.
+As we grow [Bridgetown Partners](https://BridgetownPartners.com), the leadership team is building the company on a foundation of systems and metrics. Systems enable everyone on the team to speak, listen, and think with a shared language and a common vocabulary. Clear metrics enable everyone to know that the ship is on course. The best metrics also give guidance on self-correction.
 
 Many books offer advice on systems and metrics: [E-Myth](https://www.amazon.com/Myth-Revisited-Small-Businesses-About-ebook/dp/B000RO9VJK/ref=sr_1_1?keywords=e-myth&qid=1613355495&sr=8-1) by Michael Gerber and [Scaling Up](https://www.amazon.com/Scaling-Up-Companies-Rockefeller-Habits-ebook/dp/B00O5RR7QO/ref=sr_1_1?keywords=scaling+up+verne+harnish&qid=1613353652&sr=8-1) by Verne Harnish are two well-known titles. After exploring several methodologies, I have chosen to base Bridgetown's systems on [Traction](https://www.amazon.com/Traction-Get-Grip-Your-Business-ebook/dp/B007QWLLV2/ref=pd_sim_b2b_2?pd_rd_w=c4Nqa&pf_rd_p=a07701e4-f565-442a-b97f-93ab23cbb7ef&pf_rd_r=50JEVWH606HHP9FENBA7&pd_rd_r=76de6f94-c918-4fa6-b4d1-788382fbe793&pd_rd_wg=Xkmov&pd_rd_i=B007QWLLV2&psc=1) by Gino Wickman. Bridgetown has great momentum. By refining our tools, we will accelerate our growth.
 
@@ -45,9 +45,9 @@ Under EOS, solid systems and sound metrics will render many meetings unnecessary
 
 We've all been in business meetings that seem to drag on forever. _Identify, Discuss, and Solve (IDS)_ is an EOS method for handling issues that arise. In a nutshell...
 
-* Identify the issue. State the problem in the clearest possible terms.
-* Discuss. Cover any information relevant to the issues raised above. 
-* Solve. Many times, this will mean assigning ownership of the solution to a member of the time. Sometimes issues disappear because they were merely symptoms of a previously solved issue. 
+* **Identify** the issue. State the problem in the clearest possible terms.
+* **Discuss**. Cover any information relevant to the issues raised above. 
+* **Solve**. Many times, this will mean assigning ownership of the solution to a member of the time. Sometimes issues disappear because they were merely symptoms of a previously solved issue. 
 
 When people in the room have the shared language of IDS, clarity arrives sooner, and work gets done.
 
