@@ -1,7 +1,7 @@
 # Site settings
 title: RayHightower.com
-description: Thoughts about Ruby, Rails, iOS, the Internet of Things (IoT), software development, and business growth.
-tagline: Commercial real estate investor. Tech company founder.
+description: Tech company founder. Commercial real estate investor.
+tagline: Tech company founder. Commercial real estate investor.
 baseurl: / # the subpath of your site, e.g. /blog/
 url: "http://rayhightower.com" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:day/:title/
