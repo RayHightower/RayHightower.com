@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<a href="/blog/2021/02/09/traction-get-a-grip-on-your-business/"><img src="/images/Traction_EOS_Gino_Wickman_book.jpg" align="right" width="250" margin="10" alt="Traction: Get a Grip on Your Business" title="Traction: Get a Grip on Your Business" /></a> 
+<a href="/blog/2021/02/09/traction-get-a-grip-on-your-business/"><img src="/images/Traction_EOS_Gino_Wickman_book.jpg" align="right" width="250" padding="10" alt="Traction: Get a Grip on Your Business" title="Traction: Get a Grip on Your Business" /></a> 
 
 As we grow [Bridgetown Partners](https://BridgetownPartners.com), we strive to create effective systems and to operate with clear metrics. Systems enable everyone on the team to speak, listen, and think with a shared language and a common vocabulary. Clear metrics enable everyone to know that the company ship is on course. The best metrics also give guidance on self-correction.
 
@@ -17,7 +17,7 @@ Many books offer advice on systems and metrics: [E-Myth](https://www.amazon.com/
 
 ### Entrepreneurial Operating System (EOS)
 
-Traction tells how to implement the entrepreneurial operating system (EOS) within a company. This post will not cover all of EOS. Rather, I'll share a few of the EOS ideas that stand out for me.
+Traction tells how to implement the Entrepreneurial Operating System (EOS) within a company. This post will not cover all of EOS. Rather, I'll share a few of the EOS ideas that stand out for me.
 
 ### Give Everyone a Number. Let Them Self-Correct.
 
