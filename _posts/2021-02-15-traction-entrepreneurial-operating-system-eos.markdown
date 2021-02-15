@@ -25,7 +25,7 @@ Everyone on the team needs a target number. From this number, each team member k
 
 For example, one company assigns the number _two_ to their telephone reception team. All phone calls must be answered within two rings. Everyone who answers phones knows immediately whether they're on course, and the number tells them how to self-correct.
 
-Another example: While inspecting a steel refinery, the company CEO took out a piece of chalk and wrote a single number on a the factory floor. The chalk-written number represented the quantity of steel produced by the day shift. When the night shift arrived, they noticed the number, asked about it, and they immediately felt driven to compete. At the end of their shift, they rubbed out the old number and replaced it with their own (larger) number. The day shift repeated this competitive cycle. In time, this plant became the most productive refinery in the company. Each shift was driven by a number, and they knew how to self-correct.
+Another example: While inspecting a steel refinery, the company CEO took out a piece of chalk and wrote a single number on the factory floor. The chalk-written number represented the quantity of steel produced by the day shift. When the night shift arrived, they noticed the number, asked about it, and they immediately felt driven to compete. At the end of their shift, they rubbed out the old number and replaced it with their own (larger) number. The day shift repeated this competitive cycle. In time, this plant became the most productive refinery in the company. Each shift was driven by a number, and they knew how to self-correct.
 
 Every EOS metric should offer simplicity and self-correction.
 
