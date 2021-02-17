@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Traction and the Entrepreneurial Operating System
+title:  Traction and the Entrepreneurial Operating System (EOS)
 date:   2021-02-15
 comments: true
 tags: 
