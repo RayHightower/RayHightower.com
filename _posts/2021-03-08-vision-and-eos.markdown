@@ -28,10 +28,9 @@ The eight questions are...
 
 The VTO enables leaders to communicate their vision in a simple, two-page document.
 
-<img src="vision_traction_organizer_eos.jpg" width="600" alt="Vision/Traction Organizer from EOS" title="Vision/Traction Organizer from EOS">
+<img src="/images/EOS_VTO.jpg" width="600" alt="Vision/Traction Organizer from EOS" title="Vision/Traction Organizer from EOS">
 
 
-### Next, Choose the People
+### Next in the Series: People
 
-Next we'll cover the next component of EOS, People.
- 
+Our next post will cover people. We'll discuss how to choose the right people, and how to create an environment where people can thrive while helping the organization to grow.
