@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<a href="/blog/2021/02/09/traction-get-a-grip-on-your-business/"><img src="/images/Traction_EOS_Gino_Wickman_book.jpg" align="right" width="250" padding="10" alt="Traction: Get a Grip on Your Business" title="Traction: Get a Grip on Your Business" /></a> 
+<a href="/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/"><img src="/images/Traction_EOS_Gino_Wickman_book.jpg" align="right" width="250" padding="10" alt="Traction: Get a Grip on Your Business" title="Traction: Get a Grip on Your Business" /></a> 
 
 As we grow [Bridgetown Partners](https://BridgetownPartners.com), the leadership team is building the company on a foundation of systems and metrics. Systems enable everyone on the team to speak, listen, and think with a shared language and a common vocabulary. Clear metrics enable everyone to know that the ship is on course. The best metrics also give guidance on self-correction.
 
