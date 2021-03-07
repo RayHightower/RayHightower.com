@@ -11,9 +11,9 @@ published: true
 
 This article is part of a series on [Traction and the Entrepreneurial Operating System (EOS)](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/). EOS is a set of tools that enables a business leader to grow a company while maintaining sanity. Today's EOS component: Vision.
 
-Most entrepreneurs can see their vision clearly. Problems arise if they assume that everyone else in the organization can see it, too. But humans are not mind-readers. We can only see the vision of another person if that vision is communicated clearly and with intention.
+Most entrepreneurs can see their vision clearly. Problems arise if they assume that everyone else in the organization can see it, too. But humans are not mind-readers. We can only see the vision of another person if that vision is communicated clearly and with intention. EOS solves the vision problem with the Vision/Traction Organizer (V/TO). You can download a copy of the V/TO at [EOSWorldwide.com/VTO](http://EOSWorldwide.com/vto). 
 
-EOS solves the vision problem with the Vision/Traction Organizer (V/TO). You can download a free copy of the V/TO at [EOSWorldwide.com/VTO](http://EOSWorldwide.com/vto). Let's explore.
+Let's explore.
 
 <!--more-->
 
