@@ -9,7 +9,7 @@ published: true
 
 <a href="/blog/2021/03/08/vision-and-eos/"><img src="/images/EOS_Vision.jpg" align="right" width="250" padding="10" alt="Vision and the Entrepreneurial Operating System (EOS)" title="Vision and the Entrepreneurial Operating System (EOS)" /></a>
 
-This article is part of a series on [Traction and the Entrepreneurial Operating System (EOS)](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/). EOS is a set of tools that enables a business leader to grow a company while maintaining sanity. Today's topic: Vision.
+This article is part of a series on [Traction and the Entrepreneurial Operating System (EOS)](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/). EOS is a set of tools that enables a business leader to grow a company while maintaining sanity. Today's EOS component: Vision.
 
 Most entrepreneurs can see their vision clearly. Problems arise if they assume that everyone else in the organization can see it, too. But humans are not mind-readers. We can only see the vision of another person if that vision is communicated clearly and with intention.
 
