@@ -55,7 +55,7 @@ When people in the room have the shared language of IDS, clarity arrives sooner,
 
 EOS divides organizations into six key components.
 
-* **Vision**: Shared by all.
+* **[Vision](/blog/2021/03/08/vision-and-eos/)**: Shared by all.
 * **People**: The right people in the right seats.
 * **Data**: Food for the metrics. Everyone must have at least one number.
 * **Issues**: Identified in the clearest possible terms, attacked through IDS.
