@@ -57,4 +57,4 @@ After the leadership team has achieved clear vision (guided by the eight questio
 
 ### Next in the Series: People
 
-Next EOS topic: People. We'll discuss how to choose the right people, and how to create an environment where members of the team can thrive while helping the organization to grow.
+Next EOS topic: People. We'll review ideas from EOS on how to choose the right people, and how to create an environment where every member of the team can thrive while helping the organization to grow.
