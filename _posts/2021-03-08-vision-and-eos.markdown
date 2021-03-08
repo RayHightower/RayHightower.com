@@ -35,7 +35,9 @@ EOS suggests that business leaders can clarify their vision by answering eight q
 
 8. What are your issues?
 
-The book contains exhaustive procedures for wrestling with the above questions, along with frameworks for thinking about the answers. For example, the term _Rocks_ are the major initiatives that the company must complete quarterly in order to achieve annual business goals. Every short-term activity, no matter how small, is connected to a long-term goal. Every member of the organization is knows how their work fits into the bigger picture. The result: All of the ships sail in the same direction and the organization becomes unstoppable.
+The book contains exhaustive procedures for wrestling with the above questions, along with frameworks for thinking about the answers. 
+
+For example, _Rocks_ are the key initiatives that the company must complete quarterly in order to achieve annual business goals. Every short-term activity, no matter how small, is connected to a long-term goal. Every member of the organization is knows how their work fits into the bigger picture. The result: All members of the team start rowing in the same direction. And the organization becomes unstoppable.
 
 ### One Example: Core Values
 
@@ -49,12 +51,10 @@ Great companies can differ in their values. The key is to have consistent values
 
 ### Communicate the Vision
 
-After the leadership team has achieved clear vision (guided by the eight questions), it's time to communicate the vision throughout the organization. Simpler is better. That's why the V/TO is only two pages long. You can download a copy of the V/TO at [EOSWorldwide.com/VTO](http://EOSWorldwide.com/vto). 
+After the leadership team has achieved clear vision (guided by the eight questions), it's time to communicate the vision throughout the organization. Simpler is better. That's why the V/TO is only two pages long. You can download your copy of the V/TO at [EOSWorldwide.com/VTO](http://EOSWorldwide.com/vto). 
 
 <img src="/images/EOS_VTO.jpg" width="600" alt="Vision/Traction Organizer from EOS" title="Vision/Traction Organizer from EOS">
 
-
-
 ### Next in the Series: People
 
-Our next post will cover people. We'll discuss how to choose the right people, and how to create an environment where members of the team can thrive while helping the organization to grow.
+Next EOS topic: People. We'll discuss how to choose the right people, and how to create an environment where members of the team can thrive while helping the organization to grow.
