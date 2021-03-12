@@ -55,8 +55,6 @@ Great companies can differ in their values. The key is to have consistent values
 
 After the leadership team has defined its vision (guided by the eight questions), it's time to communicate the vision throughout the organization. Simpler is better. That's why the V/TO is only two pages long. You can download your copy of the V/TO at [EOSWorldwide.com/VTO](http://EOSWorldwide.com/vto). 
 
-<img src="/images/EOS_VTO.jpg" width="600" alt="Vision/Traction Organizer from EOS" title="Vision/Traction Organizer from EOS">
-
 ### Next in the Series: People
 
 Next EOS topic: People. We'll review ideas from EOS on how to choose the right people, and how to create an environment where every member of the team can thrive while helping the organization to grow.
