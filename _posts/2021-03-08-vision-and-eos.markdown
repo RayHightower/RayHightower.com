@@ -3,7 +3,7 @@ layout: post
 title:  Vision + EOS
 date:   2021-03-08
 comments: true
-tags: 
+tags: [ Business, EOS, Traction ]
 published: true
 ---
 
