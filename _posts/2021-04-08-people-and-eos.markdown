@@ -52,8 +52,8 @@ The founder of a company starts off by playing every role, occupying every seat.
 
 This article is part of a series on [Traction and the Entrepreneurial Operating System (EOS)](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/). EOS is a set of tools that enables a business leader to grow a company while maintaining sanity. As the other articles are completed, links will appear here:
 
-* [EOS Overview]()
-* [Vision]()
+* [EOS Overview](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/)
+* [Vision](/blog/2021/03/08/vision-and-eos/)
 * People (this post)
 * Data
 * Issues
@@ -66,9 +66,3 @@ This article is part of a series on [Traction and the Entrepreneurial Operating 
 > Without the data, yo chatta don't matta.
 
 Next EOS topic: Data. Running a business without data is like driving a car without a dashboard. You can run it that way for awhile, but we need to know that we have enough fuel before we take the next road trip.
-
-
-
-
-
-
