@@ -18,6 +18,20 @@ Traction and the Entrepreneurial Operating System add value by molding these con
 
 <!--more-->
 
+### Right People, Right Seats
+
+We might think of business as a bus carrying passengers on a long journey. Perhaps a cross-country road trip. The entrepreneur, as organizer of the bus trip, needs people to fulfill the following roles:
+
+* **Driver**. Knows the rules of the road and willingly obeys them.
+* **Navigator**. Reads the map and plots a course from start to destination. When obstacles are encountered, this person knows enough about maps to plot an alternate course.
+* **Money-keeper**. Pays for fuel and other necessities along the trip.
+* **Song-leader**. When I was a kid in day-camp, this role was critical for maintaing morale throughout the journey.
+
+You can probably think of additional roles; the above list is long enough for this article.
+
+
+
+
 ### EOS Recap
 
 <a href="/blog/2021/04/04/right-people-right-seats-eos/"><img src="/images/EOS_People.jpg" align="right" width="250" padding="10" alt="Right People, Right Seats - Entrepreneurial Operating System (EOS)" title="Right People, Right Seats - Entrepreneurial Operating System (EOS)" /></a>
