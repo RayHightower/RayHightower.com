@@ -18,7 +18,7 @@ Traction and the Entrepreneurial Operating System add value by molding these con
 
 <!--more-->
 
-### Right People, Right Seats
+### The Business Bus
 
 We might think of business as a bus carrying passengers on a long journey. Perhaps a cross-country road trip. The entrepreneur, as organizer of the bus trip, needs people to fulfill the following roles:
 
@@ -26,11 +26,21 @@ We might think of business as a bus carrying passengers on a long journey. Perha
 * **Navigator**. Reads the map and plots a course from start to destination. When obstacles are encountered, this person knows enough about maps to plot an alternate course.
 * **Money-keeper**. Pays for fuel and other necessities along the trip.
 * **Song-leader**. When I was a kid in day-camp, this role was critical for maintaing morale throughout the journey.
+* **Organizer**. You, the entrpereneur. The visionary. The person who brought everyone together for the trip.
 
-You can probably think of additional roles; the above list is long enough for this article.
+You can probably think of additional roles. The above list is long enough for this article.
 
+### Right People, Right Seats
 
+What are some things we might consider when selecting people for the various roles? In _Traction_, the author suggests that we measure each member according to three criteria.
 
+* Get it. They understand the mission of the company. They agree with the mission, and they feel driven to go beyond the call of duty to achieve the mission.
+* Want it. They want to be in the role that we're asking them to fill. They genuinely like the job, and their enthusiasm will propel them to perform exceptionally well.
+* Capacity to do it. They have the skillset to excel in the role, or they have the ability to learn quickly.
+
+Get it, want it, capacity to do it. GWC.
+
+The book contains tools that leaders can use to measure fit and to coach members of the team as needed.
 
 ### EOS Recap
 
