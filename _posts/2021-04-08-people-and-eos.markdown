@@ -18,7 +18,7 @@ Traction and the Entrepreneurial Operating System add value by molding these con
 
 <!--more-->
 
-### The Business Bus
+### Roles on The Business Bus
 
 We might think of business as a bus carrying passengers on a long journey. Perhaps a cross-country road trip. The entrepreneur, as organizer of the bus trip, needs people to fulfill the following roles:
 
@@ -44,7 +44,9 @@ _Traction_ abbreviates this as GWC. The book contains tools that leaders can use
 
 > You can have one name in two seats, just not two names in one seat.<br/>~Gino Wickman
 
-The founder of a company starts off by playing every role, occupying every seat. To serve customers better and to grow the company, the entrepreneur must hire others. To fill seats. It's okay to be driver + navigator on a short trip. But we can travel further (and have more fun) when different people fill these roles.
+The founder of a company starts off by playing every role, occupying every seat. To serve customers better and to grow the company, the entrepreneur must hire others. 
+
+In the bus trip metaphor, it's okay to be driver + navigator on a short trip. But we can travel further (and have more fun) when different people fill these roles.
 
 ### EOS Recap
 
@@ -65,4 +67,4 @@ This article is part of a series on [Traction and the Entrepreneurial Operating 
 
 > Without the data, yo chatta don't matta.
 
-Next EOS topic: Data. Running a business without data is like driving a car without a dashboard. You can run it that way for awhile, but we need to know that we have enough fuel before we take the next road trip.
+Next EOS topic: Data. Running a business without data is like driving a bus without a dashboard. You can run it that way for awhile. But without a datat dash board, we'll break speed limits, over-rev the engine, and eventually run out of fuel. The right data gives us what we need to know so that we can make better decisions.
