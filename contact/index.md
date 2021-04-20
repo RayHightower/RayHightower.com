@@ -31,8 +31,9 @@ You'll get a faster response through email or the above contact form (both go to
 Ph: +1.312.842.2200<br/>
 &nbsp;<br/>
 Raymond T. Hightower<br/>
-27 North Wacker Drive, Suite 406<br/>
-Chicago, IL 60606<br/>
+Bridgetown Partners, LLC<br/>
+515 East Grant Street, Suite 150<br/>
+Phoenix, AZ 85004<br/>
 USA<br/>
 
 
