@@ -11,7 +11,7 @@ published: true
 
 The Entrepreneurial Operating System (EOS) as described in the book [Traction](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/) consists of six components. The second component, [People](/blog/2021/04/08/people-and-eos/), focuses on attracting the right people to the team and putting them in the right positions within the organization.
 
-While exploring the people-component within Bridgetown Partners, I was introduced to a book that explores people and organizations in depth: _Who Not How_ by Dan Sullivan and Dr. Benjamin Hardy.
+_Who Not How_ by Dan Sullivan and Dr. Benjamin Hardy, is a book that explores people and organizations in depth.
 
 <!--more-->
 
@@ -19,11 +19,11 @@ While exploring the people-component within Bridgetown Partners, I was introduce
 
 >If you want to go fast, go alone. If you want to go far, go with others.<br/>&nbsp;<br/>- African Proverb
 
-A well-trained individual can accomplish much. At the same time, a team of individuals, working in concert as a team, can achieve more.
+The authors of _Who Not How_ enjoy sports history. For example, they cite Michael Jordan's early years with the Chicago Bulls. Jordan was one of the strongest players in the NBA throughout his professional career. Most observers agree that in order to win championships, Jordan needed to be teamed with Scottie Pippen, Dennis Rodman, Phil Jackson, and Tim Grover. 
 
-The authors of _Who Not How_ enjoy sports history. For example, they cite Michael Jordan's early years with the Chicago Bulls. Jordan was a strong player, perhaps the best player, throughout his professional career. But in order to win championships, he needed to be teamed with Scottie Pippen, Dennis Rodman, Phil Jackson, and Tim Grover. Pippen, Rodman, Jackson, and Grover were the _Whos_ who enabled Jordan to blossom into a brilliant  player. 
+Pippen, Rodman, Jackson, and Grover were the _Whos_ who enabled Jordan to blossom into a brilliant  player. 
 
-### Off the Court
+### Off-Court Support
 
 Note that the last two, Jackson and Grover, never joined Jordan on the court. Jackson was the coach who knew how to pull the team together and design plays that leveraged the strengths of every player. Grover was the high-performance trainer hired by Jordan for a 30-day regimen. Grover performed so well that Jordan engaged him for the next fifteen years.
 
@@ -48,6 +48,8 @@ Further, in the Bulls example: Each member of the team was a _Who_ for the other
 
 >If you want to build a ship, don’t drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.
 <br/>&nbsp;<br/>― Antoine de Saint-Exupéry
+
+A well-trained individual can accomplish much. At the same time, a team of individuals, working in concert as a team, can achieve more.
 
 Well said, Antoine de Saint-Exupéry.
 
