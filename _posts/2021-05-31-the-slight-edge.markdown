@@ -37,7 +37,7 @@ Olson has observed that successful people fail their way to the top.
 
 ### Plant, Cultivate, Harvest
 
-Sometimes we exepct results without putting in the necessary work. Is it possible to harvest crops without planting seeds? If we plant seeds yet neglect to tend to the crops, what kind of harvest can we expect?
+Sometimes we expect results without putting in the necessary work. Is it possible to harvest crops without planting seeds? If we plant seeds yet neglect to tend to the crops, what kind of harvest can we expect?
 
 Plant, cultivate, harvest. Nature's order works.
 
