@@ -11,7 +11,7 @@ published: true
 
 >When people are looking down the barrel of failure in their lives, they will do whatever it takes to get themselves moving...<br/>&nbsp;<br/>-Jeff Olson, Author of _The Slight Edge_
 
-Jeff Olson is a performance coach who has spent years observing business professionals. Especially himself. After watching people make and lose fortunes in business, athletics, and other worthy endeavors, Olson documented the patterns of survival, failure, success, and self-sabotage that all of us fall into from time to time. 
+Jeff Olson is a business leader, CEO, and a perpetual student of personal development. He has spent years observing business professionals, especially himself. After watching people make and lose fortunes in business, athletics, and other worthy endeavors, Olson documented the patterns of survival, failure, success, and self-sabotage that all of us experience. 
 
 Humans are pattern-recognition engines. When we see a pattern and when we know what to do about it, we can improve our results. That's one of the messages of _The Slight Edge_.
 
