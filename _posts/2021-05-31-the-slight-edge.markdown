@@ -13,13 +13,13 @@ published: true
 
 Jeff Olson is a performance coach who has spent years observing business professionals. Especially himself. After watching people make and lose fortunes in business, athletics, and other worthy endeavors, Olson documented the patterns of survival, failure, success, and self-sabotage that all of us fall into from time to time. 
 
-Humans are pattern-recognition engines. When we see a pattern and when we know what to do about it, we can improve our results. That's the key message of _The Slight Edge_.
+Humans are pattern-recognition engines. When we see a pattern and when we know what to do about it, we can improve our results. That's one of the messages of _The Slight Edge_.
 
 <!--more-->
 
 ### Failure, Survival, & Success
 
-Ever noticed how focused you become when faced with a deadline? Yeah, me too. Within each of us, there's a potential failure and a potential success. When we're facing down the gun-barrel of a deadline, we focus our minds, we execute, and we get the mission done. If you're like me, you might think: "How can I make myself focus like that all the time?"
+Have you ever noticed how focused you become when facing a deadline? Yeah, me too. Within each of us, there's a potential failure and a potential success. When we're facing down the gun-barrel of a deadline, we focus our minds, we execute, and we get the mission done. If you're like me, you might think: "How can I make myself focus like that all the time?"
 
 We already know what tasks to perform to take ourselves from comfort to massive success. We just need to perform the tasks consistently over time. And then the results will grow over time like compound interest in an investment account. If it's really that easy, why don't we do it?
 
@@ -44,9 +44,3 @@ Plant, cultivate, harvest. Nature's order.
 ### What is the Slight Edge?
 
 Bottom line: The slight edge is the simple step we must take every day, day after day, over a long period of time, to achieve the goals we have set for ourselves. This principle works with compound interest, with crops in the field, in athletics, and in business. Living according to the Slight Edge is simple, and not easy. But it's highly effective.
-
-
-
-
-
-
