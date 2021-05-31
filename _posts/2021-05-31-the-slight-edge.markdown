@@ -41,7 +41,9 @@ Sometimes we exepct results without putting in the necessary work. Is it possibl
 
 Plant, cultivate, harvest. Nature's order.
 
+### What is the Slight Edge?
 
+Bottom line: The slight edge is the simple step we must take every day, day after day, over a long period of time, to achieve the goals we have set for ourselves. This principle works with compound interest, with crops in the field, in athletics, and in business. Living according to the Slight Edge is simple, and not easy. But it's highly effective.
 
 
 
