@@ -27,28 +27,16 @@ We already know what tasks to perform to take ourselves from comfort to massive 
 
 According to Olson, we know what to do and we're capable of doing it for a time. But when our expectations of massive results are not met _immediately_, say within the first thirey days, we give up. Is there a secret we can leverage to push ourselves beyond that period of initial enthusiasm? Yes. We need to change the way we think about everyday things.
 
-### Changing Our Thoughts
+### Thinking About Failure
+
+The author give several examples of how we might change our thoughts on the path to greater effectiveness. One example: Failure. Some of us view failure as something to be avoided at all costs. But if we think of failure as something to avoid, we will avoid taking risks that can potentially lead to success. In the words of Grace Hopper: "A ship in the harbor is safe, but that's not what ships are made for."
+
+Michael Jordan didn't make his high school basketball time as a sophomore. But he worked hard and made it in his junior year. Thomas Edison endured thousands of failed experiments while developing the light bulb. Edison's view of failure: "I have not failed. I've simply discovered tenthousand ways that don't work."
+
+Olson has observed that successful people fail their way to the top. 
 
 
 
 
 
-
-
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
-This is only a test...<br/>
 
