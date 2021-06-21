@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Data + EOS
-date:   2021-06-15
+date:   2021-06-21
 comments: true
 tags: [ Business, Traction ]
 published: true
