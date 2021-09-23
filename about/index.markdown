@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="margin-left:10px" align="right" src="/images/RayHightower_Sep2021_Phoenix_AZ_USA.jpg" width="250" alt="Ray Hightower in Phoenix, AZ, USA" title="Ray Hightower in Phoenix, AZ, USA" />
+<img style="margin-left:10px" align="right" src="/images/RayHightower_Sep2021_Phoenix_AZ_USA.jpg" width="250" alt="Ray Hightower in Phoenix, AZ, USA. September 2021." title="Ray Hightower in Phoenix, AZ, USA. September 2021." />
 
 Raymond T. Hightower is a tech company founder and commercial real estate investor operating in the State of Arizona, USA. Growing a technology company for twenty-one years and ultimately selling it gave Hightower a boots-on-the-ground education in business execution and vanquishing obstacles. 
 
