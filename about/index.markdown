@@ -25,7 +25,7 @@ Hightower launched WisdomGroup as a network consultancy. He earned the Microsoft
 
 After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries: healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the team, culminating in the sale of the company after twenty-one years of operation.
 
-Hightower's current focus, [Bridgetown Partners](https://bridgetownpartners.com), is a buyer of multi-family properties and builder of software for the commercial real estate industry.
+Hightower's current focus, [Bridgetown Partners](https://bridgetownpartners.com), is a buyer and syndicator of multi-family properties.
 
 ### Other Stuff
 
