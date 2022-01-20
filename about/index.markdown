@@ -9,7 +9,7 @@ Raymond T. Hightower is a tech company founder and commercial real estate invest
 
 Driven by a desire to improve the world through capitalism, Hightower launched [BizDayGlobal](https://BizDayGlobal.com), a video podcast where business leaders serve others by sharing knowledge. Hightower is active with the Boy Scouts of America where he teaches future leaders about budgeting and time management.
 
-In 2017, Hightower launched [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate and builder of software for the CRE industry.
+In 2017, Hightower launched [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate in the State of Arizona, with a special focus on 40-100 unit multifamily properties.
 
 ### Tech Leadership & Speaking
 
