@@ -7,9 +7,9 @@ title: About
 
 Raymond T. Hightower is a tech company founder and commercial real estate investor operating in the State of Arizona, USA. Growing a technology company for twenty-one years and ultimately selling it gave Hightower a boots-on-the-ground education in business execution and vanquishing obstacles. 
 
-Driven by a desire to improve the world through capitalism, Hightower launched [BizDayGlobal](https://BizDayGlobal.com), a video podcast where business leaders serve others by sharing knowledge. Hightower is active with the Boy Scouts of America where he teaches future leaders about budgeting and time management.
+Driven by a desire to improve the world through business, Hightower launched [BizDayGlobal](https://BizDayGlobal.com), a video podcast where business leaders serve others by sharing knowledge. Hightower is active with the Boy Scouts of America where he teaches future leaders about budgeting and time management.
 
-In 2017, Hightower launched [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate and builder of software for the CRE industry.
+In 2017, Hightower launched [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate in the State of Arizona, with a special focus on 40-100 unit multifamily properties.
 
 ### Tech Leadership & Speaking
 
@@ -25,7 +25,7 @@ Hightower launched WisdomGroup as a network consultancy. He earned the Microsoft
 
 After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries: healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the team, culminating in the sale of the company after twenty-one years of operation.
 
-Hightower's current focus, [Bridgetown Partners](https://bridgetownpartners.com), is a buyer of multi-family properties and builder of software for the commercial real estate industry.
+Hightower's current focus, [Bridgetown Partners](https://bridgetownpartners.com), is a buyer and syndicator of multi-family properties.
 
 ### Other Stuff
 
