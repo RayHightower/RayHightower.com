@@ -71,5 +71,5 @@ If you would like to dive into the details of Rails, you might want to:
 
 * Join a user group. [ChicagoRuby](http://chicagoruby.org) hosts multiple free events every month.
 
-* Attend a conference. [WindyCityRails](http://windycityrails.com) is the one that we run. There are several solid Ruby and Rails conferences around the world.
+* Attend a conference. [WindyCityRails](/blog/2015/10/05/windycityrails-2015-recap/) is the one that we run. There are several solid Ruby and Rails conferences around the world.
 
