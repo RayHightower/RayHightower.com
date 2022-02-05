@@ -27,17 +27,17 @@ This article is part of a series on [Traction and the Entrepreneurial Operating 
 
 A scorecard is a succinct collection of numbers that can tell you at a glance how a business is doing. 
 
-One important attribute of a scorecard: It must give useful information while there's still time to take action. A profit & lost (P&L) statement, for example, does not work well as a scorecard because P&L numbers are trailing indicators. They're reported after action has already been taken, and you can't change the past.  
+One important attribute of a scorecard: It must give useful information while there's still time to act. A profit & lost (P&L) statement, for example, does not work well as a scorecard because P&L numbers are trailing indicators. They're reported after action has already been taken, and you can't change the past.  
 
-A useful daily scorecard for a sales team might report the number of calls made during a given day, the number of orders received as a result of those calls, and the responses given by customers who decided not to buy that day.
+A useful daily scorecard for a sales team might report the number of calls made during a given day, the number of orders received because of those calls, and the responses given by customers who decided not to buy that day.
 
 Every business has a unique scorecard.
 
 ### Creating a Scorecard
 
-The author proposes a clever exercise to guide the reader through scorecard creation. The head of the business should gather the leadership team together, and ask them to imagine being on a desert island somewhere. The island does not have email or phone lines. All the team has is sheet of paper with a collection of numbers. The numbers are magically updated ever week. And this magic paper, the scorecard, is the only tool the leadership team has to keep track of the business on a weekly basis.
+The author proposes a clever exercise to guide the reader through scorecard creation. The head of the business should gather the leadership team together and ask them to imagine being on a desert island somewhere. The island does not have email or phone lines. All the team has is sheet of paper with a collection of numbers. The numbers are magically updated every week. And this magic paper, the scorecard, is the only tool the leadership team receives to keep track of the business on a weekly basis.
 
-What categories will the leaders need to track in order to have a clear view of the health of the business?
+What categories will the leaders need to track to have a clear view of the health of the business?
 
 Some categories to consider: Weekly revenue, cash balances, weekly sales activity, customer satisfaction/problems, accounts receivable, accounts payable, etc.
 
@@ -45,7 +45,7 @@ The finished scorecard should contain five to fifteen numbers (the fewer the bet
 
 ### Assigning Responsibility + Deadlines
 
-Decide which member of the leadership team will be responsible for each category. Choose a goal for each item. Since the [company vision](/blog/2021/03/08/vision-and-eos/) is clear, each category will tie to the one year plan.
+Decide which member of the leadership team will be responsible for each category. Choose a goal for each item. Since the [company vision](/blog/2021/03/08/vision-and-eos/) is clear, each category will tie to the one-year plan.
 
 The _Data_ chapter offers more implementation details. 
 
@@ -63,7 +63,7 @@ If you are considering EOS for your business, you might enjoy the other articles
 * [EOS Overview](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/)
 * [Vision](/blog/2021/03/08/vision-and-eos/)
 * [People](/blog/2021/04/08/people-and-eos/)
-* Data (this post) For related posts: [Data](/blog/2022/02/04/data-plus-eos/)
+* Data (this post)
 * Issues
 * Process
 * Traction
