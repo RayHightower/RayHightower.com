@@ -39,54 +39,20 @@ The author proposes a clever exercise to guide the reader through scorecard crea
 
 What categories will the leaders need to track in order to have a clear view of the health of the business?
 
+Some categories to consider: Weekly revenue, cash balances, weekly sales activity, customer satisfaction/problems, accounts receivable, accounts payable, etc.
 
-### Content
+The finished scorecard should contain five to fifteen numbers (the fewer the better). Simplicity is key. 
 
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
+### Assigning Responsibility + Deadlines
 
-### Content
+Decide which member of the leadership team will be responsible for each category. Choose a goal for each item. Since the [company vision](/blog/2021/03/08/vision-and-eos/) is clear, each category will tie to the one year plan.
 
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
+The _Data_ chapter offers more implementation details. 
 
-### Content
+### Use It
 
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-
-### Content
-
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
-Lorem ipsum...<br/>
+There is a name for business tools that are created and not used: 
+_credenzaware_. It just sits on the credenza in someone's office, waiting to be replaced by the next business management tool. 
  
 ### EOS Recap
 
