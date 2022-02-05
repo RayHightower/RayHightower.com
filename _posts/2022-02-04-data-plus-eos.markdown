@@ -49,10 +49,12 @@ Decide which member of the leadership team will be responsible for each category
 
 The _Data_ chapter offers more implementation details. 
 
-### Use It
+### Using the Tool
 
 There is a name for business tools that are created and not used: 
 _credenzaware_. It just sits on the credenza in someone's office, waiting to be replaced by the next business management tool. 
+
+Don't let the scorecard become credenzaware!
  
 ### EOS Recap
 
