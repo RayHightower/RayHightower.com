@@ -64,7 +64,7 @@ If you are considering EOS for your business, you might enjoy the other articles
 * [Vision](/blog/2021/03/08/vision-and-eos/)
 * [People](/blog/2021/04/08/people-and-eos/)
 * Data (this post)
-* Issues
+* [Issues](/blog/2022/02/10/issues-plus-eos/)
 * Process
 * Traction
 
