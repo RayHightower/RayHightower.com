@@ -57,7 +57,7 @@ This article is part of a series on [Traction and the Entrepreneurial Operating 
 * [EOS Overview](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/)
 * [Vision](/blog/2021/03/08/vision-and-eos/)
 * People (this post)
-* Data
+* [Data](/blog/2022/02/04/data-plus-eos/)
 * Issues
 * Process
 * Traction
@@ -67,4 +67,4 @@ This article is part of a series on [Traction and the Entrepreneurial Operating 
 
 > Without the data, yo chatta don't matta.<br/>~Anonymous Data Scientist
 
-Next EOS topic: Data. Running a business without data is like driving a bus without a dashboard. You can run it that way for a while. But without a data dashboard, we'll break speed limits, over-rev the engine, and eventually run out of fuel. The right data gives us clarity so that we can make better decisions.
+Next EOS topic: **[Data](/blog/2022/02/04/data-plus-eos/)**. Running a business without data is like driving a bus without a dashboard. You can run it that way for a while. But without a data dashboard, we'll break speed limits, over-rev the engine, and eventually run out of fuel. The right data gives us clarity so that we can make better decisions.
