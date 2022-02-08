@@ -6,8 +6,14 @@ comments: true
 tags: 
 published: true
 ---
- 
-Content for Issues + EOS goes here.
+
+<img src="/images/flashlight_beam_angle.jpg" align="center" width="600" padding="10" alt="Bright Sunrise" title="Bright Sunrise" />
+
+From _The Issues Component_ chapter of the book [Traction]():
+
+>Problems are like mushrooms. When it's dark and rainy, they multiply. Under bright light, they diminish. In an organization where there is nowhere to hide, the problems are easily illuminated. EOS will create that strong light.
+
+Time to shine the light, find the problems, and eradicate them.
  
 <!--more-->
 
