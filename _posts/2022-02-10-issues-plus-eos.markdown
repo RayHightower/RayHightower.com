@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Issues + EOS
+title:  Shining the Light on Issues (EOS)
 date:   2022-02-10
 comments: true
 tags: 
 published: true
 ---
 
-<img src="/images/flashlight_beam_angle.jpg" align="center" width="600" padding="10" alt="flashlight with beam" title="flashlight with beam" />
+<img src="/images/flashlight_beam_angle.jpg" align="center" width="600" padding="10" alt="Shining the Light on Issues - Traction (Entrepreneur Operating System)" title="Shining the Light on Issues (Entrepreneur Operating System)" />
 
 From _The Issues Component_ chapter of the book [Traction]():
 
