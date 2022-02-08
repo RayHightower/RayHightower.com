@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<img src="/images/flashlight_beam_angle.jpg" align="center" width="600" padding="10" alt="Bright Sunrise" title="Bright Sunrise" />
+<img src="/images/flashlight_beam_angle.jpg" align="center" width="600" padding="10" alt="flashlight with beam" title="flashlight with beam" />
 
 From _The Issues Component_ chapter of the book [Traction]():
 
