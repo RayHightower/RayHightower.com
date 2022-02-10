@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/flashlight_beam_angle.jpg" align="center" width="600" padding="10" alt="Shining the Light on Issues - Traction (Entrepreneur Operating System)" title="Shining the Light on Issues (Entrepreneur Operating System)" />
 
-From _The Issues Component_ chapter of the book [Traction]():
+From _The Issues Component_ chapter of the book [Traction](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/):
 
 >Problems are like mushrooms. When it's dark and rainy, they multiply. Under bright light, they diminish. In an organization where there is nowhere to hide, the problems are easily illuminated. EOS will create that strong light.
 
