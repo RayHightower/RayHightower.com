@@ -6,12 +6,6 @@ comments: true
 tags: 
 published: true
 ---
- 
-<a href="/blog/2021/05/31/the-slight-edge/"><img src="/images/checklist.jpg" align="right" width="150" padding="10" alt="The Slight Edge" title="The Slight Edge" /></a> 
-
-Content for Process Plus EOS goes here.
- 
-<!--more-->
 
 ### The Process Component
 
@@ -19,6 +13,22 @@ Content for Process Plus EOS goes here.
 
 This article is part of a series on [Traction and the Entrepreneurial Operating System (EOS)](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/). EOS is a set of tools that enables a business leader to grow a company while maintaining sanity. Today's EOS component: Process.
 
+
+<!--more-->
+
+<img src="/images/Bridgetown_Partners_business_plan.jpg" width="450" padding="10" alt="Bridgetown Partners Business Plan" title="Bridgetown Partners Business Plan" />
+
+### Process at Bridgetown Partners
+
+The above diagram shows the core, big-picture process that drives Bridgetown Partners. There are three layers:
+* **Commercial Real Estate**. At our foundation, we're a commercial real estate firm that buys multifamily apartment properties, fixes them up, and gives people a great place to live. We also serve outside investors by giving their capital a place to grow at minimal risk.
+* **Software Development**. A major challenge with any business: Creating a product that customers will buy enthusiastically. As a commercial real estate firm, we are in a great position to observe the parts of the industry that can best be helped via software.
+* **Community Service**. Money for the sake of money is meaningless. For decades, our leadership team has served the tech and business communities by leading groups and conferences. [BizDayGlobal](http://BizDayGlobal) is our current community service vehicle.
+
+Runway = critical. The runway gives us time to learn the market, experiment with products, learn from our mistakes, and ultimately approach customers with a product that they want to purchase with enthusiasm.
+
+
+ 
 
 
 ### EOS Recap
