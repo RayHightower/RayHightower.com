@@ -7,6 +7,8 @@ tags:
 published: true
 ---
  
+<a href="/blog/2021/05/31/the-slight-edge/"><img src="/images/checklist.jpg" align="right" width="150" padding="10" alt="The Slight Edge" title="The Slight Edge" /></a> 
+
 Content for Process Plus EOS goes here.
  
 <!--more-->
