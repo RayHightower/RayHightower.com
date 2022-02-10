@@ -59,7 +59,7 @@ EOS divides organizations into six key components.
 * **[People](/blog/2021/04/08/people-and-eos/)**: The right people in the right seats.
 * **[Data](/blog/2022/02/04/data-plus-eos/)**: Food for the metrics. Everyone must have at least one number.
 * **[Issues](/blog/2022/02/10/issues-plus-eos/)**: Identified in the clearest possible terms, attacked through IDS.
-* **Process**: Standard, repeatable methods for getting things done.
+* **[Process](/blog/2022/02/15/process-plus-eos/)**: Standard, repeatable methods for getting things done.
 * **Traction**: Forward momentum. Getting the right things done.
 
 Breaking an organization into standard components gives the leadership clear concepts to think about. Further, these components form the foundation of the shared vocabulary that enables effective communication.

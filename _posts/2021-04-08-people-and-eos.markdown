@@ -59,7 +59,7 @@ This article is part of a series on [Traction and the Entrepreneurial Operating 
 * People (this post)
 * [Data](/blog/2022/02/04/data-plus-eos/)
 * [Issues](/blog/2022/02/10/issues-plus-eos/)
-* Process
+* [Process](/blog/2022/02/15/process-plus-eos/)
 * Traction
 
 
