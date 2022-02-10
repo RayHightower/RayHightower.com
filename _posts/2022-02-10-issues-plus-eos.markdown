@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Shining the Light on Issues (EOS)
+title:  Issues + EOS
 date:   2022-02-10
 comments: true
 tags: 
@@ -27,7 +27,8 @@ Issues are not a sign of weakness. Every organization has issues. Strong organiz
 
 People in the organization must feel comfortable calling out anything that stands in the way of the company's vision. Leadership must create an environment of honest and respectful communication. If a leader _kills the messenger_,  then small problems will be allowed to fester and grow until they become truly threatening.
 
-The Issues Solving Track
+### The Issues Solving Track
+
 The EOS framework for solving issues consists of three key steps:
 
 - Identify
