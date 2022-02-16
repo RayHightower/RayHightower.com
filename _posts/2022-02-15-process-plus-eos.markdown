@@ -32,7 +32,7 @@ Systemizing consists of two key steps:
 1. Document core processes.
 2. Ensure that the processes are followed by everyone in the organization.
 
-### Core Processes at Bridgetown Partners
+### Systemizing Example: Bridgetown Partners
 
 For our systemizing example, we will use a company that I happen to know well: [Bridgetown Partners](https://bridgetownpartners.com). Bridgetown manifests my vision for serving clients and customers by leveraging my careers in commercial real estate, software development, and community service. The three layers support each other as shown in the diagram below.
 
@@ -46,9 +46,22 @@ This is how we define the layers at Bridgetown:
 
 We've structured the CRE layer of Bridgetown to produce a long _Runway_ for all company ventures. With a longer runway, the software team has time to learn the market, experiment with products, learn from mistakes, and produce great results for customers. 
 
+### Beyond the Big-Picture Vision
 
- 
+A single chart with boxes an lines is only the beginning. The leadership team must document the company's core processes. These can vary between companies, but the list of core processes is likely to include the following:
 
+* **HR**. How your company finds, hires, orients, manages, reviews, promotes, retains, and fires people.
+* **Marketing**. Identifying your target audience and getting them interested in your product.
+* **Sales**. Converting prospects into customers.
+* **Operations**. Your way of making the product or providing the service to the customer.
+* **Accounting**. Tracking the money.
+* **Customer Retention**. Determining what keeps customers coming back for more, and giving it to them.
+
+### Document the 20%, Get 80%
+
+The author makes an insightful point about documentation: Don't document everything. If we try to document 100% of the company's processes, we risk falling into analysis paralysis, and that's just a death spiral. The world will change (perhaps drastically) before we have time to achieve 100% documentation. So it's best to stick with the Pareto Principle. Create the 20% of documentation that yields 80% of results.
+
+How much is 20%? Hard to say. That answer will vary from company to company. This is where business artistry plays a role.  
 
 ### EOS Recap
 
