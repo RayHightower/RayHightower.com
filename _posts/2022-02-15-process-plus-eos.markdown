@@ -25,10 +25,16 @@ The author of _Traction_ offers tribute to Michael Gerber, author of business cl
 
 Business owners who complain about lack of control and lack of freedom need to work on systemizing their businesses.
 
+### How to Systemize
+
+Systemizing consists of two key steps:
+
+1. Document core processes.
+2. Ensure that the processes are followed by everyone in the organization.
 
 ### Core Processes at Bridgetown Partners
 
-The following example is a little bit closer to home: [Bridgetown Partners](https://bridgetownpartners.com). Bridgetown manifests my vision for serving clients and customers by leveraging my history in commercial real estate, software development, and community service. The three layers support each other as shown in the diagram below.
+For our systemizing example, we will use a company that I happen to know well: [Bridgetown Partners](https://bridgetownpartners.com). Bridgetown manifests my vision for serving clients and customers by leveraging my careers in commercial real estate, software development, and community service. The three layers support each other as shown in the diagram below.
 
 <img src="/images/Bridgetown_Partners_business_plan.jpg" width="450" padding="10" alt="Bridgetown Partners Business Plan" title="Bridgetown Partners Business Plan" />
 
@@ -38,7 +44,7 @@ This is how we define the layers at Bridgetown:
 * **Software Development**. The best software companies have a deep understanding of user needs. When the development company is also a user, understanding is amplified. As a commercial real estate firm, we are in a great position to observe the parts of our industry that need a boost from great software. Even better, the CRE foundation gives us time to fine-tune our finished software products (see _Runway_, below).
 * **Community Service**. Money for the sake of money is meaningless. For decades, our leadership team has served the tech and business communities by leading groups and conferences. Currently, [BizDayGlobal](https://BizDayGlobal.com) and the [Arizona Multifamily Mastermind Group (AZMM.org)](https://AZMM.org) are our main community service vehicles.
 
-We've structured Bridgetown so to produce a long _Runway_ for all of our ventures. With a longer runway, a product team has time to learn the market, experiment with products, learn from mistakes, and ultimately approach customers with products that they want to purchase with enthusiasm.
+We've structured the CRE layer of Bridgetown to produce a long _Runway_ for all company ventures. With a longer runway, the software team has time to learn the market, experiment with products, learn from mistakes, and produce great results for customers. 
 
 
  
