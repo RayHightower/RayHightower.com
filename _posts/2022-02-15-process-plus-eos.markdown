@@ -7,15 +7,15 @@ tags:
 published: true
 ---
 
-By way of example, we will share some of the processes we use within Bridgetown Partners. The Bridgetown Way.
+Consistency is one of the most effective tools we can use to keep customers coming back for more. When first-time customers become repeat customers, revenue explodes (in a positive way). Customers trust brands like Starbucks, Apple, and Google because expectations and delivery are consistently in alignment.
 
+How does a company achieve consistency? Through processes.
 
 ### The Process Component
 
 <a href="/blog/2022/02/15/process-plus-eos/"><img src="/images/EOS_Process.jpg" align="right" width="250" padding="10" alt="Process and the Entrepreneurial Operating System (EOS)" title="Process and the Entrepreneurial Operating System (EOS)" /></a>
 
 This article is part of a series on [Traction and the Entrepreneurial Operating System (EOS)](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/). EOS is a set of tools that enables a business leader to grow a company while maintaining sanity. Today's EOS component: Process.
-
 
 <!--more-->
 
