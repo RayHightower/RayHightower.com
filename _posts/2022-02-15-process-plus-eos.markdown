@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-Consistency is one of the most effective tools we can use to keep customers coming back for more. When first-time customers become repeat customers, revenue explodes (in a positive way). Customers trust brands like Starbucks, Apple, and Google because expectations and delivery are consistently in alignment.
+Consistency is one of the most effective tools we can use to keep customers coming back for more. When first-time customers become repeat customers, revenue explodes (in a positive way). Customers trust brands like Starbucks, Apple, and Google because expectations and delivery are consistently aligned.
 
 <a href="/blog/2022/02/15/process-plus-eos/"><img src="/images/EOS_Process.jpg" align="right" width="250" padding="10" alt="Process and the Entrepreneurial Operating System (EOS)" title="Process and the Entrepreneurial Operating System (EOS)" /></a>
 
@@ -21,7 +21,7 @@ This article is part of a series on [Traction and the Entrepreneurial Operating 
 
 ### Shout Out to E-Myth by Michael Gerber
 
-The author of _Traction_ offers tribute to Michael Gerber, author of business classics _The E-Myth_ and _The E-Myth Revisited_. Gerber's point in his books (and speaches and interviews) is that the entrepreneur must create systems if they ever want to have a life outside of their business. We must view the business as a "pre-production prototype of a mass-producable product." When we systemize the business, we can step outside of it, fine-tune it, and scale it.
+The author of _Traction_ offers tribute to Michael Gerber, author of business classics _The E-Myth_ and _The E-Myth Revisited_. Gerber's point in his books (and speeches and interviews) is that the entrepreneur must create systems if they ever want to have a life outside of their business. We must view the business as a "pre-production prototype of a mass-producible product." When we systemize the business, we can step outside of it, fine-tune it, and scale it.
 
 Business owners who complain about lack of control and lack of freedom need to work on systemizing their businesses.
 
@@ -55,11 +55,11 @@ A single chart with boxes an lines is only the beginning. The leadership team mu
 * **Sales**. Converting prospects into customers.
 * **Operations**. Your way of making the product or providing the service to the customer.
 * **Accounting**. Tracking the money.
-* **Customer Retention**. Determining what keeps customers coming back for more, and giving it to them.
+* **Customer Retention**. Determining what keeps customers coming back for more. And giving it to them.
 
 ### Document the 20%, Get 80%
 
-The author makes an insightful point about documentation: Don't document everything. If we try to document 100% of the company's processes, we risk falling into analysis paralysis, and that's just a death spiral. The world will change (perhaps drastically) before we have time to achieve 100% documentation. So it's best to stick with the Pareto Principle. Create the 20% of documentation that yields 80% of results.
+The author makes an insightful point about documentation: Don't document everything. If we try to document 100% of the company's processes, we risk falling into analysis paralysis, and that's just a death spiral. The world will change (perhaps drastically) before we have time to achieve 100% documentation. Therefore, we stick with the Pareto Principle. Create the 20% of documentation that yields 80% of results.
 
 How much is 20%? Hard to say. That answer will vary from company to company. This is where business artistry plays a role.  
 
