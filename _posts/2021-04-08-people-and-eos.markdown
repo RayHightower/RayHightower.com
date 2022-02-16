@@ -58,8 +58,8 @@ This article is part of a series on [Traction and the Entrepreneurial Operating 
 * [Vision](/blog/2021/03/08/vision-and-eos/)
 * People (this post)
 * [Data](/blog/2022/02/04/data-plus-eos/)
-* Issues
-* Process
+* [Issues](/blog/2022/02/10/issues-plus-eos/)
+* [Process](/blog/2022/02/15/process-plus-eos/)
 * Traction
 
 
