@@ -62,7 +62,7 @@ Each Level 10 meeting starts with a _Segue_ into the meeting. The purpose of the
 
 ### Conclusion
 
-Every component of Traction strengthens the others. End result: A more productive organization.
+Every component of Traction strengthens the others. Result: A more productive organization.
 
 ### EOS Recap
 
