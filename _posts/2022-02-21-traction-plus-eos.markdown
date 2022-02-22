@@ -25,6 +25,60 @@ Traction can be defined as how well something moves ahead without slipping. Tire
 
 This article is part of a series on [Traction and the Entrepreneurial Operating System (EOS)](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/). EOS is a set of tools that enables a business leader to grow a company while maintaining sanity. Today's EOS component: Traction.
 
+### Accountability and Discipline
+
+Organizational consultants have learned that accountability and discipline are the areas of greatest weakness in most companies. The EOS tools are systems that instill accountability and discipline into the fiber of the organization. For example, 
+
+### 90-Day Pulse
+
+Many of the tools within EOS are based on observations about human behavior. For example, most humans and teams can stay focused on a project for about ninety days. After ninety days, our focus drifts and we tend to go off on tangents. That is why it's necessary for us to re-group and re-focus on the big picture goals every ninety days. The EOS tools support this 90-day pulse.
+
+### Rocks and a Meeting Pulse
+
+The term _Rock_ is borrowed from a business fable traced back to Steven Covey's _Seven Habits of Highly Effective People_. Imagine a glass container next to a pile of rocks, a bucket of sand, and a glass of water. If you want to get the rocks, sand, and water into the glass container, it's better to start with the rocks first. The gravel fills in the spaces between the rocks, sand fills in the spaces between the gravel, and the water completes the process.
+
+Rocks represent the priorities that the organization must accomplish in the next ninety days. The leadership team chooses three to seven Rocks per quarter. Each Rock has a single person who is accountable for the Rock's success.
+
+
+### Quarterly Meeting Pulse
+
+90-Day Pulse
+
+
+### Annual Meeting Pulse
+
+
+### Level 10 Meetings
+
+Rate the meeting from 1 to 10. Goal = 8.
+
+
+
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+
 ### EOS Recap
 
 If you are considering EOS for your business, you might enjoy the other articles in the series:
