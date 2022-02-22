@@ -48,7 +48,7 @@ We've structured the CRE layer of Bridgetown to produce a long _Runway_ for all 
 
 ### Beyond the Big-Picture Vision
 
-A single chart with boxes an lines is only the beginning. The leadership team must document the company's core processes. These can vary between companies, but the list of core processes is likely to include the following:
+A single chart with boxes and lines is only the beginning. The leadership team must document the company's core processes. These can vary between companies, but the list of core processes is likely to include the following:
 
 * **HR**. How your company finds, hires, orients, manages, reviews, promotes, retains, and fires people.
 * **Marketing**. Identifying your target audience and getting them interested in your product.
@@ -73,6 +73,6 @@ If you are considering EOS for your business, you might enjoy the other articles
 * [Data](/blog/2022/02/04/data-plus-eos/) 
 * [Issues](/blog/2022/02/10/issues-plus-eos/)
 * Process (this post)
-* Traction
+* [Traction](/blog/2022/02/21/traction-component-plus-eos/)
 
 
