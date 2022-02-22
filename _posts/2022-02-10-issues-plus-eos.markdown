@@ -65,5 +65,5 @@ If you are considering EOS for your business, you might enjoy the other articles
 * [Data](/blog/2022/02/04/data-plus-eos/) 
 * Issues (this post)
 * [Process](/blog/2022/02/15/process-plus-eos/)
-* [Traction](/blog/2022/02/21/traction-plus-eos/)
+* [Traction](/blog/2022/02/21/traction-component-plus-eos/)
 

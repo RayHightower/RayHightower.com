@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Traction + EOS
+title:  The Traction Component + EOS
 date:   2022-02-21
 comments: true
 tags: 
