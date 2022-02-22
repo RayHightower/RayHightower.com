@@ -43,7 +43,9 @@ The Traction Component includes a method for extracting Rocks from the Vision/Tr
 
 ### Meeting Pulse
 
-Meetings are designed to happen at regular, predictable times. Hence the term _Meeting Pulse_. The EOS framework has provisions for meetings that occur annually, quarterly, and weekly. Key rules for meetings:
+Meetings are designed to happen at regular, predictable times. Hence the term _Meeting Pulse_. The EOS framework has provisions for meetings that occur annually, quarterly, and weekly. 
+
+Example: Here are some rules for weekly meetings...
 
 * Be on the same day & time each week.
 * Start on time.
