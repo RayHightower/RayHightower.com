@@ -23,7 +23,7 @@ Traction can be defined as how well something moves ahead without slipping. Tire
 
 <a href="/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/"><img src="/images/EOS_Traction.jpg" align="right" width="250" padding="10" alt="Traction and the Entrepreneurial Operating System (EOS)" title="Traction and the Entrepreneurial Operating System (EOS)" /></a>
 
-This article is part of a series on [Traction and the Entrepreneurial Operating System (EOS)](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/). EOS is a set of tools that enables a business leader to grow a company while maintaining sanity. Today's EOS component: Traction.
+This article is part of a series on [Traction and the Entrepreneurial Operating System (EOS)](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/). EOS is a set of tools that enables a business leader to grow a company while maintaining sanity.
 
 ### Accountability and Discipline
 
