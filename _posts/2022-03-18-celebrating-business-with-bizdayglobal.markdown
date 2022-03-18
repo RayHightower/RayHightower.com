@@ -6,7 +6,7 @@ comments: true
 tags: 
 published: true
 ---
-[BizDayGlobal](https://bizdayglobal.com) is the video podcast that celebrates business. We believe that when people are doing business with each other for mutual advantage, they are less likely to fight each other.
+[BizDayGlobal](https://bizdayglobal.com) is the video podcast that celebrates business. The core belief of BizDayGlobal: When people do business with each other for mutual advantage, they are less likely to fight each other.
 
 ### What is Business?
 
