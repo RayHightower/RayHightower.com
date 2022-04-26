@@ -32,8 +32,8 @@ Ph: +1.312.842.2200<br/>
 &nbsp;<br/>
 Raymond T. Hightower<br/>
 Bridgetown Partners, LLC<br/>
-515 East Grant Street, Suite 150<br/>
-Phoenix, AZ 85004<br/>
+500 N. Estrella Parkway #B2-431<br/>
+Goodyear, AZ 85338<br/>
 USA<br/>
 
 
