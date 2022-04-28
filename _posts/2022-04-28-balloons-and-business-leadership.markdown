@@ -24,11 +24,11 @@ I recently took a ride in one of those balloons. Kudos to [Hot Air Expeditions](
 
 <img src="/images/balloon_ray_hightower.jpg" align="right" width="200" padding="20" alt="Balloon ride, northern Phoenix, Ray Hightower" title="Balloon ride, northern Phoenix, Ray Hightower" />
 
-Our balloon pilot was a veteran of the skies with decades of experience in balloons and fixed-wing aircraft. Early in our journey, he made it clear that it's possible to control upward and downward movement. But horizonal movement is at the mercy of the wind, moment by moment.
+Our balloon pilot was a veteran of the skies with decades of experience in balloons and fixed-wing aircraft. He told us that it's possible to control upward and downward movement by regulating the hot air flowing into the balloon. But horizonal movement is at the mercy of the wind, moment by moment.
 
 For example, my original balloon flight was scheduled on a Tuesday. One day before the scheduled flight, I received a cancellation notice via email and text. The reason? The weather forecast was not cooperating. Before the balloons take off, the team needs to have a rough idea of wind direction so that the chase trucks can meet the passengers at the end of the balloon ride. Our departure was bumped to two days later.
 
-On the day of our balloon ride, toward the end, we expected to land in a desert area roughly 100 meters south of an asphalt road. Right before touch-down, we encountered a thermal: a gust of warm air rising upward. The gust took our craft with it, and we were airborne on the opposite side of the road.
+On the day of our balloon ride, toward the end, we expected to land in a desert area roughly 100 meters south of an asphalt road. Right before touch-down, we encountered a thermal: a gust of warm air rising upward. The gust took our craft with it, and we were airborne on the opposite side of the road. Can the balloon pilot control upward/downward movement? Yes, when nature allows the pilot to do so!
 
 Our pilot did an excellent job of keeping passengers informed throughout the flight. Many of us laughed when the flight was extended due to the unexpected thermal. Our pilot communicated well, and all of us were grateful for that.
 
