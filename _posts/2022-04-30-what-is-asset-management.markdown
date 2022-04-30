@@ -55,56 +55,20 @@ Pro tip from the book: Any time a unit is vacant, go on-site and walk it. You wo
 In the language of the book [Traction](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/), one might think of the asset manager as the _visionary_ and the property manager as the _integrator_. Both roles are vital to the successful execution of the business plan.
 
 
-### Periodic Reporting
+### Weekly Calls With Reports
 
 <blockquote>
 The devil is in the details: We have seen far too many operators not pay attention to the details, and their investors have suffered.
 </blockquote>
 
-
+The book contains a list of reports that the asset manager should expect to receive from the property management firm: Weekly, monthly, quarterly, annually. Some of the reports will need to be shared with the mortgage company as specified in the loan documents.
 
 ### Conclusion
 
-_Best In Class_ is a sold book for anyone who wants an inside look at asset management. 
+_Best In Class_ is a sold book for anyone who wants an inside look at asset management. Other areas covered by the book, and not mentioned above, include key performance indicators (KPIs), Setting expectations with contractors and vendors, marketing (attracting new tenants), and investor relations. Well worth the time required to read it.
 
 Every asset management meeting is a learning experience for me. I'm grateful to my fellow syndicators, investors, and related professionals. Grateful for the chance to learn from their experiences as well as my own.
-
 
 ### Related: Underwriting
 
 Throughout the ownership cycle, the asset manager will compare the performance of the property against the original underwriting. The article [What is Underwriting?](/blog/2022/01/31/what-is-underwriting/) will provide answers on the subject.
-
-
-
-<br/>&nbsp;
-<br/>&nbsp;
-<br/>&nbsp;
-<br/>&nbsp;
-<br/>&nbsp;
-<br/>&nbsp;
-<br/>&nbsp;
-# Out-Takes
-
-There are only a few books on asset management on the market. Here's one that I like: <a href="https://www.amazon.com/Best-Class-Multifamily-Mistakes-through-ebook/dp/B096YS1HYX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1651193114&sr=8-1">Best In Class</a> by <a href="">Kyle Mitchell</a> and <a href="">Gary Lipsky</a>.
-
-
-### Business Systems
-
-<blockquote>
-You have to implement systems and processes to identify bottlenecks and not be afraid to ask a lot of questions. Mistakes happen, but they can be fixed if you pay attention.
-</blockquote>
-
-Sometimes, as a syndicator, we're looking at a deal and all of the records consist of a bunch of receipts and random pieces of paper in a shoe box.
-
-
-_Best In Class_ describes a reporting structure for good asset management.
-
-
-
-
-can only secure a mortage if you engage a property management firm that is pre-approved by the lender.
-
-owner will deliver better value to invee
-
-
-Collaborating with the PM team to create a sound business plan driven by market conditions and the PM's local knnowledge and experience.  creating a business plan for the PM team to execute, and ensuring that the 
