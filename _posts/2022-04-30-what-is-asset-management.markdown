@@ -19,13 +19,16 @@ by Kyle Mitchell and Gary Lipsky
 The commercial real estate syndication business can be divided into three main segments (listed in the syndicator's chronological order):
 
 * **Acquisitions**. Finding and buying the property.
-* **Capital Raising**. Finding equity partners who will participate in the purchase of the property.
+* **Capital Raising**. Bringing in equity partners who will participate in the purchase of the property.
 * **Asset Management**. Creating a business plan for the property, and making sure that the plan is executed well.
 
 The book _Best In Class_ focuses on asset management. 
 
 <!--more-->
 
+### About the Book
+
+Mitchell and Lipsky are experienced and effective asset managers (full disclosure: I have partnered with Kyle and Gary on multifmaily real estate deals in Arizona). Even with their level of expertise, they gathered data and experiences from over 150 successful real estate operators while writing this book. The average person learns from their own experience, while the wise person also learns from the experience of others.
 
 ### What Is Asset Management?
 
