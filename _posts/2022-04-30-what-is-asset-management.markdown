@@ -48,14 +48,17 @@ Property management is a highly specialized profession. For larger communities o
 
 The property management team manages the property day to day, screening new tenants, collecting rent, handling repair requests, fielding emergency calls, and other daily tasks. The property manager and asset manager will typically meet once per week to review the business plan and to make decisions on any issues that have arisen since the previous meeting.
 
-In the language of the book [Traction](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/), one might think of the asset manager as the visionary and the property manager as the integrator. Both roles are vital to the successful execution of the business plan.
+The book makes an important point about decisionmaking. Property managers have professional expertise, but final decisions rest with the asset manager. The asset manager (as an extension of the general partnership team) represents the best interest of the investors. A good asset manager will visit the property and check in on the on-site management, sometimes unannounced. That's one way to know what's really going on day to day.
+
+Pro tip from the book: Any time a unit is vacant, go on-site and walk it. You won't be disturbing any tenants, and you'll get a better feel for property.
+
+In the language of the book [Traction](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/), one might think of the asset manager as the _visionary_ and the property manager as the _integrator_. Both roles are vital to the successful execution of the business plan.
 
 
-
-### Get it Right, Or Else...
+### Periodic Reporting
 
 <blockquote>
-The devil is in the details: We have seen far too many operators not pay attention to the details, and their investors  have suffered.
+The devil is in the details: We have seen far too many operators not pay attention to the details, and their investors have suffered.
 </blockquote>
 
 
