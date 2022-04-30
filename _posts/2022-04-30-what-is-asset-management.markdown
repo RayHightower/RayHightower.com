@@ -38,26 +38,26 @@ The average person learns from their own experience, while the wise person also 
 We believe that good asset management is not rocket science. You have to be consistent. You have to pay attention to the details. You have to implement systems and processes to identify bottlenecks and not be afraid to ask a lot of questions. Mistakes happen, but they can be fixed if you pay attention.
 </blockquote>
 
-Reading this book and working with these authors in person has taught me that asset management is largely about proactive self discipline. Yes, it's important to be smart. Beyond intelligence, the effective asset manager identifies and solves issues early, before they fester into something big and expensive.
+Reading this book and observing these authors in person has taught me that asset management is largely about proactive self discipline. Yes, it's important to be smart. Beyond intelligence, the effective asset manager identifies and solves issues early, before they fester into something big and expensive.
 
-For example, at one property where I have an ownership interest, we observed rusted metal stairs. The rust was not yet bad enough to cause injury to the residents. But our team moved forward with repairs anyway (proactively) because it's the right thing to do. Residents have a safer and nicer place to live. Everybody wins.
+For example, at one property where I have an ownership interest, we observed rusted metal stairs. The rust was not yet bad enough to cause injury to the residents. But our team moved forward with repairs anyway (proactively) because it's the right thing to do. Result: Residents have a safer and nicer place to live. Everybody wins.
 
 ### Working With Property Management
 
 The _Best In Class_ chapter dealing with property management is titled "Managing the Manager" for good reason. The asset manager sets the big picture direction for the property. For implementation, the asset manager will typically hire a property management firm.
 
-Property management is a highly specialized profession. For larger communities of apartments (50 units, 100units, or larger) the lender will require the syndicator to hire a professional property management firm as a pre-condition for the mortgage. Owners who want to self-manage must establish a true property management firm, complete with systems and practices on the level with the best professional firms.
+Property management is a highly specialized profession. For larger communities of apartments (50 units, 100 units, or larger) the lender will require the syndicator to hire a professional property management firm as a pre-condition for the mortgage. Owners who want to self-manage must establish a true property management firm, complete with systems and practices on the level with the best professional firms.
 
 The property management team manages the property day to day, screening new tenants, collecting rent, handling repair requests, fielding emergency calls, and other daily tasks. The property manager and asset manager will typically meet once per week to review the business plan and to make decisions on any issues that have arisen since the previous meeting.
 
-The book makes an important point about decisionmaking. Property managers have professional expertise, but final decisions rest with the asset manager. The asset manager (as an extension of the general partnership team) represents the best interest of the investors. A good asset manager will visit the property and check in on the on-site management, sometimes unannounced. That's one way to know what's really going on day to day.
+The book makes an important point about decisionmaking. Property managers have professional expertise, but final decisions rest with the asset manager. The asset manager (as an extension of the general partnership team) represents the best interest of the investors. 
 
-Pro tip from the book: Any time a unit is vacant, go on-site and walk it. You won't be disturbing any tenants, and you'll get a better feel for property.
+A good asset manager will visit the property and check in on the on-site management, sometimes unannounced. Pro tip from the book: Any time a unit is vacant, go on-site and walk it. That's a way to get a feel for the property without disturbing residents.
 
 In the language of the book [Traction](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/), one might think of the asset manager as the _visionary_ and the property manager as the _integrator_. Both roles are vital to the successful execution of the business plan.
 
 
-### Weekly Calls With Reports
+### Weekly Calls + Reports
 
 <blockquote>
 The devil is in the details: We have seen far too many operators not pay attention to the details, and their investors have suffered.
