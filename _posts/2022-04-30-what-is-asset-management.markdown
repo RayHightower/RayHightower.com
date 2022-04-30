@@ -44,25 +44,11 @@ For example, at one property where I have an ownership interest, we observed rus
 
 The _Best In Class_ chapter dealing with property management is titled "Managing the Manager" for good reason. The asset manager sets the big picture direction for the property. For implementation, the asset manager will typically hire a property management firm.
 
-Property management is a highly specialized profession. For larger communities of apartments (50 units, 100units, or larger) the syndicator is required to hire a professional property management firm as a condition of the mortgage. If an owner wants to self-manage, they must show systems and practices on the level with the best professional firms.
+Property management is a highly specialized profession. For larger communities of apartments (50 units, 100units, or larger) the lender will require the syndicator to hire a professional property management firm as a pre-condition for the mortgage. Owners who want to self-manage must establish a true property management firm, complete with systems and practices on the level with the best professional firms.
 
-The asset manager is responsible for hiring a property management team. The PM team manages the property day to day, screening new tenants, collecting rent, handling repair requests, and other daily tasks. The property manager and asset manager will typically meet once per week to review the business plan and to make decisions on any issues that have arisen since the previous meeting.
+The property management team manages the property day to day, screening new tenants, collecting rent, handling repair requests, fielding emergency calls, and other daily tasks. The property manager and asset manager will typically meet once per week to review the business plan and to make decisions on any issues that have arisen since the previous meeting.
 
-_Best In Class_ describes a reporting structure for good asset management.
-
-
-
-
-can only secure a mortage if you engage a property management firm that is pre-approved by the lender.
-
- owner will deliver better value to invee
-
-
-
-
-
-Collaborating with the PM team to create a sound business plan driven by market conditions and the PM's local knnowledge and experience.  creating a business plan for the PM team to execute, and ensuring that the 
-
+In the language of the book [Traction](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/), one might think of the asset manager as the visionary and the property manager as the integrator. Both roles are vital to the successful execution of the business plan.
 
 
 
@@ -106,3 +92,16 @@ You have to implement systems and processes to identify bottlenecks and not be a
 </blockquote>
 
 Sometimes, as a syndicator, we're looking at a deal and all of the records consist of a bunch of receipts and random pieces of paper in a shoe box.
+
+
+_Best In Class_ describes a reporting structure for good asset management.
+
+
+
+
+can only secure a mortage if you engage a property management firm that is pre-approved by the lender.
+
+owner will deliver better value to invee
+
+
+Collaborating with the PM team to create a sound business plan driven by market conditions and the PM's local knnowledge and experience.  creating a business plan for the PM team to execute, and ensuring that the 
