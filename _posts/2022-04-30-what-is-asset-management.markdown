@@ -28,7 +28,9 @@ The book _Best In Class_ focuses on asset management.
 
 ### About _Best In Class_
 
-Mitchell and Lipsky are experienced and effective asset managers. (Full disclosure: I have partnered with Kyle and Gary on multifamily real estate properties in Arizona). Even with their level of expertise, they went out and gathered data and experiences from other successful real estate operators (150+) while writing this book. The average person learns from their own experience, while the wise person also learns from the experience of others.
+Mitchell and Lipsky are experienced and effective asset managers. Full disclosure: I have partnered with Kyle and Gary on multifamily real estate in Arizona. Even with their level of expertise, they went out and gathered data and experiences from other successful real estate operators (150+) while writing this book. 
+
+The average person learns from their own experience, while the wise person also learns from the experience of others.
 
 ### Asset Management and Rocket Science
 
@@ -71,4 +73,4 @@ Every asset management meeting is a learning experience for me. I'm grateful to 
 
 ### Related: Underwriting
 
-Throughout the ownership cycle, the asset manager will compare the performance of the property against the original underwriting. The article [What is Underwriting?](/blog/2022/01/31/what-is-underwriting/) will provide answers on the subject.
+Throughout the ownership cycle, the asset manager will compare the performance of the property against the original underwriting. The article [What is Underwriting?](/blog/2022/01/31/what-is-underwriting/) provides useful info on the subject.
