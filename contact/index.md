@@ -28,7 +28,7 @@ Fastest way to reach Ray Hightower? This form.<br/>
 
 You'll get a faster response through email or the above contact form (both go to email). Old school methods are _slower_.
 
-Ph: +1.312.842.2200<br/>
+<br/>
 &nbsp;<br/>
 Raymond T. Hightower<br/>
 Bridgetown Partners, LLC<br/>
