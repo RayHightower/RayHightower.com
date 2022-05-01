@@ -38,7 +38,7 @@ The average person learns from their own experience, while the wise person also 
 We believe that good asset management is not rocket science. You have to be consistent. You have to pay attention to the details. You have to implement systems and processes to identify bottlenecks and not be afraid to ask a lot of questions. Mistakes happen, but they can be fixed if you pay attention.
 </blockquote>
 
-Reading this book and observing these authors in person has taught me that asset management is largely about proactive self discipline. Yes, it's important to be smart. Beyond intelligence, the effective asset manager identifies and solves issues early, before they fester into something big and expensive.
+Reading this book and observing these authors in person has taught me that asset management is largely about proactive self-discipline. Yes, it's important to be smart. Beyond intelligence, the effective asset manager identifies and solves issues early, before they fester into something big and expensive.
 
 For example, at one property where I have an ownership interest, we observed rusted metal stairs. The rust was not yet bad enough to cause injury to the residents. But our team moved forward with repairs anyway (proactively) because it's the right thing to do. Result: Residents have a safer and nicer place to live. Everybody wins.
 
@@ -50,7 +50,7 @@ Property management is a highly specialized profession. For larger communities o
 
 The property management team manages the property day to day, screening new tenants, collecting rent, handling repair requests, fielding emergency calls, and other daily tasks. The property manager and asset manager will typically meet once per week to review the business plan and to make decisions on any issues that have arisen since the previous meeting.
 
-The book makes an important point about decisionmaking. Property managers have professional expertise, but final decisions rest with the asset manager. The asset manager (as an extension of the general partnership team) represents the best interest of the investors. 
+The book makes an important point about decision making. Property managers have professional expertise, but final decisions rest with the asset manager. The asset manager (as an extension of the general partnership team) represents the best interest of the investors. 
 
 A good asset manager will visit the property and check in on the on-site management, sometimes unannounced. Pro tip from the book: Any time a unit is vacant, go on-site and walk it. That's a way to get a feel for the property without disturbing residents.
 
@@ -69,7 +69,7 @@ The book contains a list of reports that the asset manager should expect to rece
 
 _Best In Class_ is a sold book for anyone who wants an inside look at asset management. Other areas covered by the book, and not mentioned above, include key performance indicators (KPIs), Setting expectations with contractors and vendors, marketing (attracting new tenants), and investor relations. Well worth the time required to read it.
 
-Every asset management meeting is a learning experience for me. I'm grateful to my fellow syndicators, investors, and related professionals. Grateful for the chance to learn from their experiences as well as my own.
+Every asset management meeting is a learning experience for me. I'm grateful to my fellow syndicators, partners, investors, and related professionals. Grateful for the chance to learn from their experiences as well as my own.
 
 ### Related: Underwriting
 
