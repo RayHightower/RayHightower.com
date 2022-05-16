@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Imitating Success
+title:  Inspired By Success
 date:   2022-05-16
 comments: true
 tags: 
