@@ -14,11 +14,11 @@ Recent inspirational experience: Restoration Hardware in Nashville, Tennessee.
 
 <!--more-->
 
-You probably know [Restoration Hardware](https://rh.com) as a seller of high end home furnishings with locations in affluent areas around the USA. Yesterday, while walking through RH's Nashville location, I discovered a restaurant in the middle of the showroom.
+You probably know [Restoration Hardware](https://rh.com) as a seller of high-end home furnishings with locations in affluent areas around the USA. Yesterday, while walking through RH's Nashville location, I discovered a restaurant in the middle of the showroom.
 
 "Discovered" is probably the wrong word. How do you discover something that has already been built by someone else? Still, I approached the hostess station to learn more about my... discovery. I learned that RH has managed restaurants in fourteen of their stores for roughly five years.
 
-“We also have a walk-up bar," said one of the hostesses. "So if you’d like to grab a coffee or glass of wine while you browse around, you’re welcome to it.” 
+“We also have a walk-up bar," said one of the hostesses. "So, if you’d like to grab a coffee or glass of wine while you browse around, you’re welcome to it.” 
 
 Brilliant idea. 
 
