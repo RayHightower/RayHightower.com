@@ -8,7 +8,7 @@ published: true
 ---
 <img src="/images/restoration_hardware_restaurant_nashville.jpg" align="center" width="600" padding="10" alt="Restoration Hardware in Nashville, TN" title="Restoration Hardware in Nashville, TN" />
 
-It is exciting to be inspired by success. Whenever I notice a business executing successfully, I ask myself this question: “How can I emulate this level of excellence within Bridgetown Partners?" 
+It is exciting to be inspired by success. Whenever I notice a business executing well, I ask myself this question: “How can I emulate this level of excellence within [Bridgetown Partners](https://bridgetownpartners.com)?" 
 
 Recent inspirational experience: Restoration Hardware in Nashville, Tennessee. 
 
