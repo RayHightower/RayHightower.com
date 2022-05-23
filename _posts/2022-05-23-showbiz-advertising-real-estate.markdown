@@ -12,9 +12,42 @@ published: true
 >Did I get rich quick in real estate? No, I did not. But I am now in the position to make my own decisions about how I spend my time, whether it’s on business, on Broadway, or watching my daughter graduate from kindergarten.<br/><br/>~Matt Picheny
 
 
-Matt Picheny is an entrepreneur with many talents: actor, digital marketing expert, and advertising exec. Today he runs a real estate private equity firm based in Florida with holdings around the USA. 
+_Backstage Guide to Real Estate_ tells the apartment investing story of [Matt Picheny](https://www.linkedin.com/in/picheny/), an entrepreneur with an eclectic background. His resume includes time spent as an actor, digital marketing expert, and advertising exec. Today he runs [Picheny, LLC](https://picheny.com/), a real estate private equity firm based in Florida with holdings around the USA. Picheny wrote the book to document his journey and to show other how they might follow his path.
 
 <!--more-->
 
-Content for Showbiz, Advertising, & Real Estate goes here.
+### Facing Challenges Head-On
+
+Matt has a wonderful way of facing challenges head-on and turning them into opportunities. For example:
+
+* Early in his career, he bought empty land in a vacation community near New York City. When he decided to build a house on the land, he leveraged his personal and professional network to learn about construction, boating, and remote property management.
+
+* Matt house-hacked a duplex in Brooklyn, NY. Through that process, he learned about air rights, fried chicken restaurants, mosquito breeding, and zoning ordinances.
+
+* During his move from New York to Florida, Matt learned that an investor needs to move quickly to make an offer on a cherished deal, before the deal gets lost to another buyer.
+
+Every challenge shaped Matt into a stronger real estate entrepreneur. Today Matt invests in larger real estate deals via syndication. Individuals trust Matt enough to invest their money right beside him, and they benefit from his expertise along the way.
+
+### Leveraging Expertise Beyond Real Estate
+
+One point I really enjoyed: Through his real estate journey, Matt earned enough time and money to re-invest in performance arts, particurly Broadway productions. He was an early investor in the play _Hamilton_, which went on to become an amazing success. The book describes how many stage productions are structured as limited partnerships which are similar in form to real estate syndications. 
+
+After spending [10,000 hours](/blog/2012/09/03/10000-hours-of-practice/) learning real estate syndication, Matt is well-suited to invest in Broadway plays. Transferrable learning is a wonderful thing!
+
+### Trust, But Verify
+
+The author shares steps that an investor must take when vetting a deal or a sponsor. He always checks multiple data points to ensure that given facts are accurate. His policy is trust, but verify.
+
+
+### Meeting the Author
+
+I had the honor of meeting Matt Picheny in Florida late last year. We were at a gathering of real estate investors orchestrated by [Rod Khleif](https://www.linkedin.com/in/rodkhleif/). Matt was enthusiastically promoting his book, which was available for pre-order on Amazon. A brief conversation with Matt convinced me to pre-order on the spot. 
+
+
+
+
+### Matt's Generosity
+
+In early April 2022, during another Rod Khleif gathering in Florida, I learned that Matt was giving copies of his book to every member of the 600-person audience. So now I have two copies! If you want my extra copy, ping me via the [contact form](/contact) on this site. If it's still available, send me your physical address and the book is yours.
+
  
