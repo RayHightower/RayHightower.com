@@ -24,30 +24,24 @@ Matt has a wonderful way of facing challenges head-on and turning them into oppo
 
 * Matt house-hacked a duplex in Brooklyn, NY. Through that process, he learned about air rights, fried chicken restaurants, mosquito breeding, and zoning ordinances.
 
-* During his move from New York to Florida, Matt learned that an investor needs to move quickly to make an offer on a cherished deal, before the deal gets lost to another buyer.
+* During his move from New York to Florida, Matt learned that an investor needs to act quickly to make an offer on a cherished deal, before the deal gets lost to another buyer.
 
-Every challenge shaped Matt into a stronger real estate entrepreneur. Today Matt invests in larger real estate deals via syndication. Individuals trust Matt enough to invest their money right beside him, and they benefit from his expertise along the way.
+Every challenge shaped Matt into a stronger real estate entrepreneur. Today Matt invests in larger real estate deals via syndication. People trust Matt enough to invest their money right beside him, and they benefit from his expertise along the way.
 
 ### Leveraging Expertise Beyond Real Estate
 
-One point I really enjoyed: Through his real estate journey, Matt earned enough time and money to re-invest in performance arts, particurly Broadway productions. He was an early investor in the play _Hamilton_, which went on to become an amazing success. The book describes how many stage productions are structured as limited partnerships which are similar in form to real estate syndications. 
+One point I really enjoyed: Through his real estate journey, Matt earned enough time and money to re-invest in the artistic world he loved in his youth, Broadway productions. He was an early investor in the play _Hamilton_, which went on to become an amazing success. Many stage productions are structured as limited partnerships which are similar in form to real estate syndications. 
 
-After spending [10,000 hours](/blog/2012/09/03/10000-hours-of-practice/) learning real estate syndication, Matt is well-suited to invest in Broadway plays. Transferrable learning is a wonderful thing!
+Therefore, after spending [10,000 hours](/blog/2012/09/03/10000-hours-of-practice/) learning real estate syndication, Matt is well-suited to invest in Broadway plays. Transferrable learning is a wonderful thing!
 
 ### Trust, But Verify
 
-The author shares steps that an investor must take when vetting a deal or a sponsor. He always checks multiple data points to ensure that given facts are accurate. His policy is trust, but verify.
-
+Successful real estate syndicators enjoy investing in deals structured by their peers. They have the money to invest and the expertise to perform proper due diligence. Matt shares some pointers on what to look for when investing passively. His policy is trust, but verify.
 
 ### Meeting the Author
 
 I had the honor of meeting Matt Picheny in Florida late last year. We were at a gathering of real estate investors orchestrated by [Rod Khleif](https://www.linkedin.com/in/rodkhleif/). Matt was enthusiastically promoting his book, which was available for pre-order on Amazon. A brief conversation with Matt convinced me to pre-order on the spot. 
 
-
-
-
 ### Matt's Generosity
 
-In early April 2022, during another Rod Khleif gathering in Florida, I learned that Matt was giving copies of his book to every member of the 600-person audience. So now I have two copies! If you want my extra copy, ping me via the [contact form](/contact) on this site. If it's still available, send me your physical address and the book is yours.
-
- 
+In early April 2022, during another Rod Khleif gathering in Florida, I learned that Matt was giving copies of his book to every member of the 600-person audience. So now I have two copies! If you want my extra copy, ping me via the [contact form](/contact) on this site. If the book is still available, you can send me your physical address and I'll send the book to you. If you're in Arizona, I might hand it to you personally!
