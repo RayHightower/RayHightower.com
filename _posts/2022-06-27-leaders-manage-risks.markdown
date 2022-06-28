@@ -8,7 +8,7 @@ published: true
 ---
 <img src="/images/car_pot_holes.jpg" align="center" width="600" padding="10" alt="Navigating Around PotHoles" title="Navigating Around Potholes" />
 
-A few years ago, I was invited to speak to a group of entrepreneurs about my business war stories. My background includes decades as founder/president/CEO of companies in technology and real estate. Most of the questions from the audience focused on those areas.
+A few years ago, I was invited to speak to a group of entrepreneurs about my business war stories. My background includes decades of leadership in technology and real estate. Most of the questions from the audience focused on those areas.
 
 At one point an audience member asked, "How do you respond to people who consider entrepreneurship to be risky?"
 
@@ -26,7 +26,7 @@ The entrepreneur recalls that the car is equipped with a steering wheel. Sitting
 
 ### Yes, It's Risky
 
-The above story will never compete against the fables of Aesop! But it makes the point. As business leaders, our job is to manage risk. When everyone around us throws up their hands in fear, our job is to gather data, create a plan, and execute the plan to completion.  Yes, it's risky. And our job is to manage risks so that we can achieve our goals. 
+The above story will never compete against the fables of Aesop! But it makes the point. As business leaders, our job is to manage risk. When everyone around us throws up their hands in fear, our job is to gather data, create a plan, and execute the plan to completion. Yes, it's risky. And our job is to manage risks so that the team can achieve the goal.
 
 Since successful entrepreneurs rarely work alone, everyone on the team wins when entrepreneurs achieve goals.
 
