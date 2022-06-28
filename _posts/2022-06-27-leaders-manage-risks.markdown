@@ -22,11 +22,11 @@ Being an entrepreneur is a lot like driving a car down a street covered with pot
 
 But something in the entrepreneurial DNA causes us to dig further. "Yes, the street has pot holes," observes the entrepreneur. "But I happen to know that there's gold at the end of that street. If I can figure out a way to navigate the street in spite of the pot holes, I can get the gold."
 
-The entrepreneur recalls that the car is equipped with a steering wheel. Sitting in the drivers seat, the entrepreneur turns the wheel to avoid the pot holes, navigates the street, and obstains the gold.
+The entrepreneur recalls that the car is equipped with a steering wheel. Sitting in the drivers seat, the entrepreneur turns the wheel to avoid the pot holes, navigates the street, and grabs the gold.
 
 ### Yes, It's Risky
 
-True, the above story will never compete against the fables of Aesop! But it makes the point. As business leaders, our job is to manage risk. When everyone around us throws up their hands in fear, our job is to gather data, create a plan, and execute the plan to completion.  Yes, it's risky. And our job is to manage risks so that we can achieve our goals. 
+The above story will never compete against the fables of Aesop! But it makes the point. As business leaders, our job is to manage risk. When everyone around us throws up their hands in fear, our job is to gather data, create a plan, and execute the plan to completion.  Yes, it's risky. And our job is to manage risks so that we can achieve our goals. 
 
 Since successful entrepreneurs rarely work alone, everyone on the team wins when entrepreneurs achieve goals.
 
