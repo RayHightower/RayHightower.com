@@ -30,4 +30,4 @@ The above story will never compete against the fables of Aesop! But it makes the
 
 Since successful entrepreneurs rarely work alone, everyone on the team wins when entrepreneurs achieve goals.
 
-Congratus and _well done_ to all the entrepreneurs who manage risks!
+Congrats and _well done_ to all the entrepreneurs who manage risks!
