@@ -10,7 +10,7 @@ published: true
 
 A few years ago, I was invited to speak to a group of entrepreneurs about my business war stories. My background includes decades of leadership in technology and real estate. Most of the questions from the audience focused on those areas.
 
-At one point an audience member asked, "How do you respond to people who consider entrepreneurship to be risky?"
+At one point an audience member asked, "What do you say to people who consider entrepreneurship to be risky?"
 
 "It _is_ risky," I responded. And then I shared a story about potholes and steering wheels.
  
