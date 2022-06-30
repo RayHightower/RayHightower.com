@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  High Performance Playbook
+title:  Ikigai and the High Performance Playbook
 date:   2022-06-30
 comments: true
 tags: 
@@ -12,6 +12,11 @@ published: true
 It has been said that performance is 80% psychology and only 20% skill.
 
 ...
+
+One concept that Del shares in his book: Ikigai. 
+
+This post will discuss one of the concepts covered in Del's book: Ikigai
+Similarity to the [Hedgehog Concept]() from [Good to Great]().
 
 
 Del Denney is a performance coach who helps business leaders, athletes, and other professionals to achieve more. Most of his sesions are conducted one-to-one or in small groups. How does a coach scale the number of lives impacted? By writing a book. 
