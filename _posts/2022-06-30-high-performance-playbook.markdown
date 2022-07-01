@@ -29,22 +29,20 @@ Your answers to four fundamental questions will define your Ikigai:
 3. What can you get paid for?
 4. What does the world need?
 
-The Venn diagram at the top of this post gives a visual representation of the questions, and Ikigai lies at the intersection of the four questions.
+The Venn diagram at the top of this post gives a visual representation of the questions, and Ikigai lies at the intersection of the four questions. The Ikigai diagram might remind you of the Hedgehog Concept from the book [Good to Great](/blog/2015/05/22/building-a-great-company/). Ikigai certainly came first!
 
 ### Profession, Mission, Passion, and Vocation
 
 Digging further into the philosophy and the diagram, here's how the four questions are related:
 
-| **Your...** | **Intersections** |
+| **Your...** | **is determined by these intersections.** |
 | Profession | What you're good at and what you get paid for.|
 | Mission | What the world needs and what you love.|
 | Passion | What you love and what you are good at.|
 | Vocation | What the world needs and what you can be paid for.|
 
-The Ikigai diagram reminds me of the Hedgehog Concept from the book [Good to Great](/blog/2015/05/22/building-a-great-company/). Ikigai certainly came first!
-
 ### Next Steps
 
-Ikigai is only one of the concepts described in the book. The remainder of the book offers advice on how to take action. Readers will learn how to move forward in the face of fear, and how to deal with the small voice inside our heads that tells us what we cannot do.
+Ikigai is only one of the concepts described in the book. The remainder of the book offers advice on how to take action. Readers will learn how to move forward in the face of fear, how to deal with the small voice inside our heads that tells us what we cannot do, and more.
 
  _High Performance Playbook_ is well worth reading. Highly recommended.
