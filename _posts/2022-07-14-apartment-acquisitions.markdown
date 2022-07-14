@@ -15,17 +15,17 @@ I lead a company called [Bridgetown Partners](https://bridgetownpartners.com/). 
 
 <!--more-->
 
-* Residents like us because we make improvements, and everyone wants to be proud of the place they call home. 
+* Residents choose our properties because we make improvements and we manage our properties well. Everyone wants to be proud of the place they call home. 
 
-* Investors like us because we offer a steady, predictable return on investment. And the tax benefits are great, too!
+* Investors choose Bridgetown because we offer a steady, predictable return on investment. We communicate well. And the tax benefits are great, too!
 
 We cater to business owners and high net worth individuals who are looking for a steady, reliable place to invest capital.
 
 ### Due Diligence
 
-Today I was in Nashville, Tennessee touring a 140-unit apartment community with a group of fellow investors. Many of the properties
+Today I was in Nashville, Tennessee touring a 140-unit apartment community with a group of fellow investors. We've built a community of trust, and many times we invest together. We advise each other, and we learn together.
 
-Before we place our investors' money, we examine the asset thoroughly. We bring in experts to evaluate the useful life of building systems as well as market potential. A typical Bridgetown Partners due diligence tour will include experts in areas such as:
+Before Bridgetown places our investors' money in an asset, we examine the property thoroughly. We bring in experts to evaluate the useful life of building systems as well as market potential. A typical Bridgetown due diligence cycle will include experts in areas such as:
 
 - Plumbing. Are the pipes sufficiently robust to support the needs of the residents?
 - Electrical systems. Will the current configuration support upgrades such as in-unit washer/dryer installation?
@@ -34,8 +34,8 @@ Before we place our investors' money, we examine the asset thoroughly. We bring 
 - Accounting. What are the latest tax laws, and how can we leverage these laws to minimize taxes?
 - Legal. How do we structure each deal so that everybody wins? When everybody wins, each party wants to do more deals, and that leads to more opportunities for winning.
 
+Bridgetown is a dependable steward of our investors' hard-earned capital. 
+
 ### Next Steps
 
-If you are an investor looking for a steady, reliable place to park your capital, let's talk.  You can book a call via Calendly, or reach out via the [contact form](). I look forward to speaking with you.
-
- 
+If you are an investor looking for a steady, reliable place to park your capital, let's talk.  You can [book a call via Calendly](https://calendly.com/rayhightower), or reach out through the [contact form](/contact/). I look forward to speaking with you.
