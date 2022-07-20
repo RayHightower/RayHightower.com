@@ -6,9 +6,9 @@ comments: true
 tags: 
 published: true
 ---
-<img src="/images/SpaceX_Texas_RayHightower.jpg" align="center" width="500" padding="20" alt="SpaceX in Texasx with Ray Hightower" title="SpaceX in Texasx with Ray Hightower" />
+<img src="/images/SpaceX_LaunchPad_RayHightower_20220720.jpg" align="center" width="500" padding="20" alt="SpaceX in Texasx with Ray Hightower" title="SpaceX in Texasx with Ray Hightower" />
 
-The above photo shows the SpaceX facility in Boca Chica, Texas. While walking the grounds, I was reminded of a question my mother asked me. "Raymond, do you want to go to space?"
+The above photo shows the SpaceX facility in Boca Chica, Texas. While walking the grounds, I was reminded of a question my mother once asked me. "Raymond, do you want to go to space?"
 
 My response: "Yes."
 
@@ -26,6 +26,8 @@ Of course, my "yes" comes with conditions:
 - As we rehearse the plan for departure & return, our team will learn from our mistakes and continuously improve our skills.
 
 The above conditions will improve our odds of success while reducing failure to a tiny footnote.
+
+<img src="/images/SpaceX_Texas_RayHightower.jpg" align="center" width="500" padding="20" alt="SpaceX in Texasx with Ray Hightower" title="SpaceX in Texasx with Ray Hightower" />
 
 ### Space Travel and Investing
 
