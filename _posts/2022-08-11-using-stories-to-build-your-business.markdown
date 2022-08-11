@@ -10,7 +10,7 @@ published: true
 
 >Your customer should be the hero of the story, not your brand. This is the secret every phenomenally successful business understands.<br/><br/>~Donald Miller, Author 
 
-We humans remember stories at a greater level of detail than we could ever recall a ten-bullet list from a powerpoint presentation. The most successful companies use stories when wooing customers.
+We humans can easily remember stories at a great level of detail, while a ten-bullet list from a PowerPoint presentation is easily forgotten. Stories are memorable and they induce strong emotions, and that's why many successful companies use stories when wooing customers.
 
 Now... What kinds of stories are most effective?
 
@@ -20,9 +20,11 @@ Now... What kinds of stories are most effective?
 
 In the book [_Building a Story Brand_](https://buildingastorybrand.com/), Donald Miller gives business owners a process for crafting effective stories. He calls the process _The StoryBrand 7-Part Framework (SB7)_.
 
-One point of the framework: Customers aren't looking for a hero to rescue them. Customers are attracted to stories where they play the role of the hero, and they want to demonstrate power by rescuing themselves. And like the hero in our favorite stories, customers seek a guide who can help them develop into their heroism.
+One point of the framework: Customers aren't looking for a hero to rescue them. Customers are attracted to stories where they play the role of the hero, and they want to demonstrate power by rescuing themselves. 
 
-For example, in the _Star Wars_ movies, Luke Skywalker is the hero. To fully develop his heroism, Luke needed a guide, Obi Wan Kenobi, to point him along the correct path. The "hero needs a guide" theme is repeated in our favorite movies because it is a core component of human existence. The imporant elements of the human experience are repeated in our literature. For example:
+Whether they know it or not, the customer wants a guide who can counsel them into becoming a better hero.
+
+For example, in the _Star Wars_ movies, Luke Skywalker is the hero. To fully develop his heroism, Luke needed a guide, Obi Wan Kenobi, to point him along the correct path. The "hero needs a guide" theme is repeated in our favorite movies because it is a core component of human existence. Other examples:
 
 * Michael Corleone needed his father, Vito Corleone.
 * King T'Challa needed his father, King T'Chaka.
