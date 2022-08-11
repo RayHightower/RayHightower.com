@@ -10,7 +10,7 @@ published: true
 
 >Your customer should be the hero of the story, not your brand. This is the secret every phenomenally successful business understands.<br/><br/>~Donald Miller, Author 
 
-We humans can easily remember stories at a great level of detail, while a ten-bullet list from a PowerPoint presentation is easily forgotten. Stories are memorable and they induce strong emotions, and that's why many successful companies use stories when wooing customers.
+We humans can easily remember stories at a great level of detail, while a ten-bullet list from a PowerPoint presentation is immediately forgotten. Stories are memorable and they induce strong emotions, and that's why many successful companies use stories when wooing customers.
 
 Now... What kinds of stories are most effective?
 
