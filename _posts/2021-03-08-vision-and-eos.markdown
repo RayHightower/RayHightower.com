@@ -55,6 +55,19 @@ Great companies can differ in their values. The key is to have consistent values
 
 After the leadership team has defined its vision (guided by the eight questions), it's time to communicate the vision throughout the organization. Simpler is better. That's why the V/TO is only two pages long. You can download your copy of the V/TO at [EOSWorldwide.com/VTO](http://EOSWorldwide.com/vto). 
 
+### Six Key Components
+
+This article is part of a series on [Traction and the Entrepreneurial Operating System (EOS)](/blog/2021/02/15/traction-entrepreneurial-operating-system-eos/). EOS is a set of tools that enables a business leader to grow a company while maintaining sanity. The six EOS components are:
+
+* **Vision** (this post): Shared by all.
+* **[People](/blog/2021/04/08/people-and-eos/)**: The right people in the right seats.
+* **[Data](/blog/2022/02/04/data-plus-eos/)**: Food for the metrics. Everyone must have at least one number.
+* **[Issues](/blog/2022/02/10/issues-plus-eos/)**: Identified in the clearest possible terms, attacked through IDS.
+* **[Process](/blog/2022/02/15/process-plus-eos/)**: Standard, repeatable methods for getting things done.
+* **[Traction](/blog/2022/02/21/traction-component-plus-eos/)**: Forward momentum. Getting the right things done.
+
+Breaking an organization into standard components gives the leadership clear concepts to think about. Further, these components form the foundation of the shared vocabulary that enables effective communication.
+
 ### Next in the Series: People
 
 Next EOS topic: [People](/blog/2021/04/08/people-and-eos/). We'll review ideas from EOS on how to choose the right people, and how to create an environment where every member of the team can thrive while helping the organization to grow.

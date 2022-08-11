@@ -12,7 +12,7 @@ published: true
 >Did I get rich quick in real estate? No, I did not. But I am now in the position to make my own decisions about how I spend my time, whether it’s on business, on Broadway, or watching my daughter graduate from kindergarten.<br/><br/>~Matt Picheny
 
 
-_Backstage Guide to Real Estate_ tells the apartment investing story of [Matt Picheny](https://www.linkedin.com/in/picheny/), an entrepreneur with an eclectic background. His resume includes time as an actor, digital marketing expert, and advertising exec. Today he runs [Picheny, LLC](https://picheny.com/), a real estate private equity firm based in Florida with holdings around the USA. Picheny wrote the book to document his journey and to show others how they might follow his path.
+_Backstage Guide to Real Estate_ tells the apartment investing story of [Matt Picheny](https://www.linkedin.com/in/picheny/), an entrepreneur with an eclectic background. His resume includes time as an actor, digital marketing expert, and advertising exec. Today he runs [Picheny, LLC](https://picheny.com/), a real estate private equity firm based in New York City with holdings around the USA. Picheny wrote the book to document his journey and to show others how they might follow his path.
 
 <!--more-->
 
