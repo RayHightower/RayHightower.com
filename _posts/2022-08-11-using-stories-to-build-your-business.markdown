@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Using Stories to Build Your Business
-date:   2022-08-01
+date:   2022-08-11
 comments: true
 tags: 
-published: false
+published: true
 ---
 <img src="/images/building_a_story_brand.jpg" align="right" width="150" padding="20" alt="Building A Story Brand by Donald Miller" title="Building A Story Brand by Donald Miller" /> 
 
@@ -15,3 +15,4 @@ published: false
 Content for Using Stories to Build Your Business goes here.
  
 [Building a Story Brand](https://buildingastorybrand.com/)
+
