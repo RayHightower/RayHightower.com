@@ -17,7 +17,7 @@ If you're reading this post, you're probably a high-achieving human. And you may
 
 ### The Gap and the Gain
 
-Dan Sullivan and Dr. Benjamin Hardy offer powerful arguments for focusing on our gains instead of our gaps. They have packaged their findings in _The Gap and the Gain_. The book contains powerful ideas for recovering from gap-focus.
+Sullivan and Hardy offer powerful arguments for focusing on our gains instead of our gaps. They have packaged their findings in _The Gap and the Gain_. The book contains powerful ideas for recovering from gap-focus.
 
 This post will summarize a few Gap vs Gain examples:
 
@@ -31,7 +31,7 @@ These is just a small sample of the content. I encourage you to read the entire 
 
 As you can see from the graphic at the top of this article, the Gap is that space between our current state and the _ideal state_ we're striving to achieve. Of course, the ideal state is a moving target because humans are wired to strive for more. Therefore the gap grows larger every day, and it's difficult to measure because it happens in the future. The growing gap is a source of ever-increasing frustration for high achievers.
 
-The Gain includes those tasks we've achieved so far. The Gain is concrete and measurable because we've already done it. The Gain is an ever growing list of achievements that we can be proud of.
+The Gain includes those tasks we've achieved so far. The Gain is concrete and measurable because we've already done it. The Gain is an ever-growing list of achievements that we can be proud of.
 
 ### Resting on Laurels? Nope.
 
@@ -80,7 +80,7 @@ The coach even used a 5-minute timer.
 
 After the 5-minute alarm went off, the coach would set a 10-minute timer. For the next ten minutes, players were required to talk about the good things that happened during the game. 
 
-After the 10-minute alarm sounded, the coach set a 20-minute timer. During this session, players were asked to point out the good things that other players did during the game.
+After the 10-minute alarm sounded, the coach set a 20-minute timer. During the 20-minute session, players were asked to point out the good things done by other players during the game.
 
 Once the players learned to stay focused on the items they could control (mindset and endurance), they began to win.
 
