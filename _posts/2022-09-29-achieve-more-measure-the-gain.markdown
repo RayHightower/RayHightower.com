@@ -21,9 +21,9 @@ Dan Sullivan and Dr. Benjamin Hardy offer powerful arguments for focusing on our
 
 This post will summarize a few Gap vs Gain examples:
 
-* Making the boat go faster.
-* Mental subtraction. 
-* The 5-minute rule. 
+* Making the Boat Go Faster.
+* Mental Subtraction. 
+* The 5-Minute Rule. 
 
 These is just a small sample of the content. I encourage you to read the entire book.
 
@@ -37,12 +37,7 @@ The Gain includes those tasks we've achieved so far. The Gain is concrete and me
 
 When I first read _The Gap and the Gain_, and when I understood the concept of focusing on the Gain, I was concerned about something my father warned me about decades ago: Resting on my laurels. But focusing on the Gain is not about resting on laurels. Measuring and focusing on the Gain is a way to give ourselves energy so that we have the courage and focus to keep achieving.
 
-The core concept of focusing on the _GAIN_ was discovered through real-world experience with over 20,000 entrepreneurs. This is not theoretical; it's grounded in observation.
-
-### A Few Key Concepts
-
-Key idea from the book: If we're not regularly reminded of our GAINS, it’s easy to go into the GAP and lose hope. This post will discuss three concepts from the book:
-
+The core concept of focusing on the _GAIN_ was discovered through real-world experience with over 20,000 entrepreneurs. This is not theoretical. The authors gathered data by observing active, high-achieving entrepreneurs.
 
 ### Making the Boat Go Faster
 
@@ -70,4 +65,25 @@ We can conduct our own George Baily exercise through _mental subtraction_, think
 
 We feel a deeper appreciation for the Gain when we imagine what life would have been like without it.
 
+### The 5-Minute Rule
 
+If you must be in the Gap, give yourself _five minutes_ and then move on.
+
+In an example from the book, a college soccer coach was placed in charge of a team of brand new soccer players. Since the players were new, the coach decided to focus the team on two skills.
+
+1. Mindset.
+2. Endurance, the ability to run.
+
+The team of rookies lost several games in the beginning. And that's when the coach introduced the five-minute rule. If they lost a game, the players were allowed to be down in dumps for five minutes, and then they had to move on.
+
+The coach even used a 5-minute timer.
+
+After the 5-minute alarm went off, the coach would set a 10-minute timer. For the next ten minutes, players were required to talk about the good things that happened during the game. 
+
+After the 10-minute alarm sounded, the coach set a 20-minute timer. During this session, players were asked to point out the good things that other players did during the game.
+
+Once the players learned to stay focused on the items they could control (mindset and endurance), they began to win.
+
+### Conclusion
+
+_The Gap and the Gain_ is not a book that I can read once and put down. I find myself referring to it over time. I'm grateful for the friend who recommended it to me. Imagine what my life would have been like if I didn't know that friend...
