@@ -97,7 +97,7 @@ The `fibo(n)` method is similar to the one in the earlier example, with a few su
 The performance of the two programs is compared in this 1-minute video.
 
 <div class="video-container">
-<iframe src="//player.vimeo.com/video/91841948" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fDkrGs-0yGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>&nbsp;<br/>
 As the video shows, memoization is a performance booster.
