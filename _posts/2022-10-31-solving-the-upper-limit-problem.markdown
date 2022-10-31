@@ -14,9 +14,27 @@ What is the Upper Limit Problem and how can high achievers solve it?
 
 <!--more-->
 
-### The Upper Limit Problem, Defined
+### Defining the Upper Limit Problem
 
 Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we achieve more than we believe we deserve, we engage in self-sabotage, thereby pulling our performance back down to the acceptable level set by the thermostat. The thermostat controls our performance. That's the Upper Limit Problem in a nutshell.
+
+### Zones of Performance
+
+Digging into the Upper Limit Problem, Hendricks defines four zones of performance.
+
+* Genius
+* Excellence
+* Competence
+* Incompetence
+
+When we try something for the first time, it's natural to fall into the Zone of Incompetence. With practice and mentorship, we can move into the Zone of Competence and eventually into the Zone of Excellence.
+
+Many people live out their lives in these middle two zones. In fact, all of us perform daily tasks where competence or excellence are fine. Examples: Driving a car, cooking daily meals, managing a personal budget.
+
+Making The Big Leap into the Zone of Genius requires more.
+
+
+### Solving the Problem
 
 * In order to achieve, we need to break through the Upper Limit Problem and operate in our Zone of Genius.
 * In order to break through the Upper Limit Problem, we need to change the performance thermostat.
