@@ -8,9 +8,9 @@ published: true
 ---
 <a href="/images/Zones_Solving_the_Upper_Limit_Problem.png"><img src="/images/Zones_Solving_the_Upper_Limit_Problem.png" align="center" width="500" padding="20" alt="The Big Leap by Gay Hendricks - Upper Limit Problem Chart" title="The Big Leap by Gay Hendricks - Upper Limit Problem Chart" /></a>
 
-In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle that blocks a person from achieving greatness. Hendricks observes that the more a person achieves, the more urgent it is for them to identify and overcome their Upper Limit Problem.
+In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle that blocks a person from achieving greatness. 
 
-What is the Upper Limit Problem and how can high achievers solve it?
+What is the Upper Limit Problem and how can high achievers break through?
 
 <!--more-->
 
@@ -50,6 +50,7 @@ I know a therapist who says "nobody gets through life without scars".
 
 ### Conclusiong + Next Steps
 
+Hendricks observes that the more a person achieves, the more urgent it is for them to identify and overcome their Upper Limit Problem.
 
 
  
