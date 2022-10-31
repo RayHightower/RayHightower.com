@@ -22,10 +22,10 @@ Hendricks has observed that we humans are equipped with an internal "thermostat"
 
 Digging into the Upper Limit Problem, Hendricks defines four zones of performance.
 
-* Genius
-* Excellence
-* Competence
 * Incompetence
+* Competence
+* Excellence
+* Genius
 
 When we try something for the first time, it's natural to fall into the Zone of Incompetence. With practice and mentorship, we can move into the Zone of Competence and eventually into the Zone of Excellence.
 
