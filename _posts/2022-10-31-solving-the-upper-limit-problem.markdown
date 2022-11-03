@@ -4,7 +4,7 @@ title:  Solving the Upper Limit Problem
 date:   2022-10-31
 comments: true
 tags: 
-published: true
+published: false
 ---
 <a href="/images/Zones_Solving_the_Upper_Limit_Problem.png"><img src="/images/Zones_Solving_the_Upper_Limit_Problem.png" align="center" width="500" padding="20" alt="The Big Leap by Gay Hendricks - Upper Limit Problem Chart" title="The Big Leap by Gay Hendricks - Upper Limit Problem Chart" /></a>
 
