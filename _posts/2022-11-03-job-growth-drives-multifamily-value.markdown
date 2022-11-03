@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Job Growth Drives CRE Value
+title:  Job Growth Drives Multifamily Value
 date:   2022-11-03
 comments: true
 tags: 
