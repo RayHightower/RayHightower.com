@@ -6,6 +6,11 @@ comments: true
 tags: 
 published: true
 ---
+What is the upper limit problem?
+
+>If you're doing something well and you feel uncomfortable with that, you'll do something to mess up.<br/>&nbsp;<br/>The Upper Limit Problem, as described by the author's 12-year-old granddaughter
+
+
 <a href="/images/Zones_Solving_the_Upper_Limit_Problem.png"><img src="/images/Zones_Solving_the_Upper_Limit_Problem.png" align="center" width="500" padding="20" alt="The Big Leap by Gay Hendricks - Upper Limit Problem Chart" title="The Big Leap by Gay Hendricks - Upper Limit Problem Chart" /></a>
 
 Your Upper Limit Problem is holding you back from achieving your full potential. What is the Upper Limit Problem, and how can you solve it?
