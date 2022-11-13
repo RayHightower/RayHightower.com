@@ -70,19 +70,20 @@ Many of us will do some combination of the two.
 
 ### Examples of Thermostat Managment Success
 
-Hendricks cites some examples of people who successfully conquer their upper limit problem and thereby operate within their Zone of Genius.
+Hendricks cites some examples of people who successfully identified their upper limit problem. They learned how to conquer it and thereby operate within their Zone of Genius.
 
-* Dr Robert Jordan. Had the opportunity to sell his company for a large financial gain, and then blew up the deal over a minor issue that turned into a big argument. Jordan recognized that his upper limit problem had kicked in, causing him to self-sabotage the deal. After that loss, he learned to manage his upper limit problem by asking himself two questions: 
+* **Dr Robert Jordan**. Jordan had the opportunity to sell his company for a large financial gain, and then blew up the deal over a minor issue that turned into a big argument. Jordan recognized that his upper limit problem had kicked in, causing him to self-sabotage the deal. After that loss, he learned to manage his upper limit problem by asking himself two questions: 
 1. How much love and abundance am I willing to allow?
 2. How am I getting in my own way?
 
-* Kenny Loggins of Loggins & Messina
+* **Kenny Loggins**, musician. Hendricks has served as on-the-road coach for Loggins and his band. Loggins' upper limit problem showed itself every time he had a hit record or won a Grammy. After the success, he would get sick, ruin a relationship, or perform some other act of self-sabotage. Loggins' initially isolated his upper limit problem through meditation. This led to a new level of performance within his Zone of Genius.
 
+### Not "One and Done"
 
-Note that this is not a "one and done" solution. Every day, the Upper Limit Problem will strive to pull us back in line, to pull us back within the larger group of humans. As high achievers, it's up to us to recognize the ULP and deal with it. Every day.
+Note that solving the Upper Limit Problem is not a "one and done" action. Every day, the Upper Limit Problem will strive to pull us back in line, to pull us back within the larger group of humans. As high achievers, it's up to us to recognize the ULP and deal with it. Every day.
 
 ### Conclusion + Next Steps
 
-One final point. The author observes that the more a person achieves, the more urgent it is for them to identify and overcome their Upper Limit Problem. Citizens of Planet Earth are waiting for you to operate in your Zone of Genius; everyone benefits when you do.
+One final point. Hendricks observes that the more a person achieves, the more urgent it is for them to identify and overcome their Upper Limit Problem. Your fellow humans are waiting for you to operate in your Zone of Genius; everyone benefits when you do.
 
-Now that you've read this discussion of the Upper Limit Problem, I encourage you to get the book _The Big Leap_ where you can learn more about the problem, along with some solutions that might be a good fit for you.
+Now that you've read this discussion of the Upper Limit Problem, I encourage you to read the book _The Big Leap_. The author describes the problem in greater detail, and he offers some solutions that might be a good fit for you.
