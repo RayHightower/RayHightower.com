@@ -6,19 +6,19 @@ comments: true
 tags: 
 published: true
 ---
-What is stopping you from operating in your Zone of Genius? In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle blocking a person from achieving greatness. Hendricks divides human performce into four zones. Expressed grapically: 
+What is stopping you from operating in your Zone of Genius? In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle blocking a person from achieving greatness. Hendricks divides human performce into four zones. His findings inspired me to create this graphic: 
 
 <a href="/images/Zones_Solving_the_Upper_Limit_Problem_RayHightower.png"><img src="/images/Zones_Solving_the_Upper_Limit_Problem_RayHightower.png" align="center" width="500" padding="20" alt="The Big Leap by Gay Hendricks - Upper Limit Problem Chart - RayHightower" title="The Big Leap by Gay Hendricks - Upper Limit Problem Chart - RayHightower" /></a>
 
 The Upper Limit Problem can keep a person stuck on the three lower performance levels, never to achieve genius. 
 
-Now that we've defined the problem, how can high achievers break through?
+Now that we've defined the problem, how can high achievers break through and achieve their potential?
 
 <!--more-->
 
 ### Clarity from Youth
 
-Hendricks holds a PhD in psychology and he has researched human behavior for decades. He openly discusses his observations with his family, including the youngest members. His 12-year-old granddaughter explains the upper limit problem in these words:
+Hendricks holds a PhD in psychology and he has studied human behavior for decades. He openly discusses his observations with his family, including the youngest members. His 12-year-old granddaughter explains the upper limit problem in these words:
 
 >If you don’t know it’s OK to feel good and have a good time, you’ll do something to mess up when things are going well.
 
@@ -30,9 +30,20 @@ One could say that the upper limit problem is a form of self-sabotage.
 
 Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we achieve more than we believe we deserve, we engage in self-sabotage, thereby pulling our performance back down to the "acceptable" level set by the thermostat. The thermostat controls our performance. 
 
-For most of us, the thermostat level gets set in early childhood, before we've learned think for ourselves. Parents, teachers, kids on the schoolyard, authority figures, peers... all have a role in our early thermostat setting.
+For most of us, the thermostat level was set in early childhood, before we learned think for ourselves. Parents, teachers, kids on the schoolyard, authority figures, peers... all have a role in setting our early thermostat.
 
-Fortunately, now that we know that the thermostat exists, we can take action.
+Fortunately, once we know that the thermostat exists, we can take action.
+
+### Humanity's Upper Limit
+
+Once Hendricks discovered the upper limit problem patter, he began to see its manifestations everywhere. For example:
+
+* Humans enjoy a period of peace and then plunge into a war.
+* Humans create a time of econoimic expansion, then we go into a recession or depression.
+
+It appears that collectively, as a species, we have a lmiited tolerance for feeling good. We do something to mess it up.
+
+
 
 ### Managing the Thermostat
 
@@ -50,60 +61,9 @@ This is not a once-and-done solution. We will find ourselves resetting the therm
 
 
 
-### Conclusiong + Next Steps
+### Conclusion + Next Steps
 
 One final point. The author observes that the more a person achieves, the more urgent it is for them to identify and overcome their Upper Limit Problem. One is reminded of the line from the _Spiderman_ movies: When we have great power, we also have great responsibility. 
 
 
 
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-
- 
-# Out-Takes
-
-
-Your Upper Limit Problem is holding you back from achieving your full potential. What is the Upper Limit Problem, and how can you solve it?
-
-What is the upper limit problem? The upper limit problem is a barrier between our Zone of Genius and all other levels of accomplishment.
-
-
-
-What is the Upper Limit Problem and how can high achievers break through?
-
-That's the Upper Limit Problem in a nutshell.
-
-### Zones of Performance
-
-Hendricks defines four zones of performance.
-
-* Incompetence
-* Competence
-* Excellence
-* Genius
-
-When we try something for the first time, it's natural to fall into the Zone of Incompetence. With practice and mentorship, we can move into the Zone of Competence and eventually into the Zone of Excellence.
-
-Many people live out their lives in these middle two zones. In fact, all of us perform daily tasks where competence or excellence are fine. Examples: Driving a car, cooking daily meals, managing a personal budget.
-
-Making The Big Leap into the Zone of Genius requires more.
-
-### How Was the Thermostat Set in the First Place?
-
-I know a therapist who says "nobody gets through life without scars". 
-
-
-* In order to achieve, we need to break through the Upper Limit Problem and operate in our Zone of Genius.
-* In order to break through the Upper Limit Problem, we need to change the performance thermostat.
-* Fortunately, the thermostat is something we can control.
-* This book tells how to control the thermostat.
