@@ -16,13 +16,15 @@ Now that we've defined the problem, how can high achievers break through?
 
 ### Clarity from Youth
 
-Hendricks has researched human behavior for decades. He shares his research with his family, including the youngest memgers. After some years of exposure to this subject matter, his 12-year-old granddaughter expresses the upper limit problem in these words:
+Hendricks has researched human behavior for decades. He shares his research with his family, including the youngest members. His 12-year-old granddaughter explains the upper limit problem in these words:
 
 >If you don’t know it’s OK to feel good and have a good time, you’ll do something to mess up when things are going well.
 
 One could say that the upper limit problem is a form of self-sabotage. 
 
 ### Internal Thermostat
+
+<img src="/images/generic-thermostat.jpg" align="right" width="150" padding="10" alt="The Big Leap by Gay Hendricks - Thermostat" title="Thermostat - The Big Leap by Gay Hendricks - Thermostat" />
 
 Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we achieve more than we believe we deserve, we engage in self-sabotage, thereby pulling our performance back down to the "acceptable" level set by the thermostat. The thermostat controls our performance. 
 
