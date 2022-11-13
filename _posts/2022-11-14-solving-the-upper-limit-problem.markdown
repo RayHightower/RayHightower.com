@@ -49,24 +49,15 @@ Back and forth, back and forth. Any time we reach a high performce level, we pul
 
 >Many of our fears are based on the workings of the ego, the part of us that's focused on getting recognition and protecing us from social ostracism.<br/>&nbsp;<br/>~From _The Big Leap_
 
-Along the path to solving the Upper Limit Problem, one might ask the question, "Why do we have an Upper Limit Problem in the first place, and how does it serve us?"
+Why do humans have an Upper Limit Problem in the first place, and how does having an _upper limit_ serve us?
 
 Having an upper limit prevents us from straying too far away from the larger group of humans. Throughout human history, we have relied on group strength for our survival.
 
-Of all the living creatures on Planet Earth, humans are not the fastest or the strongest. But we are the best at coopperating via communication. And we're the best at working together in groups. Even in the modern day, each of us depends on the group for our survival. We depend on each other for food, shelter, medical care, and protection from outside dangers. 
+Of all the living creatures on Planet Earth, humans are not the fastest or the strongest. But we are the best at cooperating via communication. We're the best at working together in groups. Even in the modern day, each of us depends on the group for our survival. We depend on each other for food, shelter, medical care, and protection from outside dangers. 
 
 What happens to a human who separates from the group? For our earliest ancestors, separation meant death. Therefore, we've evolved to value group cohesion. Sticking with the group is literally a matter of life or death.
 
-Group cohesino is at the core of our nature. Therefore, when we feel inclined to achieve beyond (outside of) the group, the internal voice of fear prods us to get back in line. Get back to the comfort zone, where it's safe.
-
-### Managing the Thermostat
-
-To manage the thermostat we need to deal with the voice of fear in one of two ways:
-
-1. Ignore it, or
-2. Reprogram it.
-
-Many of us will do some combination of the two.
+Group cohesion is driven by our desire to survive. Therefore, when we try to achieve beyond (outside of) the group, the internal voice of fear (Upper Limit Problem) prods us to get back in line. Get back to the comfort zone, where it's safe.
 
 ### Examples of Thermostat Managment Success
 
@@ -86,4 +77,4 @@ Note that solving the Upper Limit Problem is not a "one and done" action. Every 
 
 One final point. Hendricks observes that the more a person achieves, the more urgent it is for them to identify and overcome their Upper Limit Problem. Your fellow humans are waiting for you to operate in your Zone of Genius; everyone benefits when you do.
 
-Now that you've read this discussion of the Upper Limit Problem, I encourage you to read the book _The Big Leap_. The author describes the problem in greater detail, and he offers some solutions that might be a good fit for you.
+Now that you've read this discussion of the Upper Limit Problem, I encourage you to read the book _The Big Leap_. The author describes the problem in greater detail, and he offers some solutions that might serve you well.
