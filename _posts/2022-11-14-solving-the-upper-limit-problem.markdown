@@ -28,19 +28,22 @@ One could say that the upper limit problem is a form of self-sabotage.
 
 Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we achieve more than we believe we deserve, we engage in self-sabotage, thereby pulling our performance back down to the "acceptable" level set by the thermostat. The thermostat controls our performance. 
 
-For most of us, the thermostat is set in early childhood, before we've learned think for ourselves. Fortunately, now that we know that the ULP exists, we can reset the thermostat and break through the ULP.
+For most of us, the thermostat is set in early childhood, before we've learned think for ourselves. Parents, teachers, kids on the schoolyard, authority figures, peers... all have a role in our early thermostat setting.
+
+Fortunately, now that we know that the thermostat exists, we can take action.
+
+### Reset the Thermostat. Solve the Problem.
+
+This is not a once-and-done solution. We will find ourselves resetting the thermostat every time we encounter an upper limit problem. Here's how.
 
 
-### Solving the Problem
+
 
 * In order to achieve, we need to break through the Upper Limit Problem and operate in our Zone of Genius.
 * In order to break through the Upper Limit Problem, we need to change the performance thermostat.
 * Fortunately, the thermostat is something we can control.
 * This book tells how to control the thermostat.
 
-### How Was the Thermostat Set in the First Place?
-
-I know a therapist who says "nobody gets through life without scars". 
 
 
 
@@ -91,3 +94,6 @@ Many people live out their lives in these middle two zones. In fact, all of us p
 
 Making The Big Leap into the Zone of Genius requires more.
 
+### How Was the Thermostat Set in the First Place?
+
+I know a therapist who says "nobody gets through life without scars". 
