@@ -6,23 +6,23 @@ comments: true
 tags: 
 published: true
 ---
-What is stopping you from operating in your Zone of Genius? In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle blocking a person from achieving greatness. Hendricks divides human performce into four zones. His findings inspired me to create this graphic: 
+What is stopping you from operating in your Zone of Genius? In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle blocking a person from achieving greatness. Hendricks divides human performance into four zones: Genius, Excellence, Competence, and Incompetence. His book inspired me to create this graphic: 
 
 <a href="/images/Zones_Solving_the_Upper_Limit_Problem_RayHightower.png"><img src="/images/Zones_Solving_the_Upper_Limit_Problem_RayHightower.png" align="center" width="500" padding="20" alt="The Big Leap by Gay Hendricks - Upper Limit Problem Chart - RayHightower" title="The Big Leap by Gay Hendricks - Upper Limit Problem Chart - RayHightower" /></a>
 
-The Upper Limit Problem can keep a person stuck on the three lower performance levels, never to achieve genius. 
+The Upper Limit Problem can keep a person stuck in one of the comfort zones, never to achieve genius. 
 
-Now that we've defined the problem, how can high achievers break through and achieve their potential?
+Now that we've outlined the problem, how can high achievers break through and achieve their potential?
 
 <!--more-->
 
-### Clarity from Youth
+### ULP: Youthful Definition
 
 Hendricks holds a PhD in psychology and he has studied human behavior for decades. He openly discusses his observations with his family, including the youngest members. His 12-year-old granddaughter explains the upper limit problem in these words:
 
 >If you don’t know it’s OK to feel good and have a good time, you’ll do something to mess up when things are going well.
 
-One could say that the upper limit problem is a form of self-sabotage. 
+Brief and clear. One could say that the upper limit problem is a form of self-sabotage. 
 
 ### Internal Thermostat
 
@@ -51,7 +51,15 @@ It appears that collectively, as a species, we have a lmiited tolerance for feel
 
 Along the path to solving the Upper Limit Problem, one might ask the question, "Why do we have an Upper Limit Problem in the first place, and how does it serve us?"
 
-Of all the living creatures on Planet Earth, humans are not the fastest or the strongest. But we are the best at communicating with each other, and we're the best at working together in groups. Group dynamics are at the core of our nature. 
+Of all the living creatures on Planet Earth, humans are not the fastest or the strongest. But we are the best at communicating with each other. And we're the best at working together in groups. And each of us depends on the group for our survival. We depend on each other for food, shelter, medical care, and protection from outside dangers. 
+
+What happens to a human that separates from the group? For our earliest ancestors, separation meant death. Therefore, we've evolved to value group cohesion. Sticking with the group is literally a matter of life or death.
+
+Group dynamics are at the core of our nature. Therefore, when we feel inclined to achieve beyond the group, the internal fearful voice prods us to get back in line. Get back to the comfort zone, where it's safe.
+
+
+
+
 
 
 ### Managing the Thermostat
