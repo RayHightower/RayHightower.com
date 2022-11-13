@@ -30,21 +30,6 @@ Hendricks has observed that we humans are equipped with an internal "thermostat"
 
 For most of us, the thermostat is set in early childhood, before we've learned think for ourselves. Fortunately, now that we know that the ULP exists, we can reset the thermostat and break through the ULP.
 
-### Zones of Performance
-
-Hendricks defines four zones of performance.
-
-* Incompetence
-* Competence
-* Excellence
-* Genius
-
-When we try something for the first time, it's natural to fall into the Zone of Incompetence. With practice and mentorship, we can move into the Zone of Competence and eventually into the Zone of Excellence.
-
-Many people live out their lives in these middle two zones. In fact, all of us perform daily tasks where competence or excellence are fine. Examples: Driving a car, cooking daily meals, managing a personal budget.
-
-Making The Big Leap into the Zone of Genius requires more.
-
 
 ### Solving the Problem
 
@@ -70,6 +55,12 @@ Hendricks observes that the more a person achieves, the more urgent it is for th
 &nbsp;<br/>
 &nbsp;<br/>
 &nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
 
  
 # Out-Takes
@@ -84,3 +75,19 @@ What is the upper limit problem? The upper limit problem is a barrier between ou
 What is the Upper Limit Problem and how can high achievers break through?
 
 That's the Upper Limit Problem in a nutshell.
+
+### Zones of Performance
+
+Hendricks defines four zones of performance.
+
+* Incompetence
+* Competence
+* Excellence
+* Genius
+
+When we try something for the first time, it's natural to fall into the Zone of Incompetence. With practice and mentorship, we can move into the Zone of Competence and eventually into the Zone of Excellence.
+
+Many people live out their lives in these middle two zones. In fact, all of us perform daily tasks where competence or excellence are fine. Examples: Driving a car, cooking daily meals, managing a personal budget.
+
+Making The Big Leap into the Zone of Genius requires more.
+
