@@ -59,7 +59,7 @@ What happens to a human who separates from the group? For our earliest ancestors
 
 Group cohesion is driven by our desire to survive. Therefore, when we try to achieve beyond (outside of) the group, the internal voice of fear (Upper Limit Problem) prods us to get back in line. Get back to the comfort zone, where it's safe.
 
-### Examples of Thermostat Managment Success
+### Examples of ULP Management Success
 
 Hendricks cites some examples of people who successfully identified their upper limit problem. They learned how to conquer it and thereby operate within their Zone of Genius.
 
