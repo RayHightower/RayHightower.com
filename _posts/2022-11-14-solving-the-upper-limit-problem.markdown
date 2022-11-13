@@ -16,19 +16,21 @@ Now that we've defined the problem, how can high achievers break through?
 
 ### Clarity from Youth
 
-The author's granddaughter, age 12, expresses the upper limit problem as follows:
+Hendricks has researched human behavior for decades. He shares his research with his family, including the youngest memgers. After some years of exposure to this subject matter, his 12-year-old granddaughter expresses the upper limit problem in these words:
 
 >If you don’t know it’s OK to feel good and have a good time, you’ll do something to mess up when things are going well.
 
 One could say that the upper limit problem is a form of self-sabotage. 
 
-### Digging Further Into the ULP
+### Internal Thermostat
 
-Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we achieve more than we believe we deserve, we engage in self-sabotage, thereby pulling our performance back down to the acceptable level set by the thermostat. The thermostat controls our performance. That's the Upper Limit Problem in a nutshell.
+Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we achieve more than we believe we deserve, we engage in self-sabotage, thereby pulling our performance back down to the "acceptable" level set by the thermostat. The thermostat controls our performance. 
+
+For most of us, the thermostat is set in early childhood, before we've learned think for ourselves. Fortunately, now that we know that the ULP exists, we can reset the thermostat and break through the ULP.
 
 ### Zones of Performance
 
-Digging into the Upper Limit Problem, Hendricks defines four zones of performance.
+Hendricks defines four zones of performance.
 
 * Incompetence
 * Competence
@@ -78,3 +80,5 @@ What is the upper limit problem? The upper limit problem is a barrier between ou
 
 
 What is the Upper Limit Problem and how can high achievers break through?
+
+That's the Upper Limit Problem in a nutshell.
