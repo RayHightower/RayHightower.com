@@ -6,9 +6,11 @@ comments: true
 tags: 
 published: true
 ---
-Is something blocking you from operating in your Zone of Genius? In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle blocking a person from achieving greatness. Expressed grapically: 
+What is stopping you from operating in your Zone of Genius? In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle blocking a person from achieving greatness. Hendricks divides human performce into four zones. Expressed grapically: 
 
 <a href="/images/Zones_Solving_the_Upper_Limit_Problem_RayHightower.png"><img src="/images/Zones_Solving_the_Upper_Limit_Problem_RayHightower.png" align="center" width="500" padding="20" alt="The Big Leap by Gay Hendricks - Upper Limit Problem Chart - RayHightower" title="The Big Leap by Gay Hendricks - Upper Limit Problem Chart - RayHightower" /></a>
+
+The Upper Limit Problem can keep a person stuck on the three lower performance levels, never to achieve genius. 
 
 Now that we've defined the problem, how can high achievers break through?
 
@@ -16,7 +18,7 @@ Now that we've defined the problem, how can high achievers break through?
 
 ### Clarity from Youth
 
-Hendricks has researched human behavior for decades. He shares his research with his family, including the youngest members. His 12-year-old granddaughter explains the upper limit problem in these words:
+Hendricks holds a PhD in psychology and he has researched human behavior for decades. He openly discusses his observations with his family, including the youngest members. His 12-year-old granddaughter explains the upper limit problem in these words:
 
 >If you don’t know it’s OK to feel good and have a good time, you’ll do something to mess up when things are going well.
 
