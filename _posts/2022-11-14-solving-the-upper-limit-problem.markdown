@@ -28,20 +28,20 @@ Brief and clear. One could say that the upper limit problem is a form of self-sa
 
 <img src="/images/generic-thermostat.jpg" align="right" width="150" padding="10" alt="The Big Leap by Gay Hendricks - Thermostat" title="Thermostat - The Big Leap by Gay Hendricks - Thermostat" />
 
-Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we achieve more than we believe we deserve, we engage in self-sabotage, thereby pulling our performance back down to the "acceptable" level set by the thermostat. The thermostat controls our performance. 
+Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we produce better results than we believe we deserve, the thermostat kicks in and we engage in self-sabotage. We pull our our performance back down to the "acceptable" level set by the thermostat. The thermostat controls our performance. 
 
-For most of us, the thermostat level was set in early childhood, before we learned think for ourselves. Parents, teachers, kids on the schoolyard, authority figures, peers... all have a role in setting our early thermostat.
+For most of us, the thermostat level was set in early childhood, before we learned think for ourselves. Teachers, parents, kids on the schoolyard, authority figures, co-workers, peers... all have a role in setting our early thermostat. Most of us live with that initial (limited) setting for the rest of our lives.
 
 Fortunately, once we know that the thermostat exists, we can take action.
 
 ### Humanity's Upper Limit
 
-Once Hendricks discovered the upper limit problem patter, he began to see its manifestations everywhere. For example:
+Once Hendricks discovered the upper limit problem patter, he began to see its manifestations everywhere. We can see the upper limit problem played out on a global scale. For example:
 
 * Humans enjoy a period of peace and then plunge into a war.
 * Humans create a time of econoimic expansion, then we go into a recession or depression.
 
-It appears that collectively, as a species, we have a lmiited tolerance for feeling good. We do something to mess it up.
+Back and forth, back and forth. Any time we reach a high performce level, we pull ourselves back to an "acceptable" level. To paraphrase Hendricks' granddaughter, we have a lmiited tolerance for feeling good, and we do something to mess it up.
 
 ### Why We Have an Upper Limit
 
@@ -51,36 +51,38 @@ It appears that collectively, as a species, we have a lmiited tolerance for feel
 
 Along the path to solving the Upper Limit Problem, one might ask the question, "Why do we have an Upper Limit Problem in the first place, and how does it serve us?"
 
-Of all the living creatures on Planet Earth, humans are not the fastest or the strongest. But we are the best at communicating with each other. And we're the best at working together in groups. And each of us depends on the group for our survival. We depend on each other for food, shelter, medical care, and protection from outside dangers. 
+Having an upper limit prevents us from straying too far away from the larger group of humans. Throughout human history, we have relied on group strength for our survival.
 
-What happens to a human that separates from the group? For our earliest ancestors, separation meant death. Therefore, we've evolved to value group cohesion. Sticking with the group is literally a matter of life or death.
+Of all the living creatures on Planet Earth, humans are not the fastest or the strongest. But we are the best at coopperating via communication. And we're the best at working together in groups. Even in the modern day, each of us depends on the group for our survival. We depend on each other for food, shelter, medical care, and protection from outside dangers. 
 
-Group dynamics are at the core of our nature. Therefore, when we feel inclined to achieve beyond the group, the internal fearful voice prods us to get back in line. Get back to the comfort zone, where it's safe.
+What happens to a human who separates from the group? For our earliest ancestors, separation meant death. Therefore, we've evolved to value group cohesion. Sticking with the group is literally a matter of life or death.
 
-
-
-
-
+Group cohesino is at the core of our nature. Therefore, when we feel inclined to achieve beyond (outside of) the group, the internal voice of fear prods us to get back in line. Get back to the comfort zone, where it's safe.
 
 ### Managing the Thermostat
 
-Humans are not mechanical. If we were, it would be possible to dial the thermostat to the desired level and be done. Knowing that the thermostat exists means that we must now take responsibility for managing it.
+To manage the thermostat we need to deal with the voice of fear in one of two ways:
 
-Hendricks offers some ideas for managing the thermostat. Here's one...
+1. Ignore it, or
+2. Reprogram it.
+
+Many of us will do some combination of the two.
+
+### Examples of Thermostat Managment Success
+
+Hendricks cites some examples of people who successfully conquer their upper limit problem and thereby operate within their Zone of Genius.
+
+* Dr Robert Jordan. Had the opportunity to sell his company for a large financial gain, and then blew up the deal over a minor issue that turned into a big argument. Jordan recognized that his upper limit problem had kicked in, causing him to self-sabotage the deal. After that loss, he learned to manage his upper limit problem by asking himself two questions: 
+1. How much love and abundance am I willing to allow?
+2. How am I getting in my own way?
+
+* Kenny Loggins of Loggins & Messina
 
 
-This is not a once-and-done solution. We will find ourselves resetting the thermostat every time we encounter an upper limit problem. Here's how.
-
-
-
-
-
-
-
+Note that this is not a "one and done" solution. Every day, the Upper Limit Problem will strive to pull us back in line, to pull us back within the larger group of humans. As high achievers, it's up to us to recognize the ULP and deal with it. Every day.
 
 ### Conclusion + Next Steps
 
-One final point. The author observes that the more a person achieves, the more urgent it is for them to identify and overcome their Upper Limit Problem. One is reminded of the line from the _Spiderman_ movies: When we have great power, we also have great responsibility. 
+One final point. The author observes that the more a person achieves, the more urgent it is for them to identify and overcome their Upper Limit Problem. Citizens of Planet Earth are waiting for you to operate in your Zone of Genius; everyone benefits when you do.
 
-
-
+Now that you've read this discussion of the Upper Limit Problem, I encourage you to get the book _The Big Leap_ where you can learn more about the problem, along with some solutions that might be a good fit for you.
