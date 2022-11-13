@@ -43,6 +43,13 @@ Once Hendricks discovered the upper limit problem patter, he began to see its ma
 
 It appears that collectively, as a species, we have a lmiited tolerance for feeling good. We do something to mess it up.
 
+### Why We Have an Upper Limit
+
+>Many of our fears are based on the workings of the ego, the part of us that's focused on getting recognition and protecing us from social ostracism.<br/>&nbsp;<br/>~From _The Big Leap_
+
+Along the path to solving the Upper Limit Problem, one might ask the question, "Why do we have an Upper Limit Problem, and how does it serve us?"
+
+Of all the living creatures on Planet Earth, humans are not the fastest or the strongest. But we are the best at communicating with each other, and we're the best at working together in groups. Group dynamics are at the core of our nature. 
 
 
 ### Managing the Thermostat
