@@ -18,7 +18,7 @@ Now that we've outlined the problem, how can high achievers break through and ac
 
 ### ULP: Youthful Definition
 
-Hendricks holds a PhD in psychology and he has studied human behavior for decades. He openly discusses his observations with his family, including the youngest members. His 12-year-old granddaughter explains the upper limit problem in these words:
+Hendricks holds a PhD in psychology. He has studied human behavior for decades. He openly discusses his observations with his family, including the youngest members. His 12-year-old granddaughter explains the upper limit problem in these words:
 
 >If you don’t know it’s OK to feel good and have a good time, you’ll do something to mess up when things are going well.
 
@@ -28,9 +28,9 @@ Brief and clear. One could say that the upper limit problem is a form of self-sa
 
 <img src="/images/generic-thermostat.jpg" align="right" width="150" padding="10" alt="The Big Leap by Gay Hendricks - Thermostat" title="Thermostat - The Big Leap by Gay Hendricks - Thermostat" />
 
-Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we produce better results than we believe we deserve, the thermostat kicks in and we engage in self-sabotage. We pull our our performance back down to the "acceptable" level set by the thermostat. The thermostat controls our performance. 
+Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we produce better results than we believe we deserve, the thermostat kicks in and we engage in self-sabotage. We pull our performance back down to the "acceptable" level set by the thermostat. The thermostat controls our performance. 
 
-For most of us, the thermostat level was set in early childhood, before we learned think for ourselves. Teachers, parents, kids on the schoolyard, authority figures, co-workers, peers... all have a role in setting our early thermostat. Most of us live with that initial (limited) setting for the rest of our lives.
+For most of us, the thermostat level was set in early childhood, long before we learned think for ourselves. Teachers, parents, kids on the schoolyard, authority figures, co-workers, peers... all have a role in setting our early thermostat. Most of us live with that initial (limited) setting for the rest of our lives.
 
 Fortunately, once we know that the thermostat exists, we can take action.
 
@@ -39,21 +39,21 @@ Fortunately, once we know that the thermostat exists, we can take action.
 Once Hendricks discovered the upper limit problem patter, he began to see its manifestations everywhere. We can see the upper limit problem played out on a global scale. For example:
 
 * Humans enjoy a period of peace and then plunge into a war.
-* Humans create a time of econoimic expansion, then we go into a recession or depression.
+* Humans create a time of economic expansion, then we go into a recession or depression.
 
-Back and forth, back and forth. Any time we reach a high performce level, we pull ourselves back to an "acceptable" level. To paraphrase Hendricks' granddaughter, we have a lmiited tolerance for feeling good, and we do something to mess it up.
+Back and forth, back and forth. Any time we reach a high performance level, we pull ourselves back to an "acceptable" level. To paraphrase Hendricks' granddaughter, we have a limited tolerance for feeling good, and we do something to mess it up.
 
 ### Why We Have an Upper Limit
 
 <img src="/images/the_big_leap_book_cover.jpg" align="right" width="150" padding="10" alt="The Big Leap by Gay Hendricks - book cover" title="The Big Leap by Gay Hendricks - book cover" />
 
->Many of our fears are based on the workings of the ego, the part of us that's focused on getting recognition and protecing us from social ostracism.<br/>&nbsp;<br/>~From _The Big Leap_
+>Many of our fears are based on the workings of the ego, the part of us that's focused on getting recognition and protecting us from social ostracism.<br/>&nbsp;<br/>~From _The Big Leap_
 
 Why do humans have an Upper Limit Problem in the first place, and how does having an _upper limit_ serve us?
 
 Having an upper limit prevents us from straying too far away from the larger group of humans. Throughout human history, we have relied on group strength for our survival.
 
-Of all the living creatures on Planet Earth, humans are not the fastest or the strongest. But we are the best at cooperating via communication. We're the best at working together in groups. Even in the modern day, each of us depends on the group for our survival. We depend on each other for food, shelter, medical care, and protection from outside dangers. 
+Of all the living creatures on Planet Earth, humans are not the fastest or the strongest. But we are the best at cooperating via communication. We're the best at working together in groups. Even in the present day, each of us depends on the group for our survival. We depend on each other for food, shelter, medical care, and protection from outside dangers. 
 
 What happens to a human who separates from the group? For our earliest ancestors, separation meant death. Therefore, we've evolved to value group cohesion. Sticking with the group is literally a matter of life or death.
 
