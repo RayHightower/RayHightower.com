@@ -1,28 +1,28 @@
 ---
 layout: post
 title:  Solving the Upper Limit Problem
-date:   2022-11-04
+date:   2022-11-14
 comments: true
 tags: 
 published: true
 ---
-What is the upper limit problem?
-
->If you don’t know it’s OK to feel good and have a good time, you’ll do something to mess up when things are going well.<br/>&nbsp;<br/>The Upper Limit Problem, as described by the author's 12-year-old granddaughter
-
-
+Is something blocking you from operating in your Zone of Genius? In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle blocking a person from achieving greatness. Expressed grapically: 
 
 <a href="/images/Zones_Solving_the_Upper_Limit_Problem.png"><img src="/images/Zones_Solving_the_Upper_Limit_Problem.png" align="center" width="500" padding="20" alt="The Big Leap by Gay Hendricks - Upper Limit Problem Chart" title="The Big Leap by Gay Hendricks - Upper Limit Problem Chart" /></a>
 
-Your Upper Limit Problem is holding you back from achieving your full potential. What is the Upper Limit Problem, and how can you solve it?
-
-In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle that blocks a person from achieving greatness. 
-
-What is the Upper Limit Problem and how can high achievers break through?
+Now that we've defined the problem, how can high achievers break through?
 
 <!--more-->
 
-### Defining the Upper Limit Problem
+### Clarity from Youth
+
+The author's granddaughter, age 12, expresses the upper limit problem as follows:
+
+>If you don’t know it’s OK to feel good and have a good time, you’ll do something to mess up when things are going well.
+
+One could say that the upper limit problem is a form of self-sabotage. 
+
+### Digging Further Into the ULP
 
 Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we achieve more than we believe we deserve, we engage in self-sabotage, thereby pulling our performance back down to the acceptable level set by the thermostat. The thermostat controls our performance. That's the Upper Limit Problem in a nutshell.
 
@@ -60,5 +60,21 @@ I know a therapist who says "nobody gets through life without scars".
 
 Hendricks observes that the more a person achieves, the more urgent it is for them to identify and overcome their Upper Limit Problem.
 
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
 
  
+# Out-Takes
+
+
+Your Upper Limit Problem is holding you back from achieving your full potential. What is the Upper Limit Problem, and how can you solve it?
+
+What is the upper limit problem? The upper limit problem is a barrier between our Zone of Genius and all other levels of accomplishment.
+
+
+
+What is the Upper Limit Problem and how can high achievers break through?
