@@ -45,9 +45,11 @@ It appears that collectively, as a species, we have a lmiited tolerance for feel
 
 ### Why We Have an Upper Limit
 
+<img src="/images/the_big_leap_book_cover.jpg" align="right" width="150" padding="10" alt="The Big Leap by Gay Hendricks - book cover" title="The Big Leap by Gay Hendricks - book cover" />
+
 >Many of our fears are based on the workings of the ego, the part of us that's focused on getting recognition and protecing us from social ostracism.<br/>&nbsp;<br/>~From _The Big Leap_
 
-Along the path to solving the Upper Limit Problem, one might ask the question, "Why do we have an Upper Limit Problem, and how does it serve us?"
+Along the path to solving the Upper Limit Problem, one might ask the question, "Why do we have an Upper Limit Problem in the first place, and how does it serve us?"
 
 Of all the living creatures on Planet Earth, humans are not the fastest or the strongest. But we are the best at communicating with each other, and we're the best at working together in groups. Group dynamics are at the core of our nature. 
 
