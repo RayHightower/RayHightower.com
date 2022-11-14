@@ -57,7 +57,7 @@ Of all the living creatures on Planet Earth, humans are not the fastest or the s
 
 What happens to a human who separates from the group? For our earliest ancestors, separation meant death. Therefore, we've evolved to value group cohesion. Sticking with the group is literally a matter of life or death.
 
-Group cohesion is driven by our desire to survive. Therefore, when we try to achieve beyond (outside of) the group, the internal voice of fear (Upper Limit Problem) prods us to get back in line. Get back to the comfort zone, where it's safe.
+Group cohesion is driven by our desire to survive. Therefore, when we try to achieve beyond (outside of) the group, the internal voice of fear (Upper Limit Problem) prods us to get back in line. To get back to the comfort zone, where it's safe.
 
 ### Examples of ULP Management Success
 
