@@ -41,7 +41,7 @@ Once Hendricks discovered a pattern for  the upper limit problem, he began to se
 * Humans enjoy a period of peace and then plunge into a war.
 * Humans create a time of economic expansion, then we go into a recession or depression.
 
-Back and forth, back and forth. Any time we reach a high performance level, we pull ourselves back to an "acceptable" level. To paraphrase Hendricks' granddaughter, we have a limited tolerance for feeling good, and we do something to mess it up.
+Back and forth, back and forth. Any time we reach a high performance level, we pull ourselves back to an "acceptable" level. To paraphrase Hendricks' granddaughter, we have a limited tolerance for feeling good, so we do something to mess it up.
 
 ### Why We Have an Upper Limit
 
