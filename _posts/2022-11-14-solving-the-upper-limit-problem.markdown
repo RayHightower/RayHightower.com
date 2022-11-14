@@ -30,7 +30,7 @@ Brief and clear. One could say that the upper limit problem is a form of self-sa
 
 Hendricks has observed that we humans are equipped with an internal "thermostat" that sets an upper limit on our performance. When we produce better results than we believe we deserve, the thermostat kicks in and we engage in self-sabotage. We pull our performance back down to the "acceptable" level set by the thermostat. The thermostat controls our performance. 
 
-For most of us, the thermostat level was set in early childhood, long before we learned think for ourselves. Teachers, parents, kids on the schoolyard, authority figures, co-workers, peers... all have a role in setting our early thermostat. Most of us live with that initial (limited) setting for the rest of our lives.
+For most of us, the thermostat level was set in early childhood, long before we learned to think for ourselves. Teachers, parents, kids on the schoolyard, authority figures, co-workers, peers... all have a role in setting our early thermostat. Most of us live with that initial (limited) setting for the rest of our lives.
 
 Fortunately, once we know that the thermostat exists, we can take action.
 
