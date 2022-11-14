@@ -36,7 +36,7 @@ Fortunately, once we know that the thermostat exists, we can take action.
 
 ### Humanity's Upper Limit
 
-Once Hendricks discovered the upper limit problem patter, he began to see its manifestations everywhere. We can see the upper limit problem played out on a global scale. For example:
+Once Hendricks discovered a pattern for  the upper limit problem, he began to see its manifestations everywhere. We can even see the upper limit problem played out on a global scale. For example:
 
 * Humans enjoy a period of peace and then plunge into a war.
 * Humans create a time of economic expansion, then we go into a recession or depression.
