@@ -67,7 +67,7 @@ Hendricks cites some examples of people who successfully identified their upper 
 1. How much love and abundance am I willing to allow?
 2. How am I getting in my own way?
 
-* **Kenny Loggins**, musician. Hendricks has served as on-the-road coach for Loggins and his band. Loggins' upper limit problem showed itself every time he had a hit record or won a Grammy. After the success, he would get sick, ruin a relationship, or perform some other act of self-sabotage. Loggins' initially isolated his upper limit problem through meditation. This led to a new level of performance within his Zone of Genius.
+* **Kenny Loggins**, musician. Hendricks has served as on-the-road coach for Loggins and his band. Loggins' upper limit problem showed itself every time he had a hit record or won a Grammy. After every success, he would get sick, ruin a relationship, or perform some other act of self-sabotage. Loggins' initially isolated his upper limit problem through meditation. This led to a new level of performance within his Zone of Genius.
 
 ### Not "One and Done"
 
