@@ -11,17 +11,19 @@ published: true
 
 <img src="/images/OpenAI_RayHightower.png" align="right" width="250" padding="10" alt="OpenAI and ChatGPT - Commercial Real Estate" title="OpenAI and ChatGPT - Commercial Real Estate" /> 
 
-Note: This entire blog post (after this brief introduction) was written by an artificial intelligence device called ChatGPT. 
+Artificial Intelligence wrote this blog post. Everything except this brief introduction.
 
-I prompted the AI with the following request: _Write a blog post on multifamily investments and bonus depreciation._
+An AI tool called [ChatGPT](https://chat.openai.com/chat) (Generative Pre-trained Transformer) composed the post in response to this request from me:
 
-What do you think of the AI's performance?
+>Write a blog post on multifamily investments and bonus depreciation.
 
 <!--more-->
 
-End of intro. The AI-generated article appears below.
+End of intro. The AI-generated article appears below. Click the image to enlarge.
 
 ### Content from ChatGPT: Artificial Intelligence
+
+<a href="/images/ChatGPT_multifamily_RayHightower.png"><img src="/images/ChatGPT_multifamily_RayHightower.png" align="right" width="250" padding="10" alt="ChatGPT in action - Commercial Real Estate + RayHightower.com" title="ChatGPT in action - Commercial Real Estate + RayHightower.com" /></a> 
 
 If you're a savvy real estate investor, you may be aware of the recent tax law that allows for bonus depreciation on certain types of real estate investments. This can be a great way to offset some of the costs of your investments and improve your bottom line. In this article, we'll explore the world of multifamily real estate investments and how bonus depreciation can be a valuable tool in growing your wealth.
 
@@ -35,10 +37,3 @@ Once you've identified a property that qualifies for bonus depreciation, the nex
 
 In conclusion, multifamily real estate investments can be a great way to generate long-term wealth, and bonus depreciation can be a valuable tool in offsetting some of the costs of your investment. By working with a tax professional, you can determine how to take advantage of this tax law and maximize the benefits of your real estate investments.
  
-### End of Artificial Intelligence. Back to Human.
-
-Learn more about ChatGPT and artificial intelligence here:
-[https://openai.com/](https://openai.com/)
-
-You can play with ChatGPT here: 
-[https://chat.openai.com/chat](https://chat.openai.com/chat)
