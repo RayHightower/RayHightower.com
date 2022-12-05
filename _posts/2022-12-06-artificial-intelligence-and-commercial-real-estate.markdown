@@ -7,16 +7,19 @@ tags:
 published: true
 ---
  
-Note: This entire blog post (after the preamble) was written by an artificial intelligence device called ChatGPT. 
+### Introducting ChatGPT
 
-I prompted the AI with the following request: 
-Write a blog post on multifamily investments and bonus depreciation.
+<img src="/images/OpenAI_RayHightower.png" align="right" width="250" padding="10" alt="OpenAI and ChatGPT - Commercial Real Estate" title="OpenAI and ChatGPT - Commercial Real Estate" /> 
+
+Note: This entire blog post (after this brief introduction) was written by an artificial intelligence device called ChatGPT. 
+
+I prompted the AI with the following request: _Write a blog post on multifamily investments and bonus depreciation._
 
 What do you think of the AI's performance?
 
 <!--more-->
 
-===== End of Preamble ====
+End of intro. The AI-generated article appears below.
 
 ### Content from ChatGPT: Artificial Intelligence
 
@@ -32,3 +35,10 @@ Once you've identified a property that qualifies for bonus depreciation, the nex
 
 In conclusion, multifamily real estate investments can be a great way to generate long-term wealth, and bonus depreciation can be a valuable tool in offsetting some of the costs of your investment. By working with a tax professional, you can determine how to take advantage of this tax law and maximize the benefits of your real estate investments.
  
+### End of Artificial Intelligence. Back to Human.
+
+Learn more about ChatGPT and artificial intelligence here:
+[https://openai.com/](https://openai.com/)
+
+You can play with ChatGPT here: 
+[https://chat.openai.com/chat](https://chat.openai.com/chat)
