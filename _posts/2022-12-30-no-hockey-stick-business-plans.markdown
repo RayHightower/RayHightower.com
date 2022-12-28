@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  No Hockey Stick Business Plans
-date:   2022-10-31
+date:   2022-12-30
 comments: true
 tags: 
 published: false
