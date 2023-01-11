@@ -12,6 +12,8 @@ published: true
 
 >Let your learning lead to action and you'll lead an extraordinary life. Let your learning to knowledge and you'll become a fool.<br/>&nbsp;<br/>-Jim Rohn
 
+[Tony Robbins](https://www.tonyrobbins.com) joined forces with [Peter Diamandis, MD](https://www.linkedin.com/in/peterdiamandis/) and [Robert Hariri, MD, PhD](https://www.linkedin.com/in/drbobhariri/) to create the book _Life Force_.
+
 <!--more-->
 
 ### Physical Age vs Chronological Age
