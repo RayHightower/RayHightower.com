@@ -19,7 +19,9 @@ published: true
 ### Physical Age vs Chronological Age
 
 
-### Grail Test
+### GRAIL Test
+
+The GRAIL blood test is designed to "detect cancer early, when it can be cured", as described on the [GRAIL web site](https://grail.com/).
 
 
 ### Full-Body MRI
