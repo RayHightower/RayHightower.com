@@ -14,7 +14,7 @@ published: true
 
 Take action. We need to take action. It does not matter what we know if we only _know_ it. We must take action with what we know. As Napoleon Hill used to say, "Knowledge is power only when organized into a definite course of action and directed at a definite end."
 
-Three action-takers joined forces to create the book book _Life Force_: [Tony Robbins](https://www.tonyrobbins.com), [Peter Diamandis, MD](https://www.linkedin.com/in/peterdiamandis/), and [Robert Hariri, MD, PhD](https://www.linkedin.com/in/drbobhariri/). _Life Force_ is a collection of medical research, nutrition, and personal habits designed to increase the quantity and quality of life for human beings.
+Three action-takers joined forces to create the book book _[Life Force](https://www.lifeforce.com/)_: [Tony Robbins](https://www.tonyrobbins.com), [Peter Diamandis, MD](https://www.linkedin.com/in/peterdiamandis/), and [Robert Hariri, MD, PhD](https://www.linkedin.com/in/drbobhariri/). _Life Force_ is a collection of medical research, nutrition, and personal habits designed to increase the quantity and quality of life for human beings.
 
 <!--more-->
 
