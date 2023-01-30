@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  Life Force by Tony Robbins
-date:   2023-01-28
+date:   2023-01-30
 comments: true
 tags: 
 published: true
 ---
 
-<img src="/images/life_force_tony_robbins.jpg" align="right" width="250" padding="10" alt="Life Force by Tony Robbins" title="Life Force by Tony Robbins" /> 
 
+<img src="/images/life_force_tony_robbins.jpg" align="right" width="250" padding="10" alt="Life Force by Tony Robbins" title="Life Force by Tony Robbins" /> 
 
 >Let your learning lead to action and you'll lead an extraordinary life.<br/>&nbsp;<br/>Let your learning lead to knowledge and you'll become a fool.<br/>&nbsp;<br/>-Jim Rohn
 
