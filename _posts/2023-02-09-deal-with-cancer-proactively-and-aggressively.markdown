@@ -53,7 +53,7 @@ What is love? What is friendship? My definitions for both words are vastly expan
 
 ### Human Intelligence + Robotic Motor Skills
 
-Nine days ago I was spread out on an operating table while a Davinci Surgical Robot pressed medical instruments into my open belly. The nephrectomy required decades of human intelligence & medical expertise blended with the microscopic motor skills of a robot. What a winning combination!
+Nine days ago I was spread out on an operating table while a Davinci Surgical Robot pressed medical instruments into my open belly. The nephrectomy required decades of human medical intelligence blended with the microscopic motor skills of a robot. What a winning combination!
 
 Nine days later, I am walking around Arizona with a robust appetite and a heart full of gratitude.
 
