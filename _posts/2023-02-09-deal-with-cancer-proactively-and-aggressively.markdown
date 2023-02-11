@@ -58,7 +58,7 @@ Nine days ago I was spread out on an operating table while a Davinci Surgical Ro
 
 Nine days later, I am walking around Arizona with a robust appetite and a heart full of gratitude.
 
-<img src="/images/davinci_robot_stitches_grape.jpg" width="500" padding="10" alt="Da Vinci Robot Stitches Grape - RayHightower.com" title="Da Vinci Robot Stitches Grape - RayHightower.com" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VipxmZw_-0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Serious Recommendation for You
 
