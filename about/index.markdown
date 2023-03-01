@@ -7,13 +7,13 @@ title: About
 
 Raymond T. Hightower is a tech company founder and commercial real estate investor operating in the State of Arizona, USA. Growing a technology company for twenty-one years and ultimately selling it gave Hightower a boots-on-the-ground education in business execution and vanquishing obstacles. 
 
-Driven by a desire to improve the world through business, Hightower launched [BizDayGlobal](https://BizDayGlobal.com), a video podcast where business leaders serve others by sharing knowledge. Hightower is active with the Boy Scouts of America where he teaches future leaders about budgeting and time management.
+Driven by a desire to improve the world through business, Hightower launched [ROIClear](https://ROIClear.com) (formerly [BizDayGlobal](https://BizDayGlobal.com)), the video podcast where business leaders serve others by sharing knowledge. Hightower is active with the Boy Scouts of America where he teaches future leaders about budgeting and time management.
 
 In 2017, Hightower launched [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown is a buyer of commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50-150 unit multifamily properties.
 
 ### Tech Leadership & Speaking
 
-Hightower is the creator of several business and technology media outlets, including [BizDayGlobal](https://BizDayGlobal.com) and [WindyCityRails](/blog/2015/10/05/windycityrails-2015-recap/). He served as lead organizer of [ChicagoRuby](/blog/2017/09/07/passing-the-chicagoruby-baton/) for ten years. He is a perpetual student, currently exploring parallelism, quantum computing, and IoT. Hightower is [invited to speak](/speaking/) at biz/tech conferences around the world, and he blogs on technology and business growth right here at [RayHightower.com](/).
+Hightower is the creator of several business and technology media outlets, including [ROIClear](https://ROIClear.com) and [WindyCityRails](/blog/2015/10/05/windycityrails-2015-recap/). He served as lead organizer of [ChicagoRuby](/blog/2017/09/07/passing-the-chicagoruby-baton/) for ten years. He is a perpetual student, currently exploring parallelism, quantum computing, and IoT. Hightower is [invited to speak](/speaking/) at biz/tech conferences around the world, and he blogs on technology and business growth right here at [RayHightower.com](/).
 
 ### Early Career
 

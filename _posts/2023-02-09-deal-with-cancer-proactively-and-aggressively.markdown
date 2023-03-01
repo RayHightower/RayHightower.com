@@ -37,13 +37,14 @@ That clear-language specialist was part of the team that I chose to perform my k
 
 Some of you will think I'm nuts for this request: I asked the team to preserve my kidney in a jar so that I could sit it on my desk as a reminder of my mortality. Cool sourvenir, right? Nope. Turns out that the surgical team needed to send the kidney/tumor to the pathology department to test for cancer. This process involves cutting the mass into thin slices  (like bologna) and carefully inspecting the slices.
 
-Key findings from the pathology report:
+On the morning of Jan 31, 2023, the surgical team removed my right kidney along with the attached baseball-sized tumor. I spent the night in the hospital and returned home on Feb 1, 2023.
+
+The surgical team sent my kidney + tumor to the pathology department for analysis. Key findings from the pathology report:
 
 * The news: The tumor was cancerous.
 * The good news: The cancer was contained within the tumor. No spreading beyond the kidney or to other parts of my body. 
 
-Bottom line: We caught this one in time. Praise God for medical science and for the men and women who practice this art.
-
+Bottom line: We caught the cancer in time. Praise God for medical science and for the men and women who practice this art.
 
 ### Overflowing With Gratitude
 
@@ -57,7 +58,7 @@ Nine days ago I was spread out on an operating table while a Davinci Surgical Ro
 
 Nine days later, I am walking around Arizona with a robust appetite and a heart full of gratitude.
 
-<img src="/images/davinci_robot_stitches_grape.jpg" width="500" padding="10" alt="Da Vinci Robot Stitches Grape - RayHightower.com" title="Da Vinci Robot Stitches Grape - RayHightower.com" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VipxmZw_-0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Serious Recommendation for You
 
@@ -66,7 +67,7 @@ I am not a medical professional and I am not qualified to give medical advice. I
 
 <img src="/images/creatine_level.png" width="500" alt="MRI Tumor - RayHightower.com" title="MRI Tumor - RayHightower.com" /> 
 
-Without the creatinine test, I never would have known about the mass on my kidney. And it was the size of a baseball. I had zero discomfort and zero physical symptoms right up to the morning of my surgery on Jan 31, 2023. Here's the data that my physicians gathered to make the surgery recommendation:
+Without the creatinine test, I never would have known about the mass on my kidney. And it was the size of a baseball. I had zero discomfort and zero physical symptoms right up to the morning of my surgery. Here's the data that my physicians gathered to make the surgery recommendation:
 
 * The high creatinine level told my physicians that something was wrong.
 * The MRI showed the abnormal baseball-shaped growth on my right kidney.
