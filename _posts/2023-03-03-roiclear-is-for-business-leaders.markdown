@@ -15,7 +15,7 @@ ROIClear is the video podcast for business leaders.
 
 ### The Meaning of the Name
 
-Why did we choose the name ROIClear?
+Why did we choose the name _ROIClear_?
 
 * **ROI** because the return on investment is a key metric for any business leader.
 * **Clear** because it is important for us as business leaders to communicate clearly with the members of our team, investors, customers, vendors, and anyone else who is critical in the achievement of our goals.
