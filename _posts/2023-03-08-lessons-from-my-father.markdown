@@ -22,7 +22,9 @@ Dad did not accept "I don't know" as an answer from his sons. His response to "I
 
 ### Back Up, Turn Around, and Go Forwards
 
-Dad was extremely practical. He never owned a brand-new car in his life, he always bought used cars. When my brother and I asked him why (repeatedly from childhood) he would say "What can a new car do for me that a used can't? All cars are the same. Any car you get, no matter how expensive will only back up, turn around, and go forwards."
+Dad was extremely practical. He never owned a brand-new car in his life, he always bought used cars. When my brother and I asked him why (repeatedly from childhood) he would say "What can a new car do for me that a used car can't? All cars are the same. Any car you get, no matter how expensive will only do three things: Back up, turn around, and go forwards."
+
+Always practical, to the end.
 
 ### Mom and Dad Together
 
