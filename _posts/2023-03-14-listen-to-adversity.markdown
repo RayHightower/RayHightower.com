@@ -24,3 +24,8 @@ If we run from adversity, we may only become mediocre.
 
 Content for Listen to Adversity goes here.
 
+### Acknowledgement
+
+Special thanks to Madison Adams for recommending this book.
+
+
