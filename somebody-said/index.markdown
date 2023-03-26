@@ -36,7 +36,7 @@ Just start in to sing as you tackle the thing<br />
 &#160;&#160;That “cannot be done,” and you’ll do it.<br />
 
 
-<img src="/images/hightower_family.jpg" width="600" align="center" alt="Hightower Family" title="Hightower Family">
+<img src="/images/Hightower_Family_Early1970s.jpg" width="300" align="center" alt="Hightower Family Early 1970s" title="Hightower Family Early 1970s">
 
-_Note: My parents required my brother and me to memorize and recite poetry from a very young age. I hated it! But the parental units were right._
+_Note: My parents required my brother and me to memorize and recite poetry from a very young age. I hated it! But the parental units were right. We were also required to memorize the poem <a href="/if-rudyard-kipling/">If by Rudyard Kipling</a>._
 
