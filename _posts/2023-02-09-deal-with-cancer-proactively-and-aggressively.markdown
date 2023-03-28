@@ -58,7 +58,7 @@ Nine days ago I was spread out on an operating table while a Davinci Surgical Ro
 
 Nine days later, I am walking around Arizona with a robust appetite and a heart full of gratitude.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VipxmZw_-0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7IbW0HVKEdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Serious Recommendation for You
 
