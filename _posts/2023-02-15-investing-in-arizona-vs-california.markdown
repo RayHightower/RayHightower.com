@@ -6,8 +6,8 @@ comments: true
 tags: 
 published: true
 ---
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vm1dDDAD0lM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDVlE4D8h7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br/>&nbsp;<br/>
 [Bridgetown Partners](https://bridgetownpartners.com/) is a buyer of multifamily apartment properties. We buy the properties and we make improvements, thereby giving people a great place to live. Further, we invite investors to benefit from our work. Investors receive preservation of capital, tax advantages, and a solid return on investment.
