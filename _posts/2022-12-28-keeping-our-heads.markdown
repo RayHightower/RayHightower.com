@@ -7,7 +7,9 @@ tags:
 published: true
 ---
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g4qWht2AZPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
  
 >If you can keep your head when all about you are losing theirs and blaming it on you...<br/>&nbsp;<br/>~From the poem ["If" by Rudyard Kipling](/if-rudyard-kipling/)
 

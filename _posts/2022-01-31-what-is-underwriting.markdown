@@ -13,8 +13,10 @@ Anyone who invests in commercial real estate (CRE) is buying a multi-million-dol
 
 The Nashville Multifamily Meetup Group hosted an underwriting discussion, and they invited me to present. Thank you [Josh Cooper](https://www.linkedin.com/in/josh-cooper-33b24258/) and [Tommy Brant](https://www.linkedin.com/in/tommybrant/) for making it happen!
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/59oMVs2lxnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;<br/>
+</div>
 
 ### Underwriting Defined
 
