@@ -17,7 +17,9 @@ Our team at [Bridgetown Partners](https://BridgetownPartners.com) sifts through 
 
 <!--more-->
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R8w3S4l3otY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <br/>&nbsp;<br/>
 ### When We Say Yes
