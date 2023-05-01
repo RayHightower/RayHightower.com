@@ -7,7 +7,7 @@ tags:
 published: true
 ---
  
-A major test of business leadership: How does the team handle unexpected events?
+Here's a test of business leadership: How does the team handle unexpected events?
 
 One of our properties in Nashville, Tennessee caught fire on last week. This is a 145-unit property with multiple buildings spread over a large plot of land. One building is completely gone.
 
