@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Handling Unexpected Events
+title:  How to Handle Unexpected Events
 date:   2023-04-29
 comments: true
 tags: 

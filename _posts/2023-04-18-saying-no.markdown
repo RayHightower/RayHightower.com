@@ -6,7 +6,7 @@ comments: true
 tags: 
 published: true
 ---
-<img src="/images/stop_sign_no.jpg" align="right" width="150" padding="10" alt="Saying NO" title="Saying NO" /> 
+<img src="/images/yes-no-buttons.jpg" width="250" padding="10" alt="Saying NO" title="Saying NO" /> 
 
 ### Yes or No?
 
