@@ -19,7 +19,7 @@ Authors Jon Gordon and Damon West wrote _The Coffee Bean_ as a fable. It describ
 
 ### Boiling Water
 
-Imaging life as a pot of boiling water. Drop a carrot into the water, and what happens? In a few minutes, the carrot is softened by the water.
+Imagine life as a pot of boiling water. Drop a carrot into the water, and what happens? In a few minutes, the carrot is softened by the water.
 
 Drop an egg into the boiling water. How does the egg respond? In time, the egg becomes hard.
 
