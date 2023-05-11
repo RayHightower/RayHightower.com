@@ -11,7 +11,7 @@ published: true
 
 Terrie Schauer, author of [Mindful Landlord](https://www.amazon.com/Mindful-Landlord-Rental-Property-Profit-ebook/dp/B09R2FQ4WY/ref=sr_1_1?crid=3DCCA817SO4IE&keywords=mindful+landlord&qid=1683743295&sprefix=mindful+landlord%2Caps%2C118&sr=8-1), is a real estate investor and a world champion martial artist. Her skills include kick boxing and Brazilian Jiu Jitsu. 
 
-The second edition of _Mindful Landlord_ covers lessons learned during the Covid pandemic, a time when landlords (and everyone else) were faced with new challenges and seemingly insurmountable obstacles.
+The second edition of _Mindful Landlord_ covers lessons learned during the Covid pandemic, a time when landlords (and everyone else) were faced with new challenges and seemingly insurmountable obstacles..
 
 <!--more-->
 
