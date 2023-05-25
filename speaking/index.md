@@ -12,10 +12,10 @@ Ray Hightower delivers presentations on commercial real estate, technology, and 
 
 * **Syndication Case Study**<br/>
 Build Your Bank Conference<br/>
-Fort Lauderdale, FL (in person)
+Fort Lauderdale, FL (in person)<br/>&nbsp;<br/>
 * **How to Buy Big Deals Via Syndication**<br/>
 Tucson Multifamily Meetup Group<br/>
-Tucson, AZ
+Tucson, AZ<br/>&nbsp;<br/>
 * [What is Underwriting?](/blog/2022/01/31/what-is-underwriting/)<br/>Nashville Multifamily Meetup Group<br/>Nashville, TN (via Zoom)
 
 
