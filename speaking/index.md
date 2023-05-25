@@ -6,9 +6,20 @@ footer: true
 
 <img style="margin-left:20px" src="/images/ray_hightower_pine64_bw.jpg" align="right" alt="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" title="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" />
 
-Ray Hightower delivers presentations on technology and business growth. If you would like to invite him to speak at your event, you can reach him through the [contact form](/contact).
+Ray Hightower delivers presentations on commercial real estate, technology, and business growth. To invite him to speak at your event, reach out via the  [contact form](/contact).
 
-### Presentation Videos:
+### Real Estate Presentations:
+
+* [What is Underwriting?](/blog/2022/01/31/what-is-underwriting/)<br/>Nashville Multifamily Meetup Group<br/>Nashville, TN (via Zoom)
+* **Syndication Case Study**<br/>
+Build Your Bank Conference<br/>
+Fort Lauderdale, FL (in person)
+* **How to Buy Big Deals Via Syndication**<br/>
+Tucson Multifamily Meetup Group, Tucson, AZ<br/>
+Tucson, AZ
+
+
+### Tech Presentations:
 
 * [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
 * [Supercomputing for Everyone, Featuring Ruby](/blog/2015/10/29/rubyconf-colombia-conference-with-a-mission/)<br>(First 30 seconds in rookie-level Spanish)<br/>RubyConf Colombia - Medellín, Colombia<br/>&nbsp;<br/>
