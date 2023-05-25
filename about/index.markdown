@@ -11,7 +11,7 @@ Hightower started and ran his technology company for over two decades before sel
 
 ### ROIClear, Scouting, & Travel
 
-Hightower is the host of [ROIClear](https://ROIClear.com), the video podcast for business leaders. He is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) where he teaches future leaders about budgeting and time management. Hightower is a scuba diver, marathon runner, martial artist, skier, and world traveler. He has visited every state in the USA and most continents on planet Earth. He blogs on technology and business growth at [RayHightower.com](/).
+Hightower is the host of [ROIClear](https://ROIClear.com), the video podcast for business leaders. He is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) where he teaches future leaders about budgeting and time management. Hightower is a scuba diver, marathon runner, martial artist, skier, and world traveler. He has visited every state in the USA and most continents on planet Earth. He receives [speaking invitations](/speaking) from around the world, and he blogs on technology and business growth at [RayHightower.com](/).
 
 ### Early Career
 
