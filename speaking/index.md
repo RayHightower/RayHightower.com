@@ -10,13 +10,13 @@ Ray Hightower delivers presentations on commercial real estate, technology, and 
 
 ### Real Estate Presentations:
 
-* [What is Underwriting?](/blog/2022/01/31/what-is-underwriting/)<br/>Nashville Multifamily Meetup Group<br/>Nashville, TN (via Zoom)
 * **Syndication Case Study**<br/>
 Build Your Bank Conference<br/>
 Fort Lauderdale, FL (in person)
 * **How to Buy Big Deals Via Syndication**<br/>
-Tucson Multifamily Meetup Group, Tucson, AZ<br/>
+Tucson Multifamily Meetup Group<br/>
 Tucson, AZ
+* [What is Underwriting?](/blog/2022/01/31/what-is-underwriting/)<br/>Nashville Multifamily Meetup Group<br/>Nashville, TN (via Zoom)
 
 
 ### Tech Presentations:
