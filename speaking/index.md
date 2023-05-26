@@ -5,8 +5,10 @@ footer: true
 ---
 
 Ray Hightower delivers presentations on commercial real estate, technology, and business growth. Ray is invited to speak at gatherings all over the world. To invite him to speak at your event, reach out via the  [contact form](/contact).
+<br/>&nbsp;
+<br/>&nbsp;
 
-### Real Estate Presentations:
+## Real Estate Presentations:
 
 * **[Tech Founder to Passive and Active Investor](https://www.youtube.com/watch?v=XSabvUOaA7k&t=36s)**
 <a href="https://www.youtube.com/watch?v=XSabvUOaA7k&t=36s"><img src="/images/Gentle_Art_of_Crushing_It_RandySmith_RayHightower.jpg" width="200" align="right"></a>
@@ -25,9 +27,11 @@ Tucson, AZ, USA<br/>&nbsp;<br/>
 <a href="/blog/2022/01/31/what-is-underwriting/"><img src="/images/Underwriting_Nashville_2022.jpg" width="200" align="right"></a><br/>
 Nashville Multifamily Meetup Group<br/>
 Nashville, TN, USA (via Zoom)
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
 
-
-### Tech Presentations:
+## Tech Presentations:
 
 * [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
 * [Supercomputing for Everyone, Featuring Ruby](/blog/2015/10/29/rubyconf-colombia-conference-with-a-mission/)<br>(First 30 seconds in rookie-level Spanish)<br/>RubyConf Colombia - Medellín, Colombia<br/>&nbsp;<br/>
