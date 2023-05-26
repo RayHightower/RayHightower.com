@@ -4,11 +4,16 @@ title: "Speaking"
 footer: true
 ---
 
-<img style="margin-left:20px" src="/images/ray_hightower_pine64_bw.jpg" align="right" alt="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" title="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" />
-
-Ray Hightower delivers presentations on commercial real estate, technology, and business growth. To invite him to speak at your event, reach out via the  [contact form](/contact).
+Ray Hightower delivers presentations on commercial real estate, technology, and business growth. Ray is invited to speak at gatherings all over the world. To invite him to speak at your event, reach out via the  [contact form](/contact).
 
 ### Real Estate Presentations:
+
+* **[Tech Founder to Passive and Active Investor](https://www.youtube.com/watch?v=XSabvUOaA7k&t=36s)**
+<a href="https://www.youtube.com/watch?v=XSabvUOaA7k&t=36s"><img src="/images/Gentle_Art_of_Crushing_It_RandySmith_RayHightower.jpg" width="200" align="right"></a>
+<br/>
+The Gentle Art of Crushing It!<br/>
+(Podcast Interiew)<br/>
+Multiple States, USA<br/>&nbsp;<br/> 
 
 * **Syndication Case Study**<br/>
 Build Your Bank Conference<br/>
@@ -16,7 +21,10 @@ Fort Lauderdale, FL, USA<br/>&nbsp;<br/>
 * **How to Buy Big Deals Via Syndication**<br/>
 Tucson Multifamily Meetup Group<br/>
 Tucson, AZ, USA<br/>&nbsp;<br/>
-* [What is Underwriting?](/blog/2022/01/31/what-is-underwriting/)<br/>Nashville Multifamily Meetup Group<br/>Nashville, TN, USA (via Zoom)
+* **[What is Underwriting?](/blog/2022/01/31/what-is-underwriting/)**
+<a href="/blog/2022/01/31/what-is-underwriting/"><img src="/images/Underwriting_Nashville_2022.jpg" width="200" align="right"></a><br/>
+Nashville Multifamily Meetup Group<br/>
+Nashville, TN, USA (via Zoom)
 
 
 ### Tech Presentations:
