@@ -30,10 +30,12 @@ Hightower’s real estate company, [Bridgetown Partners](https://BridgetownPartn
 
 ### Other Stuff
 
-The [contact](/contact) page. Learn more at…
+You can reach Ray via the [contact](/contact) page. Learn more at…
 
 * [LinkedIn](https://linkedin.com/in/rayhightower)
 * [Twitter](https://twitter.com/rayhightower)
+* [Facebook](https://facebook.com/rayhightower)
+* [YouTube](https://youtube.com/rayhightower)
 * [Instagram](https://instagram.com/rayhightower)
 * [GitHub](https://github.com/rayhightower)
 * [SpeakerDeck](https://speakerdeck.com/rayhightower)
