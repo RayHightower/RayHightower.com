@@ -13,3 +13,4 @@ published: true
 
 Content for 10x Is Easier Thank 2x goes here.
  
+[10xeasierbook.com](https://10xeasierbook.com/)
