@@ -32,8 +32,9 @@ Hightower’s real estate company, [Bridgetown Partners](https://BridgetownPartn
 
 The [contact](/contact) page. Learn more at…
 
-* [Twitter](https://twitter.com/rayhightower)
 * [LinkedIn](https://linkedin.com/in/rayhightower)
+* [Twitter](https://twitter.com/rayhightower)
+* [Instagram](https://instagram.com/rayhightower)
 * [GitHub](https://github.com/rayhightower)
 * [SpeakerDeck](https://speakerdeck.com/rayhightower)
 
