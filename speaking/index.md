@@ -17,7 +17,8 @@ The Gentle Art of Crushing It!<br/>
 (Podcast Interiew)<br/>
 Multiple States, USA<br/>&nbsp;<br/> 
 
-* **Syndication Case Study**<br/>
+* **[Syndication Case Study](https://speakerdeck.com/rayhightower/syndication-case-study)**
+<a href="https://speakerdeck.com/rayhightower/syndication-case-study"><img src="/images/syndication_case_study_cover.png" width="200" align="right" alt="Syndication Case Study by RayHightower.com" title="Syndication Case Study by RayHightower.com"></a><br/>
 Build Your Bank Conference<br/>
 Fort Lauderdale, FL, USA<br/>&nbsp;<br/>
 * **How to Buy Big Deals Via Syndication**<br/>
