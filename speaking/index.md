@@ -27,7 +27,8 @@ Hosted by Lisa Hylton<br/>&nbsp;<br/>
 Build Your Bank Conference<br/>
 Fort Lauderdale, FL, USA<br/>&nbsp;<br/>
 
-* **How to Buy Big Deals Via Syndication**<br/>
+* **How to Buy Big Deals Via Syndication**
+<a href="https://www.meetup.com/tucson-multifamily-meetup/events/"><img src="/images/meetup.png" width="200" align="right" alt="How to Buy Big Deals Via Syndication by RayHightower.com" title="How to Buy Big Deals Via Syndication by RayHightower.com"></a><br/>
 [Tucson Multifamily Meetup Group](https://www.meetup.com/tucson-multifamily-meetup/events/)<br/>
 Tucson, AZ, USA<br/>&nbsp;<br/>
 * **[What is Underwriting?](/blog/2022/01/31/what-is-underwriting/)**
