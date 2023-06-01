@@ -8,26 +8,34 @@ Ray Hightower delivers presentations on commercial real estate, technology, and 
 <br/>&nbsp;
 <br/>&nbsp;
 
-## Real Estate Presentations:
+## Real Estate Presentations + Podcasts:
 
 * **[Tech Founder to Passive and Active Investor](https://www.youtube.com/watch?v=XSabvUOaA7k&t=36s)**
 <a href="https://www.youtube.com/watch?v=XSabvUOaA7k&t=36s"><img src="/images/Gentle_Art_of_Crushing_It_RandySmith_RayHightower.jpg" width="200" align="right"></a>
 <br/>
 The Gentle Art of Crushing It!<br/>
 (Podcast Interiew)<br/>
-Multiple States, USA<br/>&nbsp;<br/> 
+Impact Equity, LLC<br/>&nbsp;<br/> 
 
 * **[Syndication Case Study](https://speakerdeck.com/rayhightower/syndication-case-study)**
 <a href="https://speakerdeck.com/rayhightower/syndication-case-study"><img src="/images/syndication_case_study_cover.png" width="200" align="right" alt="Syndication Case Study by RayHightower.com" title="Syndication Case Study by RayHightower.com"></a><br/>
 Build Your Bank Conference<br/>
 Fort Lauderdale, FL, USA<br/>&nbsp;<br/>
 * **How to Buy Big Deals Via Syndication**<br/>
-Tucson Multifamily Meetup Group<br/>
+[Tucson Multifamily Meetup Group](https://www.meetup.com/tucson-multifamily-meetup/events/)<br/>
 Tucson, AZ, USA<br/>&nbsp;<br/>
 * **[What is Underwriting?](/blog/2022/01/31/what-is-underwriting/)**
 <a href="/blog/2022/01/31/what-is-underwriting/"><img src="/images/Underwriting_Nashville_2022.jpg" width="200" align="right"></a><br/>
 Nashville Multifamily Meetup Group<br/>
-Nashville, TN, USA (via Zoom)
+Nashville, TN, USA (via Zoom)<br/>
+<br/>&nbsp;
+* **[Empathy and Real Estate Investing](https://podcasts.apple.com/us/podcast/the-importance-of-empathy-in-real-estate/id1528551735?i=1000602954655)**
+<a href="https://podcasts.apple.com/us/podcast/the-importance-of-empathy-in-real-estate/id1528551735?i=1000602954655"><img src="/images/TheAcademyPresents.jpg" width="200" align="right"></a><br/>
+[TheAcademyPresents.com](https://TheAcademyPresents.com)<br/>
+(Podcast Interiew)<br/>
+Lorren Capital, LLC<br/>
+
+<br/>&nbsp;
 <br/>&nbsp;
 <br/>&nbsp;
 <br/>&nbsp;
