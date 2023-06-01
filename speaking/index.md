@@ -17,10 +17,16 @@ The Gentle Art of Crushing It!<br/>
 (Podcast Interiew)<br/>
 Impact Equity, LLC<br/>&nbsp;<br/> 
 
+* **[Arizona: Best Choice](https://lisahylton.com/how-investing-in-arizona-was-the-best-decision-for-real-estate-syndicator-raymond-t-hightower/)**
+<a href="https://lisahylton.com/how-investing-in-arizona-was-the-best-decision-for-real-estate-syndicator-raymond-t-hightower/"><img src="/images/Level_Up_REI_Podcast_Lisa_Hylton.jpg" width="200" align="right" alt="Arizona: Best Choice - Level Up REI Podcast w/Lisa Hylton" title="Arizona: Best Choice - Level Up REI Podcast w/Lisa Hylton"></a><br/>
+The Level Up REI Podcast<br/>
+Hosted by Lisa Hylton<br/>&nbsp;<br/>
+
 * **[Syndication Case Study](https://speakerdeck.com/rayhightower/syndication-case-study)**
 <a href="https://speakerdeck.com/rayhightower/syndication-case-study"><img src="/images/syndication_case_study_cover.png" width="200" align="right" alt="Syndication Case Study by RayHightower.com" title="Syndication Case Study by RayHightower.com"></a><br/>
 Build Your Bank Conference<br/>
 Fort Lauderdale, FL, USA<br/>&nbsp;<br/>
+
 * **How to Buy Big Deals Via Syndication**<br/>
 [Tucson Multifamily Meetup Group](https://www.meetup.com/tucson-multifamily-meetup/events/)<br/>
 Tucson, AZ, USA<br/>&nbsp;<br/>
@@ -34,11 +40,13 @@ Nashville, TN, USA (via Zoom)<br/>
 [TheAcademyPresents.com](https://TheAcademyPresents.com)<br/>
 (Podcast Interiew)<br/>
 Lorren Capital, LLC<br/>
+Real Estate Investing Rocks!<br/>
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
 
-<br/>&nbsp;
-<br/>&nbsp;
-<br/>&nbsp;
-<br/>&nbsp;
+
 
 ## Tech Presentations:
 
