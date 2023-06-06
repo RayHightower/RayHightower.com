@@ -9,11 +9,20 @@ published: true
 
 <a href="/blog/2023/06/07/10x-is-easier-than-2x/"><img src="/images/10x_is_easier_than_2x_sullivan_hardy.jpg" width="400" padding="10" alt="10x Is Easier Than 2x by Dan Sullivan and Dr Benjamin Hardy" title="10x Is Easier Than 2x by Dan Sullivan and Dr Benjamin Hardy" /></a>
 
-_10x Is Easier Than 2x_ is a completely counterintuitive book by Dan Sullivan and Dr Benjamin Hardy, the same duo who penned [Who Not How](/blog/2021/05/29/who-not-how/) and [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/).
+Our journey along the path of 10x performance begins with the rise of Michelangelo. At the age of  17, Michelangelo was an unknown artist obsessed with sculpting the human form as accurately as possible. To teach himself anatomy, he found and dissected dozens of human corpses. He literally risked his life to gain this knowledge; if the authorities had caught him "violating a corpse" he would have been put to death. Such was the law in Florence, Italy in 1493.
 
 <!--more--> 
 
-Content for 10x Is Easier Thank 2x goes here.
+Thankfully, Michelangelo was never caught.
+
+His detailed knowledge of human anatomy shows in his sculptures of Hercules and David, his painting of the Sistine Chapel, and in the works of students who sought him out for mentorship.
+
+How did Michelangelo become a legend? The authors of _10x is Easier Than 2x_ assert that he did so through the 10x process.
+
+### Counterintuitive and Evidence-Based
+
+_10x Is Easier Than 2x_ is a completely counterintuitive book by Dan Sullivan and Dr Benjamin Hardy, the same duo who penned [Who Not How](/blog/2021/05/29/who-not-how/) and [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/).
+
  
 ### The Gap and the Gain
 
