@@ -19,7 +19,7 @@ Thankfully, Michelangelo was never caught.
 
 ### Applied Anatomy: 10x
 
-Michelangeo's mastery of human anatomy shows in his art, including his sculptures of Hercules and David, his painting of the Sistine Chapel, and in the works of students who sought him out as a mentor.
+Michelangelo's mastery of human anatomy shows in his art, including his sculptures of Hercules and David, his painting of the Sistine Chapel, and in the works of students who sought him out as a mentor.
 
 How did Michelangelo become such a remarkable artist? The authors of _10x is Easier Than 2x_ assert that he did so through the 10x process, although he would not have called it that at the time.
 
@@ -34,13 +34,13 @@ To achieve 10x, we focus on the 20% (producing 80% of the results) and we delega
 
 ### 2x is Typical, 10x is Exponential
 
-To achieve a 2x improvement in performance, most of us can just keep doing what we're already doing. Over time, we'll get better simply by doing the same thing over and over again.
+To achieve a 2x improvement in performance, most of us can just keep doing what we're already doing. Over time, we'll get better simply by doing the same thing repeatedly. Consider [10,000 Hours of Practice](/blog/2012/09/03/10000-hours-of-practice/).
 
 But to achieve a 10x improvement, we must be mindful about the choices we make. To improve by a factor of ten, we need to focus on the 20% of our work at the intersection of excellence and passion. At the same time, we need to move away from the 80% of our tasks that can be better performed by someone else. 
 
 The best business partnerships are those where each partner is focused on their own 20% with little or no overlap with their partner's 20%, and each partner's 80% is handled by other members of the team (including other partners).
 
-We know Michelangelo today because he chose 10x, even though he probably didn’t call it that. The authors site several examples of Michaelangelo's 10x activities:
+We know Michelangelo today because he chose 10x, even though he probably didn’t call it that. The authors site several examples of Michelangelo's 10x activities:
 
 * Risking his life by learning anatomy from real human corpses, even though this activity was punishable by death.
 * Spending his entire savings on a block of marble because it happened to be suitable for his next project. The result: Hercules.
