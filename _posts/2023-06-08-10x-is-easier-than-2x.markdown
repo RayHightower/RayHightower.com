@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  10x Is Easier Than 2x
-date:   2023-06-07
+date:   2023-06-08
 comments: true
 tags: 
 published: true
@@ -9,13 +9,15 @@ published: true
 
 <a href="/blog/2023/06/07/10x-is-easier-than-2x/"><img src="/images/10x_is_easier_than_2x_sullivan_hardy.jpg" width="400" padding="10" alt="10x Is Easier Than 2x by Dan Sullivan and Dr Benjamin Hardy" title="10x Is Easier Than 2x by Dan Sullivan and Dr Benjamin Hardy" /></a>
 
-Our journey along the path of 10x performance begins with the rise of Michelangelo. At the age of  17, Michelangelo was an unknown artist obsessed with sculpting the human form as accurately as possible. To teach himself anatomy, he found and dissected dozens of human corpses. He literally risked his life to gain this knowledge; if the authorities had caught him "violating a corpse" he would have been put to death. Such was the law in Florence, Italy in 1493.
+Our 10x performance journey begins with the rise of Michelangelo. 
+
+At the age of  17, Michelangelo was an unknown artist obsessed with sculpting the human form as accurately as possible. To teach himself anatomy, he found and dissected dozens of human corpses. He literally risked his life to gain this knowledge; if the authorities had caught him "violating a corpse" he would have been put to death. Such was the law in Florence, Italy in 1493.
 
 <!--more--> 
 
 Thankfully, Michelangelo was never caught.
 
-His detailed knowledge of human anatomy shows in his sculptures of Hercules and David, his painting of the Sistine Chapel, and in the works of students who sought him out for mentorship.
+Michelangeo's mastery of human anatomy shows in his sculptures of Hercules and David, his painting of the Sistine Chapel, and in the works of students who sought him out as a mentor.
 
 How did Michelangelo become a legend? The authors of _10x is Easier Than 2x_ assert that he did so through the 10x process.
 
