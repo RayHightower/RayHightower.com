@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<a href="/blog/2023/06/07/10x-is-easier-than-2x/"><img src="/images/10x_is_easier_than_2x_sullivan_hardy.jpg" width="400" padding="10" alt="10x Is Easier Than 2x by Dan Sullivan and Dr Benjamin Hardy" title="10x Is Easier Than 2x by Dan Sullivan and Dr Benjamin Hardy" /></a>
+<a href="/blog/2023/06/08/10x-is-easier-than-2x/"><img src="/images/10x_is_easier_than_2x_sullivan_hardy.jpg" width="400" padding="10" alt="10x Is Easier Than 2x by Dan Sullivan and Dr Benjamin Hardy" title="10x Is Easier Than 2x by Dan Sullivan and Dr Benjamin Hardy" /></a>
 
 Our 10x performance journey begins with the rise of Michelangelo. 
 
@@ -17,9 +17,15 @@ At the age of  17, Michelangelo was an unknown artist obsessed with sculpting th
 
 Thankfully, Michelangelo was never caught.
 
-Michelangeo's mastery of human anatomy shows in his sculptures of Hercules and David, his painting of the Sistine Chapel, and in the works of students who sought him out as a mentor.
+### Applied Anatomy
 
-How did Michelangelo become a legend? The authors of _10x is Easier Than 2x_ assert that he did so through the 10x process.
+Michelangeo's mastery of human anatomy shows in his art, including his sculptures of Hercules and David, his painting of the Sistine Chapel, and in the works of students who sought him out as a mentor.
+
+How did Michelangelo become such a remarkable artist? The authors of _10x is Easier Than 2x_ assert that he did so through the 10x process, although he would not have called it that at the time.
+
+### What is 10x?
+
+
 
 ### Counterintuitive and Evidence-Based
 
