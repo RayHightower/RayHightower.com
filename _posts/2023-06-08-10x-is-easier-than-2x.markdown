@@ -34,9 +34,9 @@ To achieve 10x, we focus on the 20% (producing 80% of the results) and we delega
 
 ### 2x is Typical, 10x is Exponential
 
-To achieve a 2x improvement in performance, most of us can simply keep doing what we're already doing. Over time, we'll get better simply by doing the same thing over and over again.
+To achieve a 2x improvement in performance, most of us can just keep doing what we're already doing. Over time, we'll get better simply by doing the same thing over and over again.
 
-But to achieve a 10x improvement, we need to be mindful and deliberate about the choices we make. To improve by a factor of ten, we need to focus on the 20% of our work at the intersection of excellence and passion. At the same time, we need to move away from the 80% of our tasks that can be better performed by someone else. 
+But to achieve a 10x improvement, we must be mindful about the choices we make. To improve by a factor of ten, we need to focus on the 20% of our work at the intersection of excellence and passion. At the same time, we need to move away from the 80% of our tasks that can be better performed by someone else. 
 
 The best business partnerships are those where each partner is focused on their own 20% with little or no overlap with their partner's 20%, and each partner's 80% is handled by other members of the team (including other partners).
 
