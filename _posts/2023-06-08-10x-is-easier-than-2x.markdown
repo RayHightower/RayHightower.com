@@ -58,6 +58,17 @@ The book contains examples of business leaders who achieve amazing results simpl
 
 To make the process work, we need help from others who can implement the 80%. Sullivan and Hardy offer ideas on recruiting and retaining colleagues who can implement the 80% in two of their other books: [Who Not How](/blog/2021/05/29/who-not-how/) and [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/).
 
+
+### Why is 10x Easier Than 2x?
+
+It seems counterintuitive, but the authors make a good case regarding why 10x is easier than 2x.
+
+It's easier because each time we make a 10x leap, we are moving further into our area of giftedness. We spend more time doing the work we were born to do. The further we push into this niche, the less it feels like work. 
+
+Further, as we get better at collaborating with our 80% partners, we get to watch them blossom as well. An 80% task for us will fall into another person's 20%, and vice-versa.
+
+Collaboration in the spirit of 10x is a powerful path to travel.
+
 ### Conclusion
 
 I suspect that _10x is Easier Than 2x_ is a book that I will reference repeatedly over the years, in the same way that I re-read this duo's other books. Highly recommended.
