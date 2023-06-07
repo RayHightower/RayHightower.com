@@ -8,7 +8,7 @@ Ray Hightower delivers presentations on commercial real estate, technology, and 
 <br/>&nbsp;
 <br/>&nbsp;
 
-## Real Estate Presentations + Podcasts:
+## Commercial Real Estate Presentations + Podcasts
 
 * **[Tech Founder to Passive and Active Investor](https://www.youtube.com/watch?v=XSabvUOaA7k&t=36s)**
 <a href="https://www.youtube.com/watch?v=XSabvUOaA7k&t=36s"><img src="/images/Gentle_Art_of_Crushing_It_RandySmith_RayHightower.jpg" width="200" align="right"></a>
@@ -20,6 +20,7 @@ Impact Equity, LLC<br/>&nbsp;<br/>
 * **[Arizona: Best Choice](https://lisahylton.com/how-investing-in-arizona-was-the-best-decision-for-real-estate-syndicator-raymond-t-hightower/)**
 <a href="https://lisahylton.com/how-investing-in-arizona-was-the-best-decision-for-real-estate-syndicator-raymond-t-hightower/"><img src="/images/Level_Up_REI_Podcast_Lisa_Hylton.jpg" width="200" align="right" alt="Arizona: Best Choice - Level Up REI Podcast w/Lisa Hylton" title="Arizona: Best Choice - Level Up REI Podcast w/Lisa Hylton"></a><br/>
 The Level Up REI Podcast<br/>
+(Podcast Interiew)<br/>
 Hosted by Lisa Hylton<br/>&nbsp;<br/>
 
 * **[Syndication Case Study](https://speakerdeck.com/rayhightower/syndication-case-study)**
@@ -43,6 +44,12 @@ Nashville, TN, USA (via Zoom)<br/>
 Lorren Capital, LLC<br/>
 Real Estate Investing Rocks!<br/>
 <br/>&nbsp;
+* **[Are You Competitive Enough?](https://podcasts.apple.com/us/podcast/from-trial-to-triumph-18-are-you-competitive-enough/id1640592078?i=1000590262944)**
+<a href="https://podcasts.apple.com/us/podcast/from-trial-to-triumph-18-are-you-competitive-enough/id1640592078?i=1000590262944"><img src="/images/trial_to_triumph.png" width="200" align="right"></a><br/>
+[Trial to Triumph](https://podcasts.apple.com/us/podcast/from-trial-to-triumph-18-are-you-competitive-enough/id1640592078?i=1000590262944)<br/>
+(Podcast Interiew)<br/>
+Hosted by Caleb Johnson, Founder<br/>
+Red Sea Capital<br/>
 <br/>&nbsp;
 <br/>&nbsp;
 <br/>&nbsp;
