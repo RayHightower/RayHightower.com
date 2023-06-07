@@ -26,9 +26,11 @@ How did Michelangelo become such a remarkable artist? The authors of _10x is Eas
 ### Reviewing the 80/20 Rule
 If you're in business, you already know the 80/20 rule, also known as the Pareto Principal. Italian economist Wilfredo Pareto observed that 80% of the land in Italy was owned by 20% of the families. The rule shows up in other large statistical samples. On most sales teams, managers observe that 80% of the sales are closed by 20% of the salespeople. And so on.
 
-Many business leaders find that 80% of our results are due to 20% of our actions. By way of example: It's usually more important to spend a half hour speaking face-to-face with a large client instead of spending an entire day sorting through files. The client conversation will likely lead to more revenue, while file sorting will only lead to a well-organized filing system. Yes, the files must be maintained! But a smart business leader will focus on revenue-generating tasks (like speaking with clients) and hire a team to manage the files.
+Many business leaders find that 80% of our results are due to 20% of our actions. By way of example: It's usually more important to spend half an hour speaking face-to-face with a large client instead of spending an entire day sorting through files. The client conversation will likely lead to more revenue, while file sorting will only lead to a well-organized filing system. 
 
-To achieve 10x, we focus on the 20% and we delegate or partner with people who can do the rest.
+Yes, the files must be maintained! But a smart business leader will focus on revenue-generating tasks (like speaking with clients) and hire a team to manage the files.
+
+To achieve 10x, we focus on the 20% (producing 80% of the results) and we delegate or partner with people who can do the rest.
 
 ### 2x is Typical, 10x is Exponential
 
@@ -44,21 +46,20 @@ We know Michelangelo today because he chose 10x, even though he probably didn’
 * Spending his entire savings on a block of marble because it happened to be suitable for his next project. The result: Hercules.
 * Accepting commissions from wealthy patrons _before_  he was entirely ready to perform the work, knowing that he had the determination and discipline to prepare himself in time for completion.
 
-How To Implement 10x in Our Lives
+### How To Implement 10x in Our Lives
+
 Now that we understand the benefits of 10x, how do we implement it in our lives?
 
+Here's the secret: It's not enough to focus on the 20% one time. After we've chosen the 20% of tasks that need our attention, and once we've mastered that 20%, it's time to implement the rule all over again. Begin focusing on 20% of the 20% (you already know what to do with the "new" 80%).
 
+The book contains examples of business leaders who achieve amazing results simply by implementing the 10x formula in a disciplined and consistent fashion.
 
+### Getting Help With the 80%
 
-### Counterintuitive and Evidence-Based
+To make the process work, we need help from others who can implement the 80%. Sullivan and Hardy offer ideas on recruiting and retaining colleagues who can implement the 80% in two of their other books: [Who Not How](/blog/2021/05/29/who-not-how/) and [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/).
 
-_10x Is Easier Than 2x_ is a completely counterintuitive book by Dan Sullivan and Dr Benjamin Hardy, the same duo who penned [Who Not How](/blog/2021/05/29/who-not-how/) and [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/).
+### Conclusion
 
- 
-### The Gap and the Gain
+I suspect that _10x is Easier Than 2x_ is a book that I will reference repeatedly over the years, in the same way that I re-read this duo's other books. Highly recommended.
 
->When you’re measuring yourself against ideals, it’s like measuring yourself against the moving horizon and then being mad at yourself for not being at the horizon. News flash: You can’t ever reach the horizon.<br/>&nbsp;<br/>From the book 10x Is Easier Than 2x by Sullivan & Hardy
-
-Sullivan and Hardy also wrote [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/), and they reference the earlier book in `10x`.
-
-[10xeasierbook.com](https://10xeasierbook.com/)
+For more info, check out [10xeasierbook.com](https://10xeasierbook.com/).
