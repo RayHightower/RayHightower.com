@@ -71,6 +71,6 @@ Collaboration in the spirit of 10x is a powerful path to travel.
 
 ### Conclusion
 
-I suspect that _10x is Easier Than 2x_ is a book that I will reference repeatedly over the years, in the same way that I re-read this duo's other books. Highly recommended.
+_10x is Easier Than 2x_ is a book that I will reference repeatedly over the years, in the same way that I re-read other books by this pair of authors. Highly recommended.
 
 For more info, check out [10xeasierbook.com](https://10xeasierbook.com/).
