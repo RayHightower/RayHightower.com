@@ -7,7 +7,9 @@ tags:
 published: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O6B4nZSX0eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mEWvQhYJZ6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 It feels good to make improvements that contribute to the safety of our residents. In the above 90-second video, we talk about the improved electrical panels that we installed at one of our properties. 
 

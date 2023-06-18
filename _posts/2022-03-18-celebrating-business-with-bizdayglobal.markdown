@@ -23,7 +23,9 @@ From the [BizDayGlobal](https://bizdayglobal.com) 44-second intro:
 * Business is Ubuntu, the Zulu word meaning "I am because we are."
 * Business links all of us together.
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_WSg7jV8l_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ### Next Step

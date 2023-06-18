@@ -4,11 +4,59 @@ title: "Speaking"
 footer: true
 ---
 
-<img style="margin-left:20px" src="/images/ray_hightower_pine64_bw.jpg" align="right" alt="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" title="Ray Hightower with Pine64 at Flourish 2016, University of Illinois at Chicago" />
+Ray Hightower delivers presentations on commercial real estate, technology, and business growth. Ray is invited to speak at gatherings all over the world. To invite him to speak at your event, reach out via the  [contact form](/contact).
+<br/>&nbsp;
+<br/>&nbsp;
 
-Ray Hightower delivers presentations on technology and business growth. If you would like to invite him to speak at your event, you can reach him through the [contact form](/contact).
+## Commercial Real Estate Presentations + Podcasts
 
-### Presentation Videos:
+* **[Tech Founder to Passive and Active Investor](https://www.youtube.com/watch?v=XSabvUOaA7k&t=36s)**
+<a href="https://www.youtube.com/watch?v=XSabvUOaA7k&t=36s"><img src="/images/Gentle_Art_of_Crushing_It_RandySmith_RayHightower.jpg" width="200" align="right"></a>
+<br/>
+The Gentle Art of Crushing It!<br/>
+(Podcast Interiew)<br/>
+Impact Equity, LLC<br/>&nbsp;<br/> 
+
+* **[Arizona: Best Choice](https://lisahylton.com/how-investing-in-arizona-was-the-best-decision-for-real-estate-syndicator-raymond-t-hightower/)**
+<a href="https://lisahylton.com/how-investing-in-arizona-was-the-best-decision-for-real-estate-syndicator-raymond-t-hightower/"><img src="/images/Level_Up_REI_Podcast_Lisa_Hylton.jpg" width="200" align="right" alt="Arizona: Best Choice - Level Up REI Podcast w/Lisa Hylton" title="Arizona: Best Choice - Level Up REI Podcast w/Lisa Hylton"></a><br/>
+The Level Up REI Podcast<br/>
+(Podcast Interiew)<br/>
+Hosted by Lisa Hylton<br/>&nbsp;<br/>
+
+* **[Syndication Case Study](https://speakerdeck.com/rayhightower/syndication-case-study)**
+<a href="https://speakerdeck.com/rayhightower/syndication-case-study"><img src="/images/syndication_case_study_cover.png" width="200" align="right" alt="Syndication Case Study by RayHightower.com" title="Syndication Case Study by RayHightower.com"></a><br/>
+Build Your Bank Conference<br/>
+Fort Lauderdale, FL, USA<br/>&nbsp;<br/>
+
+* **How to Buy Big Deals Via Syndication**
+<a href="https://www.meetup.com/tucson-multifamily-meetup/events/"><img src="/images/meetup.png" width="200" align="right" alt="How to Buy Big Deals Via Syndication by RayHightower.com" title="How to Buy Big Deals Via Syndication by RayHightower.com"></a><br/>
+[Tucson Multifamily Meetup Group](https://www.meetup.com/tucson-multifamily-meetup/events/)<br/>
+Tucson, AZ, USA<br/>&nbsp;<br/>
+* **[What is Underwriting?](/blog/2022/01/31/what-is-underwriting/)**
+<a href="/blog/2022/01/31/what-is-underwriting/"><img src="/images/Underwriting_Nashville_2022.jpg" width="200" align="right"></a><br/>
+Nashville Multifamily Meetup Group<br/>
+Nashville, TN, USA (via Zoom)<br/>
+<br/>&nbsp;
+* **[Empathy and Real Estate Investing](https://podcasts.apple.com/us/podcast/the-importance-of-empathy-in-real-estate/id1528551735?i=1000602954655)**
+<a href="https://podcasts.apple.com/us/podcast/the-importance-of-empathy-in-real-estate/id1528551735?i=1000602954655"><img src="/images/TheAcademyPresents.jpg" width="200" align="right"></a><br/>
+[TheAcademyPresents.com](https://TheAcademyPresents.com)<br/>
+(Podcast Interiew)<br/>
+Lorren Capital, LLC<br/>
+Real Estate Investing Rocks!<br/>
+<br/>&nbsp;
+* **[Are You Competitive Enough?](https://podcasts.apple.com/us/podcast/from-trial-to-triumph-18-are-you-competitive-enough/id1640592078?i=1000590262944)**
+<a href="https://podcasts.apple.com/us/podcast/from-trial-to-triumph-18-are-you-competitive-enough/id1640592078?i=1000590262944"><img src="/images/trial_to_triumph.png" width="200" align="right"></a><br/>
+[Trial to Triumph](https://podcasts.apple.com/us/podcast/from-trial-to-triumph-18-are-you-competitive-enough/id1640592078?i=1000590262944)<br/>
+(Podcast Interiew)<br/>
+Hosted by Caleb Johnson, Founder<br/>
+Red Sea Capital<br/>
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
+
+
+
+## Tech Presentations:
 
 * [Parallella, The Most Energy Efficient Supercomputer on the Planet](/blog/2015/08/22/madison-ruby-and-parallella/)<br/>Madison+ Ruby - Madison, WI, USA<br/>&nbsp;<br/>
 * [Supercomputing for Everyone, Featuring Ruby](/blog/2015/10/29/rubyconf-colombia-conference-with-a-mission/)<br>(First 30 seconds in rookie-level Spanish)<br/>RubyConf Colombia - Medellín, Colombia<br/>&nbsp;<br/>

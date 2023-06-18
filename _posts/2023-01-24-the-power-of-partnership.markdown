@@ -6,8 +6,10 @@ comments: true
 tags: 
 published: true
 ---
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7sDVjWbhXd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div class="video-container"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_OqyU_DAZcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <br/>&nbsp;<br/>
 I moved [Bridgetown Partners](https://BridgetownPartners.com) to the State of Arizona in October of 2020. During the pandemic, before the vaccines. Four months later, we closed our first investment in the State: 93 units in Tucson. 

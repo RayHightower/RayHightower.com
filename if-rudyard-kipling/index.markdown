@@ -47,5 +47,5 @@ Yours is the Earth and everything that’s in it,<br />
 
 <img src="/images/hightower_family.jpg" width="600" align="center" alt="Hightower Family" title="Hightower Family">
 
-_Note: My parents required my brother and me to memorize and recite this poem when we were seven or eight years old. I hated it! But the parental units were right. The final line, referencing women and daughters, was added by my parents in the 1970s._
+_Note: My parents required my brother and me to memorize and recite this poem when we were seven or eight years old. I hated it! But the parental units were right. The final line, referencing women and daughters, was added by my parents in the 1970s. We were also required to memorize the poem <a href="/done/">It Couldn’t Be Done by Edgar Albert Guest</a>._
 
