@@ -4,7 +4,7 @@ title:  Be Your Future Self Now
 date:   2023-06-20
 comments: true
 tags: 
-published: false
+published: true
 ---
  
 <img src="/images/Be_Your_Future_Self_Now.jpg" align="right" width="200" padding="10" alt="Be Your Future Self Now by Dr Benjamin Hardy" title="Be Your Future Self Now by Dr Benjamin Hardy" /> 
