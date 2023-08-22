@@ -7,7 +7,7 @@ tags:
 published: true
 ---
  
-<img src="/images/Be_Your_Future_Self_Now.jpg" align="right" width="150" padding="10" alt="Be Your Future Self Now by Dr Benjamin Hardy" title="Be Your Future Self Now by Dr Benjamin Hardy" /> 
+<img src="/images/Be_Your_Future_Self_Now.jpg" align="right" width="250" padding="10" alt="Be Your Future Self Now by Dr Benjamin Hardy" title="Be Your Future Self Now by Dr Benjamin Hardy" /> 
 
 >Learn the rules like a pro so you can break them like an artist.<br/>&nbsp;<br/> -Picasso
 
