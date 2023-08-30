@@ -15,9 +15,15 @@ published: true
 
 In the 1990s, a group of psychologists set out to challenge the prevailing dogma of their colleagues. These psychologists wanted to know, through their own research, what makes a person happy, healthy, and succesful.
 
-They found that human behaviors are not driven by our past experiences, as previously thought. Research has shown that we are _pulled_forward by our future. 
+Their research showed them that human behaviors are not driven by our past experiences, as the psychology profession previously thought. Rather, we are _pulled_forward by our future. 
 
-Everything we do is driven by the future we envision for ourselves. When we can clearly see abundance in the future, we are likely to take actions that will lead lead us toward abundance. However, if we cannot envision a clear future, we are less likely to take productive action. Even worse, visions of a dismal future can cause one to engage in self-sabotage. We humans can choose our future to a great degree by choosing our vision of our future self.
+### Humans Envision the Future
+
+Everything we do is driven by the future we envision for ourselves. When we can clearly see abundance in the future, we will take actions that produce abundance.
+
+However, if our vision of the future is unclear, we are less likely to take productive actions. Even worse, visions of a dismal future can cause us to engage in self-sabotage. 
+
+We humans can choose a future of abundance by connecting with our selves.
 
 <!--more-->
 
