@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yFMp2WDx2Vk?si=gjhb1NiBz8u_gdKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1QVYlmz8SSI?si=rLmtXy9ebidxkuis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <br/>
 [Adrian Diaz](https://www.linkedin.com/in/adriandiazteam/) is a highly successful real estate investor, entrepreneur, and business leader. During negotiations or due diligence discussions, Adrian poses penetrating questions to get to the root of any problem that our team might be facing.
