@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Be Your Future Self Now
-date:   2023-08-22
+date:   2023-08-29
 comments: true
 tags: 
 published: true
