@@ -9,7 +9,7 @@ published: true
  
 <img src="/images/Be_Your_Future_Self_Now.jpg" align="right" width="250" padding="10" alt="Be Your Future Self Now by Dr Benjamin Hardy" title="Be Your Future Self Now by Dr Benjamin Hardy" /> 
 
->Learn the rules like a pro so you can break them like an artist.<br/>&nbsp;<br/> -Picasso
+>If you’re remarkable, it’s likely that some people won’t like you. That’s part of the definition of remarkable. Nobody gets unanimous praise—ever. Criticism comes to those who stand out.<br/>&nbsp;<br/>-Seth Godin
 
 ### 1990s and the Future Self
 
@@ -35,13 +35,13 @@ Everything we do is driven by the future we envision for ourselves. When we can 
 
 However, if our vision of the future is clouded, we are less likely to take productive actions. Even worse, visions of a dismal future can cause us to engage in self-sabotage. 
 
-Fortunately, humans are capable of choosing the future vision that we want for ourselves. We can choose a future of abundance by connecting with our high-achieving future self. Hardy's book tells how.
+Fortunately, humans can choose the future vision that we want for ourselves. We can choose a future of abundance by connecting with our high-achieving future self. Hardy's book tells how.
 
 ### Yeah, Right. Prove It.
 
-The best way to prove this theory is to try it yourself. This blog post will start you along that path. For a more complete prescription, read _Be Your Future Self Now_. 
+The best way to test this theory is to try it yourself. This blog post will start you along that path. For a more complete prescription, read _Be Your Future Self Now_. 
 
-The seven steps for becoming your future self are outlined below.
+From the book: Seven steps for becoming your future self are outlined below.
 
 ### 1. Clarify Your Contextual Purpose
 
@@ -49,7 +49,7 @@ Decide exactly what you want to accomplish. Set three core priorities and set a 
 
 ### 2. Eliminate Lesser Goals
 
-In other words, un-commit to lesser goals. This step reminds me of points made in one of Hardy's previous books, [10x is Easier than 2x](/blog/2023/06/08/10x-is-easier-than-2x/). We achieve more when we focus only on those tasks that move us closer to the core priorties outlined in step one. Everything else should be ignored or delegated to someone else, an idea from [Who Not How](/blog/2021/05/29/who-not-how/).
+In other words, un-commit to lesser goals. This step reminds me of points made in one of Hardy's previous books, [10x is Easier than 2x](/blog/2023/06/08/10x-is-easier-than-2x/). We achieve more when we focus only on those tasks that move us closer to the core priorities outlined in step one. Everything else should be ignored or delegated to someone else, an idea from [Who Not How](/blog/2021/05/29/who-not-how/).
 
 ### 3. Elevate from Needing to Wanting to Knowing
 
@@ -63,17 +63,23 @@ When enrolling others via the _Who Not How_ strategy, ask for exactly what you w
 
 Once something works, find software to automate as much as possible.
 
-Example: Many years ago, I [ran a user group](/blog/2014/05/30/how-to-grow-a-user-group/) for software developers in Chicago. My team and I assumed leadership of a 78-member group. When I handed the baton to the next leader, we had grown the group to over 4,000 members. Much of this growth was achieved through automation.
+Example: Many years ago, I [ran a user group](/blog/2014/05/30/how-to-grow-a-user-group/) for software developers in Chicago. My team and I assumed leadership of a 78-member group. By the time I handed the baton to the next leader, we had grown the group to over 4,000 members. Our growth was accelerated through automation. You can achieve this, too.
 
 ### 6. Schedule Time Around Your Future Self
 
-Best way to determine what you're commited to: Look at how you spend your time. Therefore, be sure to schedule your time around the three core priorities in step one.
+One way to determine what you're committed to: Look at how you spend your time. Therefore, be sure to schedule your time around the three core priorities in step one.
 
 
-### 7. Aggressivelly Complete Imperfect Work
+### 7. Aggressively Complete Imperfect Work
 
-Done is better than perfect. 
+Done is better than perfect. Sometimes we hesitate to start a task because we want the end product to be perfect, and we can't see a path to perfection. Don't fall into that trap, especially if you're producing a product for fellow humans.
+
+This trap reminds me of an observation offered by Amy Hoy, a user experience designer, product creator, and entrepreneur:
+
+>If you can help your customer kill a serious pain, they won't care if the supporting details aren't perfect.<br/>&nbsp;<br/>~Amy Hoy
+
+It's better to get a produce out there in front of customers in rapid fashion. That's the only way to gather useful feedback, the kind of feedback that can lead to massively successful products in the long run.
 
 ### Conclusion
 
-This post can serve as a quick reference for those who have already read _Be Your Future Self Now_ , or as encouragement for those who are planning to read  the book in the future. My recommendation: Read it. It's well worth the investment of time.
+This post can serve as a quick reference for those who have already read _Be Your Future Self Now_, or as encouragement for those who are planning to read  the book in the future. My recommendation: Read it. It's well worth the investment of time.
