@@ -15,11 +15,13 @@ published: true
 
 In the 1990s, a group of psychologists set out to challenge the prevailing dogma of their colleagues. These psychologists wanted to know, through their own research, what makes a person happy, healthy, and succesful.
 
-Their research revealed that human behaviors are not driven by our past experiences, as professional psychologists previously thought. Rather, we are _pulled_ forward by our future. 
+The prevailing dogma held that that human happiness was the product of past experiences. Certain levels of past trauma could not be overcome, they believed.  
+
+But the 1990s researchers discovered that human behaviors are not driven by our past experiences. Rather, we are _pulled_ forward by our vision of the future. 
 
 <!--more-->
 
-### One Book. Tons of Psych Research.
+### Psych Research + Actionalble Steps
 
 The book [Be Your Future Self Now](https://futureself.com/) tells how we might leverage our vision of our future self to achieve bigger goals within a faster timeframe.
 
