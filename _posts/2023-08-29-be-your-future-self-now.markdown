@@ -11,7 +11,27 @@ published: true
 
 >Learn the rules like a pro so you can break them like an artist.<br/>&nbsp;<br/> -Picasso
 
+### The Future Self Concept
+
+In the 1990s, a group of psychologists set out to challenge the prevailing dogma of their colleagues. They wanted to know, through their own research, what makes a person happy, healthy, and succesful.
+
+They found that our behaviors are not driven by our past experiences. Rather, we are _pulled_forward by our future. 
+
+Everything we do is driven by the options we see for ourselves in the future. People who see abundance clearly in their future are likely to take actions that will lead them to prosper. While people who cannot envision a clear future, or if they see scarcity, these people are less likely to take productive action.
+
+
+
+Prior to their work, most psychologists believed that human happiness was the product of past experiences. Certain levels of past trauma could not be overcome, they believed.  
+
+
+
+### Your Future Self, Defined
+
 What does it mean to become one's "future self"? According to Dr Benjamin Hardy, author of _Be Your Future Self Now_, your future self is you in the future. And the more a person feels connected to their future self, the more likely they are to make decisions in the best interest of that person.
+
+### Our Knowldge of Psychology Evolves
+
+
 
 
 <!--more-->
