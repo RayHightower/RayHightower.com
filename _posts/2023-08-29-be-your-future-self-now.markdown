@@ -78,7 +78,7 @@ This trap reminds me of an observation offered by Amy Hoy, a user experience des
 
 >If you can help your customer kill a serious pain, they won't care if the supporting details aren't perfect.<br/>&nbsp;<br/>~Amy Hoy
 
-It's better to get a produce out there in front of customers in rapid fashion. That's the only way to gather useful feedback, the kind of feedback that can lead to massively successful products in the long run.
+It's better to put a product in front of customers in rapid fashion. That's the only way to gather useful feedback, the kind of feedback that can lead to massively successful products in the long run.
 
 ### Conclusion
 
