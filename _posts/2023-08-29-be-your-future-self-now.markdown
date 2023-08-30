@@ -15,38 +15,50 @@ published: true
 
 In the 1990s, a group of psychologists set out to challenge the prevailing dogma of their colleagues. These psychologists wanted to know, through their own research, what makes a person happy, healthy, and succesful.
 
-Their research showed them that human behaviors are not driven by our past experiences, as professional psychologists previously thought. Rather, we are _pulled_ forward by our future. 
+Their research revealed that human behaviors are not driven by our past experiences, as professional psychologists previously thought. Rather, we are _pulled_ forward by our future. 
 
 <!--more-->
 
 ### One Book. Tons of Psych Research.
 
-[Be Your Future Self Now](https://futureself.com/) by Dr. Benjamin Hardy, ...
+The book [Be Your Future Self Now](https://futureself.com/) tells how we might leverage our vision of our future self to achieve bigger goals within a faster timeframe.
 
-Hardy is an organizational psychologist, author, and an expert on the application of the Future Self science. Regular readers of this blog will recognize his name. Hardy co-authored (with Dan Sullivan) three books that focus on business excellence: [Who Not How](/blog/2021/05/29/who-not-how/), [10x is Easier than 2x](/blog/2023/06/08/10x-is-easier-than-2x/), and [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/).
+The book's author, Dr. Benjamin Hardy, is an organizational psychologist and an expert on the application of Future Self science. Regular readers of this blog will recognize his name. Hardy co-authored (with Dan Sullivan) three books that focus on business excellence: [Who Not How](/blog/2021/05/29/who-not-how/), [10x is Easier than 2x](/blog/2023/06/08/10x-is-easier-than-2x/), and [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/).
 
+### Pulled Forward By Our future?
 
+What does it mean to be pulled forward by our future?
 
+Everything we do is driven by the future we envision for ourselves. When we can clearly see abundance in our future, we will take actions that produce abundance.
 
-### See It and Do It
+However, if our vision of the future is clouded, we are less likely to take productive actions. Even worse, visions of a dismal future can cause us to engage in self-sabotage. 
 
-Everything we do is driven by the future we envision for ourselves. When we can clearly see abundance in the future, we will take actions that produce abundance.
-
-However, if our vision of the future is unclear, we are less likely to take productive actions. Even worse, visions of a dismal future can cause us to engage in self-sabotage. 
-
-We humans can choose a future of abundance by connecting with our selves.
+Fortunately, humans are capable of choosing the future vision that we want for ourselves. We can choose a future of abundance by connecting with our high-achieving future self. Hardy's book tells how.
 
 ### Yeah, Right. Prove It.
 
-The best way to prove this theory of the future self 
+The best way to prove this theory is to try it yourself. This blog post will start you along that path. For a more complete prescription, read _Be Your Future Self Now_.
 
-To explore proofs of this theory of the future self, 
 
-Okay.
+
+
+
+
+
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+
+# Out-Takes
 
 Prior to the work of the 1990s psychologists, the profession held that that human happiness was the product of past experiences. Certain levels of past trauma could not be overcome, they believed.  
-
-
 
 ### Your Future Self, Defined
 
@@ -54,16 +66,12 @@ What does it mean to become one's "future self"? According to Dr Benjamin Hardy,
 
 ### Our Knowldge of Psychology Evolves
 
-
-
-
 The author of _Be Your Future Self Now_ holds a PhD in organizational psychology. In his work, he consistently connects the dots between theory and practice, between 
 
 The theory behind the _future self_ is rooted in the work of ...
 
 
 The `future self` is defined as
-
 
 To make the process work, we need help from others who can implement the 80%. Sullivan and Hardy offer ideas on recruiting and retaining colleagues who can implement the 80% in two of their other books: [Who Not How](/blog/2021/05/29/who-not-how/) and [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/).
 
