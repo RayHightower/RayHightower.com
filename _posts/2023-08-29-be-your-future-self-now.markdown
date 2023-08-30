@@ -21,7 +21,7 @@ But the 1990s researchers discovered that human behaviors are not driven by our 
 
 <!--more-->
 
-### Psych Research + Actionalble Steps
+### Psych Research + Actionable Steps
 
 The book [Be Your Future Self Now](https://futureself.com/) tells how we might leverage our vision of our future self to achieve bigger goals within a faster timeframe.
 
@@ -41,9 +41,29 @@ Fortunately, humans are capable of choosing the future vision that we want for o
 
 The best way to prove this theory is to try it yourself. This blog post will start you along that path. For a more complete prescription, read _Be Your Future Self Now_.
 
+### Clarify Your Contextual Purpose
+
+
+### Eliminate Lesser Goals
+
+
+### Elevate from Neeeding to Wanting to Knowing
 
 
 
+### Ask for Exactly What You Want
+
+
+### Automate and Systemize Your Future Self
+
+
+### Aggressivelly Complete Imperfect Work
+
+
+
+### Conclusion
+
+This post can serve as a quick reference for those who have already read _Be Your Future Self Now_ , or as encouragement for those who are planning to read  the book in the future. My recommendation: Read it. It's well worth the investment of time.
 
 
 
@@ -57,27 +77,5 @@ The best way to prove this theory is to try it yourself. This blog post will sta
 &nbsp;<br/>
 &nbsp;<br/>
 &nbsp;<br/>
-
-# Out-Takes
-
-Prior to the work of the 1990s psychologists, the profession held that that human happiness was the product of past experiences. Certain levels of past trauma could not be overcome, they believed.  
-
-### Your Future Self, Defined
-
-What does it mean to become one's "future self"? According to Dr Benjamin Hardy, author of _Be Your Future Self Now_, your future self is you in the future. And the more a person feels connected to their future self, the more likely they are to make decisions in the best interest of that person.
-
-### Our Knowldge of Psychology Evolves
-
-The author of _Be Your Future Self Now_ holds a PhD in organizational psychology. In his work, he consistently connects the dots between theory and practice, between 
-
-The theory behind the _future self_ is rooted in the work of ...
-
-
-The `future self` is defined as
-
-To make the process work, we need help from others who can implement the 80%. Sullivan and Hardy offer ideas on recruiting and retaining colleagues who can implement the 80% in two of their other books: [Who Not How](/blog/2021/05/29/who-not-how/) and [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/).
-
-Also, [10x Is Easier Than 2x](/blog/2023/06/08/10x-is-easier-than-2x/).
-
 
 
