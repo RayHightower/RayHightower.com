@@ -21,7 +21,11 @@ Their research showed them that human behaviors are not driven by our past exper
 
 ### One Book. Tons of Psych Research.
 
-[Be Your Future Self Now](https://futureself.com/) by Dr. Benjamin Hardy, 
+[Be Your Future Self Now](https://futureself.com/) by Dr. Benjamin Hardy, ...
+
+Hardy is an organizational psychologist, author, and an expert on the application of the Future Self science. Regular readers of this blog will recognize his name. Hardy co-authored (with Dan Sullivan) three books that focus on business excellence: [Who Not How](), [10x is Easier than 2x](), and [The Gap and the Gain]().
+
+
 
 
 ### See It and Do It
