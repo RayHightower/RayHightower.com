@@ -23,7 +23,7 @@ Their research showed them that human behaviors are not driven by our past exper
 
 [Be Your Future Self Now](https://futureself.com/) by Dr. Benjamin Hardy, ...
 
-Hardy is an organizational psychologist, author, and an expert on the application of the Future Self science. Regular readers of this blog will recognize his name. Hardy co-authored (with Dan Sullivan) three books that focus on business excellence: [Who Not How](), [10x is Easier than 2x](), and [The Gap and the Gain]().
+Hardy is an organizational psychologist, author, and an expert on the application of the Future Self science. Regular readers of this blog will recognize his name. Hardy co-authored (with Dan Sullivan) three books that focus on business excellence: [Who Not How](/blog/2021/05/29/who-not-how/), [10x is Easier than 2x](/blog/2023/06/08/10x-is-easier-than-2x/), and [The Gap and the Gain](/blog/2022/09/29/achieve-more-measure-the-gain/).
 
 
 
