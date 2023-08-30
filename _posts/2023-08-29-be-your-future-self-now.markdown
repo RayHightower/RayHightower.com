@@ -11,15 +11,19 @@ published: true
 
 >Learn the rules like a pro so you can break them like an artist.<br/>&nbsp;<br/> -Picasso
 
-### The Future Self Concept
+### 1990s and the Future Self
 
-In the 1990s, a group of psychologists set out to challenge the prevailing dogma of their colleagues. They wanted to know, through their own research, what makes a person happy, healthy, and succesful.
+In the 1990s, a group of psychologists set out to challenge the prevailing dogma of their colleagues. These psychologists wanted to know, through their own research, what makes a person happy, healthy, and succesful.
 
-They found that our behaviors are not driven by our past experiences. Rather, we are _pulled_forward by our future. 
+They found that human behaviors are not driven by our past experiences, as previously thought. Research has shown that we are _pulled_forward by our future. 
 
-Everything we do is driven by the options we see for ourselves in the future. People who see abundance clearly in their future are likely to take actions that will lead them to prosper. While people who cannot envision a clear future, or if they see scarcity, these people are less likely to take productive action.
+Everything we do is driven by the future we envision for ourselves. When we can clearly see abundance in the future, we are likely to take actions that will lead lead us toward abundance. However, if we cannot envision a clear future, we are less likely to take productive action. Even worse, visions of a dismal future can cause one to engage in self-sabotage. We humans can choose our future to a great degree by choosing our vision of our future self.
 
+<!--more-->
 
+### Yeah, Right. Prove It.
+
+Okay.
 
 Prior to their work, most psychologists believed that human happiness was the product of past experiences. Certain levels of past trauma could not be overcome, they believed.  
 
@@ -33,8 +37,6 @@ What does it mean to become one's "future self"? According to Dr Benjamin Hardy,
 
 
 
-
-<!--more-->
 
 The author of _Be Your Future Self Now_ holds a PhD in organizational psychology. In his work, he consistently connects the dots between theory and practice, between 
 
