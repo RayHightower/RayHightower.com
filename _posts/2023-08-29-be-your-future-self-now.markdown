@@ -15,9 +15,16 @@ published: true
 
 In the 1990s, a group of psychologists set out to challenge the prevailing dogma of their colleagues. These psychologists wanted to know, through their own research, what makes a person happy, healthy, and succesful.
 
-Their research showed them that human behaviors are not driven by our past experiences, as the psychology profession previously thought. Rather, we are _pulled_forward by our future. 
+Their research showed them that human behaviors are not driven by our past experiences, as professional psychologists previously thought. Rather, we are _pulled_ forward by our future. 
 
-### Humans Envision the Future
+<!--more-->
+
+### One Book. Tons of Psych Research.
+
+[Be Your Future Self Now](https://futureself.com/) by Dr. Benjamin Hardy, 
+
+
+### See It and Do It
 
 Everything we do is driven by the future we envision for ourselves. When we can clearly see abundance in the future, we will take actions that produce abundance.
 
@@ -25,13 +32,15 @@ However, if our vision of the future is unclear, we are less likely to take prod
 
 We humans can choose a future of abundance by connecting with our selves.
 
-<!--more-->
-
 ### Yeah, Right. Prove It.
+
+The best way to prove this theory of the future self 
+
+To explore proofs of this theory of the future self, 
 
 Okay.
 
-Prior to their work, most psychologists believed that human happiness was the product of past experiences. Certain levels of past trauma could not be overcome, they believed.  
+Prior to the work of the 1990s psychologists, the profession held that that human happiness was the product of past experiences. Certain levels of past trauma could not be overcome, they believed.  
 
 
 
