@@ -57,7 +57,7 @@ Accept the truth of your Future Self and know that it is already yours. Once you
 
 ### 4. Ask for Exactly What You Want
 
-When enrolling others via the _Who Not How_ strategy, ask for exactly what you want. Many people will tell you "no". However, over time, you will find others who are very inclined to give you what you want because it aligns with what they want. Through practice you will become more adept at identifying the ideal people to ask and you will learn to state your requests with greater clarity.
+When enrolling others via the _Who Not How_ strategy, ask for exactly what you want. Many people will tell you "no" at first. However, over time, more people will give you what you want because their desires will align with yours. Through practice you will become more adept at choosing the ideal people to ask and you will learn to state your requests with greater clarity.
 
 ### 5. Automate and Systemize Your Future Self
 
