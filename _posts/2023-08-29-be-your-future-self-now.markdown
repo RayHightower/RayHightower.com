@@ -53,7 +53,7 @@ In other words, un-commit to lesser goals. This step reminds me of points made i
 
 ### 3. Elevate from Needing to Wanting to Knowing
 
-Accept the truth of your Future Self and know that it's already yours. Once you set your goals and eliminate lesser goals, know that you are on the path to achieving your goals.
+Accept the truth of your Future Self and know that it is already yours. Once you eliminate lesser goals, know that you are on the path to achieving your vision.
 
 ### 4. Ask for Exactly What You Want
 
