@@ -72,7 +72,7 @@ One way to determine what you're committed to: Look at how you spend your time. 
 
 ### 7. Aggressively Complete Imperfect Work
 
-Done is better than perfect. Sometimes we hesitate to start a task because we want the end product to be perfect, and we can't see a path to perfection. Don't fall into that trap, especially if you're producing a product for fellow humans.
+You've heard this saying before: Done is better than perfect. It is better to finish a task than to procrastinate because we can't see a path to perfection. Don't fall into that trap, especially if you're producing a product for fellow humans.
 
 This trap reminds me of an observation offered by Amy Hoy, a user experience designer, product creator, and entrepreneur:
 
