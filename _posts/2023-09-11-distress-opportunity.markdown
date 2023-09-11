@@ -9,18 +9,30 @@ published: true
 
 >Be greedy when others are fearful.<br/>Be fearful when others are greedy.<br/><br/>~Warren Buffett
 
-Those of us who invest in large multifamily properties have studied the above quote for years. We are in the early stages of a distressed market. All of the signs are here.
+Buffett has lived by the above words for decades. He learned this approach from his mentor, Benjamin Graham.
 
-James Eng 
+### Distress Leads to Opportunity
 
-[James Eng](https://www.linkedin.com/in/jameseng/) is a mortgage broker and National Director at [Old Capital](https://oldcapitallending.com/), based in Texas. Eng and his team...
+And now, those of us who invest in large multifamily properties will soon have a chance to apply the Buffett quote. The multifamily real estate market is showing early signs of distress. Fear and opportunity are in the air.
+
+Farmers who plow and plant their fields in preparation for rain can look to the approaching storm clouds in celebration, not fear.
 
 <!--more-->
+
+### Signs of Distress?
+
+If you want further insights on today's distressed market, check out this 24-minute video by [James Eng](https://www.linkedin.com/in/jameseng/). Eng leads a team of mortgage brokers at [Old Capital](https://oldcapitallending.com/), based in Texas. His presentation outlines the signs and the opportunities.
 
 <div class="video-container"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/upG26mmX0DM?si=foiX2NlEbzsmLDT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+### Next Steps
 
+Every commercial/multifamily real estate deal hinges on deals and dollars. We need properties to run and investors with capital.
 
-Content for Distress + Opportunity goes here.
+If you're a syndicator, now's a great time to strengthen relationships with brokers, sellers, lenders... every person that you need on your team to get a deal done.
+
+If you're a passive investor, take a good look at the syndicators that you're dealing with. Which ones are in the best position to handle the upcoming storm? 
+
+What an exciting time to be in this business!
