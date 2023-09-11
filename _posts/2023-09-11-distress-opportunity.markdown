@@ -35,4 +35,4 @@ If you're a syndicator, now's a great time to strengthen relationships with brok
 
 If you're a passive investor, take a good look at the syndicators that you're dealing with. Which ones are in the best position to handle the upcoming storm? 
 
-What an exciting time to be in this business!
+Opportunity is here. Those who execute wisely will thrive.
