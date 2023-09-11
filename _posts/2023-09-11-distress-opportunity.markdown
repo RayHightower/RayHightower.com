@@ -29,7 +29,7 @@ If you want further insights on today's distressed market, check out this 24-min
 
 ### Next Steps
 
-Every commercial/multifamily real estate deal hinges on deals and dollars. We need properties to run and investors with capital.
+The commercial/multifamily real estate business thrives on deals and dollars. We need properties to run, investors with capital, and lenders to round out the capital stack.
 
 If you're a syndicator, now's a great time to strengthen relationships with brokers, sellers, lenders... every person that you need on your team to get a deal done.
 
