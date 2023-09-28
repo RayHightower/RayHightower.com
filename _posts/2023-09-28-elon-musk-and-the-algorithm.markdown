@@ -57,7 +57,7 @@ The process continues to improve as the team removes unnecessary steps.
 
 _This should come after step two. A common mistake is to simplify and optimize a part or a process that should not exist._
 
-A common mistake on engineering teams: Optimizing a process that no longer needs to exist.
+A common mistake on teams: Optimizing a process that no longer needs to exist.
 
 ### Point 4: Accelerate cycle time. 
 
@@ -71,7 +71,7 @@ _That comes last. The big mistake in Nevada and at Fremont was that I began by t
 
 Automation can be viewed as acceleration on steroids. We should only spend time and money automating a process if it helps us to achieve a worthy goal.
 
-### Corrollaries to the Algorithm
+### Corollaries to the Algorithm
 
 * _All technical managers must have hands-on experience. For example, managers of software teams must spend at least 20% of their time coding. Solar roof managers must spend time on the roofs doing installations. Otherwise, they are like a cavalry leader who can’t ride a horse or a general who can’t use a sword._
 
