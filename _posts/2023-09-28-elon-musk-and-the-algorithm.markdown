@@ -21,6 +21,17 @@ Most of this blog post contains direct quotes from Walter Isaacson”s Elon Musk
 
 ### Why Does the Algorithm Matter?
 
+Business leaders know communication is a fundamental component of leadership. When the people we lead know exactly where we're going, all ships sail in the same direction and greatness is achieved. The Algorithm gives Musk and his team a rapid, effective way to communicate with everyone on the team.
+
+Musk created the Algorithm while going through "production hell" during the early days of scaling the manufacturing lines for the Tesla Model 3. The CEO literally slept on the factory floor during that time, rallying the troops and working the production lines with the builders of the car. 
+
+Here are two reasons why the Algorithm matters:
+
+1. It was born as a direct solution for real problems. It is not theoretical. It is rooted in reality.
+
+2. It gives every member of the team a clear and consistent way to solve problems. Excellent companies deliver clear and consistent results.
+
+3. It gives everyone a consistent way to communicate about problems. Many of our toughtest business challenges can only be solved through teamwork. Teams work best when they can speak with each other in a common language or jargon.
 
 ### The Origin of the Algorithm
 
