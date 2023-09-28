@@ -13,7 +13,7 @@ published: true
 
 Walter Isaacson has done a thorough job of documenting the business adventures of Elon Musk in his 2023 biography.
 
-Throughout the book, Isaacson refers to a _The Algorithm_, a five-point checklist that Musk employs whenever he faces a tough business or engineering challenge. This post offers a brief discussion of _The Algorithm_. 
+Throughout the book, Isaacson refers to _The Algorithm_, a five-point checklist that Musk employs whenever he faces a tough business or engineering challenge. This post offers a brief discussion of _The Algorithm_. 
 
 For a deeper examination, I encourage you to read Isaacson's book.
 
