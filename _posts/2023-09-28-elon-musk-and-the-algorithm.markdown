@@ -33,10 +33,7 @@ Here are two reasons why the Algorithm matters:
 
 3. It gives everyone a consistent way to communicate about problems. Many of our toughtest business challenges can only be solved through teamwork. Teams work best when they can speak with each other in a common language or jargon.
 
-### The Origin of the Algorithm
-
-The Algorithm was born in the school of entrepreneurial hard knocks.
-
+The following sections quote Isaacson's description of the Algorithm (in _italics_) followed by commentary from the author of this blog.
 
 ### 1. Question every requirement. 
 
