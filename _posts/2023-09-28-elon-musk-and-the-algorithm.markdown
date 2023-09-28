@@ -25,7 +25,7 @@ Business leaders know communication is a fundamental component of leadership. Wh
 
 Musk created the Algorithm while going through "production hell" during the early days of scaling the manufacturing lines for the Tesla Model 3. The CEO literally slept on the factory floor during that time, rallying the troops and working the production lines with the builders of the car. 
 
-Here are two reasons why the Algorithm matters:
+Here are some reasons why the Algorithm matters:
 
 1. It was born as a direct solution for real problems. It is not theoretical. It is rooted in reality.
 
@@ -42,6 +42,41 @@ _Each [requirement] should come with the name of the person who made it. You sho
 In one example from Isaacson's book, Musk is described as...
 
 
-### 2. Yada yada...
+### 2. Delete any part or process you can. 
+
+_You may have to add them back later. In fact, if you do not end up adding back at least 10% of them, then you didn’t delete enough._ 
+
+
+
+### 3. Simplify and optimize. 
+
+_This should come after step two. A common mistake is to simplify and optimize a part or a process that should not exist._
+
+
+
+### 4. Accelerate cycle time. 
+
+_Every process can be speeded up. But only do this after you have followed the first three steps. In the Tesla factory, I mistakenly spent a lot of time accelerating processes that I later realized should have been deleted._
+
+
+### 5. Automate. 
+
+_That comes last. The big mistake in Nevada and at Fremont was that I began by trying to automate every step. We should have waited until all the requirements had been questioned, parts and processes deleted, and the bugs were shaken out._
+
+
+### Correllaries to the Algorithm
+
+* _All technical managers must have hands-on experience. For example, managers of software teams must spend at least 20% of their time coding. Solar roof managers must spend time on the roofs doing installations. Otherwise, they are like a cavalry leader who can’t ride a horse or a general who can’t use a sword._
+
+
+
+* _Comradery is dangerous. It makes it hard for people to challenge each other’s work. There is a tendency to not want to throw a colleague under the bus. That needs to be avoided._
+
+
+* _It’s OK to be wrong. Just don’t be confident and wrong._ 
+
+
+* _Never ask your troops to do something you’re not willing to do._
+
 
 
