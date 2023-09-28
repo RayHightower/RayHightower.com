@@ -21,9 +21,9 @@ Most of this blog post contains direct quotes from Walter Isaacson”s Elon Musk
 
 ### Why Does the Algorithm Matter?
 
-Business leaders know communication is a fundamental component of leadership. When the people we lead know exactly where we're going, all ships sail in the same direction and greatness is achieved. The Algorithm gives Musk and his team a rapid, effective way to communicate with everyone on the team.
+Business leaders know communication is a fundamental component of leadership. When the people we lead know exactly where we're going, all ships sail in the same direction and greatness is achieved. The Algorithm gives Musk and his team a shared vocabulary for communication and an effective toobox for solving problems.
 
-Musk created the Algorithm while going through "production hell" during the early days of scaling the manufacturing lines for the Tesla Model 3. The CEO literally slept on the factory floor during that time, rallying the troops and working the production lines with the builders of the car. 
+Musk created the Algorithm during a tough period in Tesla's history. The company was scaling the manufacturing lines for the Tesla Model 3. The CEO literally slept on the factory floor during that time, rallying the troops and working the production lines with the hands-on builders of the car. 
 
 Here are some reasons why the Algorithm matters:
 
@@ -33,7 +33,7 @@ Here are some reasons why the Algorithm matters:
 
 * It gives everyone a consistent way to communicate about problems. Many of our toughtest business challenges can only be solved through teamwork. Teams work best when members can speak with each other in a shared language.
 
-The following sections quote Isaacson's description of the Algorithm (in _italics_) followed by commentary from the author of this blog.
+The five points of the Algorithm appear below, quoted directly from Isaacson's book.
 
 ### Point 1: Question every requirement. 
 
@@ -46,35 +46,25 @@ In one example from Isaacson's book, Musk is described as...
 
 _You may have to add them back later. In fact, if you do not end up adding back at least 10% of them, then you didn’t delete enough._ 
 
-
-
 ### Point 3: Simplify and optimize. 
 
 _This should come after step two. A common mistake is to simplify and optimize a part or a process that should not exist._
-
-
 
 ### Point 4: Accelerate cycle time. 
 
 _Every process can be speeded up. But only do this after you have followed the first three steps. In the Tesla factory, I mistakenly spent a lot of time accelerating processes that I later realized should have been deleted._
 
-
 ### Point 5: Automate. 
 
 _That comes last. The big mistake in Nevada and at Fremont was that I began by trying to automate every step. We should have waited until all the requirements had been questioned, parts and processes deleted, and the bugs were shaken out._
-
 
 ### Correllaries to the Algorithm
 
 * _All technical managers must have hands-on experience. For example, managers of software teams must spend at least 20% of their time coding. Solar roof managers must spend time on the roofs doing installations. Otherwise, they are like a cavalry leader who can’t ride a horse or a general who can’t use a sword._
 
-
-
 * _Comradery is dangerous. It makes it hard for people to challenge each other’s work. There is a tendency to not want to throw a colleague under the bus. That needs to be avoided._
 
-
 * _It’s OK to be wrong. Just don’t be confident and wrong._ 
-
 
 * _Never ask your troops to do something you’re not willing to do._
 
