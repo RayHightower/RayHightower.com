@@ -13,11 +13,19 @@ published: true
 
 Walter Isaacson has done a thorough job of documenting the business adventures of Elon Musk in his 2023 biography.
 
-Throughout the book, Isaacson refers to a _The Algorithm_, a troubleshooting framework that Musk uses whenever he faces a tough business or engineering challenge. This post offers a brief discussion of _The Algorithm_. For a deeper review, I encourage you to read Isaacson's book.
+Throughout the book, Isaacson refers to a _The Algorithm_, a five point checklist that Musk employs whenever he faces a tough business or engineering challenge. This post offers a brief discussion of _The Algorithm_. For a deeper review, I encourage you to read Isaacson's book.
 
 <!--more-->
 
 Most of this blog post contains direct quotes from Walter Isaacson”s Elon Musk biography. 
+
+### Why Does the Algorithm Matter?
+
+
+### The Origin of the Algorithm
+
+The Algorithm was born in the school of entrepreneurial hard knocks.
+
 
 ### 1. Question every requirement. 
 
