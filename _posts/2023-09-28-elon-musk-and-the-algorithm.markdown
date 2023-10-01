@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<a href="/blog/2023/09/28/elon-musk-and-the-algorithm/"><img src="/images/elon_musk_algorithm.png" width="500" alt="Elon Musk and the Algorithm" title="Elon Musk and the Algorithm" /></a>
+<a href="/blog/2023/09/28/elon-musk-and-the-algorithm/"><img src="/images/elon_musk_algorithm.png" width="600" alt="Elon Musk and the Algorithm" title="Elon Musk and the Algorithm" /></a>
 
 >The only rules are the ones dictated by the laws of physics. Everything else is a recommendation.<br/>&nbsp;<br/>-Elon Musk
 
