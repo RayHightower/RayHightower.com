@@ -24,7 +24,7 @@ Michelangelo's mastery of human anatomy shows in his art, including his sculptur
 How did Michelangelo become such a remarkable artist? The authors of _10x is Easier Than 2x_ assert that he did so through the 10x process, although he would not have called it that at the time.
 
 ### Reviewing the 80/20 Rule
-If you're in business, you already know the 80/20 rule, also known as the Pareto Principal. Italian economist Wilfredo Pareto observed that 80% of the land in Italy was owned by 20% of the families. The rule shows up in other large statistical samples. On most sales teams, managers observe that 80% of the sales are closed by 20% of the salespeople. And so on.
+If you're in business, you already know the 80/20 rule, also known as the Pareto Principle. Italian economist Wilfredo Pareto observed that 80% of the land in Italy was owned by 20% of the families. The rule shows up in other large statistical samples. On most sales teams, managers observe that 80% of the sales are closed by 20% of the salespeople. And so on.
 
 Many business leaders find that 80% of our results are due to 20% of our actions. By way of example: It's usually more important to spend half an hour speaking face-to-face with a large client instead of spending an entire day sorting through files. The client conversation will likely lead to more revenue, while file sorting will only lead to a well-organized filing system. 
 
