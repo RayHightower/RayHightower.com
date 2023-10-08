@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Everybody Wins When We Improve Our Properties
+title:  Property Improvements - Everybody Wins
 date:   2023-10-07
 comments: true
 tags: 
