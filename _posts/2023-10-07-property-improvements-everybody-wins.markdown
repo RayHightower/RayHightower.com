@@ -23,6 +23,8 @@ Wonderful things happen when we structure a deal in the right way!
 
 We shot the above video on a Sunday morning. I was walking through one of our properties, one of our first deals in the State of Arizona.
 
+### Improvements Made
+
 This property makes me especially proud. As we go through the asset management process, I continue to learn from my partners on this deal. Here are some of the improvements we've made:
 
 * We replaced all the electrical panels. This makes the apartments safer for our residents, while reducing our insurance expense.
