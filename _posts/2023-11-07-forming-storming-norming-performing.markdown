@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<img src="/images/spiral-stairs_forming-storming-norming-performing.jpg" align="right" width="300" padding="10" alt="Forming, Storming, Norming, Performing" title="Forming, Storming, Norming, Performing" /> 
+<img src="/images/spiral-stairs_forming-storming-norming-performing.jpg" align="center" width="600" padding="10" alt="Forming, Storming, Norming, Performing" title="Forming, Storming, Norming, Performing" /> 
 
 A few decades ago, I was introduced to a framework that describes the growth and hiccups of teams. Every team goes through these four stages:
 
