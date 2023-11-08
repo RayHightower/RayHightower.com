@@ -11,26 +11,19 @@ published: true
 
 A few decades ago, I was introduced to a framework that describes the growth and hiccups of teams. Every team goes through these four stages:
 
-1. **Forming**. Right after the team launches, everyone is excited and happy to work together.
+1. **Forming**. Right after the team launches, everyone is excited and happy to work together. We're all buddies, right?
 
 2. **Storming**. Team members disagree for the first time. A few start to wonder "Why did I ever join this team?" Some members might quit the team at this stage. Many teams die at the first sign of _Storming_.
 
 3. **Norming**. Team members have worked through the _Storming_ disagreement. They decide to stick together and tough it out.
 
-4. **Performing**. The team experiences its first collective success. They're happy that pushed through the tough times as a unit. And the team engine begins to hum.
+4. **Performing**. The team experiences its first collective success. They're happy that they pushed through the tough times as a unit. And the team engine begins to hum.
 
 ### Why?
 
 Why will a team go these stages? Because teams consist of humans. Let's explore this model further.
  
 <!--more-->
-
-### Repeating Cycle
-
-The cycle repeats when the team faces a new challenge. If the team has made it through all four stages at least once, they're better equipped to deal with forming, storming, norming, and performing in future cycles. 
-
-The cycles are like a spiral staircase. The stages repeat, with each stage at a higher level than last time.
-
 
 ### Forming
 
@@ -59,6 +52,13 @@ To a chieve _Norming_, the team needs a noble cause to rally around, or a formid
 _Performing_ is the dream stage for most teams. A team that consistently delivers great results is performing. A team that receives referrals from tneir best clients is performing. 
 
 You will recognize the _performing_ stage because team members have honestly assessed individual strengths and weaknesses and they know how each member fits within the greater & more powerful whole.
+
+### Repeating Cycle
+
+The cycle repeats when the team faces a new challenge. If the team has made it through all four stages at least once, they're better equipped to deal with _Forming, Storming, Norming,_ and _Performing_ in future cycles. 
+
+The cycles are like a spiral staircase. The stages repeat, with each stage at a higher level than last time.
+
 
 ### Conclusion
 
