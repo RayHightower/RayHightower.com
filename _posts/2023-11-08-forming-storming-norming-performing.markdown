@@ -69,4 +69,4 @@ So, what is the point of this article?
 * The stages cannot be avoided, they must be gone through.
 * The reward for making it through each stage is large. The reward for making it through all four stages is enormous.
 
-Much success to you on your teams!
+Much success to you and your teams!
