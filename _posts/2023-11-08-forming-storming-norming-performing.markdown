@@ -21,7 +21,7 @@ A few decades ago, I was introduced to a framework that describes the growth and
 
 ### Why?
 
-Why will a team go these stages? Because teams consist of humans. Let's explore this model further.
+Why will a team go through these stages? Because teams consist of humans. Let's explore this model further.
  
 <!--more-->
 
