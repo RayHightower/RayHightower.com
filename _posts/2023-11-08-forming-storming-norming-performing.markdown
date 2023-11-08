@@ -13,7 +13,7 @@ A few decades ago, I was introduced to a framework that describes the growth and
 
 1. **Forming**. Right after the team launches, everyone is excited and happy to work together. We're all buddies, right?
 
-2. **Storming**. Team members disagree for the first time. A few start to wonder "Why did I ever join this team?" Some members might quit the team at this stage. Many teams die at the first sign of _Storming_.
+2. **Storming**. Team members disagree for the first time. A few folks wonder "Why did I ever join this team?" Some members might quit the team at this stage. Many teams die at the first sign of _Storming_.
 
 3. **Norming**. Team members have worked through the _Storming_ disagreement. They decide to stick together and tough it out.
 
