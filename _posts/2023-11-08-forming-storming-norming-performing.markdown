@@ -11,13 +11,13 @@ published: true
 
 A few decades ago, I was introduced to a framework that describes the growth and hiccups of teams. Every team goes through these four stages:
 
-1. **Forming**. Right after the team launches, everyone is excited and happy to work together. We're all buddies, right?
+1. **Forming**. Earliest days for the new team.
 
-2. **Storming**. Team members disagree for the first time. A few folks wonder "Why did I ever join this team?" Some members might quit the team at this stage. Many teams die at the first sign of _Storming_.
+2. **Storming**. First disagreement within the team.
 
-3. **Norming**. Team members have worked through the _Storming_ disagreement. They decide to stick together and tough it out.
+3. **Norming**. Regrouping after the disagreement.
 
-4. **Performing**. The team experiences its first collective success. They're happy that they pushed through the tough times as a unit. And the team engine begins to hum.
+4. **Performing**. The team enjoys its first collective success.
 
 ### Why?
 
