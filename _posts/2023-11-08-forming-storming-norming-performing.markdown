@@ -29,27 +29,27 @@ Why will a team go these stages? Because teams consist of humans. Let's explore 
 
 Right after the team launches, everyone is excited and happy to work together.
 
-You have experienced this euphoria before. You've joined a new team. The people are new, the computers are new, everything is new. We humans are mezmerized by things that are new.
+You have experienced this euphoria before. You've joined a new team. The people are new, the computers are new, everything is new. We humans are mesmerized by things that are new.
 
 But newness wears off. And the frankness of reality remains. 
 
 ### Storming
 
-As the euphoria of _Forming_ wears off, team members go through their first disagreement. Some members ask themselves "Why did I ever join these people?" and they quit the team. Others stick with the team, but their performance suffers becasue they're disgruntled. 
+As the euphoria of _Forming_ wears off, team members go through their first disagreement. Some members ask themselves "Why did I ever join these people?" and they quit the team. Others stick with the team, but their performance suffers because they're disgruntled. 
 
 Many teams die during the _Storming_ stage. To make it to the next stage, the team must have a strong reason for being together in the first place. 
 
 ### Norming
 
-The team reaches _Norming_ after they workth tough the disagreement of the previous stage. They decide that they want to work together afterall. 
+The team reaches _Norming_ after they work through the disagreement of the previous stage. They decide that they want to work together after all. 
 
 How does a team make it to _Norming_?
 
-To a chieve _Norming_, the team needs a noble cause to rally around, or a formidable enemy to target. NASA had the moon mission as a noble cause during the 1960s. Noble causes can be better for team culture because of the good vibes that come along with the cause.
+To achieve _Norming_, the team needs a noble cause to rally around, or a formidable enemy to target. NASA had the moon mission as a noble cause during the 1960s. Noble causes can be better for team culture because of the good vibes that come along with the cause.
 
 ### Performing
 
-_Performing_ is the dream stage for most teams. A team that consistently delivers great results is performing. A team that receives referrals from tneir best clients is performing. 
+_Performing_ is the dream stage for most teams. A team that consistently delivers great results is performing. A team that receives referrals from their best clients is performing. 
 
 You will recognize the _performing_ stage because team members have honestly assessed individual strengths and weaknesses and they know how each member fits within the greater & more powerful whole.
 
