@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<img src="/images/Information_Management_Network_IMN.png" align="right" width="250" padding="10" alt="IMN Phoenix" title="IMN Phoenix" /> 
+<img src="/images/IMN_Information_Management_Network.png" align="right" width="250" padding="10" alt="IMN Phoenix" title="IMN Phoenix" /> 
 
 One reason to attend conferences: To discover trends while we still have time to be on the cutting edge.
 
