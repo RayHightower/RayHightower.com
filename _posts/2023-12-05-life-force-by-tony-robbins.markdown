@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Life Force by Tony Robbins
-date:   2023-11-25
+date:   2023-12-05
 comments: true
 tags: 
 published: false
