@@ -7,7 +7,7 @@ title: About
 
 Raymond T. Hightower is a commercial real estate investor and tech company founder operating in the State of Arizona, USA. 
 
-Hightower started and ran his technology company for over two decades before selling the company and launching [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties.
+Hightower started and ran his technology company for over two decades before selling the company and launching [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a [ROIClear](https://ROIClear.com)).  Bridgetown/ROIClear buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties. The company also offers the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the media outlet for business leaders.
 
 ### ROIClear, Scouting, & Travel
 
