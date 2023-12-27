@@ -25,7 +25,7 @@ After the pivot to software development, WisdomGroup completed web and mobile pr
 
 ### ROIClear + Syndication
 
-Hightower’s real estate company, [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a [ROIClear](https://ROIClear)), is a buyer and syndicator of multi-family properties.
+Hightower’s real estate company, [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a [ROIClear](https://ROIClear.com)), is a buyer and syndicator of multi-family properties.
 
 
 ### Other Stuff
