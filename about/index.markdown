@@ -9,7 +9,7 @@ Raymond T. Hightower is a commercial real estate investor and tech company found
 
 Hightower started and ran his technology company for over two decades before selling the company and launching [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a [ROIClear](https://ROIClear.com)).  Bridgetown/ROIClear buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties. The company also produces the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the video podcast for business leaders. 
 
-### Scouting, & Travel
+### Scouting & Travel
 
 Hightower is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) where he teaches future leaders about budgeting and time management. Hightower is a scuba diver, marathon runner, martial artist, skier, and world traveler. He has visited every state in the USA and most continents on planet Earth. He receives [speaking invitations](/speaking) from around the world, and he blogs on technology and business growth at [RayHightower.com](/).
 
@@ -23,7 +23,7 @@ Hightower launched WisdomGroup as a network consultancy. He earned the Microsoft
 
 After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries including healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the team, culminating in the sale of the company after twenty-one years of operation.
 
-### Bridgetown Partners
+### ROIClear + Syndication
 
 Hightower’s real estate company, [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a ROIClear), is a buyer and syndicator of multi-family properties.
 
