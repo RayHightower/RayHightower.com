@@ -7,11 +7,11 @@ title: About
 
 Raymond T. Hightower is a commercial real estate investor and tech company founder operating in the State of Arizona, USA. 
 
-Hightower started and ran his technology company for over two decades before selling the company and launching [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a [ROIClear](https://ROIClear.com)).  Bridgetown/ROIClear buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties.
+Hightower started and ran his technology company for over two decades before selling the company and launching [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a [ROIClear](https://ROIClear.com)).  Bridgetown/ROIClear buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties. The company also produces the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the video podcast for business leaders. 
 
-### ROIClear, Scouting, & Travel
+### Scouting, & Travel
 
-Hightower is the host of the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the video podcast for business leaders. He is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) where he teaches future leaders about budgeting and time management. Hightower is a scuba diver, marathon runner, martial artist, skier, and world traveler. He has visited every state in the USA and most continents on planet Earth. He receives [speaking invitations](/speaking) from around the world, and he blogs on technology and business growth at [RayHightower.com](/).
+Highotwer is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) where he teaches future leaders about budgeting and time management. Hightower is a scuba diver, marathon runner, martial artist, skier, and world traveler. He has visited every state in the USA and most continents on planet Earth. He receives [speaking invitations](/speaking) from around the world, and he blogs on technology and business growth at [RayHightower.com](/).
 
 ### Early Career
 
@@ -25,7 +25,7 @@ After the pivot to software development, WisdomGroup completed web and mobile pr
 
 ### Bridgetown Partners
 
-Hightower’s real estate company, [Bridgetown Partners](https://BridgetownPartners.com), is a buyer and syndicator of multi-family properties.
+Hightower’s real estate company, [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a ROIClear), is a buyer and syndicator of multi-family properties.
 
 
 ### Other Stuff
