@@ -15,7 +15,7 @@ Hightower is the host of [ROIClear](https://ROIClear.com), the video podcast for
 
 ### Early Career
 
-Early in his career, Hightower worked in software development for Hewlett Packard, technical sales for IBM, and commercial real estate for Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his BS in Computer Science at the University of Illinois at Chicago.
+Early in his career, Hightower worked in software development and technical sales in corporate America, follwed by a stint in commercial real estate brokerage with Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and earned his BS in Computer Science at the University of Illinois at Chicago.
 
 ### Launching Companies
 
