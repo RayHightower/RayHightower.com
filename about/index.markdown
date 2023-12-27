@@ -7,11 +7,11 @@ title: About
 
 Raymond T. Hightower is a commercial real estate investor and tech company founder operating in the State of Arizona, USA. 
 
-Hightower started and ran his technology company for over two decades before selling the company and launching [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a [ROIClear](https://ROIClear.com)).  Bridgetown/ROIClear buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties. The company also offers the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the media outlet for business leaders.
+Hightower started and ran his technology company for over two decades before selling the company and launching [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a [ROIClear](https://ROIClear.com)).  Bridgetown/ROIClear buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties.
 
 ### ROIClear, Scouting, & Travel
 
-Hightower is the host of [ROIClear](https://ROIClear.com), the video podcast for business leaders. He is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) where he teaches future leaders about budgeting and time management. Hightower is a scuba diver, marathon runner, martial artist, skier, and world traveler. He has visited every state in the USA and most continents on planet Earth. He receives [speaking invitations](/speaking) from around the world, and he blogs on technology and business growth at [RayHightower.com](/).
+Hightower is the host of the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the video podcast for business leaders. He is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) where he teaches future leaders about budgeting and time management. Hightower is a scuba diver, marathon runner, martial artist, skier, and world traveler. He has visited every state in the USA and most continents on planet Earth. He receives [speaking invitations](/speaking) from around the world, and he blogs on technology and business growth at [RayHightower.com](/).
 
 ### Early Career
 
