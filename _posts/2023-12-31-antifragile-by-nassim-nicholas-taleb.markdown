@@ -4,16 +4,22 @@ title:  Antifragile Systems
 date:   2023-12-31
 comments: true
 tags: 
-published: true
+published: false
 ---
 
 <img src="/images/antifragile.jpg" align="right" width="150" alt="Antifragile by Nassim Nicholas Taleb" title="Antifragile by Nassim Nicholas Taleb" />  
 
-<!--
->Wind extinguishes a candle and energizes fire. Likewise with randomness, uncertainty, chaos: you want to use them, not hide from them. You want to be the fire and wish for the wind.<br/>&nbsp;<br/>- Nassim Nicholas Taleb, Author
--->
+Fragile objects break easily. Drop a glass on a concrete floor, and it will shatter. What is the opposite of fragile? Some would say _robust_. 
 
-This idea blew my mind as a young scout on his first camping trip. Blow on a single match, and it goes out. But if you build a robust campfire, blowing on it will make the flames more intense. 
+Author Nassim Nicholas Taleb offers a different answer. 
+
+One example of an antifragile system: Fire. If you light a match, you can easily blow it out with one puff of breath. But if you build a robust campfire, that fire is not easily extinguished. In fact, blowing on the fire will make the flames hotter.
+
+A single match is fragile. A campfire is antifragile. 
+
+Antifragile Defined
+
+In his book Antifragile, author Nassim Nicholas Taleb shares insights about the nature of systems. Fragile systems fail easily. A crystal chandelier will break if it’s mishandled. Taleb observed that some systems benefit from mis-handling & chaos. 
 
 <!--more-->
 
