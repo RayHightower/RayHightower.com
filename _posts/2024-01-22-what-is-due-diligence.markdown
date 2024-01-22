@@ -14,7 +14,7 @@ published: true
 
 What is due diligence?
 
-Due diligence the formal process that the ROIClear team goes through when inspecting a property before acquisition. Our investors trust us to thoroughly review all aspects of a property before we move forward. We always bring a big team on-site when we go through DD. 
+Due diligence the formal process that the [ROIClear](https://ROIClear.com) team goes through when inspecting a property before acquisition. Our investors trust us to thoroughly review all aspects of a property before we move forward. We always bring a big team on-site when we go through DD. 
 
 <!--more-->
 
