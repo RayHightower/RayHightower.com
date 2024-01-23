@@ -4,7 +4,7 @@ title:  Roof Inspections and Human Nature
 date:   2024-01-24
 comments: true
 tags: 
-published: false
+published: true
 ---
 
 <div class="video-container"> 
