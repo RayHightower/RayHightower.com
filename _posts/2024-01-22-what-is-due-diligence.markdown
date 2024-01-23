@@ -20,7 +20,7 @@ Due diligence the formal process that the [ROIClear](https://ROIClear.com) team 
 
 Team members included:
 
-* Our core GP team.
+* Our core general partnership (GP) team.
 * Additional GPs who handle specialized areas of the acquisition and running of a property.
 * Members of the property management team that will run the property day-to-day.
 * Mechanical specialists, people who know HVAC and heating systems.
