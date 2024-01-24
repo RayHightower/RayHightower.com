@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  From the Boiler Room
-date:   2024-01-26
+date:   2024-01-24
 comments: true
 tags: 
 published: true
@@ -16,11 +16,15 @@ Here's a quick video from the boiler room of a property where we recently perfor
 
 A few folks have asked us: Why do you have so many people on-site for your due diligence walkthroughs?
 
+### So Many Inspectors
+
 Why do you have so many inspectors? So many specialists in electrical systems, plumbing, rooftops, concrete, etc? Why do you have people in the office reviewing every lease?
 
 Isn't that overkill?
 
 <!--more-->
+
+### Advantages of Overkill
 
 Yes, IT IS OVER-KILL. We overkill-it when we perform due diligence because we want the clearest possible picture of an asset before we acquire it.
 
