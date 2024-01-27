@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  Roof Inspections and Human Nature
-date:   2024-01-26
+date:   2024-01-29
 comments: true
 tags: 
-published: false
+published: true
 ---
 
 <div class="video-container"> 
-<!-- Insert Roof Inspection video here. -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bn7VzuZd2Js?si=rcnGpcsETdb-R_S2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <br/>
 
@@ -25,4 +25,3 @@ During a recent roof inspection, we were fortunate to have a multiple experts on
 * Other experts give solid maintenance tips because they're in the business of building relationships. 
 
 It is important to know what kind of expert we're dealing with up front. And to make decisions accordingly.
- 
