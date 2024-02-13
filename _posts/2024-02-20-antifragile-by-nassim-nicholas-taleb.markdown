@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Antifragile Systems
-date:   2023-12-31
+date:   2024-02-20
 comments: true
 tags: 
 published: false
