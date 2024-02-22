@@ -11,7 +11,7 @@ published: true
 
 Have you raised $1M in capital (or more) in the last twelve months? If so, we might have something for you. Right here in Arizona. 
 
-Intrigued? [Contact us](/contact) and you'll hear from us quickly. Maybe you met one of us in person here at RaiseFest!
+Intrigued? [Contact us](/contact) and you'll hear from us quickly. Maybe we'll meet in person here at RaiseFest!
 
 ### Deal + Team
 
@@ -40,4 +40,4 @@ The team's track-record includes:
 
 If you're a capital raiser with a successful record, let's talk. [Contact us](/contact) and you'll hear from us quickly.
 
-Maybe we'll meet in person at RaiseFest!
+We look forward to speaking with you!
