@@ -9,7 +9,7 @@ published: true
 
 ### Attention Capital Raisers
 
-Have you have successfully raised capital in the last twelve months? If so, we might have something for you. Right here in Arizona. 
+Have you have successfully raised $1M in capital (or more) in the last twelve months? If so, we might have something for you. Right here in Arizona. 
 
 Intrigued? [Contact us](/contact) and you'll hear from us quickly. Maybe you met one of us in person here at RaiseFest!
 
@@ -21,7 +21,7 @@ If you're at [RaiseFest 2024](https://raisefest.com), then you know something ab
 
 ### Due Diligence
 
-Our team was captured in these photos, taken during a recent due-diligence tour in Arizona. This team knows how to put deals together and bring them home.
+Check out our team in these photos. We were on-site for a due-diligence tour in Arizona. This team knows how to put deals together and bring them home.
 
 ### Track Record
 
