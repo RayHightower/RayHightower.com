@@ -41,7 +41,7 @@
 /* Sidebar Social Media in mobile */
 @media (max-width: 48em) {
   .sidebar-socmed a {
-    /* display: none; maybe bring it back one day, was none; */
+    display: none; /* maybe bring it back one day, was none; */
     font-size: 30px;
     margin-top: 35px;
     margin-right: 5px;
