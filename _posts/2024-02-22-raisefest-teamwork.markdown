@@ -26,7 +26,7 @@ Check out our team in these photos. We were on-site for a due-diligence tour in 
 ### Track Record
 
 The team's track-record includes:
-* 1700+ doors of multifamily ownership.
+* 1,700+ doors of multifamily ownership.
 * 25+ years of civil and structural engineering experience.
 * 18+ years of military leadership.
 * 20+ years of construction company ownership.
