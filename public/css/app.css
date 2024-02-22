@@ -41,11 +41,12 @@
 /* Sidebar Social Media in mobile */
 @media (max-width: 48em) {
   .sidebar-socmed a {
-    display: none; /* maybe bring it back one day */
+    display: true; /* maybe bring it back one day, was none; */
     font-size: 20px;
     margin-top: 35px;
     margin-right: 5px;
     margin-left: 5px;
+    /* text-align: center;  went back to center html tags (RTH) */
   }
   .sidebar-socmed a:hover {
     color: #515151;
