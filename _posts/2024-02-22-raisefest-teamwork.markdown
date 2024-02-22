@@ -40,4 +40,4 @@ The team's track-record includes:
 
 If you're a capital raiser with a successful record, let's talk. [Contact us](/contact) and you'll hear from us quickly.
 
-Maybe you'll hear from us in person at RaiseFest!
+Maybe we'll meet in person at RaiseFest!
