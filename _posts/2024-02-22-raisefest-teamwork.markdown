@@ -9,35 +9,38 @@ published: true
 
 ### Attention Capital Raisers
 
-Have you raised $1M in capital (or more) in the last twelve months? If so, we might have something for you. Right here in Arizona. 
+Have you raised $1M+ in capital in the last twelve months? 
 
-Intrigued? [Contact us](/contact) and you'll hear from us quickly. Maybe we'll meet in person at RaiseFest!
+You might be a traditional co-sponsor. Or perhaps you are using the Fund of Funds model or an SPV to deliver for your investors. If so, this opportunity might fit you. And it's right here in Arizona. 
+
+* [Contact us](/contact) and you'll hear from us quickly. 
+* We might meet in person at [RaiseFest '24](https://raisefest.com)!
 
 ### Deal + Team
 
-If you're at [RaiseFest 2024](https://raisefest.com), then you know something about capital raising, business leadership, and teamwork. You also know that successful investors look for solid deals and great teams.
+As a successful capital raiser, you understand business leadership and teamwork. You know that the best investors make decisions by looking at the deal and the team.
 
 <img src="/images/midtown_team.jpg" width="600" alt="Midtown Team in Tucson, AZ" title="Midtown Team in Tucson, AZ" />
 
-### Due Diligence
+These photos are from a recent 2-day DD in Arizona. Investors appreciate our track record, which includes:
 
-Check out our team in these photos. We were on-site for a due-diligence tour in Arizona. This team knows how to put deals together and bring them home.
-
-### Track Record
-
-The team's track-record includes:
 * 1,700+ doors of multifamily ownership.
+* Acquisitions leadership for a $1.5B hedge fund.
 * 25+ years of civil and structural engineering experience.
-* 18+ years of military leadership.
+* 18+ years of military leadership experience.
+* 20+ years of project management experience.
 * 20+ years of construction company ownership.
 * 18+ years of real estate brokerage + deal-making experience.
-* Acquisitions leadership for a $1.5B hedge fund.
 * Multiple members with 20+ years in the tech industry.
 * 21+ years starting & running technology companies, including successful exits.
+* Decades of experience in asset management and property management.
 * Multiple members with boots-on-the ground experience in the great State of Arizona.
  
-### Attention Capital Raisers
+### Next Steps for Capital Raisers
 
-If you're a capital raiser with a successful record, let's talk. [Contact us](/contact) and you'll hear from us quickly. We might even speak in person at RaiseFest.
+We have room for one or two capital raisers in our next deal. If this interests you, let's talk. You can:
+
+* [Contact us](/contact) via this form, and you'll hear from us quickly. 
+* Approach one of us at RaiseFest in person. 
 
 We look forward to speaking with you!
