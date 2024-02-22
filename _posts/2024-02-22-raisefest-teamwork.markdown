@@ -28,6 +28,7 @@ Our team was captured in these photos, taken during a recent due-diligence tour 
 The team's track-record includes:
 * 1700+ doors of multifamily ownership.
 * 25+ years of civil and structural engineering experience.
+* 18+ years of military leadership.
 * 20+ years of construction company ownership.
 * 18+ years of real estate brokerage + deal-making experience.
 * Acquisitions leadership for a $1.5B hedge fund.
