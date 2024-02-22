@@ -9,7 +9,7 @@ published: true
 
 ### Attention Capital Raisers
 
-Have you successfully raised $1M in capital (or more) in the last twelve months? If so, we might have something for you. Right here in Arizona. 
+Have you raised $1M in capital (or more) in the last twelve months? If so, we might have something for you. Right here in Arizona. 
 
 Intrigued? [Contact us](/contact) and you'll hear from us quickly. Maybe you met one of us in person here at RaiseFest!
 
