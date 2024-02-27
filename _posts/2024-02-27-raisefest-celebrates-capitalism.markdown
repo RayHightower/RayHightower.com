@@ -17,7 +17,7 @@ RaiseFest is a celebration of capitalism. When good people conduct business, eve
 
 ### Panel: The Entrepreneurial Path Less Taken
 
-I was grateful to serve on a panel at this year's RaiseFest. Our moderator, Carlos Salguero, posed excellent questions and kept the discussion moving. To my fellow panelists, Bryan Escudero, Madhavi Nade Jain, and Vasu Kakarlapudi, M.D.: It was great serving with you, and I look forward to working with you again!
+I was grateful to serve on a panel at this year's RaiseFest. Our moderator, Carlos Salguero, posed excellent questions and kept the discussion moving. To my fellow panelists, Bryan Escudero, Madhavi Nade Jain, and Vasu Kakarlapudi: It was great serving with you, and I look forward to working with you again!
 
 ### Gratitude
 
