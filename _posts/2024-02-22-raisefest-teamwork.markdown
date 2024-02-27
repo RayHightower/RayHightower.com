@@ -24,6 +24,8 @@ As a successful capital raiser, you understand business leadership and teamwork.
 
 These photos are from a recent 2-day DD in Arizona. Investors appreciate our track record, which includes:
 
+<!--more-->
+
 * 1,700+ doors of multifamily ownership.
 * Acquisitions leadership for a $1.5B hedge fund.
 * 25+ years of civil and structural engineering experience.
