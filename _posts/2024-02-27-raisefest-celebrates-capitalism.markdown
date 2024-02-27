@@ -25,3 +25,7 @@ So many people came together to make the event a success. Special thanks to the 
 
 * Dr. Jennifer Harris and Jose Miller: Thanks for the photos!
 * Hunter Thompson: Thanks again for RaiseFest. Looking forward to next year!
+
+### One More Thing...
+
+If you raised $1M or more in the past year, I invite you to [contact our team](/contact) about an opportunity that you might find attractive.
