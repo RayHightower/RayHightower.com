@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/RayHightower_RaiseFest_24_Phoenix_AZ.jpg" width="600" alt="RaiseFest 2024 in Phoenix, AZ USA" title="RaiseFest 2024 in Phoenix, AZ USA" />
 
-Over one thousand capital raisers attended [RaiseFest](https://raisefest.com) in Phoenix last week. The event attracts fund managers, investors, and related professionals. We gathered for quality presentations, networking, and fun. 
+Over 1,000 capital raisers attended [RaiseFest](https://raisefest.com) in Phoenix last week. The event attracts fund managers, investors, and related professionals. We gathered for quality presentations, networking, and fun. 
 
 RaiseFest is a celebration of capitalism. When good people conduct business, everybody wins.
 
