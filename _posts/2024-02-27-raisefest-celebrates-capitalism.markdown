@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<img src="/images/RayHightower_RaiseFest_24_Phoenix_AZ.jpg" width="600" alt="RaiseFest 2024 in Phoenix, AZ USA" title="RaiseFest 2024 in Phoenix, AZ USA" />
+<img src="/images/RayHightower_RaiseFest_24_Phoenix_AZ.jpg" width="600" alt="Ray Hightower on stage at RaiseFest 2024 in Phoenix, AZ USA" title="Ray Hightower on stage at RaiseFest 2024 in Phoenix, AZ USA" />
 
 Over 1,000 capital raisers attended [RaiseFest](https://raisefest.com) in Phoenix last week. The event attracts fund managers, investors, and related professionals. We gathered for quality presentations, networking, and fun. 
 
