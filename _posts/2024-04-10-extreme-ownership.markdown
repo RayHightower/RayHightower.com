@@ -45,10 +45,17 @@ Leaders can teams are more effective when everyone understands the broader missi
 
 ### Commander's Intent
 
-It has been said that the first casualty of any war is the battle plan.
+It has been said that the first casualty of any war is the battle plan. Why? Because a battle plan, no matter how well thought out, can never consider _every_ contingency.
 
+Military commanders have learned that the Commander's Intent must be communicated as part of any effectie battle plan. Key questions to answer when sharing Commander's Intent with the team: 
 
+* Do the members of the team understand the broader mission?
+* Are the members of the team allowed to execute based on their understanding of the broaader mission?
+* Does the organization have clearly expressed standard operating procedures?
 
+Running a military unit or business organization based on Commander's Intent takes a lot of up-front planning and training. However, the payoff comes when the organization faces an unexpected obstacle. 
+
+Train the team, communicate the Commander's Intent, and enjoy the results of achievement.
 
 ### Front Echelon: From Battlefield to Boardroom
 
@@ -58,10 +65,6 @@ In addition, author Jocko Willink teamed up with fellow martial artists to launc
 
 ### Conclusion
 
-Warfare is as old as human history. The best way to stop an attack is by being prepared to fight back.
+Warfare is as old as human history. The best way to discourage an attacker is by being prepared to fight.
 
-
-
-
-
- 
+Our military units fight on the battlefield. As company leaders, we join with our teams to battle against tough business challenges. The similarities are fascinating.
