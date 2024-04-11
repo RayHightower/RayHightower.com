@@ -32,8 +32,7 @@ The book _Extreme Ownership_ pulls the reader into the theatre of war where batt
 * Principle
 * Application to Business
 
-
-### Death by Powerpoint
+### Death by PowerPoint
 
 Before reading _Extreme Ownership_, I did not know that military briefings were conducted via Microsoft PowerPoint. It makes sense. PowerPoint is an effective communication tool. 
 
@@ -47,11 +46,10 @@ Leaders can teams are more effective when everyone understands the broader missi
 
 It has been said that the first casualty of any war is the battle plan. Why? Because a battle plan, no matter how well thought out, can never consider _every_ contingency.
 
-Military commanders have learned that the Commander's Intent must be communicated as part of any effectie battle plan. Key questions to answer when sharing Commander's Intent with the team: 
+Military commanders have learned that the Commander's Intent must be communicated as part of any effective battle plan. Key questions to answer when sharing Commander's Intent with the team: 
 
 * Do the members of the team understand the broader mission?
-* Are the members of the team allowed to execute based on their understanding of the broaader mission?
-* Does the organization have clearly expressed standard operating procedures?
+* Are the members of the team allowed to execute based on their understanding of the broader mission and standard operating procedures?
 
 Running a military unit or business organization based on Commander's Intent takes a lot of up-front planning and training. However, the payoff comes when the organization faces an unexpected obstacle. 
 
