@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Extreme Ownership
-date:   2024-04-09
+date:   2024-04-10
 comments: true
 tags: 
 published: true
