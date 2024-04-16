@@ -51,7 +51,7 @@ Military commanders have learned that the Commander's Intent must be communicate
 * Do the members of the team understand the broader mission?
 * Are the members of the team allowed to execute based on their understanding of the broader mission and standard operating procedures?
 
-Running a military unit based on Commander's Intent takes a lot of planning and forethought. However, the payoff comes when the organization faces an unexpected obstacle. 
+Running a military unit based on Commander's Intent takes a lot of planning and forethought. But it's worth it. The payoff comes when the organization faces an unexpected obstacle. And then the team delivers results in unexpected ways. 
 
 Train the team, communicate the Commander's Intent, and enjoy the results of achievement.
 
