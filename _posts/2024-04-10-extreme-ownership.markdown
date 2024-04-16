@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/Extreme_Ownership_Jocko_Willink_Leif_Babin.jpg" align="right" width="150" padding="10" alt="Extreme Ownership by Jocko Willink and Leif Babin" title="Extreme Ownership by Jocko Willink and Leif Babin" /> 
 
-### What is Extreme Ownership?
+### Extreme Ownership Defined
 
 What is Extreme Ownership and why does it matter to a business leader?
 
@@ -40,7 +40,7 @@ At the same time, the book describes cases where military units were bogged down
 
 So they cut the number of slides and simplified the briefing by focusing on one principle. It's less important for the brass to have every mission detail. And it is more important for the military personnel on the ground (SEALs, Sailors, Marines, and Soldiers) to know their role and how to contribute to the overall mission.
 
-Leaders can teams are more effective when everyone understands the broader mission objective, expressed as Commander's Intent.
+Leaders and teams are more effective when everyone understands the broader mission objective, expressed as Commander's Intent.
 
 ### Commander's Intent
 
