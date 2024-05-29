@@ -36,6 +36,7 @@ You can reach Ray via the [contact](/contact) page. Learn more at…
 * [Twitter](https://twitter.com/rayhightower)
 * [Facebook](https://facebook.com/rayhightower)
 * [YouTube](https://youtube.com/rayhightower)
+* [Vimeo](https://vimeo.com/rayhightower)
 * [Instagram](https://instagram.com/rayhightower)
 * [GitHub](https://github.com/rayhightower)
 * [SpeakerDeck](https://speakerdeck.com/rayhightower)
