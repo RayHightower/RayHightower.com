@@ -1,7 +1,7 @@
 # Site settings
 title: RayHightower.com
 description: Real Estate + Tech = @ROIClear
-tagline: Tech company founder. Commercial real estate investor.
+tagline: Real Estate. Tech. @ROIClear.
 baseurl: / # the subpath of your site, e.g. /blog/
 url: "http://rayhightower.com" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:day/:title/
