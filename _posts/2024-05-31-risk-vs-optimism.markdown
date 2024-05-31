@@ -20,8 +20,11 @@ Thoughts about risk are expressed in this 72-second video.
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DQxbdhv2mIE?si=5dHCH664Wsi1y7rH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br/>&nbsp;<br/>
 
-Given the fact that investing is risky, we have two choices:
+### Our Choices
+
+Since investing is risky, we have two choices:
 
 * We can run away from risk. Of course, the problem with running away is that we cut ourselves from potential upside.
 
