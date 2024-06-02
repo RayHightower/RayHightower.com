@@ -3,19 +3,19 @@ layout: page
 title: About
 ---
 
-<img style="margin-left:10px" align="right" src="/images/RayHightower_Sep2021_Phoenix_AZ_USA.jpg" width="250" alt="Ray Hightower in Phoenix, AZ, USA. September 2021." title="Ray Hightower in Phoenix, AZ, USA. September 2021." />
+<img style="margin-left:10px" align="right" src="/images/RayHightower_Phoenix_Dec2023.jpg" width="250" alt="Ray Hightower in Phoenix, AZ, USA. December 2023." title="Ray Hightower in Phoenix, AZ, USA. December 2023." />
 
 Raymond T. Hightower is a commercial real estate investor and tech company founder operating in the State of Arizona, USA. 
 
-Hightower started and ran his technology company for over two decades before selling the company and launching [Bridgetown Partners](https://BridgetownPartners.com). Bridgetown buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties.
+Hightower started and ran his technology company for over two decades before selling the company and launching [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a [ROIClear](https://ROIClear.com)).  Bridgetown/ROIClear buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties. The company also produces the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the video podcast for business leaders. 
 
-### ROIClear, Scouting, & Travel
+### Scouting & Travel
 
-Hightower is the host of [ROIClear](https://ROIClear.com), the video podcast for business leaders. He is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) where he teaches future leaders about budgeting and time management. Hightower is a scuba diver, marathon runner, martial artist, skier, and world traveler. He has visited every state in the USA and most continents on planet Earth. He receives [speaking invitations](/speaking) from around the world, and he blogs on technology and business growth at [RayHightower.com](/).
+Hightower is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) where he teaches future leaders about budgeting and time management. Hightower is a scuba diver, marathon runner, martial artist, skier, and world traveler. He has visited every state in the USA and most continents on planet Earth. He receives [speaking invitations](/speaking) from around the world, and he blogs on technology and business growth at [RayHightower.com](/).
 
 ### Early Career
 
-Early in his career, Hightower worked in software development for Hewlett Packard, technical sales for IBM, and commercial real estate for Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his BS in Computer Science at the University of Illinois at Chicago.
+Early in his career, Hightower worked in software development and technical sales in corporate America, follwed by a stint in commercial real estate brokerage with Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and earned his BS in Computer Science at the University of Illinois at Chicago.
 
 ### Launching Companies
 
@@ -23,9 +23,9 @@ Hightower launched WisdomGroup as a network consultancy. He earned the Microsoft
 
 After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries including healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the team, culminating in the sale of the company after twenty-one years of operation.
 
-### Bridgetown Partners
+### ROIClear + Syndication
 
-Hightower’s real estate company, [Bridgetown Partners](https://BridgetownPartners.com), is a buyer and syndicator of multi-family properties.
+Hightower’s real estate company, [Bridgetown Partners](https://BridgetownPartners.com) (d/b/a [ROIClear](https://ROIClear.com)), is a buyer and syndicator of multi-family properties.
 
 
 ### Other Stuff
@@ -36,6 +36,7 @@ You can reach Ray via the [contact](/contact) page. Learn more at…
 * [Twitter](https://twitter.com/rayhightower)
 * [Facebook](https://facebook.com/rayhightower)
 * [YouTube](https://youtube.com/rayhightower)
+* [Vimeo](https://vimeo.com/rayhightower)
 * [Instagram](https://instagram.com/rayhightower)
 * [GitHub](https://github.com/rayhightower)
 * [SpeakerDeck](https://speakerdeck.com/rayhightower)
