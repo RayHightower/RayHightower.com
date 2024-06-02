@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Antifragile Systems
-date:   2024-03-15
+date:   2024-06-04
 comments: true
 tags: 
-published: false
+published: true
 ---
 
 <img src="/images/antifragile.jpg" align="right" width="150" alt="Antifragile by Nassim Nicholas Taleb" title="Antifragile by Nassim Nicholas Taleb" />  
