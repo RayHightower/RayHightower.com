@@ -9,9 +9,9 @@ published: true
 
 <img src="/images/road_less_stupid_cover.jpg" align="right" width="250" padding="10" alt="The Road Less Stupid" title="The Road Less Stupid" /> 
 
->Smart people do dumb things. Here's the proof: How much money would you have right now if I gave you the ability to undwind any three financial decisions you have ever made? Write that number down... seriously.<br/>&nbsp;<br/>– Keith Cunningham, Author<br/>The Road Less Stupid
+>Smart people do dumb things. Here's the proof: How much money would you have right now if I gave you the ability to unwind any three financial decisions you have ever made? Write that number down... seriously.<br/>&nbsp;<br/>– Keith Cunningham, Author<br/>The Road Less Stupid
 
-Kudos to the author of _The Road Less Stupid_ for the irreverant way that he launches chapter one. The title of the book will push some people away. After all, how many of us want to see our mistakes amplified in black and white?
+Kudos to the author of _The Road Less Stupid_ for the irreverent way that he launches chapter one. The title of the book will push some people away. After all, how many of us want to see our mistakes amplified in black and white?
 
 Fortunately, the author takes an unorthodox path. Rather than saying "Hey dummy, look what you did", he says "hey... we're all dummies. Now here's what we can do to become less dumb."
 
@@ -21,7 +21,7 @@ The most effective advisors can admit their own flaws. Extra points for blending
 
 ### Get the Audio Version
 
-Special thanks to [Catherine Bell](https://www.linkedin.com/in/catherinebell-tig/) for recommending this book to me. Catherine suggested that I get the audio version because the author's points are best communicated with his personal tone-of-voice and inflection. True!
+Special thanks to [Catherine Bell](https://www.linkedin.com/in/catherinebell-tig/) for recommending this book to me. Catherine pointed me to the audio version because the author's ideas are best communicated with his personal tone-of-voice and inflection. True!
 
 ### About the Author
 
@@ -52,7 +52,7 @@ Here's a typical chapter format:
 
 The chapter on risk (#36) has special meaning for me. As entrepreneurs, we can fall into the trap of romanticizing risk. Think about an instance when you took a business risk that worked out well for you. Were you smart? Or were you lucky?
 
-As business leaders, we prefer to think of ourselves as smart. Other people are lucky, right? When we evaluate the role of intelligence vs luck in our decisionmaking, we need to be honest with ourselves.
+As business leaders, we prefer to think of ourselves as smart. Other people are lucky, right? When we evaluate the role of intelligence vs luck in our decision making, we need to be honest with ourselves.
 
 Chapter 36, _Not All Risks Are Created Equal_, contains a risk assessment tool designed to remove emotions (and egos) from our risk analysis. It starts with the author's view that: 
 
@@ -63,6 +63,4 @@ This chapter alone is worth the price of the book.
 
 ### Conclusion
 
->[Business] is not supposed to be easy. Anyone who finds it easy is stupid.<br/>&nbsp;<br/>– Charlie Munger, Investor
-
-_The Road Less Stupid_ is an excellent book for the company leader who wants to avoid the Dumb Tax and grow their business(es) using strategic intelligence, not luck. Highly recommended.
+_The Road Less Stupid_ is an excellent book for the company leader who wants to avoid the Dumb Tax and grow their business(es) using strategy and intelligence, not luck. Highly recommended.
