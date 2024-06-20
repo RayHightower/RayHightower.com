@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Road Less Stupid
-date:   2024-06-20
+date:   2024-06-21
 comments: true
 tags: 
 published: true
