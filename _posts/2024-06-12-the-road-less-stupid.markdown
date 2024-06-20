@@ -11,6 +11,8 @@ published: true
 
 >Pilots of high performance machines do not fly by the seat of their pants.<br/>&nbsp;<br/>– Keith Cunningham, ch27
 
+Running a business by the seat of your pants can be exciting, but it is not sustainable. 
+
 Making sure you survive versus maximizing return on investment on a given investment.
 (Keith Cunningham has better words for this. Use Keith‘s words.)
 
