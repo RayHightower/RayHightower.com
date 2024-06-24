@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Wright Brothers
-date:   2024-06-24
+date:   2024-06-26
 comments: true
 tags: 
 published: true
