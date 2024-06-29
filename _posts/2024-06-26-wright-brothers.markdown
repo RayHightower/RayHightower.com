@@ -4,7 +4,7 @@ title:  The Wright Brothers
 date:   2024-06-26
 comments: true
 tags: 
-published: true
+published: false
 ---
 
 <img src="/images/wright_brothers_mccullough.jpg" align="right" width="150" padding="10" alt="The Wright Brothers by David McCullough" title="The Wright Brothers by David McCullough" /> 
