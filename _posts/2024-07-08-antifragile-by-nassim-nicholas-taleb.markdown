@@ -41,6 +41,7 @@ The difference between antifragility and robustness (or resilience) is central t
 * An antifragilesystem, when exposed to randomness and volatioity will grow stronger.
 * A robust system, exposed to randomnss and volityllity, will simply stay the same.
 
+In other words, robust/resilient systems are neigher helped nor harmed by randomness and volatility.
 
 ### Antifragility Helps Us to Understand Fragility
 
