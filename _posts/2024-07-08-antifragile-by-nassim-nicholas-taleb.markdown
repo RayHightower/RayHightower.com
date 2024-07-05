@@ -41,6 +41,7 @@ When we understand antifragility, we learn more about fragility, and can help us
 
 For example, the recent global pandemic sent shock-waves thrugh the global financial system (RTH,say this better w/o focusing on money.)
 
+When we know how & why a system improves (or fails) under stress, we can design the system to avoid failure.
 
 Here's the author's test for measuring fragility. 
 
