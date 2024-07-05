@@ -13,9 +13,18 @@ Fragile objects are easy to break. Drop a glass on a concrete floor, and it will
 
 Now, what is the opposite of fragile? Some people might say _robust_. 
 
-However, author Nassim Nicholas Taleb offers a different answer. Taleb argues that the opposite of fragile is not robust, but _antifragile_. 
+However, author Nassim Nicholas Taleb offers a different view. Taleb argues that the opposite of fragile is not robust, but _antifragile_. 
 
-### One Antifragile Example
+Comparing fragile, robust, and antifragile...
+* Fragile objects break when exposed to external stress. 
+* Robust objects maintain their form when exposed to external stress.
+* Antifragile objects improve when exposed to external stress.
+
+Why does a business leader care about antifragility?
+
+<!--more-->
+
+### One Antifragile Example: Fire
 
 Fire can be fragile or antifragile, depending on the size of the flame. For example, light a single match and you can easily blow it out with one puff of breath. 
 
@@ -23,9 +32,42 @@ But if you blow on a larger flame, like a campfire, that flame is not easy to ex
 
 A single match is fragile, while a campfire is antifragile. 
 
-Why does a business leader care about antifragility?
+### Antifragility Helps Us to Understand Fragility
 
-<!--more-->
+When we understand antifragility, we learn more about fragility, and can help us to improve our risk management skills.
+
+
+### We Can Measure Fragility, But Not Risk
+
+For example, the recent global pandemic sent shock-waves thrugh the global financial system (RTH,say this better w/o focusing on money.)
+
+
+Here's the author's test for measuring fragility. 
+
+* Anything that has more upside than downside from random events (or certain shocks) is antifragile. 
+* Anything wiht more downside is fragile.
+
+For example, 
+
+
+### Antifragility and Business
+
+>I'd rather be dumb and antifragile than extremely smart and fragile, any time.<br/>&nbsp;<br/>~Nassim Nicholas Taleb
+
+
+
+
+
+&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>
+
+
+
+
+
+
+
+# Out-Takes
+
 
 ### Antifragile Defined
 
