@@ -9,17 +9,21 @@ published: true
 
 <img src="/images/antifragile.jpg" align="right" width="150" alt="Antifragile by Nassim Nicholas Taleb" title="Antifragile by Nassim Nicholas Taleb" />  
 
-Fragile objects break easily. Drop a glass on a concrete floor, and it will shatter. What is the opposite of fragile? Some would say _robust_. 
+Fragile objects are easy to break. Drop a glass on a concrete floor, and it will shatter. 
 
-Author Nassim Nicholas Taleb offers a different answer. 
+Now, what is the opposite of fragile? Some people might say _robust_. 
+
+However, author Nassim Nicholas Taleb offers a different answer. Taleb argues that the opposite of fragile is not robust, but _antifragile_. 
 
 ### One Antifragile Example
 
-One example of an antifragile system: Fire. If you light a match, you can easily blow it out with one puff of breath. But if you build a robust campfire, that fire is not easily extinguished. In fact, blowing on the fire will make the flames hotter.
+Fire can be fragile or antifragile, depending on the size of the flame. For example, light a single match and you can easily blow it out with one puff of breath. 
 
-A single match is fragile. A campfire is antifragile. 
+But if you blow on a larger flame, like a campfire, that flame is not easy to extinguish. In fact, those of us with camping experience know that blowing on a campfire will make the flames hotter.
 
-Now, how does one apply this knowledge to business systems?
+A single match is fragile, while a campfire is antifragile. 
+
+Why does a business leader care about antifragility?
 
 <!--more-->
 
