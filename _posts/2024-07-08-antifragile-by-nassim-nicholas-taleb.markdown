@@ -47,11 +47,13 @@ Here's the author's test for measuring fragility.
 * Anything that has more upside than downside from random events (or certain shocks) is antifragile. 
 * Anything wiht more downside is fragile.
 
-For example, 
+For example, our bodies are antifragile system. Our bones and muscles need a certain degree of physical exercise in order to grow stronger. Otherwise, our muscles  will atrophy and we will die. Our immunie systems need exposure to certain pathgens in order to develop antibodies so that we can battle against illness. A football team that battles against tougher opponents week after week will, in the long run, grow stronger over time. 
+
+One interesting attribute of antifragile systems: They get weaker when deprived of randomness or valatility. A football team that only plays weaker opponents will eventually drop in skill, and they will find themselves ill-equipped to face a well-prepared adversary. 
+
+We humans are antifragile systems. We need to battle against opposition, randomness, and volatility in order to become our best.
 
 
-
-One interesting feature of antifragile systems: They get weaker when deprived of randomness or valatility.
 
 
 
