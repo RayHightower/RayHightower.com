@@ -32,6 +32,16 @@ But if you blow on a larger flame, like a campfire, that flame is not easy to ex
 
 A single match is fragile, while a campfire is antifragile. 
 
+### Robustness vs. Antifragility
+
+The difference between antifragility and robustness (or resilience) is central to understanding this book. So, what's the difference?
+
+* Antifragile systems benefit from randomness and voliility.
+* Robust systems merely survive randomness and volitylity.
+* An antifragilesystem, when exposed to randomness and volatioity will grow stronger.
+* A robust system, exposed to randomnss and volityllity, will simply stay the same.
+
+
 ### Antifragility Helps Us to Understand Fragility
 
 When we understand antifragility, we learn more about fragility, and can help us to improve our risk management skills.
