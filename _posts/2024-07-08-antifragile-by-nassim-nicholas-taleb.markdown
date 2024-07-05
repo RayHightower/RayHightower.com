@@ -4,7 +4,7 @@ title:  Antifragile Systems
 date:   2024-07-08
 comments: true
 tags: 
-published: false
+published: true
 ---
 
 <img src="/images/antifragile.jpg" align="right" width="150" alt="Antifragile by Nassim Nicholas Taleb" title="Antifragile by Nassim Nicholas Taleb" />  
