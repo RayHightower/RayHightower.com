@@ -50,6 +50,12 @@ Here's the author's test for measuring fragility.
 For example, 
 
 
+
+One interesting feature of antifragile systems: They get weaker when deprived of randomness or valatility.
+
+
+
+
 ### Antifragility and Business
 
 >I'd rather be dumb and antifragile than extremely smart and fragile, any time.<br/>&nbsp;<br/>~Nassim Nicholas Taleb
