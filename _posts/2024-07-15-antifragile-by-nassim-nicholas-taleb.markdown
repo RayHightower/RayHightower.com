@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  Antifragile Systems
+<<<<<<<< HEAD:_posts/2024-06-04-antifragile-by-nassim-nicholas-taleb.markdown
 date:   2024-06-04
+========
+date:   2024-07-15
+>>>>>>>> master:_posts/2024-07-15-antifragile-by-nassim-nicholas-taleb.markdown
 comments: true
 tags: 
 published: true
