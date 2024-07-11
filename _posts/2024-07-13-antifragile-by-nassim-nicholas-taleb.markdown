@@ -67,6 +67,12 @@ We humans are antifragile systems. We need to battle against opposition, randomn
 
 
 
+### Creating Antifragile Real Estate Investments
+
+How can a commercial real estate investor apply the principles of antifragility to their portfolio of properties? The ROIClear team has applied the following antifragile techniques to our properties:
+
+* First, create buffers. If interest rates are 7.0%, underwrite at 7.5%. If the local vacancy rate is 5%, underwrite at 10%.
+* Second, build a team of specialists.
 
 
 
