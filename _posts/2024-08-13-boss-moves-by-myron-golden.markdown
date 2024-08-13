@@ -7,7 +7,8 @@ tags:
 published: true
 ---
 
-<img src="/images/BOSS_Moves_Myron_Golden.jpg" align="right" width="150" padding="10" alt="BOSS Moves by Myron Golden" title="BOSS Moves by Myron Golden" /> 
+<img src="/images/BOSS_Moves_Myron_Golden.jpg" align="right" width="250" padding="10" alt="BOSS Moves by Myron Golden" title="BOSS Moves by Myron Golden" /> 
+
 
 BOSS Moves is a book that delivers business lessons from an entrepreneur who has lived the journey, Myron Golden.
 
@@ -20,7 +21,7 @@ Golden lists four tactics that can be used to grow any business:
 
 
 
-<!--mopre-->
+<!--more-->
 
 
 Four levels of business operation:
