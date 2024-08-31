@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  BOSS Moves by Myron Golden
-date:   2024-08-13
+date:   2024-08-31
 comments: true
 tags: 
 published: true
