@@ -1,0 +1,22 @@
+---
+layout: post
+title:  Recovery
+date:   2024-08-31
+comments: true
+tags: 
+published: true
+---
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PG_X7vHfLQQ?si=cMP6M1vDh9G6olXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br/>&nbsp;<br/>
+
+Yes, we work hard. And yes, it is important to avoid burning out.  
+
+Sometimes we need to back away from work so that our brains and muscles can recover.
+
+<!--more-->
+
+If you want to read more about burnout and ways to recover from (and prevent) burnout, checkout this article from the Commit Action team: <a href="https://www.commitaction.com/post/how-to-recover-from-burnout/">How To Recover from Burnout? 8-Step Plan for Entrepreneurs</a>
+ 
