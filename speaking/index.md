@@ -4,7 +4,13 @@ title: "Speaking"
 footer: true
 ---
 
-Ray Hightower delivers presentations on commercial real estate, technology, and business growth. Ray is invited to speak at gatherings all over the world. To invite him to speak at your event, reach out via the  [contact form](/contact).
+<img src="/images/RayHightower_ROClear_Podcast_July2024.jpg" align="right" width="250" padding="30" alt="Ray Hightower - ROIClear Podcast" title="Ray Hightower - ROIClear Podcast" /> 
+
+Ray Hightower started and ran a technology company for over two decades before selling the company and launching [ROIClear](https://ROIClear.com).
+
+Hightower delivers presentations on commercial real estate, technology, and business growth. Ray is invited to speak at gatherings all over the world. 
+
+To invite him to speak at your event, reach out via the  [contact form](/contact).
 <br/>&nbsp;
 <br/>&nbsp;
 
