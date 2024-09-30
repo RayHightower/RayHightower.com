@@ -24,14 +24,6 @@ footer: false
 </iframe>
 <script src="https://link.msgsndr.com/js/form_embed.js"></script>
 
-<p>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-</p>
-
-
 ### Old School Contact Info
 
 You'll get a faster response through email or the above contact form (both go to email). Old school methods are _slower_.
