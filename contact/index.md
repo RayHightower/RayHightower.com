@@ -4,17 +4,25 @@ title:
 footer: false
 ---
 
-<p>
-Fastest way to reach Ray Hightower? This form.<br/>
-</p>
-
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	portalId: "8227943",
-	formId: "31b6733b-faa9-45ab-91d9-11fa3ef9acb5"
-});
-</script>
+ <iframe
+  src="https://api.leadconnectorhq.com/widget/form/bom9ylUL8PymY9Eupx1o"
+  style="width:100%;height:100%;border:none;border-radius:4px"
+  id="inline-bom9ylUL8PymY9Eupx1o" 
+  data-layout="{'id':'INLINE'}"
+  data-trigger-type="alwaysShow"
+  data-trigger-value=""
+  data-activation-type="alwaysActivated"
+  data-activation-value=""
+  data-deactivation-type="neverDeactivate"
+  data-deactivation-value=""
+  data-form-name="RayHightower.com: Contact Us Form"
+  data-height="571"
+  data-layout-iframe-id="inline-bom9ylUL8PymY9Eupx1o"
+  data-form-id="bom9ylUL8PymY9Eupx1o"
+  title="RayHightower.com: Contact Us Form"
+      >
+</iframe>
+<script src="https://link.msgsndr.com/js/form_embed.js"></script>
 
 <p>
 &nbsp;<br/>
