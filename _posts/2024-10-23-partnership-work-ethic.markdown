@@ -6,16 +6,17 @@ comments: true
 tags: 
 published: true
 ---
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1022129774?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Partnership + Work Ethic"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OnzvJHR0m0Q?si=B_LvQrHGncnqCOH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <br/>&nbsp;<br/>
 
-My partners and I are always searching for the best professionals to work with us as we deliver results for our investors.
-
-The above video (less than 3 minutes long) features two of my partners, Greg Butcher and Adrian Diaz, sharing thoughts about our process.
+Recently, my partners and I have been evaluating property management companies to handle the day-to-day operations of our assets.
 
 <!--more-->
 
-Recently, we've been evaluating property management companies to handle the day-to-day operations of our assets.
+We are always searching for the best professionals to work with us as we deliver results for our investors.
+
+The above video (less than 3 minutes long) features two of my partners, <a href="https://www.linkedin.com/in/gkbutcher/">Greg Butcher</a> and <a href="https://www.linkedin.com/in/adriandiazteam/">Adrian Diaz</a>, sharing thoughts about our process.
+
 
