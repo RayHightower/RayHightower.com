@@ -22,7 +22,7 @@ Last week, we attended the Creighton Family Resource Center Fall Festival. We ha
 
 Business leaders must observe and listen to customers. That way, we can anticipate their concerns and and provide for their needs. When we meet the needs of our customers, they come back for more. And they tell their friends.
 
-### Capitalism Rocks!
+### Capitalism Rocks
 
-That's how capitalism works!
+Business owners like us are motivated to deliver outstanding results for customers. Everyone wins when that happens. That's how capitalism works!
 
