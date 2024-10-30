@@ -20,7 +20,7 @@ Last week, we attended the Creighton Family Resource Center Fall Festival. We ha
 
 ### Advantages of Listening
 
-Business leaders must observe and listen to customers. That way, we can anticipate their concerns and and provide for their needs. When we meet the needs of our customers, they come back for more. And they tell their friends.
+Business leaders must observe and listen to customers. That way, we can anticipate their concerns and provide for their needs. When we meet the needs of our customers, they come back for more. And they tell their friends.
 
 ### Capitalism Rocks
 
