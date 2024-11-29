@@ -12,7 +12,23 @@ published: true
 </div>
 <br/>&nbsp;
 
+Adrian Diaz, Colby Fryar, and I spend a lot of time looking at deals. In the above video, we discuss some of the factors we consider before moving forward on a property.
+
+We review hundreds of deals together before we find one that we want to purchase. We've go through underwriting, touring, making offers, negotiating, disappointment, success, stability, and challenges. 
+
+
 <!--more-->
 
-Content for Gratitude Partnership Achievement goes here.
+### Building on Strengths
+
+What an emotional roller coaster!
+
+Through it all, we have learned each others' strengths and weaknesses. We are making the blend work.
+
+
+### More Deals To Come
+
+If you want to be one of the first to know about our next deal, [contact me](/contact) me and we'll put you on our investor list.
+
+
  
