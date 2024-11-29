@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Gratitude Partnership Achievement
+title:  Gratitude, Partnership, & Achievement
 date:   2024-12-02
 comments: true
 tags: 
@@ -28,7 +28,7 @@ Through it all, we have learned each others' strengths and weaknesses. We are ma
 
 ### More Deals To Come
 
-If you want to be one of the first to know about our next deal, [contact me](/contact) me and we'll put you on our investor list.
+If you want to be one of the first to know about our next deal, [contact me](/contact) and we'll put you on our investor list.
 
 
  
