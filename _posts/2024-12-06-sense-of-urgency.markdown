@@ -12,7 +12,7 @@ published: true
 </div>
 <br/>&nbsp;
 
-Why it is important to have a sense of urgency in business? What steps are YOU taking to maintain a sense of urgency in your life?
+Why is it important to have a sense of urgency in business? What steps are YOU taking to maintain a sense of urgency in your life?
 
 Recently, I had the opportunity to respond to something with an investor, and I could have waited to respond. But I decided to move with urgency instead.
 
