@@ -14,7 +14,7 @@ published: true
 <br/>
 As a business leader, what are you doing to leverage AI tools?
 
-If you're in Arizona and you want answers about AI, consider this event: [Lunch + AI for Accredited Investors](https://www.eventbrite.com/e/lunch-ai-for-accredited-investors-tickets-1141209190409?aff=oddtdtcreator).
+If you're in Arizona and you want answers about AI, consider this event: **Lunch + AI for Accredited Investors** 
 
 * Wed, Jan 22, 2025
 * 11:30am - 1:30pm 
@@ -43,6 +43,6 @@ This time, we're opening our meeting to business leaders who want to benefit fro
 
 ### Get Your Ticket. Save Your Spot.
 
-Only a few seats are available. Get yours, [register here](https://www.eventbrite.com/e/lunch-ai-for-accredited-investors-tickets-1141209190409?aff=oddtdtcreator).
+Only a few seats are available. Get yours.
 
 See you there! 
