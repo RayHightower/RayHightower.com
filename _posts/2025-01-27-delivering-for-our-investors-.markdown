@@ -5,12 +5,12 @@ title:  Delivering for Our Investors
 date:   2025-01-27
 comments: true
 tags: 
-published: false
+published: true
 ---
 
-<img src="/images/delivering_for_our_investors.jpg" width="400" alt="Adrian Diaz, Colby Fryar, Ray Hightower - Delivering for Our Investors" title="Adrian Diaz, Colby Fryar, Ray Hightower - Delivering for Our Investors" />   
-<br/>&nbsp;<br/>
-The above photo shows me with Colby Fryar and Adrian Diaz after a recent property tour.
+<img src="/images/delivering_for_our_investors.jpg" width="600" alt="Adrian Diaz, Colby Fryar, Ray Hightower - Delivering for Our Investors" title="Adrian Diaz, Colby Fryar, Ray Hightower - Delivering for Our Investors" />   
+<br/>
+The above photo shows Colby Fryar, Adrian Diaz, and me after a recent property tour.
 
 After walking through a property, we like to put our heads together and compare notes. Questions for discussion:
 
