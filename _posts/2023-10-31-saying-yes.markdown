@@ -9,7 +9,7 @@ published: true
 
 <a href="/blog/2023/10/31/saying-yes/"><img src="/images/TucsonAZ_RayHightower.com_pool_view.jpg" width="600" alt="Multifamily Apartments Pool View" title="Multifamily Apartments Pool View" /></a>
 
-Our company, Bridgetown Partners, buys multifamily apartment properties and improves them so that we can give people a great place to live. We are stewards over our investors' money, and [we say NO](/blog/2023/04/18/saying-no/) to a lot of deals. We sift through hundreds of deals before closing on one.
+Our company, [ROIClear](https://ROIClear.com), buys multifamily apartment properties and improves them so that we can give people a great place to live. We are stewards over our investors' money, and [we say NO](/blog/2023/04/18/saying-no/) to a lot of deals. We sift through hundreds of deals before closing on one.
 
 And it makes us smile when we can finally say yes!
  
