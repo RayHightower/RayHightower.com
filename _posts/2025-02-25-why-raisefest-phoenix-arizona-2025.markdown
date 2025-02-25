@@ -33,10 +33,10 @@ Key point from Hunter's kick-off presentation: Yes, capital raising is harder th
 
 Ask yourself WHY you're raising capital. 
 
-To make it through rough times, you gotta have a WHY. Why do you get up in the morning to build your capital raising business? Are you driven by family, childhood circumsances, or something else? Know yourself!
+To make it through rough times, you gotta have a WHY. Why do you get up in the morning to build your capital raising business? Are you driven by family, childhood circumstances, or something else? Know yourself!
 
 
-### Macro Economic Trends and Effects
+### Macro-Economic Trends and Effects
 
 [Bob Fraser](https://www.linkedin.com/in/bobfraser10/) took the stage to share macro trends and how they might impact our investments. Observations shared by Fraser:
 
@@ -47,17 +47,17 @@ To make it through rough times, you gotta have a WHY. Why do you get up in the m
 
 ### Concessions in the Phoenix Valley
 
-[Ken McElroy](https://www.linkedin.com/in/kenmcelroyofficial/) offered an interesting observations about the sub-markets of Phoenix multifamily real estate. At one point, he compared the concessions offered by multifamily properties in different parts of the valley:
+[Ken McElroy](https://www.linkedin.com/in/kenmcelroyofficial/) offered some interesting observations about the sub-markets of Phoenix multifamily real estate. At one point, he compared the concessions offered by multifamily properties in different parts of the valley:
 
 * West Valley apartment properties are offering two months free rent plus $99 to move in.
-* The high concession levels in the West Valley are due to overbuilding in that area. We will need ot see more absorbtion before concessions evaporate and rents can be bumped again.
+* The high concession levels in the West Valley are due to overbuilding in that area. We will need to see more absorption before concessions evaporate and rents can be bumped again.
 * Scottsdale is offering zero concessions. Even with new apartment properties coming online, demand in Scottsdale is high enough to absorb every new unit.
 * Tempe is offering zero concessions. Demand is driven by the growing student population at ASU.
 
 
 ### Artificial Intelligence with Catherine Bell
 
-[Catherine Bell](https://www.linkedin.com/in/catherinebell-tig) just might make you speachless when you first hear her describe latest developments in AI. She kicked off her AI presentation with a metaphor about an axe.
+[Catherine Bell](https://www.linkedin.com/in/catherinebell-tig) consistently gives spell-binding accounts of her experiments with AI. She kicked off her AI presentation with a metaphor about an axe.
 
 * If you're a lumberjack and you spend years chopping trees with an axe, you'll eventually get good at it.
 * What if someone hands you a chainsaw, and tells you to use that new device instead?
@@ -70,13 +70,13 @@ In summary: AI is a chainsaw in a world of axes. Learn to use the chainsaw.
 
 Additional info offered by RaiseFest presenters: Here are a few that stood out for me.
 
-* [Sarah Morrison](https://www.linkedin.com/in/thesarahmorrison/) & [NJ Ronger](https://www.instagram.com/nj.rongner) - How to Stand Out in a Loud Room. Yes, you can use AI, but you'd better edit it.
+* [Sarah Morrison](https://www.linkedin.com/in/thesarahmorrison/) & [NJ Rongner](https://www.instagram.com/nj.rongner) - How to Stand Out in a Loud Room. Yes, you can use AI, but you'd better edit it.
 * [Rob Beardsley](https://www.linkedin.com/in/rob-beardsley) - Closing Deals in 2025. Including some surprising ways to deal with floating rate debt.
 * [Cody Sperber](https://www.linkedin.com/in/codysperber/) - Instagram Domination. Creating content and boosting follower count.
 
 ### Conclusion
 
-The RaiseFest experience is too rich to be covered in a single blog post. If you're a capital raiser, you gotta be there. Looking forward to meeting you at a future event!
+The RaiseFest experience is too rich to be covered in a single blog post. If you're a capital raiser, make it a point to attend. Looking forward to meeting you at a future event!
 
 
 
