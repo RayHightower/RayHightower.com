@@ -21,8 +21,10 @@ Why? Because the experience is absolutely inspiring!
 SpaceX is on a mission to make humans multi-planetary. 
 
 To accomplish this goal, SpaceX is:
-* Building the largest rockets ever created. 
-* Fueling the rockets with methane (instead of regular kerosene-type rocket fuel) because methane is easier to synthesize on any planet with water + carbon dioxide, like Mars. 
+* Building the largest rockets ever created.
+
+* Fueling the rockets with methane (instead of regular kerosene-type rocket fuel) because methane is easier to synthesize on any planet with water + carbon dioxide, like Mars.
+
 * Making the rockets reusable, to keep costs down and make space reachable. 
 
 SpaceX is the first company to create reusable rockets. This is a big deal, a major feat of business acumen and engineering skill!
