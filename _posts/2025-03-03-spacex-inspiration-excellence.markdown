@@ -12,9 +12,9 @@ published: true
 <br/>
 SpaceX is building and launching rockets in Starbase, TX (formerly known as Boca Chica). 
 
-I have visited Starbase every year since 2021. 
+I have visited Starbase every year since 2021. The above video is from my trip in July 2024.
 
-Why? Because the experience is absolutely inspiring!
+Why visit Starbase? Because the experience is absolutely inspiring!
 
 <!--more-->
 
