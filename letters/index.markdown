@@ -36,7 +36,7 @@ To request a letter of recommendation:
 
 Please request the letter at least two weeks in advance of any deadline.
 
-Why this matters: As a Scout, you are a busy person. The same is true for your parents, your teachers, your Scout leaders, and so on. When you make a request, the person writing the letter needs time to write it.
+Why this matters: As a Scout, you are a busy person. The same is true for your parents, your teachers, your Scout leaders, and so on. When you make a request, the person writing the letter needs time to prepare it.
 
 
 ### Providing Key Information
