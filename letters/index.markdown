@@ -23,7 +23,14 @@ For Scouts who need a letter of recommendation, I'm glad to write one if you pro
 * Plenty of time. Do not wait until the last minute.
 * Clear instructions about where the Letter of Recommendation should be sent.
 
-Also, the request must come from the Scout. Parents must be cc'd (per Youth Protection Guidelines), but the Scout must drive the request.
+
+### Youth Protection
+
+The recommendation request must come from the Scout, not the parent.
+
+Per BSA Youth Protection Guidelines, parents must be CC'd on all emails.
+
+If you sent me an email and I didn't respond, there's a good chance that you missed including other adults on the email. 
 
 ### How to Make the Request
 
