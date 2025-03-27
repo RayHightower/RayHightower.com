@@ -26,11 +26,14 @@ For Scouts who need a letter of recommendation, I'm glad to write one if you pro
 
 ### Youth Protection
 
-The recommendation request must come from the Scout, not the parent.
+To encourage the independence and growth of our youth, the request must come from the Scout, not the parent.
 
-Per BSA Youth Protection Guidelines, parents must be CC'd on all emails.
+At the same time, BSA Youth Protection guidelines must be followed.
 
-If you sent me an email and I didn't respond, there's a good chance that you missed including other adults on the email. 
+* Per BSA Youth Protection Guidelines, parents must be CC'd on all emails.
+* Emails that don't follow Youth Protection Guidelines are deleted and ignored.
+
+If you sent me an email and you did not receive a response, ask yourself if you followed the Youth Protection guidelines. And then try again with the property CCs.
 
 ### How to Make the Request
 
