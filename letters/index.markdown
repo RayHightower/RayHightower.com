@@ -33,7 +33,7 @@ At the same time, BSA Youth Protection guidelines must be followed.
 * Per BSA Youth Protection Guidelines, parents must be CC'd on all emails.
 * Emails that don't follow Youth Protection Guidelines are deleted and ignored.
 
-If you sent me an email and you did not receive a response, ask yourself if you followed the Youth Protection guidelines. And then try again with the property CCs.
+If you sent me an email and you did not receive a response, ask yourself if you followed the Youth Protection guidelines. And then try again while following the guidelines.
 
 ### How to Make the Request
 
