@@ -6,6 +6,8 @@ comments: true
 tags: [ Community, Education ]
 ---
 
+<img src="/images/user_group_bw.jpg" width="600" alt="user group meeting">
+
 The current team of [ChicagoRuby](http://chicagoruby.org) organizers assumed leadership in August 2007. Back then, typical monthly attendance was about five people and the group's [Meetup.com](http://meetup.com/chicagoruby) database contained 78 members. The previous organizer was swamped with work at his day job, so he handed the baton to a new crew.
 
 Today, the _new crew_ has grown ChicagoRuby to over 2,700 members. The group hosts three meetups every month, and the downtown meetings consistently max out the 100-person RSVP limit. Bonus: ChicagoRuby hosts two conferences, [WindyCityRails](https://rayhightower.com/blog/2015/10/05/windycityrails-2015-recap/) in Chicago and [RubyCaribe](https://rayhightower.com/blog/2014/12/22/too-soon-for-alpha-centauri/) on the Caribbean island of Barbados.
