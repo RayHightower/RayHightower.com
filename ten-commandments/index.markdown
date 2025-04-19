@@ -46,7 +46,7 @@ footer: false
     </style>
 </head>
 <body>
-    <h2>The Ten Commandments (KJV)</h2>
+    <h2>The Ten Commandments</h2>
         <table>
         <tr>
             <th> </th>
