@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<img src="/images/grok_ROIClear.jpg" width="450" alt="GROK + Financial Analysis + Asset Management" title="GROK + Financial Analysis + Asset Management" /> 
+<img src="/images/grok_ROIClear.jpg" width="600" alt="GROK + Financial Analysis + Asset Management" title="GROK + Financial Analysis + Asset Management" /> 
 
 If you own or asset-manage multifamily properties, you know that it takes a long time to review a monthly financial statement. 
 
