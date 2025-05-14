@@ -33,6 +33,6 @@ What's our next step as business leaders?
 
 ### Proactive Steps by the ROIClear Team
 
-On my team, we're experimenting with [AI + Financial Analysis + Asset Management](/blog/2025/04/28/grok-financial-analysis-asset-management/).
+On the [ROIClear](https://ROIClear.com) team, we're experimenting with [AI + Financial Analysis + Asset Management](/blog/2025/04/28/grok-financial-analysis-asset-management/).
 
 How about you? Let's share ideas and achieve together!
