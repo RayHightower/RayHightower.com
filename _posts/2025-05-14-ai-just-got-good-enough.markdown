@@ -17,7 +17,7 @@ Now, here's the real question: As business leaders, what are we doing to leverag
 
 ### News Fresh from X
 
-Details are in this post from X.
+Details are within [this post from X](https://x.com/shreyacasmalert/status/1922505860926046240?s=61).
 
 <img src="/images/ai_x_msft.png" width="600" alt="AI + Microsoft layoffs" title="AI + Microsoft layoffs" /> 
 
