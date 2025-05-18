@@ -11,7 +11,7 @@ published: true
 
 For Microsoft, AI just got “good enough” to justify replacing 6,000 senior developers overnight.
 
-Now, here's the real question: As business leaders, what are we doing to leverage AI in our businesses?
+Now, here's the real question: Does a business leader cower in fear, or can we engage our brains and figure out how to leverage AI in our companies?
 
 <!--more-->
 
