@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Process + EOS&#58; The Bridgetown Way
+title:  Process + EOS&#58; The ROIClear Way
 date:   2022-02-15
 comments: true
 tags: 
@@ -32,17 +32,17 @@ Systemizing consists of two key steps:
 1. Document core processes.
 2. Ensure that the processes are followed by everyone in the organization.
 
-### Systemizing Example: Bridgetown Partners
+### Systemizing Example: ROIClear
 
-For our systemizing example, we will use a company that I happen to know well: [Bridgetown Partners](https://bridgetownpartners.com). Bridgetown manifests my vision for serving clients and customers by leveraging my careers in commercial real estate, software development, and community service. The three layers support each other as shown in the diagram below.
+For our systemizing example, we will use a company that I happen to know well: [ROIClear](https://ROIClear.com). ROIClear manifests my vision for serving clients and customers by leveraging my careers in commercial real estate, software development, and community service. The three layers support each other as shown in the diagram below.
 
-<img src="/images/Bridgetown_Partners_business_plan.jpg" width="450" padding="10" alt="Bridgetown Partners Business Plan" title="Bridgetown Partners Business Plan" />
+<img src="/images/ROIClear_business_plan.jpg" width="450" padding="10" alt="ROIClear Business Plan" title="ROIClear Business Plan" />
 
 This is how we define the layers at Bridgetown:
 
 * **Commercial Real Estate**. At our foundation, we're a commercial real estate firm. We buy multifamily apartment properties and we improve them so people can have a great place to live. We also serve outside investors by giving their capital a place to grow at minimal risk.
 * **Software Development**. The best software companies have a deep understanding of user needs. When the development company is also a user, understanding is amplified. As a commercial real estate firm, we are in a great position to observe the parts of our industry that need a boost from great software. Even better, the CRE foundation gives us time to fine-tune our finished software products (see _Runway_, below).
-* **Community Service**. Money for the sake of money is meaningless. For decades, our leadership team has served the tech and business communities by leading groups and conferences. Currently, [BizDayGlobal](https://BizDayGlobal.com) and the [Arizona Multifamily Mastermind Group (AZMM.org)](https://AZMM.org) are our main community service vehicles.
+* **Community Service**. Money for the sake of money is meaningless. For decades, our leadership team has served the tech and business communities by leading groups and conferences. Currently, the [ROIClear Podcast](https://www.youtube.com/@roiclear) and the [Arizona Multifamily Mastermind Group (AZMM.org)](https://AZMM.org) are our main community service vehicles.
 
 We've structured the CRE layer of Bridgetown to produce a long _Runway_ for all company ventures. With a longer runway, the software team has time to learn the market, experiment with products, learn from mistakes, and produce great results for customers. 
 
