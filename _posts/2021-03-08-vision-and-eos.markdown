@@ -41,11 +41,11 @@ For example, _Rocks_ are the key initiatives that the company must complete quar
 
 ### One Example: Core Values
 
-As defined in the book _Traction_, core values are a small set of vital and timeless guiding principles for a company. Here are the core values of Bridgetown Partners:
+As defined in the book _Traction_, core values are a small set of vital and timeless guiding principles for a company. Here are the core values of ROIClear:
 
-* **Collaboration**. Bridgetown's leadership team learned long ago that we can achieve more by collaborating internally (between members of our team) and externally (with our clients and vendors). In every interaction, we seek to achieve win/win arrangements where all parties would welcome the chance to do business again.
-* **Community Service**. Members of Bridgetown give back to the communities where we live and conduct business. Scouting, adult literacy, martial arts, and job training are a few of the areas where our team members contribute to the community.
-* **Profit**. Bridgetown is a business. Therefore, we must generate a profit. Our profit motive is tempered by our first two core values: Collaboration and Community Service.
+* **Collaboration**. ROIClear's leadership team learned long ago that we can achieve more by collaborating internally (between members of our team) and externally (with our clients and vendors). In every interaction, we seek to achieve win/win arrangements where all parties would welcome the chance to do business again.
+* **Community Service**. Members of ROIClear give back to the communities where we live and conduct business. Scouting, adult literacy, martial arts, and job training are a few of the areas where our team members contribute to the community.
+* **Profit**. ROIClear is a business. Therefore, we must generate a profit. Our profit motive is tempered by our first two core values: Collaboration and Community Service.
 
 Great companies can differ in their values. The key is to have consistent values that are good for the long-term health of the company, its clients, and the community.
 
