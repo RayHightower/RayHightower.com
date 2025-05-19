@@ -66,7 +66,7 @@ Breaking an organization into standard components gives the leadership clear con
 
 ### EOS Implementors
 
-EOS implementation does not happen overnight. Many companies find it helpful to engage a full-time Traction/EOS implementer to maximize effectiveness. Through [BizDayGlobal](https://bizdayglobal.com), I had the pleasure of interviewing [Rainee Busby](https://raineebusby.com), based in Houston, TX. Here's the discussion:
+EOS implementation does not happen overnight. Many companies find it helpful to engage a full-time Traction/EOS implementer to maximize effectiveness. Through the [ROIClear Podcast](https://www.youtube.com/@roiclear), I had the pleasure of interviewing [Rainee Busby](https://raineebusby.com), based in Houston, TX. Here's the discussion:
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HzsEPX1XVtw?si=0TZwptDCmmjwMbIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

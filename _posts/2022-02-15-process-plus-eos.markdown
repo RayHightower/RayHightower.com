@@ -38,13 +38,13 @@ For our systemizing example, we will use a company that I happen to know well: [
 
 <img src="/images/ROIClear_business_plan.jpg" width="450" padding="10" alt="ROIClear Business Plan" title="ROIClear Business Plan" />
 
-This is how we define the layers at Bridgetown:
+This is how we define the layers at ROIClear:
 
 * **Commercial Real Estate**. At our foundation, we're a commercial real estate firm. We buy multifamily apartment properties and we improve them so people can have a great place to live. We also serve outside investors by giving their capital a place to grow at minimal risk.
 * **Software Development**. The best software companies have a deep understanding of user needs. When the development company is also a user, understanding is amplified. As a commercial real estate firm, we are in a great position to observe the parts of our industry that need a boost from great software. Even better, the CRE foundation gives us time to fine-tune our finished software products (see _Runway_, below).
 * **Community Service**. Money for the sake of money is meaningless. For decades, our leadership team has served the tech and business communities by leading groups and conferences. Currently, the [ROIClear Podcast](https://www.youtube.com/@roiclear) and the [Arizona Multifamily Mastermind Group (AZMM.org)](https://AZMM.org) are our main community service vehicles.
 
-We've structured the CRE layer of Bridgetown to produce a long _Runway_ for all company ventures. With a longer runway, the software team has time to learn the market, experiment with products, learn from mistakes, and produce great results for customers. 
+We've structured the CRE layer of ROIClear to produce a long _Runway_ for all company ventures. With a longer runway, the software team has time to learn the market, experiment with products, learn from mistakes, and produce great results for customers. 
 
 ### Beyond the Big-Picture Vision
 
