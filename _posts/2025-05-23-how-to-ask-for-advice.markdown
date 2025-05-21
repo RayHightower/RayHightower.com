@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/advice.jpg" align="right" width="250" padding="10" alt="How to Ask for Advice" title="How to Ask for Advice" /> 
 
-Want the best advice? Here's how to get it. (sources cited below):
+Want the best advice? Here's how to get it. Sources are cited at the end of this article:
 
 1. Ask only credible people (Ray Dalio: "have done the thing successfully, multiple times, and can articulate how")
 2. Consider their incentives (don't ask a barber whether you need a haircut)
