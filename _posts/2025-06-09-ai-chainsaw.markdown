@@ -15,7 +15,7 @@ AI is a chainsaw in a world of axes. Learn to use the chainsaw.
 
 ### Artificial Intelligence with Catherine Bell
 
-[Catherine Bell]() consistently gives spell-binding accounts of her experiments with AI. Earlier this year during RaiseFest, she kicked off her AI presentation with a metaphor about an axe.
+[Catherine Bell](https://www.linkedin.com/in/catherinebell-tig/) consistently gives spell-binding accounts of her experiments with AI. Earlier this year during RaiseFest, she kicked off her AI presentation with a metaphor about an axe.
 
 * If you’re a lumberjack and you spend years chopping trees with an axe, you’ll eventually get good at it.
 * What if someone hands you a chainsaw, and tells you to use that new device instead?
