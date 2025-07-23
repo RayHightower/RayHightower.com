@@ -93,5 +93,5 @@ Red Sea Capital<br/>
 * Aloha Ruby<br/>Honolulu, HI, USA<br/>&nbsp;<br/>
 * [Flourish! 2016](http://flourishconf.com/2016) - University of Illinois at Chicago (UIC)<br/>Chicago, IL, USA<br/>&nbsp;<br/>
 * CloudCamp Chicago Developer Night<br/>Chicago, IL, USA<br/>&nbsp;<br/>
-* [LinuxBarbados](http://linuxbarbados.org) at University of the West Indies <br/>Cave Hill, Barbados<br/>&nbsp;<br/>
+* [LinuxBarbados](https://x.com/linuxbarbados) at University of the West Indies <br/>Cave Hill, Barbados<br/>&nbsp;<br/>
 * Ignite RubyConf<br/>San Diego, CA, USA <br/>&nbsp;<br/>
