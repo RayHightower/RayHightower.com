@@ -1,3 +1,8 @@
-<div class="footer">
-    {% include copyright.html %}
-</div>
+<footer class="bg-dark text-white text-center py-3">
+  <p>&copy; {{ 'now' | date: '%Y' }} Ray Hightower. All rights reserved.</p>
+  <p>
+    <a href="https://twitter.com/{{ site.twitter_username }}" class="text-white">Twitter</a> |
+    <a href="https://github.com/{{ site.github_username }}" class="text-white">GitHub</a> |
+    <a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="text-white">LinkedIn</a>
+  </p>
+</footer>

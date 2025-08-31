@@ -1,43 +1,39 @@
 # Site settings
+# For GitHub Pages: Ensure baseurl is empty unless using a subpath
 title: RayHightower.com
-description: Real Estate + Tech = @ROIClear
-tagline: Real Estate. Tech. @ROIClear.
-baseurl: / # the subpath of your site, e.g. /blog/
-url: "http://rayhightower.com" # the base hostname & protocol for your site
-permalink: /blog/:year/:month/:day/:title/
-excerpt_link: "Continue reading &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
-excerpt_separator: <!--more-->
-future: true # Let future blog posts be published
+description: Tech + Real Estate = ROIClear
+baseurl: "" # Set to e.g., /your_subpath if using a subpath
+url: "https://rayhightower.com" # The base URL for the site
+twitter_username: RayHightower # Twitter handle for social links
+github_username: RayHightower # GitHub username for social links
+linkedin_username: rayhightower # LinkedIn username for social links
+email: contact@rayhightower.com # Contact email address
 
 # Build settings
-markdown: kramdown
+markdown: kramdown # Markdown processor
+# theme: minima # Uncomment and set a theme if desired (currently using custom styles)
+plugins:
+  - jekyll-feed # Generates an RSS feed
+  - jekyll-sitemap # Generates a sitemap for SEO
+  - jekyll-seo-tag # Adds SEO metadata
+
+# Collections
+collections:
+  posts:
+    output: true # Generate HTML pages for posts
+    permalink: /blog/:year/:month/:day/:title # Permalink structure for posts
+
+# Defaults
+defaults:
+  - scope:
+      path: "" # Applies to all files
+      type: posts # Specifically for posts
+    values:
+      layout: post # Default layout
+      author: Ray Hightower # Default author
 
 # Disqus Comments
-disqus_short_name: rayhightower
-disqus_show_comment_count: true
-
-# Google Analytics
-google_analytics_tracking_id: UA-330946-28
-
-# Twitter
-twitter_username: rayhightower
-twitter_user:
-twitter_tweet_button: true
-
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-
-feed:
-  path: atom.xml
-author:
-  name: 'Raymond T. Hightower'
-  url: https://twitter.com/rayhightower
-
-paginate: 5
-paginate_path: "/page:num/"
-
-github_username: rayhightower
-github:
-  repo: https://github.com/rayhightower
-
+disqus:
+  shortname: rayhightower # Disqus shortname
+  # To enable Disqus comments for a post, add the following to the post's front matter:
+  # comments: true

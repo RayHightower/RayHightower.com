@@ -1,31 +1,8 @@
 ---
 layout: default
-comments: true
 ---
-
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+<article>
+  <h1>{{ page.title }}</h1>
+  <p class="text-muted">{{ page.date | date: "%B %d, %Y" }} by {{ page.author }}</p>
   {{ content }}
-</div>
-
-<div class="PageNavigation" style="font-size: 14px; display: block; width: auto; overflow: hidden;">
-  {% if page.previous.url %}
-    <a class="prev" style="display: block; width: 50%; float: left; margin: 1em 0;" href="{{page.previous.url}}">&laquo; PREV &middot; {{page.previous.title}}</a>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="next" style="display: block; width: 50%; float: left; margin: 1em 0; text-align:right" href="{{page.next.url}}">{{page.next.title}} &middot; NEXT &raquo;</a>
-  {% endif %}
-</div>
-
-{% if site.disqus_short_name and page.comments == true %}
-  <section>
-    <h1>Comments</h1>
-    <div id="disqus_thread" aria-live="polite">{% include disqus_thread.html %}</div>
-  </section>
-{% endif %}
-
-<div>
-  {% include disqus.html %}
-</div>
-
+</article>
