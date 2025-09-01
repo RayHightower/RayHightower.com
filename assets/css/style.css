@@ -4,16 +4,16 @@ body {
 
 .hero {
   background-image: url('{{ '/assets/images/strike_while_the_iron_is_hot.jpg' | relative_url }}');
-  background-size: cover; /* Ensures the image covers the area without distortion */
-  background-position: center; /* Centers the image to show key elements */
-  min-height: 400px; /* Minimum height to ensure visibility */
-  height: auto; /* Allows the image to scale with content */
+  background-size: contain; /* Ensures the entire image is displayed without cropping */
+  background-repeat: no-repeat; /* Prevents tiling of the image */
+  background-position: center; /* Centers the image */
+  min-height: 800px; /* Matches the image height (600x800px) */
+  height: auto; /* Allows scaling with content */
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
   background-color: #333; /* Fallback color */
-  overflow: hidden; /* Prevents content overflow on small screens */
 }
 
 .hero-content {
@@ -22,7 +22,7 @@ body {
   border-radius: 5px;
   max-width: 800px;
   text-align: center; /* Ensures text centering */
-  z-index: 1; /* Ensures content stays above background */
+  z-index: 1; /* Keeps content above background */
 }
 
 .hero-content h1 {
@@ -42,7 +42,8 @@ body {
 
 @media (max-width: 768px) {
   .hero {
-    min-height: 200px; /* Reduced height for mobile */
+    min-height: 400px; /* Reduced height for mobile to show full image */
+    background-size: contain; /* Maintain full image on mobile */
   }
   .hero-content {
     padding: 1rem;
