@@ -32,7 +32,7 @@ Hightower’s real estate company, [ROIClear](https://ROIClear.com), is a buyer 
 * Investors enjoy capital preservation, tax advantages, and ROI.
 * Residents enjoy a great place to live.
 
-Everybody wins.
+When deals are structured well, everybody wins.
 
 ### Other Stuff
 
