@@ -9,7 +9,7 @@ Raymond T. Hightower is a commercial real estate investor and tech company found
 
 Hightower started and ran his technology company for over two decades before selling the company and launching [ROIClear](https://ROIClear.com). 
 
-ROIClear buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties. The company also produces the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the video podcast for business leaders. 
+ROIClear buys commercial real estate in Arizona, Tennessee, and Texas, with a special focus on 50- to 150-unit multifamily properties. ROIClear also produces the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the video podcast for business leaders. 
 
 ### Scouting & Travel
 
