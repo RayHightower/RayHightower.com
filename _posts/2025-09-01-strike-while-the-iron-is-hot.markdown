@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Strike While the Iron is Hot
-date:   2025-02-19
+date:   2025-09-01
 comments: true
 tags: 
 published: true
