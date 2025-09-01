@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="margin-left:10px" align="right" src="/images/RayHightower_Phoenix_Dec2023.jpg" width="250" alt="Ray Hightower in Phoenix, AZ, USA. December 2023." title="Ray Hightower in Phoenix, AZ, USA. December 2023." />
+<img style="margin-left:10px" align="right" src="/images/RayHightower_Phoenix_Dec2023.jpg" width="150" alt="Ray Hightower in Phoenix, AZ, USA. December 2023." title="Ray Hightower in Phoenix, AZ, USA. December 2023." />
 
 Raymond T. Hightower is a commercial real estate investor and tech company founder operating in the State of Arizona, USA. 
 
@@ -17,7 +17,7 @@ Hightower is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) 
 
 ### Early Career
 
-Early in his career, Hightower worked in software development and technical sales in corporate America, follwed by a stint in commercial real estate brokerage with Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and earned his BS in Computer Science at the University of Illinois at Chicago.
+Early in his career, Hightower worked in software development and technical sales in corporate America, follwed by a stint in commercial real estate brokerage with Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his BS in Computer Science at the University of Illinois at Chicago.
 
 ### Launching Companies
 
@@ -27,8 +27,12 @@ After the pivot to software development, WisdomGroup completed web and mobile pr
 
 ### ROIClear + Syndication
 
-Hightower’s real estate company, [ROIClear](https://ROIClear.com), is a buyer and syndicator of multi-family properties.
+Hightower’s real estate company, [ROIClear](https://ROIClear.com), is a buyer and syndicator of multi-family properties. ROIClear structures deals with a win/win approach:
 
+* Investors enjoy capital preservation, tax advantages, and ROI.
+* Residents enjoy a great place to live.
+
+Everybody wins.
 
 ### Other Stuff
 
