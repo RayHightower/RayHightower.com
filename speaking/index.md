@@ -4,7 +4,7 @@ title: "Speaking"
 footer: true
 ---
 
-<img src="/images/RayHightower_ROClear_Podcast_July2024.jpg" align="right" width="250" padding="30" alt="Ray Hightower - ROIClear Podcast" title="Ray Hightower - ROIClear Podcast" /> 
+<img src="/images/RayHightower_ROClear_Podcast_July2024.jpg" align="right" width="150" padding="30" alt="Ray Hightower - ROIClear Podcast" title="Ray Hightower - ROIClear Podcast" /> 
 
 Ray Hightower started and ran a technology company for over two decades before selling the company and launching [ROIClear](https://ROIClear.com).
 
