@@ -33,7 +33,7 @@ The above conditions will improve our odds of success while reducing failure to 
 
 Investing is similar. Running a business is similar. I've done both for decades.
 
-My team at [Bridgetown Partners](https://BridgetownPartners.com) treats investing with the care and attention of a space mission. For the space mission, the safety of the crew is paramount. For our investors, the safety of your hard-earned capital is paramount. Planning is key. Returning home safely is the driving objective.
+My team at [ROIClear](https://ROIClear.com) treats investing with the care and attention of a space mission. For the space mission, the safety of the crew is paramount. For our investors, the safety of your hard-earned capital is paramount. Planning is key. Returning home safely is the driving objective.
 
 Plus, our investment vehicles offer handsome returns and tax benefits. You don't get those in space!
 
