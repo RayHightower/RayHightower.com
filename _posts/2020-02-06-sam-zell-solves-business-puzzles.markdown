@@ -28,7 +28,7 @@ During the journey to America, Rochelle learned that she was pregnant with Sam. 
 
 Bernard's and Rochelle's insatiable curiosity was passed on to their son, Sam. After the family moved to the northern suburbs, Sam continued to take the train into the city, _officially_ for school, but mainly to explore. As a pre-teen, he discovered that certain magazines were in demand among his north suburban friends. He purchased the mags for fifty cents each in the city, and sold them for three bucks in Highland Park. At age twelve, Sam had discovered arbitrage.
 
-Sam's formative years were spent at Camp Ramah, a Hebrew-speaking summer camp in Wisconsin. Young campers were treated as responsible citizens from day one. Same enjoyed the independence and the meritocracy for eight weeks every summer. The experience built his self-confidence.
+Sam's formative years were spent at Camp Ramah, a Hebrew-speaking summer camp in Wisconsin. Young campers were treated as responsible citizens from day one. Sam enjoyed the independence and the meritocracy for eight weeks every summer. The experience built his self-confidence.
 
 Sam readily acknowledges the role that his parents played in shaping his life. They blessed him with an inheritance of intelligence, curiosity, drive, resilience, and self-determination. 
 
