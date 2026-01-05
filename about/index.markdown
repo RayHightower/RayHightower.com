@@ -9,7 +9,7 @@ Raymond T. Hightower is a commercial real estate investor and tech company found
 
 Hightower started and ran his technology company for over two decades before selling the company and launching [ROIClear](https://ROIClear.com). 
 
-ROIClear buys commercial real estate primarily in the State of Arizona. The team prefers multifamily properties of 75 units or larger. ROIClear also produces the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the video podcast for business leaders. 
+ROIClear buys commercial real estate primarily in Arizona. The team prefers multifamily properties of 75 units or larger. ROIClear also produces the [ROIClear Podcast](https://www.youtube.com/@ROIClear), the video podcast for business leaders. 
 
 ### Scouting & Travel
 
@@ -17,17 +17,17 @@ Hightower is active with the Boy Scouts of America (Eagle Scout, Silver Beaver) 
 
 ### Early Career
 
-Early in his career, Hightower worked in software development and technical sales in corporate America, follwed by a stint in commercial real estate brokerage with Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his BS in Computer Science at the University of Illinois at Chicago.
+Early in his career, Hightower worked in software development and technical sales in corporate America, followed by a stint in commercial real estate brokerage with Marcus & Millichap. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his BS in Computer Science at the University of Illinois at Chicago.
 
 ### Launching Companies
 
 Hightower launched WisdomGroup as a network consultancy. He earned the Microsoft Certified Systems Engineer (MCSE) certification and pulled the company into the Microsoft Certified Solution Provider (MCSP) ecosystem. Later, as the [open source](/blog/2014/02/22/what-is-open-source/) movement gained momentum, Hightower steered the company away from networking and toward software development with open source tools such as [Ruby on Rails](/blog/2017/07/25/a-business-view-of-ruby-on-rails/).
 
-After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries including healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. WisdomGroup became immersed in the Open Source community, first through leadership of [ChicagoRuby](https://rayhightower.com/blog/2017/09/07/passing-the-chicagoruby-baton/), and later through the creation of [WindyCityRails](https://rayhightower.com/blog/2015/10/05/windycityrails-2015-recap/). Each successful project led to larger opportunities and a stronger reputation for the team, culminating in the sale of the company after twenty-one years of operation.
+After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries including healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. WisdomGroup became immersed in the open source community, first by leading [ChicagoRuby](https://rayhightower.com/blog/2017/09/07/passing-the-chicagoruby-baton/), and later by creating [WindyCityRails](https://rayhightower.com/blog/2015/10/05/windycityrails-2015-recap/). Each successful project led to larger opportunities and a stronger reputation for WisdomGroup, culminating in the sale of the company after twenty-one years of operation.
 
 ### ROIClear + Syndication
 
-Hightower’s real estate company, [ROIClear](https://ROIClear.com), is a buyer and syndicator of multi-family properties. ROIClear builds win/win relationships.
+Hightower’s real estate company, [ROIClear](https://ROIClear.com), is a buyer and syndicator of multifamily properties. ROIClear builds win/win relationships.
 
 * Investors enjoy capital preservation, tax advantages, and ROI.
 * Residents enjoy a great place to live.
@@ -40,7 +40,7 @@ Everybody wins when deals are structured well.
 You can reach Ray via the [contact](/contact) page on this site. Learn more at…
 
 * [LinkedIn](https://linkedin.com/in/rayhightower)
-* [X (fmr Twitter)](https://x.com/rayhightower)
+* [X (formerly Twitter)](https://x.com/rayhightower)
 * [Facebook](https://facebook.com/rayhightower)
 * [YouTube](https://youtube.com/rayhightower)
 * [Vimeo](https://vimeo.com/rayhightower)
