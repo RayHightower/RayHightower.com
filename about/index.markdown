@@ -23,7 +23,7 @@ Early in his career, Hightower worked in software development and technical sale
 
 Hightower launched WisdomGroup as a network consultancy. He earned the Microsoft Certified Systems Engineer (MCSE) certification and pulled the company into the Microsoft Certified Solution Provider (MCSP) ecosystem. Later, as the [open source](/blog/2014/02/22/what-is-open-source/) movement gained momentum, Hightower steered the company away from networking and toward software development with open source tools such as [Ruby on Rails](/blog/2017/07/25/a-business-view-of-ruby-on-rails/).
 
-After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries including healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. Each successful project led to larger opportunities and a stronger reputation for the team, culminating in the sale of the company after twenty-one years of operation.
+After the pivot to software development, WisdomGroup completed web and mobile projects in multiple industries including healthcare, financial services, high performance computing, e-commerce, travel, event management, and not-for-profit. WisdomGroup became immersed in the Open Source community, first through leadership of [ChicagoRuby](https://rayhightower.com/blog/2017/09/07/passing-the-chicagoruby-baton/), and later through the creation of [WindyCityRails](https://rayhightower.com/blog/2015/10/05/windycityrails-2015-recap/). Each successful project led to larger opportunities and a stronger reputation for the team, culminating in the sale of the company after twenty-one years of operation.
 
 ### ROIClear + Syndication
 
