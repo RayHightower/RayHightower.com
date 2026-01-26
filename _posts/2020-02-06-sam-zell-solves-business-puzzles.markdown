@@ -64,6 +64,6 @@ Is that exploitation? No. When a turnaround artist acquires a troubled company, 
 
 ### Devouring Books
 
-With the launch of [Bridgetown Partners](https://bridgetownpartners.com), I find myself devouring books on all aspects of commercial real estate. Articles, too. Topics include syndication, taxation, cash flow analysis, raising private money, and... biography. Well-written biographies are fascinating because we get to learn about the circumstances that shaped the subject's life, and how the subject responds to adversity.
+With the launch of [ROIClear](https://ROIClear.com), I find myself devouring books on all aspects of commercial real estate. Articles, too. Topics include syndication, taxation, cash flow analysis, raising private money, and... biography. Well-written biographies are fascinating because we get to learn about the circumstances that shaped the subject's life, and how the subject responds to adversity.
 
 If you are building a business, Sam Zell's autobiography offers helpful lessons and amusing anecdotes. Highly recommended.
