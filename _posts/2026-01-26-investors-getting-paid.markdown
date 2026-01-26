@@ -13,7 +13,7 @@ published: true
 
 Delivering on promises feels incredible.
 
-This week, my partners and I hit that one-click button to distribute returns to our investors. 
+Last week, my partners and I hit a button to distribute returns to our investors. 
 
 Behind the scenes? Months of coordinated effort from the entire team. Underwriting, operations, and asset management all coming together to make it happen seamlessly.
 
