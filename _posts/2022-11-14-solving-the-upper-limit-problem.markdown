@@ -8,7 +8,7 @@ published: true
 ---
 What is stopping you from operating in your Zone of Genius? In his book _The Big Leap_, author Gay Hendricks identifies "The Upper Limit Problem" as the one obstacle blocking a person from achieving greatness. Hendricks divides human performance into four zones: Genius, Excellence, Competence, and Incompetence. His book inspired me to create this graphic: 
 
-<a href="/images/Zones_Solving_the_Upper_Limit_Problem_RayHightower.png"><img src="/images/Zones_Solving_the_Upper_Limit_Problem_RayHightower.png" align="center" width="500" padding="20" alt="The Big Leap by Gay Hendricks - Upper Limit Problem Chart - RayHightower" title="The Big Leap by Gay Hendricks - Upper Limit Problem Chart - RayHightower" /></a>
+<a href="/images/Zones_Solving_the_Upper_Limit_Problem_RayHightower.jpg"><img src="/images/Zones_Solving_the_Upper_Limit_Problem_RayHightower.jpg" align="center" width="500" padding="20" alt="The Big Leap by Gay Hendricks - Upper Limit Problem Chart - RayHightower" title="The Big Leap by Gay Hendricks - Upper Limit Problem Chart - RayHightower" /></a>
 
 The Upper Limit Problem can keep a person stuck in one of the comfort zones, never to achieve genius. 
 
