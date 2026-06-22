@@ -7,9 +7,8 @@ jQuery(function() {
     this.field('author');
     this.field('categories');
 
-    // === CUSTOM STOP WORD FILTER: Exclude "not" so titles like "Who Not How" work ===
+    // === CUSTOM STOP WORD FILTER: Exclude only "not" ===
     this.pipeline.remove(lunr.stopWordFilter);
-    this.searchPipeline.remove(lunr.stopWordFilter);
 
     var stopWords = [
       'a', 'able', 'about', 'across', 'after', 'all', 'almost', 'also', 'am', 'among',
@@ -28,8 +27,8 @@ jQuery(function() {
 
     var customStopWordFilter = lunr.generateStopWordFilter(stopWords);
 
-    this.pipeline.after(lunr.trimmer, customStopWordFilter);
-    this.searchPipeline.after(lunr.trimmer, customStopWordFilter);
+    // Insert the custom filter before the stemmer (safe & reliable for your Lunr version)
+    this.pipeline.before(lunr.stemmer, customStopWordFilter);
   });
 
   // Get the generated search_data.json file so lunr.js can search it locally.
