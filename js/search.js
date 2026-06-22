@@ -33,9 +33,6 @@ jQuery(function() {
     // Insert the custom filter after the trimmer (before stemmer) in both pipelines
     this.pipeline.after(lunr.trimmer, customStopWordFilter);
     this.searchPipeline.after(lunr.trimmer, customStopWordFilter);
-  });
-
-
 
   });
 
