@@ -39,8 +39,9 @@ As investors, we must use our own analysis tools to determine what we're willing
 
 When discussing the connection between employment and rental demand, Ken points to two cities in Arizona, Fountain Hills and Scottsdale. Both are attractive communities. However, Scottsdale's robust base of employers makes that town attractive to residents with high-paying jobs. Residents who earn more can pay more for rent. And that revenue stream drives value.
 
+### Highly Recommended 
 
-
+As an Arizona-based real estate investor, I appreciated Ken's local examples and his lessons from the school of hard knocks. Investors, entrepreneurs, and business leaders will all get value out of this book. Of the books on my shelf, you can count _ABCs of Real Estate Investing_ as highly recommended.
 
 
 
