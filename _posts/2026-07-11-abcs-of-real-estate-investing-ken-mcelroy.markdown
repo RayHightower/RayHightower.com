@@ -17,11 +17,20 @@ Thank you, Robert for encouraging Ken to put pen to paper. And Ken, thank you fo
 
  <!--more-->
 
-Content for ABCs of Real Estate Investing Ken McElroy goes here.
+### Myths and Magic
 
-Content for ABCs of Real Estate Investing Ken McElroy goes here.
+_ABCs of Real Estate Investing_ starts off by debunking myths. Tell someone that you're an entrepreneur, especially a _real estate_ entrepreneur, and you are likely to hear unsolicited advice from this list. The author addresses some common myths about real estate investing. Here are a few:
 
-Content for ABCs of Real Estate Investing Ken McElroy goes here.
+* **You must be wealthy to invest in real estate**.<br/>Nope. There are ways to help wealthy people by putting their money to work.
 
-Content for ABCs of Real Estate Investing Ken McElroy goes here.
+* **Start small. Big deals are too risky**.<br/>Nope. We reduce risk by building teams of experts who work together.
+
+* **Some Folks just have the Midas touch**.<br/>Nope. If a skill has been learned by others, that skill is learnable by you if you put in the work.
+
+You'll find the complete list of myths in the book.
+
+
+
+
+
 
