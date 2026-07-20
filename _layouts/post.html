@@ -1,6 +1,6 @@
 ---
 layout: default
-comments: true
+comments: false
 ---
 
 <div class="post">
@@ -17,15 +17,3 @@ comments: true
     <a class="next" style="display: block; width: 50%; float: left; margin: 1em 0; text-align:right" href="{{page.next.url}}">{{page.next.title}} &middot; NEXT &raquo;</a>
   {% endif %}
 </div>
-
-{% if site.disqus_short_name and page.comments == true %}
-  <section>
-    <h1>Comments</h1>
-    <div id="disqus_thread" aria-live="polite">{% include disqus_thread.html %}</div>
-  </section>
-{% endif %}
-
-<div>
-  {% include disqus.html %}
-</div>
-
