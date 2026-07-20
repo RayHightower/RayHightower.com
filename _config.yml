@@ -12,10 +12,6 @@ future: true # Let future blog posts be published
 # Build settings
 markdown: kramdown
 
-# Disqus Comments
-disqus_short_name: rayhightower
-disqus_show_comment_count: true
-
 # Google Analytics
 google_analytics_tracking_id: UA-330946-28
 
@@ -40,4 +36,3 @@ paginate_path: "/page:num/"
 github_username: rayhightower
 github:
   repo: https://github.com/rayhightower
-
