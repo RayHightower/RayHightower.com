@@ -1,38 +1,44 @@
 # Site settings
 title: RayHightower.com
 description: Real Estate + Tech = @ROIClear
-tagline: Real Estate. Tech. @ROIClear.
-baseurl: / # the subpath of your site, e.g. /blog/
-url: "http://rayhightower.com" # the base hostname & protocol for your site
+tagline: Managing Partner @ ROIClear • Investor • Speaker • Builder
+
+baseurl: "" 
+url: "https://rayhightower.com"
+
 permalink: /blog/:year/:month/:day/:title/
-excerpt_link: "Continue reading &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+excerpt_link: "Continue reading &rarr;"
 excerpt_separator: <!--more-->
-future: true # Let future blog posts be published
+future: true
+
+# New variables for redesigned homepage
+roiclear_url: "https://roiclear.com"
+azmm_url: "https://azmm.org"
+investor_portal_url: "https://investor.rayhightower.com"   # Update this if the actual URL differs
+ai_url: "https://rayhightower.ai"
 
 # Build settings
 markdown: kramdown
 
-# Google Analytics
-google_analytics_tracking_id: UA-330946-28
-
-# Twitter
-twitter_username: rayhightower
-twitter_user:
-twitter_tweet_button: true
-
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Feed
 feed:
   path: atom.xml
 author:
   name: 'Raymond T. Hightower'
   url: https://twitter.com/rayhightower
 
-paginate: 5
-paginate_path: "/page:num/"
+# Google Analytics
+google_analytics_tracking_id: UA-330946-28
 
+# Social
+twitter_username: rayhightower
 github_username: rayhightower
-github:
-  repo: https://github.com/rayhightower

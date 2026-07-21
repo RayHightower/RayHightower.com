@@ -3,37 +3,69 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-content">
+    <h1 class="hero-title">Ray Hightower</h1>
+    <p class="hero-subtitle">Real Estate Investor • Tech Builder • Speaker</p>
+    <p class="hero-tagline">Managing Partner at ROIClear • Capital preservation, tax advantages, and strong ROI in Arizona multifamily.</p>
+
+    <!-- Project Links with Logos -->
+    <div class="project-links">
+      <a href="{{ site.roiclear_url }}" target="_blank" class="project-link">
+        <img src="/assets/logos/roiclear.png" alt="ROIClear" width="140">
+        <span>ROIClear.com</span>
       </a>
-    </h1>
+      <a href="{{ site.azmm_url }}" target="_blank" class="project-link">
+        <img src="/assets/logos/azmm.png" alt="AZMM" width="140">
+        <span>AZMM.org</span>
+      </a>
+      <a href="{{ site.investor_portal_url }}" class="project-link">
+        <img src="/assets/logos/investor-portal.png" alt="Investor Portal" width="140">
+        <span>Investor Portal</span>
+      </a>
+      <a href="{{ site.ai_url }}" target="_blank" class="project-link">
+        <img src="/assets/logos/rayhightower-ai.png" alt="RayHightower.AI" width="140">
+        <span>RayHightower.AI</span>
+      </a>
+    </div>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.excerpt }}
-
-    <a href="{{ post.url }}"><p>{{ site.excerpt_link }}</p></a>
+    <a href="/about" class="cta-button">Learn More About Ray →</a>
   </div>
-  {% endfor %}
-</div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+  <!-- Hero Visual (placeholder for your animated image) -->
+  <div class="hero-visual">
+    <div class="animated-bg"></div>
+    <!-- Add your image here later, e.g. <img src="/assets/images/hero.jpg" alt="Ray Hightower"> -->
+  </div>
+</section>
+
+<!-- Featured Articles -->
+<section class="section featured">
+  <h2>Featured Articles</h2>
+  {% include featured.html %}
+</section>
+
+<!-- Observations -->
+<section class="section observations">
+  <h2>Observations</h2>
+  {% include observations.html %}
+</section>
+
+<!-- Recent Posts -->
+<section class="section recent-posts">
+  <h2>Latest Insights</h2>
+  <div class="posts">
+    {% for post in paginator.posts limit: 4 %}
+    <div class="post-teaser">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+      {{ post.excerpt }}
+      <a href="{{ post.url }}" class="read-more">Continue reading →</a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- Social -->
+{% include socmed.html %}
