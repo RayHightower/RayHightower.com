@@ -14,7 +14,7 @@ future: true
 # New variables for redesigned homepage
 roiclear_url: "https://roiclear.com"
 azmm_url: "https://azmm.org"
-investor_portal_url: "https://investor.rayhightower.com"   # Update this if the actual URL differs
+investor_portal_url: "https://investor.rayhightower.com"
 ai_url: "https://rayhightower.ai"
 
 # Build settings
