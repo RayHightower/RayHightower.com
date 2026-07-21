@@ -3,62 +3,43 @@ layout: default
 title: Home
 ---
 
-<!-- Hero Section -->
 <section class="hero">
+  <div class="hero-overlay"></div>
   <div class="hero-content">
     <h1 class="hero-title">Ray Hightower</h1>
     <p class="hero-subtitle">Real Estate Investor • Tech Builder • Speaker</p>
-    <p class="hero-tagline">Managing Partner at ROIClear • Capital preservation, tax advantages, and strong ROI in Arizona multifamily.</p>
+    <p class="hero-tagline">Managing Partner at ROIClear • Delivering capital preservation, tax advantages, and strong ROI through Arizona multifamily investments.</p>
 
     <div class="project-links">
-      <a href="{{ site.roiclear_url }}" target="_blank" class="project-link">
-        <img src="/assets/logos/roiclear.png" alt="ROIClear" width="140">
-        <span>ROIClear.com</span>
-      </a>
-      <a href="{{ site.azmm_url }}" target="_blank" class="project-link">
-        <img src="/assets/logos/azmm.png" alt="AZMM" width="140">
-        <span>AZMM.org</span>
-      </a>
-      <a href="{{ site.investor_portal_url }}" class="project-link">
-        <img src="/assets/logos/investor-portal.png" alt="Investor Portal" width="140">
-        <span>Investor Portal</span>
-      </a>
-      <a href="{{ site.ai_url }}" target="_blank" class="project-link">
-        <img src="/assets/logos/rayhightower-ai.png" alt="RayHightower.AI" width="140">
-        <span>RayHightower.AI</span>
-      </a>
+      <a href="{{ site.roiclear_url }}" target="_blank" class="project-link">ROIClear.com</a>
+      <a href="{{ site.azmm_url }}" target="_blank" class="project-link">AZMM.org</a>
+      <a href="{{ site.investor_portal_url }}" class="project-link">Investor Portal</a>
+      <a href="{{ site.ai_url }}" target="_blank" class="project-link">RayHightower.AI</a>
     </div>
 
-    <a href="/about" class="cta-button">Learn More About Ray →</a>
-  </div>
-
-  <div class="hero-visual">
-    <img src="https://picsum.photos/1200/800?random=1" alt="Ray Hightower" style="width:100%; height:100%; object-fit:cover;">
+    <a href="/about" class="cta-button primary">Meet Ray</a>
+    <a href="/speaking" class="cta-button secondary">Book Speaking</a>
   </div>
 </section>
 
-<!-- Featured Articles -->
 <section class="section featured">
   <h2>Featured Articles</h2>
   {% include featured.html %}
 </section>
 
-<!-- Observations -->
 <section class="section observations">
   <h2>Observations</h2>
   {% include observations.html %}
 </section>
 
-<!-- Recent Posts -->
-<section class="section recent-posts">
-  <h2>Latest Insights</h2>
-  <div class="posts">
-    {% for post in paginator.posts limit: 4 %}
-    <div class="post-teaser">
+<section class="section recent">
+  <h2>Latest from the Blog</h2>
+  <div class="posts-grid">
+    {% for post in paginator.posts limit: 3 %}
+    <div class="post-card">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <span class="post-date">{{ post.date | date_to_string }}</span>
+      <span>{{ post.date | date_to_string }}</span>
       {{ post.excerpt }}
-      <a href="{{ post.url }}" class="read-more">Continue reading →</a>
     </div>
     {% endfor %}
   </div>
