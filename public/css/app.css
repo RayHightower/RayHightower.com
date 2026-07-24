@@ -20,7 +20,7 @@
   align-items: center;          /* perfect vertical centering */
   justify-content: space-between;
   gap: 2rem;
-  height: 96px;                 /* DOUBLED thickness of the black band */
+  height: 115px;                /* +20% thickness */
 }
 
 .logo-link {
@@ -31,9 +31,9 @@
 }
 
 .site-logo {
-  height: 58px;                 /* significantly larger logo */
+  height: 75px;                 /* +30% size */
   width: auto;                  /* preserve aspect ratio */
-  max-width: 380px;
+  max-width: 420px;
   display: block;
 }
 
@@ -291,7 +291,7 @@ article {
 @media (max-width: 900px) {
   .header-inner {
     height: auto;
-    padding: 0.9rem 1rem;
+    padding: 1rem 1rem;
     flex-wrap: wrap;
   }
   .main-nav {
@@ -299,7 +299,7 @@ article {
     justify-content: center;
   }
   .site-logo {
-    height: 42px;
+    height: 52px;
   }
 }
 
@@ -317,6 +317,6 @@ article {
     min-width: 200px;
   }
   .site-logo {
-    height: 36px;
+    height: 44px;
   }
 }
