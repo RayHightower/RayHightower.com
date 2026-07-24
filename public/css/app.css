@@ -1,4 +1,4 @@
-/* Modern sticky header + full-width hero + clean sections + hamburger + Speaking page */
+/* Modern sticky header + full-width hero + clean sections + hamburger + Speaking page + Search */
 
 @import url('https://fonts.googleapis.com/css?family=Arvo:700');
 
@@ -341,6 +341,40 @@ article {
   background: #f0fdfa;
 }
 
+/* ===== SEARCH PAGE ===== */
+#search_box {
+  width: 100%;
+  max-width: 500px;
+  padding: 0.9rem 1.2rem;
+  font-size: 1.15rem;
+  border: 2px solid #333;
+  border-radius: 8px;
+  background: #fff;
+  color: #111;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+#search_box:focus {
+  border-color: #0f766e;
+  box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.2);
+}
+
+#site_search input[type="submit"] {
+  margin-top: 1rem;
+  padding: 0.8rem 2rem;
+  font-size: 1.1rem;
+  background: #0f766e;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+#site_search input[type="submit"]:hover {
+  background: #0d5f58;
+}
+
 /* ===== MOBILE ===== */
 @media (max-width: 900px) {
   .header-inner {
@@ -400,5 +434,10 @@ article {
   }
   .btn {
     min-width: 200px;
+  }
+
+  #search_box {
+    font-size: 1.2rem;
+    padding: 1rem;
   }
 }
