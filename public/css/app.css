@@ -1,135 +1,182 @@
-/* For font support on mobile, per https://stackoverflow.com/questions/25741042/google-fonts-not-loading-on-mobile */
-@import url(href='http://fonts.googleapis.com/css?family=Arvo:700');
+/* Original + modern full-width hero styles */
 
-/* For responsive YouTube videos, per http://avexdesigns.com/responsive-youtube-embed/ */
+@import url('https://fonts.googleapis.com/css?family=Arvo:700');
+
+/* Keep existing video + sidebar utilities for other pages */
 .video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px; height: 0; overflow: hidden;
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
 }
- 
 .video-container iframe,
 .video-container object,
 .video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
-.sidebar-copyright {
-  font-size: 12px;
-}
+.sidebar-copyright { font-size: 12px; }
+.sidebar-socmed { font-size: 25px; }
+.sidebar-socmed a { color: #515151; }
+.sidebar-socmed a:hover { color: #268bd2; }
 
-.sidebar-socmed {
-  font-size: 25px;
-}
-
-.sidebar-socmed a {
-  color: #515151;
-}
-
-.sidebar-socmed a:hover {
-  color: #268bd2;
-}
-
-.sidebar-rubyonrails {
-  font-size: 12px;
-}
-
-/* Sidebar Social Media in mobile */
-@media (max-width: 48em) {
-  .sidebar-socmed a {
-    display: none; /* maybe bring it back one day, was none; */
-    font-size: 30px;
-    margin-top: 35px;
-    margin-right: 5px;
-    margin-left: 5px;
-    /* text-align: center;  went back to center html tags (RTH) */
-  }
-  .sidebar-socmed a:hover {
-    color: #515151;
-  }
-}
-
-/* Sidebar Featured */
-.sidebar-featured {
-  margin-bottom: 1rem;
-  font-size: 1.0rem;
-}
-.sidebar-featured-item {
-  display: block;
-  line-height: 1.5rem;
-}
-a.sidebar-featured-item:hover,
-a.sidebar-featured-item:focus {
-  text-decoration: underline;
-}
-.sidebar-featured-item.active {
-  font-weight: bold;
-  color: #268bd2;
-}
-
-/* Navbar from http://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_responsive */
-ul.topnav {
-    list-style-type: none;
-    margin-left: 24em;
-    margin-top: 0em;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    font-size: .75em;
-    z-index: +1;
-}
-
-ul.topnav li {float: left;}
-
-ul.topnav li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-ul.topnav li a:hover:not(.active) {background-color: #111;}
-
-/* Make the active top navbar item blue. */
-ul.topnav li a.active {
-  background-color: #268bd2;
+/* ===== NEW HERO STYLES ===== */
+.hero {
+  position: relative;
+  width: 100%;
+  min-height: 85vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
   color: white;
-  z-index: +1;
+  text-align: center;
 }
 
-ul.topnav ul.right {
-    float: right;
-    list-style-type: none;
+.hero-media {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
 }
 
-@media screen and (max-width: 45em){
-  .topnav {
-    display: none;
-  }
-  .events-footer {
-    display: block;
-    background-color: black;
-    margin: auto;
-    width: 100%;
-    border: 3px solid black;
-    padding: 10px;
-  }
-  .events-footer img {
-    width: 80%;
-    list-style-type: none;
-    padding: 10px 10px 10px 10px;
-    margin: auto;
-    margin-bottom: 20px;
-    background-color: white;
-    border-radius: 5px;
-  }
+.hero-gif {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 2;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 3;
+  max-width: 900px;
+  padding: 2rem 1.5rem;
+}
+
+.hero-title {
+  font-family: "Arvo", serif;
+  font-size: clamp(2.8rem, 8vw, 5.5rem);
+  margin: 0 0 0.4rem;
+  line-height: 1.1;
+  text-shadow: 0 3px 15px rgba(0,0,0,0.6);
+}
+
+.hero-subtitle {
+  font-size: clamp(1.2rem, 3vw, 1.6rem);
+  margin: 0 0 1.2rem;
+  opacity: 0.95;
+}
+
+.hero-tagline {
+  font-size: 1.15rem;
+  max-width: 700px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.5;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-bottom: 2.5rem;
+}
+
+.hero-link {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s;
+}
+
+.hero-link:hover {
+  border-bottom-color: #0f766e;
+}
+
+.hero-ctas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.9rem 2.2rem;
+  border-radius: 50px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+.btn-primary {
+  background: #0f766e;
+  color: white;
+}
+
+.btn-primary:hover {
+  background: #0d5f58;
+  transform: translateY(-3px);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: white;
+  border: 2px solid white;
+}
+
+.btn-secondary:hover {
+  background: white;
+  color: #0f766e;
+}
+
+/* Supporting sections */
+.section {
+  padding: 5rem 1rem;
+}
+
+.section.alt {
+  background: #f8fafc;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.post-teaser {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.read-more {
+  color: #0f766e;
+  font-weight: 600;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero {
+    min-height: 75vh;
+  }
+  .hero-title {
+    font-size: 2.6rem;
+  }
+  .hero-links {
+    gap: 1rem;
+  }
+}
