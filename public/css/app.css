@@ -206,25 +206,6 @@ article {
   text-align: center;
 }
 
-.posts-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2.5rem;
-}
-
-.post-card {
-  background: #fff;
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-  padding: 1.8rem;
-}
-
-.read-more {
-  color: #0f766e;
-  font-weight: 600;
-  text-decoration: none;
-}
-
 /* ===== FOOTER ===== */
 .site-footer {
   background: #000;
@@ -246,15 +227,15 @@ article {
   display: none !important;
 }
 
-/* ===== MOBILE (iPhone fix) ===== */
+/* ===== MOBILE ===== */
 @media (max-width: 900px) {
   .header-inner {
-    height: 80px;                 /* shorter on mobile */
+    height: 72px;
     padding: 0 1rem;
   }
 
   .site-logo {
-    height: 42px;
+    height: 36px;               /* smaller so it doesn’t overwhelm the hamburger */
   }
 
   .menu-toggle {
@@ -264,7 +245,7 @@ article {
   .main-nav {
     display: none;
     position: absolute;
-    top: 80px;
+    top: 72px;
     left: 0;
     right: 0;
     background: #000;
