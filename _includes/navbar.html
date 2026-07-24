@@ -4,7 +4,12 @@
       <img src="/assets/images/RayHightower-logo.png" alt="RayHightower.com" class="site-logo">
     </a>
 
-    <nav class="main-nav">
+    <!-- Hamburger button (mobile only) -->
+    <button class="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      ☰
+    </button>
+
+    <nav class="main-nav" id="main-nav">
       <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
       <a href="/about/" {% if page.url == "/about/" %}class="active"{% endif %}>About</a>
       <a href="/speaking/" {% if page.url == "/speaking/" %}class="active"{% endif %}>Speaking</a>
@@ -16,3 +21,19 @@
     </nav>
   </div>
 </header>
+
+<script>
+  // Simple hamburger toggle
+  document.addEventListener('DOMContentLoaded', function () {
+    const toggle = document.querySelector('.menu-toggle');
+    const nav = document.getElementById('main-nav');
+
+    if (toggle && nav) {
+      toggle.addEventListener('click', function () {
+        const isOpen = nav.classList.toggle('is-open');
+        toggle.setAttribute('aria-expanded', isOpen);
+        toggle.textContent = isOpen ? '✕' : '☰';
+      });
+    }
+  });
+</script>
