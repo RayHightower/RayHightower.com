@@ -1,4 +1,4 @@
-/* Modern sticky header + full-width hero + clean sections + hamburger */
+/* Modern sticky header + full-width hero + clean sections + hamburger + Speaking page */
 
 @import url('https://fonts.googleapis.com/css?family=Arvo:700');
 
@@ -145,6 +145,16 @@
   color: #0f766e;
 }
 
+.btn-primary {
+  background: #0f766e;
+  color: white;
+}
+
+.btn-primary:hover {
+  background: #0d5f58;
+  transform: translateY(-3px);
+}
+
 /* ===== PROJECT LOGOS ===== */
 .project-logos {
   padding: 2.5rem 1rem;
@@ -174,6 +184,10 @@
 /* ===== CONTENT SECTIONS ===== */
 .section {
   padding: 5rem 1rem;
+}
+
+.section.alt {
+  background: #f8fafc;
 }
 
 .container {
@@ -219,22 +233,27 @@ article {
   margin: 0;
 }
 
-/* Footer social icons */
+/* Footer social icons – forced pure white */
 .footer-socmed {
   margin-bottom: 1rem;
   font-size: 1.6rem;
 }
 
-.footer-socmed a {
-  color: #fff;
+.footer-socmed a,
+.footer-socmed a i,
+.site-footer a,
+.site-footer i {
+  color: #ffffff !important;
   margin: 0 0.4rem;
   text-decoration: none;
-  opacity: 0.85;
+  opacity: 0.9;
   transition: opacity 0.2s;
 }
 
-.footer-socmed a:hover {
+.footer-socmed a:hover,
+.footer-socmed a:hover i {
   opacity: 1;
+  color: #ffffff !important;
 }
 
 /* Hide old leftover elements */
@@ -245,6 +264,83 @@ article {
   display: none !important;
 }
 
+/* ===== SPEAKING PAGE ===== */
+.speaking-hero {
+  padding: 4rem 1.5rem;
+  background: #f8fafc;
+}
+
+.speaking-hero-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+}
+
+.speaking-photo {
+  width: 220px;
+  height: auto;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.speaking-tagline {
+  font-size: 1.25rem;
+  color: #0f766e;
+  margin: 0.5rem 0 1.5rem;
+  font-weight: 600;
+}
+
+.talk-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.talk-card {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.8rem;
+}
+
+.talk-card h3 {
+  margin-top: 0;
+  color: #0f766e;
+}
+
+.appearance-list {
+  line-height: 1.7;
+  margin-bottom: 2.5rem;
+}
+
+.past-events {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  text-align: center;
+}
+
+.cta-section {
+  text-align: center;
+  background: #0f766e;
+  color: white;
+}
+
+.cta-section h2 {
+  color: white;
+}
+
+.cta-section .btn-primary {
+  background: white;
+  color: #0f766e;
+}
+
+.cta-section .btn-primary:hover {
+  background: #f0fdfa;
+}
+
 /* ===== MOBILE ===== */
 @media (max-width: 900px) {
   .header-inner {
@@ -253,7 +349,7 @@ article {
   }
 
   .site-logo {
-    height: 36px;               /* smaller so it doesn’t overwhelm the hamburger */
+    height: 36px;
   }
 
   .menu-toggle {
@@ -283,6 +379,15 @@ article {
     width: 100%;
     text-align: center;
     border-bottom: 1px solid #222;
+  }
+
+  .speaking-hero-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .speaking-photo {
+    width: 180px;
   }
 }
 
