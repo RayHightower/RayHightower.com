@@ -25,7 +25,8 @@
 .site-logo {
   height: 40px;
   width: auto;
-  filter: brightness(0) invert(1); /* forces pure white logo */
+  /* Force pure white logo on black background */
+  filter: brightness(0) invert(1);
 }
 
 .main-nav {
@@ -98,28 +99,20 @@
 .hero-ctas {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 1.2rem;
   justify-content: center;
 }
 
 .btn {
   display: inline-block;
-  padding: 0.95rem 2.5rem;
+  min-width: 220px;
+  padding: 0.95rem 2rem;
   border-radius: 50px;
   font-weight: 700;
   text-decoration: none;
   transition: all 0.3s;
   font-size: 1.05rem;
-}
-
-.btn-primary {
-  background: #0f766e;
-  color: white;
-}
-
-.btn-primary:hover {
-  background: #0d5f58;
-  transform: translateY(-3px);
+  text-align: center;
 }
 
 .btn-secondary {
@@ -135,7 +128,7 @@
 
 /* ===== PROJECT LOGOS (below hero) ===== */
 .project-logos {
-  padding: 2.5rem 1rem;
+  padding: 2.8rem 1rem;
   background: #fff;
   border-bottom: 1px solid #e5e7eb;
 }
@@ -143,13 +136,13 @@
 .project-logos .container {
   display: flex;
   flex-wrap: wrap;
-  gap: 3rem;
+  gap: 3.5rem;
   justify-content: center;
   align-items: center;
 }
 
 .project-logos .logo-item img {
-  max-height: 48px;
+  max-height: 52px;
   width: auto;
   transition: transform 0.3s;
 }
@@ -218,6 +211,19 @@
   text-decoration: underline;
 }
 
+/* ===== FOOTER ===== */
+.site-footer {
+  background: #000;
+  color: #fff;
+  text-align: center;
+  padding: 1.8rem 1rem;
+  font-size: 0.95rem;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
 /* Responsive */
 @media (max-width: 900px) {
   .header-inner {
@@ -239,9 +245,12 @@
     min-height: 72vh;
   }
   .project-logos .container {
-    gap: 1.8rem;
+    gap: 2rem;
   }
   .project-logos .logo-item img {
-    max-height: 40px;
+    max-height: 42px;
+  }
+  .btn {
+    min-width: 200px;
   }
 }
