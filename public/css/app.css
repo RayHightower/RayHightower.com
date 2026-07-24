@@ -15,11 +15,10 @@
 .header-inner {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0 1.25rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 2rem;
   height: 115px;
 }
 
@@ -40,7 +39,6 @@
 .main-nav {
   display: flex;
   gap: 1.5rem;
-  flex-wrap: wrap;
   align-items: center;
 }
 
@@ -64,9 +62,9 @@
   background: none;
   border: none;
   color: #fff;
-  font-size: 1.8rem;
+  font-size: 1.9rem;
   cursor: pointer;
-  padding: 0.4rem;
+  padding: 0.3rem 0.5rem;
   line-height: 1;
 }
 
@@ -178,10 +176,6 @@
   padding: 5rem 1rem;
 }
 
-.section.alt {
-  background: #f8fafc;
-}
-
 .container {
   max-width: 1100px;
   margin: 0 auto;
@@ -206,30 +200,6 @@ article {
   justify-content: space-between;
 }
 
-.pagination-item {
-  padding: 0.6rem 1.2rem;
-}
-
-.archive ul,
-.archive-list,
-.archive li,
-.archive-post {
-  margin: 0 !important;
-  padding: 0 !important;
-  line-height: 1.35 !important;
-}
-
-.archive li,
-.archive-post {
-  margin-bottom: 0.3rem !important;
-}
-
-.archive h2,
-.archive h3 {
-  margin-top: 1.8rem;
-  margin-bottom: 0.5rem;
-}
-
 .section h2 {
   font-size: 1.8rem;
   margin-bottom: 2rem;
@@ -247,33 +217,12 @@ article {
   border: 1px solid #e5e7eb;
   border-radius: 8px;
   padding: 1.8rem;
-  transition: box-shadow 0.3s;
-}
-
-.post-card:hover {
-  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
-}
-
-.post-card h3 {
-  margin-top: 0;
-  font-size: 1.25rem;
-}
-
-.post-card time {
-  display: block;
-  font-size: 0.9rem;
-  color: #6b7280;
-  margin-bottom: 0.8rem;
 }
 
 .read-more {
   color: #0f766e;
   font-weight: 600;
   text-decoration: none;
-}
-
-.read-more:hover {
-  text-decoration: underline;
 }
 
 /* ===== FOOTER ===== */
@@ -289,7 +238,7 @@ article {
   margin: 0;
 }
 
-/* Hide old leftover mobile logos */
+/* Hide old leftover elements */
 .events-footer,
 .sidebar-events,
 .sidebar-socmed,
@@ -297,12 +246,15 @@ article {
   display: none !important;
 }
 
-/* ===== RESPONSIVE + HAMBURGER ===== */
+/* ===== MOBILE (iPhone fix) ===== */
 @media (max-width: 900px) {
   .header-inner {
-    height: auto;
-    padding: 1rem 1rem;
-    flex-wrap: wrap;
+    height: 80px;                 /* shorter on mobile */
+    padding: 0 1rem;
+  }
+
+  .site-logo {
+    height: 42px;
   }
 
   .menu-toggle {
@@ -311,12 +263,16 @@ article {
 
   .main-nav {
     display: none;
-    width: 100%;
+    position: absolute;
+    top: 80px;
+    left: 0;
+    right: 0;
+    background: #000;
     flex-direction: column;
     gap: 0;
-    background: #000;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
     border-top: 1px solid #333;
+    z-index: 999;
   }
 
   .main-nav.is-open {
@@ -324,35 +280,21 @@ article {
   }
 
   .main-nav a {
-    padding: 0.8rem 1rem;
+    padding: 1rem;
     width: 100%;
     text-align: center;
     border-bottom: 1px solid #222;
-  }
-
-  .site-logo {
-    height: 48px;
-  }
-
-  .project-logos .logo-item img {
-    max-height: 42px !important;
   }
 }
 
 @media (max-width: 600px) {
   .hero {
-    min-height: 72vh;
-  }
-  .project-logos .container {
-    gap: 2rem;
+    min-height: 70vh;
   }
   .project-logos .logo-item img {
     max-height: 38px !important;
   }
   .btn {
     min-width: 200px;
-  }
-  .site-logo {
-    height: 40px;
   }
 }
