@@ -15,24 +15,25 @@
 .header-inner {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0.55rem 1.5rem;
+  padding: 0 1.5rem;
   display: flex;
-  align-items: center;          /* vertical centering */
+  align-items: center;          /* perfect vertical centering */
   justify-content: space-between;
   gap: 2rem;
-  min-height: 60px;
+  height: 64px;                 /* fixed height for equal top/bottom space */
 }
 
 .logo-link {
   display: flex;
   align-items: center;
+  height: 100%;
   line-height: 0;
 }
 
 .site-logo {
-  height: 36px;                 /* natural height */
-  width: auto;                  /* preserve aspect ratio – no squishing */
-  max-width: 280px;
+  height: 34px;                 /* natural height */
+  width: auto;                  /* NEVER squish – preserves aspect ratio */
+  max-width: 260px;
   display: block;
 }
 
@@ -185,7 +186,20 @@ article {
   line-height: 1.7;
 }
 
-/* Archive – much tighter spacing */
+/* Pagination (Next / Previous) – more breathing room from edges */
+.pagination {
+  max-width: 780px;
+  margin: 3rem auto 0;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.pagination-item {
+  padding: 0.6rem 1.2rem;
+}
+
+/* Archive – tighter spacing */
 .archive ul,
 .archive-list,
 .archive li,
@@ -197,13 +211,13 @@ article {
 
 .archive li,
 .archive-post {
-  margin-bottom: 0.35rem !important;
+  margin-bottom: 0.3rem !important;
 }
 
 .archive h2,
 .archive h3 {
   margin-top: 1.8rem;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.5rem;
 }
 
 .section h2 {
@@ -265,7 +279,7 @@ article {
   margin: 0;
 }
 
-/* Hide old leftover mobile logos / events footer */
+/* Hide old leftover mobile logos */
 .events-footer,
 .sidebar-events,
 .sidebar-socmed,
@@ -273,20 +287,29 @@ article {
   display: none !important;
 }
 
+/* ===== HAMBURGER MENU (ready for next step) ===== */
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+
 /* Responsive */
 @media (max-width: 900px) {
   .header-inner {
-    flex-direction: column;
-    gap: 0.5rem;
-    padding: 0.6rem 1rem;
-    min-height: auto;
+    height: auto;
+    padding: 0.7rem 1rem;
+    flex-wrap: wrap;
   }
   .main-nav {
     gap: 1.1rem;
     justify-content: center;
   }
   .site-logo {
-    height: 32px;
+    height: 30px;
   }
 }
 
