@@ -15,28 +15,32 @@
 .header-inner {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0.5rem 1.5rem;   /* tighter vertical padding */
+  padding: 0.55rem 1.5rem;
   display: flex;
-  align-items: center;
+  align-items: center;          /* vertical centering */
   justify-content: space-between;
   gap: 2rem;
+  min-height: 60px;
 }
 
 .logo-link {
-  display: block;
+  display: flex;
+  align-items: center;
   line-height: 0;
 }
 
 .site-logo {
-  height: 38px;          /* slightly smaller after you trimmed the PNG */
-  width: auto;
-  max-width: 300px;
+  height: 36px;                 /* natural height */
+  width: auto;                  /* preserve aspect ratio – no squishing */
+  max-width: 280px;
+  display: block;
 }
 
 .main-nav {
   display: flex;
   gap: 1.5rem;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .main-nav a {
@@ -181,12 +185,25 @@ article {
   line-height: 1.7;
 }
 
-/* Tighter spacing on Archive page */
-.archive-list li,
-.archive ul li,
+/* Archive – much tighter spacing */
+.archive ul,
+.archive-list,
+.archive li,
 .archive-post {
-  margin-bottom: 0.4rem !important;
-  line-height: 1.4 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.35 !important;
+}
+
+.archive li,
+.archive-post {
+  margin-bottom: 0.35rem !important;
+}
+
+.archive h2,
+.archive h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.6rem;
 }
 
 .section h2 {
@@ -248,12 +265,21 @@ article {
   margin: 0;
 }
 
+/* Hide old leftover mobile logos / events footer */
+.events-footer,
+.sidebar-events,
+.sidebar-socmed,
+.sidebar-bottom {
+  display: none !important;
+}
+
 /* Responsive */
 @media (max-width: 900px) {
   .header-inner {
     flex-direction: column;
-    gap: 0.6rem;
+    gap: 0.5rem;
     padding: 0.6rem 1rem;
+    min-height: auto;
   }
   .main-nav {
     gap: 1.1rem;
