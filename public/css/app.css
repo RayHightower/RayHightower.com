@@ -219,6 +219,24 @@ article {
   margin: 0;
 }
 
+/* Footer social icons */
+.footer-socmed {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+}
+
+.footer-socmed a {
+  color: #fff;
+  margin: 0 0.4rem;
+  text-decoration: none;
+  opacity: 0.85;
+  transition: opacity 0.2s;
+}
+
+.footer-socmed a:hover {
+  opacity: 1;
+}
+
 /* Hide old leftover elements */
 .events-footer,
 .sidebar-events,
