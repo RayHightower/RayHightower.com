@@ -17,10 +17,10 @@
   margin: 0 auto;
   padding: 0 1.5rem;
   display: flex;
-  align-items: center;          /* perfect vertical centering */
+  align-items: center;
   justify-content: space-between;
   gap: 2rem;
-  height: 115px;                /* +20% thickness */
+  height: 115px;                /* band stays the same */
 }
 
 .logo-link {
@@ -31,9 +31,9 @@
 }
 
 .site-logo {
-  height: 75px;                 /* +30% size */
-  width: auto;                  /* preserve aspect ratio */
-  max-width: 420px;
+  height: 72px;                 /* new larger height for the letters */
+  width: auto;                  /* keeps the old (wider) aspect ratio */
+  max-width: 480px;
   display: block;
 }
 
@@ -101,222 +101,4 @@
 .hero-subtitle {
   font-size: clamp(1.35rem, 3.5vw, 1.85rem);
   margin: 0 0 2.8rem;
-  font-weight: 500;
-  text-shadow: 0 2px 10px rgba(0,0,0,0.5);
-}
-
-.hero-ctas {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.2rem;
-  justify-content: center;
-}
-
-.btn {
-  display: inline-block;
-  min-width: 220px;
-  padding: 0.95rem 2rem;
-  border-radius: 50px;
-  font-weight: 700;
-  text-decoration: none;
-  transition: all 0.3s;
-  font-size: 1.05rem;
-  text-align: center;
-}
-
-.btn-secondary {
-  background: transparent;
-  color: white;
-  border: 2px solid white;
-}
-
-.btn-secondary:hover {
-  background: white;
-  color: #0f766e;
-}
-
-/* ===== PROJECT LOGOS ===== */
-.project-logos {
-  padding: 2.8rem 1rem;
-  background: #fff;
-  border-bottom: 1px solid #e5e7eb;
-}
-
-.project-logos .container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 3.5rem;
-  justify-content: center;
-  align-items: center;
-}
-
-.project-logos .logo-item img {
-  max-height: 52px;
-  width: auto;
-  transition: transform 0.3s;
-}
-
-.project-logos .logo-item:hover img {
-  transform: scale(1.08);
-}
-
-/* ===== CONTENT SECTIONS ===== */
-.section {
-  padding: 5rem 1rem;
-}
-
-.section.alt {
-  background: #f8fafc;
-}
-
-.container {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 1.5rem;
-}
-
-/* Comfortable margins for blog posts & secondary pages */
-.content,
-.post,
-.page,
-article {
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 2.5rem 1.5rem;
-  line-height: 1.7;
-}
-
-/* Pagination (Next / Previous) */
-.pagination {
-  max-width: 780px;
-  margin: 3rem auto 0;
-  padding: 0 1.5rem;
-  display: flex;
-  justify-content: space-between;
-}
-
-.pagination-item {
-  padding: 0.6rem 1.2rem;
-}
-
-/* Archive */
-.archive ul,
-.archive-list,
-.archive li,
-.archive-post {
-  margin: 0 !important;
-  padding: 0 !important;
-  line-height: 1.35 !important;
-}
-
-.archive li,
-.archive-post {
-  margin-bottom: 0.3rem !important;
-}
-
-.archive h2,
-.archive h3 {
-  margin-top: 1.8rem;
-  margin-bottom: 0.5rem;
-}
-
-.section h2 {
-  font-size: 1.8rem;
-  margin-bottom: 2rem;
-  text-align: center;
-}
-
-.posts-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2.5rem;
-}
-
-.post-card {
-  background: #fff;
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-  padding: 1.8rem;
-  transition: box-shadow 0.3s;
-}
-
-.post-card:hover {
-  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
-}
-
-.post-card h3 {
-  margin-top: 0;
-  font-size: 1.25rem;
-}
-
-.post-card time {
-  display: block;
-  font-size: 0.9rem;
-  color: #6b7280;
-  margin-bottom: 0.8rem;
-}
-
-.read-more {
-  color: #0f766e;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.read-more:hover {
-  text-decoration: underline;
-}
-
-/* ===== FOOTER ===== */
-.site-footer {
-  background: #000;
-  color: #fff;
-  text-align: center;
-  padding: 1.8rem 1rem;
-  font-size: 0.95rem;
-}
-
-.site-footer p {
-  margin: 0;
-}
-
-/* Hide old leftover mobile logos */
-.events-footer,
-.sidebar-events,
-.sidebar-socmed,
-.sidebar-bottom {
-  display: none !important;
-}
-
-/* Responsive */
-@media (max-width: 900px) {
-  .header-inner {
-    height: auto;
-    padding: 1rem 1rem;
-    flex-wrap: wrap;
-  }
-  .main-nav {
-    gap: 1.1rem;
-    justify-content: center;
-  }
-  .site-logo {
-    height: 52px;
-  }
-}
-
-@media (max-width: 600px) {
-  .hero {
-    min-height: 72vh;
-  }
-  .project-logos .container {
-    gap: 2rem;
-  }
-  .project-logos .logo-item img {
-    max-height: 42px;
-  }
-  .btn {
-    min-width: 200px;
-  }
-  .site-logo {
-    height: 44px;
-  }
-}
+  font-
