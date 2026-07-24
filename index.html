@@ -16,18 +16,6 @@ title: Home
   <div class="hero-content">
     <p class="hero-subtitle">Real Estate Investor • Tech Builder • Speaker</p>
 
-    <div class="hero-logos">
-      <a href="{{ site.roiclear_url }}" target="_blank" class="logo-item">
-        <img src="/images/ROIClear-logo.png" alt="ROIClear">
-      </a>
-      <a href="{{ site.azmm_url }}" target="_blank" class="logo-item">
-        <img src="/images/AZMM-logo.png" alt="AZMM.org">
-      </a>
-      <a href="{{ site.investor_portal_url }}" class="logo-item">
-        <img src="/images/Investor-Portal-logo.png" alt="Investor Portal">
-      </a>
-    </div>
-
     <div class="hero-ctas">
       <a href="/about" class="btn btn-primary">About RayHightower</a>
       <a href="/speaking" class="btn btn-secondary">Speaking</a>
@@ -35,7 +23,22 @@ title: Home
   </div>
 </section>
 
-<!-- Supporting sections -->
+<!-- Project Logos (below hero) -->
+<section class="project-logos">
+  <div class="container">
+    <a href="{{ site.roiclear_url }}" target="_blank" class="logo-item">
+      <img src="/images/ROIClear-logo.png" alt="ROIClear">
+    </a>
+    <a href="{{ site.azmm_url }}" target="_blank" class="logo-item">
+      <img src="/images/AZMM-logo.png" alt="AZMM.org">
+    </a>
+    <a href="{{ site.investor_portal_url }}" class="logo-item">
+      <img src="/images/Investor-Portal-logo.png" alt="Investor Portal">
+    </a>
+  </div>
+</section>
+
+<!-- Featured Articles -->
 <section class="section">
   <div class="container">
     <h2>Featured Articles</h2>
@@ -43,6 +46,7 @@ title: Home
   </div>
 </section>
 
+<!-- Observations -->
 <section class="section alt">
   <div class="container">
     <h2>Observations</h2>
@@ -50,12 +54,13 @@ title: Home
   </div>
 </section>
 
+<!-- Latest Insights -->
 <section class="section">
   <div class="container">
     <h2>Latest Insights</h2>
-    <div class="posts">
+    <div class="posts-grid">
       {% for post in paginator.posts limit: 3 %}
-      <article class="post-teaser">
+      <article class="post-card">
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <time>{{ post.date | date_to_string }}</time>
         {{ post.excerpt }}
