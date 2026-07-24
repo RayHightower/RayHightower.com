@@ -219,17 +219,18 @@ article {
   margin: 0;
 }
 
-/* Footer social icons */
+/* Footer social icons – white on transparent, 50% bigger */
 .footer-socmed {
   margin-bottom: 1rem;
-  font-size: 1.6rem;
+  font-size: 2.4rem;          /* was 1.6rem → 50% larger */
 }
 
 .footer-socmed a {
-  color: #fff;
-  margin: 0 0.4rem;
+  color: #fff;                /* pure white icons */
+  background: transparent;    /* transparent background */
+  margin: 0 0.45rem;
   text-decoration: none;
-  opacity: 0.85;
+  opacity: 0.9;
   transition: opacity 0.2s;
 }
 
