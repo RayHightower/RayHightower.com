@@ -265,31 +265,26 @@ article {
 }
 
 /* ===== SPEAKING PAGE ===== */
-.speaking-hero {
-  padding: 4rem 1.5rem;
-  background: #f8fafc;
-}
-
-.speaking-hero-content {
-  max-width: 1000px;
-  margin: 0 auto;
+.speaking-intro {
   display: flex;
-  gap: 3rem;
   align-items: center;
+  gap: 2.5rem;
+  max-width: 800px;
+  margin: 0 auto 3rem;
 }
 
-.speaking-photo {
-  width: 220px;
+.speaking-intro-photo {
+  width: 180px;
   height: auto;
   border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   flex-shrink: 0;
 }
 
-.speaking-tagline {
-  font-size: 1.25rem;
-  color: #0f766e;
-  margin: 0.5rem 0 1.5rem;
-  font-weight: 600;
+.speaking-intro-text {
+  font-size: 1.3rem;
+  line-height: 1.7;
+  margin: 0;
 }
 
 .talk-grid {
@@ -338,93 +333,4 @@ article {
 }
 
 .cta-section .btn-primary:hover {
-  background: #f0fdfa;
-}
-
-/* Featured video */
-.video-wrapper {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 800px;
-  margin: 2rem auto;
-  border-radius: 8px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
-}
-
-.video-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.featured-intro {
-  text-align: center;
-  max-width: 700px;
-  margin: 0 auto 1.5rem;
-  font-size: 1.15rem;
-}
-
-.video-caption {
-  text-align: center;
-  margin-top: 1rem;
-  font-size: 1.05rem;
-}
-
-/* ===== SEARCH PAGE ===== */
-#search_box {
-  width: 100%;
-  max-width: 500px;
-  padding: 0.9rem 1.2rem;
-  font-size: 1.15rem;
-  border: 2px solid #333;
-  border-radius: 8px;
-  background: #fff;
-  color: #111;
-  outline: none;
-  transition: border-color 0.2s;
-}
-
-#search_box:focus {
-  border-color: #0f766e;
-  box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.2);
-}
-
-#site_search input[type="submit"] {
-  margin-top: 1rem;
-  padding: 0.8rem 2rem;
-  font-size: 1.1rem;
-  background: #0f766e;
-  color: white;
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-}
-
-#site_search input[type="submit"]:hover {
-  background: #0d5f58;
-}
-
-/* ===== MOBILE ===== */
-@media (max-width: 900px) {
-  .header-inner {
-    height: 72px;
-    padding: 0 1rem;
-  }
-
-  .site-logo {
-    height: 36px;
-  }
-
-  .menu-toggle {
-    display: block;
-  }
-
-  .main-nav {
-    display: none;
-    position: absolute;
-    top: 72px;
-    left: 0;
+  background: #f0fdfa

@@ -8,9 +8,16 @@ footer: true
 <section class="section">
   <div class="container">
 
-    <p style="text-align: center; font-size: 1.3rem; line-height: 1.7; max-width: 720px; margin: 0 auto 2.5rem;">
-      Ray Hightower delivers presentations on commercial real estate, technology, and business growth. Ray is invited to speak at gatherings all over the world. Here’s a sample:
-    </p>
+    <!-- Headshot + Intro Paragraph -->
+    <div class="speaking-intro">
+      <img src="/images/RayHightower_ROClear_Podcast_July2024.jpg" 
+           alt="Ray Hightower" 
+           class="speaking-intro-photo">
+      
+      <p class="speaking-intro-text">
+        Ray Hightower delivers presentations on commercial real estate, technology, and business growth. Ray is invited to speak at gatherings all over the world. Here’s a sample:
+      </p>
+    </div>
 
     <div class="video-wrapper">
       <iframe 
@@ -27,14 +34,7 @@ footer: true
       A technical deep-dive delivered with clarity and energy.
     </p>
 
-    <!-- Headshot right after the video -->
-    <div style="text-align: center; margin: 2.5rem 0 1.5rem;">
-      <img src="/images/RayHightower_ROClear_Podcast_July2024.jpg" 
-           alt="Ray Hightower" 
-           style="width: 180px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-    </div>
-
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-top: 2.5rem;">
       <a href="/contact" class="btn btn-primary">Invite Ray to Speak</a>
     </div>
   </div>
