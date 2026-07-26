@@ -18,7 +18,28 @@ footer: true
   </div>
 </section>
 
+<!-- Featured Presentation -->
 <section class="section">
+  <div class="container">
+    <h2>Featured Presentation</h2>
+    <p class="featured-intro">One of my strongest talks — both in content and production quality. Event planners: this is a good representation of what I bring to the stage.</p>
+    
+    <div class="video-wrapper">
+      <iframe width="100%" height="450" src="https://www.youtube.com/embed/BHZCCUEzK0s" 
+              title="Parallella: The Most Energy Efficient Supercomputer – Ray Hightower" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+              allowfullscreen>
+      </iframe>
+    </div>
+    
+    <p class="video-caption"><strong>Parallella: The Most Energy Efficient Supercomputer</strong><br>
+    A technical deep-dive delivered with clarity and energy.</p>
+  </div>
+</section>
+
+<!-- Signature Topics -->
+<section class="section alt">
   <div class="container">
     <h2>Signature Topics</h2>
     
@@ -46,46 +67,38 @@ footer: true
   </div>
 </section>
 
-<section class="section alt">
+<!-- Selected Appearances (shortened) -->
+<section class="section">
   <div class="container">
     <h2>Selected Appearances</h2>
 
-    <h3>Real Estate & Investing</h3>
     <ul class="appearance-list">
       <li><strong>Tech Founder to Passive and Active Investor</strong> — The Gentle Art of Crushing It Podcast</li>
       <li><strong>Arizona: Best Choice</strong> — Level Up REI Podcast with Lisa Hylton</li>
       <li><strong>Syndication Case Study</strong> — Build Your Bank Conference, Fort Lauderdale</li>
-      <li><strong>How to Buy Big Deals Via Syndication</strong> — Tucson Multifamily Meetup</li>
       <li><strong>What is Underwriting?</strong> — Nashville Multifamily Meetup</li>
-      <li><strong>Empathy and Real Estate Investing</strong> — The Academy Presents Podcast</li>
-      <li><strong>Are You Competitive Enough?</strong> — Trial to Triumph Podcast</li>
-    </ul>
-
-    <h3>Technology</h3>
-    <ul class="appearance-list">
-      <li>Parallella – The Most Energy Efficient Supercomputer — Madison+ Ruby</li>
-      <li>Supercomputing for Everyone — RubyConf Colombia (Medellín)</li>
-      <li>Exploring Parallelism with Parallella & Raspberry Pi — SCNA, Los Angeles</li>
-      <li>Wrestling with the Internet of Things — ChicagoRuby</li>
-      <li>Parallella in Five Minutes — RubyConf 2015</li>
-      <li>Node.js Under Water (OpenROV) — NYC Node.js User Group</li>
+      <li><strong>Parallella: The Most Energy Efficient Supercomputer</strong> — Madison+ Ruby</li>
+      <li><strong>Node.js Under Water (OpenROV)</strong> — NYC Node.js User Group</li>
+      <li><strong>Supercomputing for Everyone</strong> — RubyConf Colombia</li>
     </ul>
   </div>
 </section>
 
-<section class="section">
+<!-- Past Events -->
+<section class="section alt">
   <div class="container">
     <h2>Past Events Include</h2>
     <p class="past-events">
-      Business of Software • RubyConf Kenya • ConFoo (Montreal & Vancouver) • Ancient City Ruby • in5 Innovation Centre (Dubai) • Rubyfuza (Cape Town) • Flourish! • LinuxBarbados • Aloha Ruby • and many more.
+      Business of Software • RubyConf Kenya • ConFoo • Ancient City Ruby • in5 Innovation Centre (Dubai) • Rubyfuza (Cape Town) • Flourish! • LinuxBarbados • Aloha Ruby • and many more.
     </p>
   </div>
 </section>
 
+<!-- Final CTA -->
 <section class="section cta-section">
   <div class="container">
     <h2>Ready to bring Ray to your event?</h2>
-    <p>Whether keynote, workshop, or fireside chat — in person or virtual.</p>
+    <p>Keynote • Workshop • Fireside Chat<br>In-person or virtual</p>
     <a href="/contact" class="btn btn-primary">Contact Ray</a>
   </div>
 </section>
