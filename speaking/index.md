@@ -7,14 +7,9 @@ footer: true
 <!-- Featured Presentation – Top of Page -->
 <section class="section">
   <div class="container">
-    <h1 style="text-align: center; margin-bottom: 1.2rem;">Ray Hightower</h1>
 
-    <p style="text-align: center; font-size: 1.35rem; line-height: 1.6; max-width: 700px; margin: 0 auto 2.5rem;">
-      is a <strong>Keynote Speaker</strong> on 
-      <strong>Real Estate Investing</strong>, 
-      <strong>Technology</strong>, and 
-      <strong>Business Growth</strong>.<br>
-      This sample talk shows what Ray brings to the stage.
+    <p style="text-align: center; font-size: 1.35rem; line-height: 1.7; max-width: 720px; margin: 0 auto 2.5rem;">
+      <strong>Ray Hightower</strong> is a <strong>Keynote Speaker</strong> on <strong>Real Estate Investing</strong>, <strong>Technology</strong>, and <strong>Business Growth</strong>. This sample talk shows what Ray brings to the stage.
     </p>
 
     <div class="video-wrapper">
@@ -75,11 +70,11 @@ footer: true
     <ul class="appearance-list">
       <li><strong>Tech Founder to Passive and Active Investor</strong> — The Gentle Art of Crushing It Podcast</li>
       <li><strong>Arizona: Best Choice</strong> — Level Up REI Podcast with Lisa Hylton</li>
-      <li><strong>Syndication Case Study</strong> — Build Your Bank Conference, Fort Lauderdale</li>
-      <li><strong>What is Underwriting?</strong> — Nashville Multifamily Meetup</li>
-      <li><strong>Parallella: The Most Energy Efficient Supercomputer</strong> — Madison+ Ruby</li>
-      <li><strong>Node.js Under Water (OpenROV)</strong> — NYC Node.js User Group</li>
-      <li><strong>Supercomputing for Everyone</strong> — RubyConf Colombia</li>
+      <li><strong>Syndication Case Study</strong> — Build Your Bank Conference, Fort Lauderdale, FL, USA</li>
+      <li><strong>What is Underwriting?</strong> — Nashville Multifamily Meetup, Nashville, TN, USA</li>
+      <li><strong>Parallella: The Most Energy Efficient Supercomputer</strong> — Madison+ Ruby, Madison, WI, USA</li>
+      <li><strong>Node.js Under Water (OpenROV)</strong> — NYC Node.js User Group, New York City, NY, USA</li>
+      <li><strong>Supercomputing for Everyone</strong> — RubyConf Colombia, Medellín, Colombia</li>
     </ul>
   </div>
 </section>
@@ -89,7 +84,7 @@ footer: true
   <div class="container">
     <h2>Past Events Include</h2>
     <p class="past-events">
-      Business of Software • RubyConf Kenya • ConFoo • Ancient City Ruby • in5 Innovation Centre (Dubai) • Rubyfuza (Cape Town) • Flourish! • LinuxBarbados • Aloha Ruby • and many more.
+      Business of Software (Boston, MA) • RubyConf Kenya (Ongata Rongai, Kenya) • ConFoo (Montreal & Vancouver, Canada) • Ancient City Ruby (St. Augustine, FL) • in5 Innovation Centre (Dubai, UAE) • Rubyfuza (Cape Town, South Africa) • Flourish! (Chicago, IL) • LinuxBarbados (Cave Hill, Barbados) • Aloha Ruby (Honolulu, HI) • and many more.
     </p>
   </div>
 </section>
