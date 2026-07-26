@@ -4,37 +4,33 @@ title: "Speaking"
 footer: true
 ---
 
-<section class="speaking-hero">
-  <div class="speaking-hero-content">
-    <img src="/images/RayHightower_ROClear_Podcast_July2024.jpg" alt="Ray Hightower" class="speaking-photo">
-    
-    <div>
-      <h1>Ray Hightower</h1>
-      <p class="speaking-tagline">Keynote Speaker on Real Estate Investing, Technology & Business Growth</p>
-      <p>Ray started and ran a technology company for over two decades before selling it and launching <a href="https://roiclear.com" target="_blank">ROIClear</a>. He now speaks to audiences worldwide on commercial real estate, technology, and building high-performing teams.</p>
-      
-      <a href="/contact" class="btn btn-primary">Invite Ray to Speak</a>
-    </div>
-  </div>
-</section>
-
-<!-- Featured Presentation -->
+<!-- Featured Presentation – Top of Page -->
 <section class="section">
   <div class="container">
+    <h1 style="text-align: center; margin-bottom: 0.5rem;">Ray Hightower</h1>
+    <p class="speaking-tagline" style="text-align: center; margin-bottom: 2rem;">Keynote Speaker on Real Estate Investing, Technology & Business Growth</p>
+
     <h2>Featured Presentation</h2>
-    <p class="featured-intro">One of my strongest talks — both in content and production quality. Event planners: this is a good representation of what I bring to the stage.</p>
+    <p class="featured-intro">One of Ray Hightower’s strongest talks — both in content and production quality. This is a good representation of what Ray brings to the stage.</p>
     
     <div class="video-wrapper">
-      <iframe width="100%" height="450" src="https://www.youtube.com/embed/BHZCCUEzK0s" 
-              title="Parallella: The Most Energy Efficient Supercomputer – Ray Hightower" 
-              frameborder="0" 
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-              allowfullscreen>
+      <iframe 
+        src="https://www.youtube.com/embed/BHZCCUEzK0s" 
+        title="Parallella: The Most Energy Efficient Supercomputer – Ray Hightower" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
       </iframe>
     </div>
     
-    <p class="video-caption"><strong>Parallella: The Most Energy Efficient Supercomputer</strong><br>
-    A technical deep-dive delivered with clarity and energy.</p>
+    <p class="video-caption">
+      <strong>Parallella: The Most Energy Efficient Supercomputer</strong><br>
+      A technical deep-dive delivered with clarity and energy.
+    </p>
+
+    <div style="text-align: center; margin-top: 2.5rem;">
+      <a href="/contact" class="btn btn-primary">Invite Ray to Speak</a>
+    </div>
   </div>
 </section>
 
@@ -67,7 +63,7 @@ footer: true
   </div>
 </section>
 
-<!-- Selected Appearances (shortened) -->
+<!-- Selected Appearances -->
 <section class="section">
   <div class="container">
     <h2>Selected Appearances</h2>
@@ -97,7 +93,7 @@ footer: true
 <!-- Final CTA -->
 <section class="section cta-section">
   <div class="container">
-    <h2>Ready to bring Ray to your event?</h2>
+    <h2>Ready to bring Ray Hightower to your event?</h2>
     <p>Keynote • Workshop • Fireside Chat<br>In-person or virtual</p>
     <a href="/contact" class="btn btn-primary">Contact Ray</a>
   </div>
