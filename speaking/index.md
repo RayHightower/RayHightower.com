@@ -8,8 +8,8 @@ footer: true
 <section class="section">
   <div class="container">
 
-    <p style="text-align: center; font-size: 1.35rem; line-height: 1.7; max-width: 720px; margin: 0 auto 2.5rem;">
-      <strong>Ray Hightower</strong> is a <strong>Keynote Speaker</strong> on <strong>Real Estate Investing</strong>, <strong>Technology</strong>, and <strong>Business Growth</strong>. This sample talk shows what Ray brings to the stage.
+    <p style="text-align: center; font-size: 1.3rem; line-height: 1.7; max-width: 720px; margin: 0 auto 2.5rem;">
+      Ray Hightower delivers presentations on commercial real estate, technology, and business growth. Ray is invited to speak at gatherings all over the world. Here’s a sample:
     </p>
 
     <div class="video-wrapper">
@@ -27,7 +27,14 @@ footer: true
       A technical deep-dive delivered with clarity and energy.
     </p>
 
-    <div style="text-align: center; margin-top: 2.5rem;">
+    <!-- Headshot right after the video -->
+    <div style="text-align: center; margin: 2.5rem 0 1.5rem;">
+      <img src="/images/RayHightower_ROClear_Podcast_July2024.jpg" 
+           alt="Ray Hightower" 
+           style="width: 180px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    </div>
+
+    <div style="text-align: center;">
       <a href="/contact" class="btn btn-primary">Invite Ray to Speak</a>
     </div>
   </div>
