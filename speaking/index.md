@@ -7,12 +7,16 @@ footer: true
 <!-- Featured Presentation – Top of Page -->
 <section class="section">
   <div class="container">
-    <h1 style="text-align: center; margin-bottom: 0.5rem;">Ray Hightower</h1>
-    <p class="speaking-tagline" style="text-align: center; margin-bottom: 2rem;">Keynote Speaker on Real Estate Investing, Technology & Business Growth</p>
+    <h1 style="text-align: center; margin-bottom: 1.2rem;">Ray Hightower</h1>
 
-    <h2>Featured Presentation</h2>
-    <p class="featured-intro">One of Ray Hightower’s strongest talks — both in content and production quality. This is a good representation of what Ray brings to the stage.</p>
-    
+    <p style="text-align: center; font-size: 1.35rem; line-height: 1.6; max-width: 700px; margin: 0 auto 2.5rem;">
+      is a <strong>Keynote Speaker</strong> on 
+      <strong>Real Estate Investing</strong>, 
+      <strong>Technology</strong>, and 
+      <strong>Business Growth</strong>.<br>
+      This sample talk shows what Ray brings to the stage.
+    </p>
+
     <div class="video-wrapper">
       <iframe 
         src="https://www.youtube.com/embed/BHZCCUEzK0s" 
