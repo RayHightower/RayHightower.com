@@ -4,11 +4,10 @@ title: "Speaking"
 footer: true
 ---
 
-<!-- Featured Presentation – Top of Page -->
 <section class="section">
   <div class="container">
 
-    <!-- Headshot + Intro Paragraph -->
+    <!-- Headshot + Intro -->
     <div class="speaking-intro">
       <img src="/images/RayHightower_ROClear_Podcast_July2024.jpg" 
            alt="Ray Hightower" 
@@ -19,6 +18,7 @@ footer: true
       </p>
     </div>
 
+    <!-- Featured Video -->
     <div class="video-wrapper">
       <iframe 
         src="https://www.youtube.com/embed/BHZCCUEzK0s" 
@@ -34,9 +34,10 @@ footer: true
       A technical deep-dive delivered with clarity and energy.
     </p>
 
-    <div style="text-align: center; margin-top: 2.5rem;">
-      <a href="/contact" class="btn btn-primary">Invite Ray to Speak</a>
+    <div style="text-align: center; margin-top: 2.8rem;">
+      <a href="/contact" class="btn btn-primary">Invite RayHightower to Speak</a>
     </div>
+
   </div>
 </section>
 
@@ -101,6 +102,6 @@ footer: true
   <div class="container">
     <h2>Ready to bring Ray Hightower to your event?</h2>
     <p>Keynote • Workshop • Fireside Chat<br>In-person or virtual</p>
-    <a href="/contact" class="btn btn-primary">Contact Ray</a>
+    <a href="/contact" class="btn btn-primary">Invite RayHightower to Speak</a>
   </div>
 </section>
