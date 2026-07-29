@@ -6,7 +6,7 @@ sharing: false
 footer: true
 ---
 
-Every achievement in Ray Hightower's life can be traced to lessons taught to him and his brother by their parents. They taught by example, through admonishments ("go and do something constructive"), and through poetry. 
+Every achievement in Ray Hightower's life can be traced to lessons taught to him and his brother by their parents. Mom and Dad taught by example, through advice ("go and do something constructive"), and through poetry. 
 
 Here are two poems that the sons were required to memorize and recite from a young age.
 
