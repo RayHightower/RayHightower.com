@@ -18,4 +18,6 @@ Here are two poems that the sons were required to memorize and recite from a you
 * **[It Couldn’t Be Done](/done/)**  
   by Edgar Albert Guest
 
-[ Add more text here. ]
+<img src="/assets/images/RTHEagle.jpg" width="600" align="center" alt="Ray Hightower Eagle Scout" title="Ray Hightower Eagle Scout">
+
+Ray Hightower earned the rank of Eagle Scout in the Boy Scouts of America on October 24, 1978. The ceremony, held in Chicago, IL, USA, is captured in the above photo.
