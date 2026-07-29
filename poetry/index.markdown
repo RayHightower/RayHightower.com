@@ -20,4 +20,4 @@ Here are two poems that the sons were required to memorize and recite from a you
 
 <img src="/assets/images/RTHEagle.jpg" width="600" align="center" alt="Ray Hightower Eagle Scout" title="Ray Hightower Eagle Scout">
 
-Ray Hightower earned the rank of Eagle Scout in the Boy Scouts of America on October 24, 1978. The ceremony, held in Chicago, IL, USA, is captured in the above photo.
+Ray Hightower earned the rank of Eagle Scout in the Boy Scouts of America on October 24, 1978. In the above photo, Ray is flanked by his parents while his brother, Edward, presents the Eagle medal.
