@@ -47,13 +47,18 @@
   text-decoration: none;
   font-size: 1rem;
   font-weight: 500;
-  transition: opacity 0.2s;
+  transition: color 0.2s, opacity 0.2s;
 }
 
-.main-nav a:hover,
-.main-nav a.active {
+.main-nav a:hover {
   opacity: 0.75;
   text-decoration: underline;
+}
+
+.main-nav a.active {
+  color: #39FF14;          /* bright LED green */
+  text-decoration: none;
+  opacity: 1;
 }
 
 /* Hamburger button */
@@ -342,7 +347,7 @@ article {
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
-  max-width: 920px;          /* increased from 800px */
+  max-width: 920px;
   margin: 0 auto 1.5rem;
   border-radius: 10px;
   box-shadow: 0 12px 35px rgba(0,0,0,0.15);
