@@ -39,7 +39,7 @@ Everybody wins when deals are structured well.
 
 You can reach Ray via the [contact](/contact) page on this site. Learn more at…
 
-* <a href="https://x.com/rayhightower"><i class="fab fa-x-twitter"></i> (formerly Twitter)</a>
+* <a href="https://x.com/RayHightower"><i class="fab fa-x-twitter"></i></a>
 * [LinkedIn](https://linkedin.com/in/rayhightower)
 * [YouTube](https://youtube.com/rayhightower)
 * [GitHub](https://github.com/rayhightower)
