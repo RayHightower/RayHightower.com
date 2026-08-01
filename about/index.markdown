@@ -41,5 +41,5 @@ You can reach Ray via the [contact](/contact) page on this site. Learn more atâ€
 
 * <a href="https://x.com/RayHightower"><i class="fab fa-x-twitter"></i></a>
 * [LinkedIn](https://linkedin.com/in/rayhightower)
-* [YouTube](https://youtube.com/rayhightower)
+* [YouTube](https://youtube.com/@ROIClear)
 * [GitHub](https://github.com/rayhightower)
