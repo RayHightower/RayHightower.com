@@ -19,7 +19,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 2.5rem;                 /* ← NEW: prevents logo & nav from colliding */
+  gap: 2.5rem;
   height: 115px;
 }
 
@@ -215,6 +215,51 @@ article {
   line-height: 1.7;
 }
 
+/* ===== RESPONSIVE VIDEO (fixes all embedded YouTube videos) ===== */
+.post iframe,
+.page iframe,
+article iframe,
+.content iframe {
+  max-width: 100%;
+}
+
+.post iframe[src*="youtube"],
+.page iframe[src*="youtube"],
+article iframe[src*="youtube"],
+.content iframe[src*="youtube"] {
+  aspect-ratio: 16 / 9;
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin: 1.5rem 0;
+}
+
+/* Fallback for older browsers / Speaking page */
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 920px;
+  margin: 0 auto 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 12px 35px rgba(0,0,0,0.15);
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.video-caption {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 1.1rem;
+}
+
 .pagination {
   max-width: 780px;
   margin: 3rem auto 0;
@@ -345,32 +390,6 @@ article {
   background: #f0fdfa;
 }
 
-/* Featured video – larger */
-.video-wrapper {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 920px;
-  margin: 0 auto 1.5rem;
-  border-radius: 10px;
-  box-shadow: 0 12px 35px rgba(0,0,0,0.15);
-}
-
-.video-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.video-caption {
-  text-align: center;
-  margin-top: 1rem;
-  font-size: 1.1rem;
-}
-
 /* ===== SEARCH PAGE ===== */
 #search_box {
   width: 100%;
@@ -406,7 +425,6 @@ article {
 }
 
 /* ===== MOBILE / TABLET ===== */
-/* Raised breakpoint from 900px → 1100px to prevent crowding */
 @media (max-width: 1100px) {
   .header-inner {
     height: 72px;
@@ -416,7 +434,7 @@ article {
 
   .site-logo {
     height: 36px;
-    max-width: 260px;
+    max-width: 240px;
   }
 
   .menu-toggle {
@@ -467,9 +485,18 @@ article {
   .hero {
     min-height: 70vh;
   }
+
+  .content,
+  .post,
+  .page,
+  article {
+    padding: 1.8rem 1.1rem;   /* a bit more breathing room on small phones */
+  }
+
   .project-logos .logo-item img {
     max-height: 38px !important;
   }
+
   .btn {
     min-width: 200px;
   }
