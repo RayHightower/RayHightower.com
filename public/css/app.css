@@ -2,6 +2,42 @@
 
 @import url('https://fonts.googleapis.com/css?family=Arvo:700');
 
+/* ===== BASE RESETS (replaces what Poole used to provide) ===== */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  color: #0f766e;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 /* ===== STICKY HEADER ===== */
 .site-header {
   position: sticky;
@@ -196,7 +232,7 @@
   transform: scale(1.08);
 }
 
-/* Investor Portal button – raised slightly so bottom edges align */
+/* Investor Portal button */
 .btn-investor-portal {
   display: inline-flex;
   align-items: center;
@@ -212,7 +248,7 @@
   transition: all 0.2s ease;
   white-space: nowrap;
   line-height: 1;
-  margin-bottom: 20px;          /* ← raised the button */
+  margin-bottom: 20px;
 }
 
 .btn-investor-portal:hover {
