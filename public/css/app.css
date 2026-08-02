@@ -176,13 +176,13 @@
   flex-wrap: wrap;
   gap: 3rem;
   justify-content: center;
-  align-items: center;          /* already present – important */
+  align-items: flex-end;        /* ← Changed from center to flex-end (bottom edges aligned) */
 }
 
 .project-logos .logo-item {
   display: flex;
-  align-items: center;
-  height: 48px;                 /* force same height as logos */
+  align-items: flex-end;
+  height: 48px;
 }
 
 .project-logos .logo-item img {
@@ -196,14 +196,14 @@
   transform: scale(1.08);
 }
 
-/* Investor Portal button – matches ROIClear.com green + aligned */
+/* Investor Portal button – matches ROIClear.com green + bottom-aligned */
 .btn-investor-portal {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   background: #1a7a4c;
   color: #ffffff !important;
-  height: 48px;                 /* exact same height as the logos */
+  height: 48px;
   padding: 0 1.75rem;
   border-radius: 6px;
   font-weight: 600;
