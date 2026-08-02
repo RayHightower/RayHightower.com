@@ -190,6 +190,26 @@
   transform: scale(1.08);
 }
 
+/* Investor Portal button – matches ROIClear.com green */
+.btn-investor-portal {
+  display: inline-block;
+  background: #1a7a4c;
+  color: #ffffff !important;
+  padding: 0.85rem 1.75rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 1.05rem;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.btn-investor-portal:hover {
+  background: #14603c;
+  transform: translateY(-1px);
+  color: #ffffff !important;
+}
+
 /* ===== CONTENT SECTIONS ===== */
 .section {
   padding: 4rem 1rem;
@@ -490,7 +510,7 @@ article iframe[src*="youtube"],
   .post,
   .page,
   article {
-    padding: 1.8rem 1.1rem;   /* a bit more breathing room on small phones */
+    padding: 1.8rem 1.1rem;
   }
 
   .project-logos .logo-item img {
@@ -499,6 +519,11 @@ article iframe[src*="youtube"],
 
   .btn {
     min-width: 200px;
+  }
+
+  .btn-investor-portal {
+    padding: 0.75rem 1.4rem;
+    font-size: 1rem;
   }
 
   #search_box {
