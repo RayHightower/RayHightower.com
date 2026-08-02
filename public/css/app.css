@@ -176,35 +176,35 @@
   flex-wrap: wrap;
   gap: 3rem;
   justify-content: center;
-  align-items: flex-end;        /* ← Changed from center to flex-end (bottom edges aligned) */
+  align-items: flex-end;          /* bottom edges aligned */
 }
 
 .project-logos .logo-item {
   display: flex;
   align-items: flex-end;
-  height: 48px;
 }
 
 .project-logos .logo-item img {
-  max-height: 48px !important;
+  max-height: 52px !important;
   width: auto !important;
   height: auto !important;
   transition: transform 0.3s;
+  display: block;
 }
 
 .project-logos .logo-item:hover img {
   transform: scale(1.08);
 }
 
-/* Investor Portal button – matches ROIClear.com green + bottom-aligned */
+/* Investor Portal button – bottom aligned with logos */
 .btn-investor-portal {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   background: #1a7a4c;
   color: #ffffff !important;
-  height: 48px;
-  padding: 0 1.75rem;
+  height: 44px;
+  padding: 0 1.6rem;
   border-radius: 6px;
   font-weight: 600;
   font-size: 1.05rem;
@@ -212,6 +212,7 @@
   transition: all 0.2s ease;
   white-space: nowrap;
   line-height: 1;
+  margin-bottom: 2px;             /* tiny visual tweak for perfect bottom alignment */
 }
 
 .btn-investor-portal:hover {
@@ -520,12 +521,8 @@ article iframe[src*="youtube"],
     padding: 1.8rem 1.1rem;
   }
 
-  .project-logos .logo-item {
-    height: 40px;
-  }
-
   .project-logos .logo-item img {
-    max-height: 38px !important;
+    max-height: 42px !important;
   }
 
   .btn {
@@ -536,6 +533,7 @@ article iframe[src*="youtube"],
     height: 40px;
     padding: 0 1.4rem;
     font-size: 1rem;
+    margin-bottom: 1px;
   }
 
   #search_box {
