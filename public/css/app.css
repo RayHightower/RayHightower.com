@@ -176,7 +176,7 @@
   flex-wrap: wrap;
   gap: 3rem;
   justify-content: center;
-  align-items: flex-end;          /* bottom edges aligned */
+  align-items: flex-end;
 }
 
 .project-logos .logo-item {
@@ -196,7 +196,7 @@
   transform: scale(1.08);
 }
 
-/* Investor Portal button – bottom aligned with logos */
+/* Investor Portal button – raised slightly so bottom edges align */
 .btn-investor-portal {
   display: inline-flex;
   align-items: center;
@@ -212,7 +212,7 @@
   transition: all 0.2s ease;
   white-space: nowrap;
   line-height: 1;
-  margin-bottom: 2px;             /* tiny visual tweak for perfect bottom alignment */
+  margin-bottom: 6px;          /* ← raised the button */
 }
 
 .btn-investor-portal:hover {
@@ -317,227 +317,4 @@ article iframe[src*="youtube"],
   margin: 0;
 }
 
-.footer-socmed {
-  margin-bottom: 1rem;
-  font-size: 1.6rem;
-}
-
-.footer-socmed a,
-.footer-socmed a i,
-.site-footer a,
-.site-footer i {
-  color: #ffffff !important;
-  margin: 0 0.4rem;
-  text-decoration: none;
-  opacity: 0.9;
-  transition: opacity 0.2s;
-}
-
-.footer-socmed a:hover,
-.footer-socmed a:hover i {
-  opacity: 1;
-  color: #ffffff !important;
-}
-
-.events-footer,
-.sidebar-events,
-.sidebar-socmed,
-.sidebar-bottom {
-  display: none !important;
-}
-
-/* ===== SPEAKING PAGE ===== */
-.speaking-intro {
-  display: flex;
-  align-items: center;
-  gap: 2.5rem;
-  max-width: 900px;
-  margin: 0 auto 3rem;
-}
-
-.speaking-intro-photo {
-  width: 180px;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-  flex-shrink: 0;
-}
-
-.speaking-intro-text {
-  font-size: 1.3rem;
-  line-height: 1.7;
-  margin: 0;
-}
-
-.talk-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.talk-card {
-  background: #fff;
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-  padding: 1.8rem;
-}
-
-.talk-card h3 {
-  margin-top: 0;
-  color: #0f766e;
-}
-
-.appearance-list {
-  line-height: 1.7;
-  margin-bottom: 2.5rem;
-}
-
-.past-events {
-  font-size: 1.1rem;
-  line-height: 1.8;
-  text-align: center;
-}
-
-.cta-section {
-  text-align: center;
-  background: #0f766e;
-  color: white;
-}
-
-.cta-section h2 {
-  color: white;
-}
-
-.cta-section .btn-primary {
-  background: white;
-  color: #0f766e;
-}
-
-.cta-section .btn-primary:hover {
-  background: #f0fdfa;
-}
-
-/* ===== SEARCH PAGE ===== */
-#search_box {
-  width: 100%;
-  max-width: 500px;
-  padding: 0.9rem 1.2rem;
-  font-size: 1.15rem;
-  border: 2px solid #333;
-  border-radius: 8px;
-  background: #fff;
-  color: #111;
-  outline: none;
-  transition: border-color 0.2s;
-}
-
-#search_box:focus {
-  border-color: #0f766e;
-  box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.2);
-}
-
-#site_search input[type="submit"] {
-  margin-top: 1rem;
-  padding: 0.8rem 2rem;
-  font-size: 1.1rem;
-  background: #0f766e;
-  color: white;
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-}
-
-#site_search input[type="submit"]:hover {
-  background: #0d5f58;
-}
-
-/* ===== MOBILE / TABLET ===== */
-@media (max-width: 1100px) {
-  .header-inner {
-    height: 72px;
-    padding: 0 1rem;
-    gap: 1rem;
-  }
-
-  .site-logo {
-    height: 36px;
-    max-width: 240px;
-  }
-
-  .menu-toggle {
-    display: block;
-  }
-
-  .main-nav {
-    display: none;
-    position: absolute;
-    top: 72px;
-    left: 0;
-    right: 0;
-    background: #000;
-    flex-direction: column;
-    gap: 0;
-    padding: 0.5rem 0;
-    border-top: 1px solid #333;
-    z-index: 999;
-  }
-
-  .main-nav.is-open {
-    display: flex;
-  }
-
-  .main-nav a {
-    padding: 1rem;
-    width: 100%;
-    text-align: center;
-    border-bottom: 1px solid #222;
-  }
-
-  .speaking-intro {
-    flex-direction: column;
-    text-align: center;
-    gap: 1.5rem;
-  }
-
-  .speaking-intro-photo {
-    width: 160px;
-  }
-
-  .video-wrapper {
-    max-width: 100%;
-  }
-}
-
-@media (max-width: 600px) {
-  .hero {
-    min-height: 70vh;
-  }
-
-  .content,
-  .post,
-  .page,
-  article {
-    padding: 1.8rem 1.1rem;
-  }
-
-  .project-logos .logo-item img {
-    max-height: 42px !important;
-  }
-
-  .btn {
-    min-width: 200px;
-  }
-
-  .btn-investor-portal {
-    height: 40px;
-    padding: 0 1.4rem;
-    font-size: 1rem;
-    margin-bottom: 1px;
-  }
-
-  #search_box {
-    font-size: 1.2rem;
-    padding: 1rem;
-  }
-}
+.footer-socmed
