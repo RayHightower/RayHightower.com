@@ -27,8 +27,6 @@ After the pivot to software development, WisdomGroup completed web and mobile pr
 
 ### ROIClear + Syndication
 
-<img align="right" src="/assets/images/RayHightower_Warrior_2021.jpg" width="250" alt="Ray Hightower in Phoenix, AZ, USA. Warrior." title="Ray Hightower in Phoenix, AZ, USA. Warrior." />
-
 Hightowerâ€™s real estate company, [ROIClear](https://ROIClear.com), is a buyer and syndicator of multifamily properties. ROIClear builds win/win relationships.
 
 * Investors enjoy capital preservation, tax advantages, and ROI.
@@ -45,3 +43,7 @@ You can reach Ray via the [contact](/contact) page on this site. Learn more atâ€
 * [LinkedIn](https://linkedin.com/in/rayhightower)
 * [YouTube](https://youtube.com/@ROIClear)
 * [GitHub](https://github.com/rayhightower)
+
+<center>
+<img src="/assets/images/RayHightower_Warrior_2021.jpg" width="450" alt="Ray Hightower in Phoenix, AZ, USA. Warrior." title="Ray Hightower in Phoenix, AZ, USA. Warrior." />
+</center>
