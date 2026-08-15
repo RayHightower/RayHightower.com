@@ -132,7 +132,7 @@ a:hover {
   z-index: 1;
 }
 
-/* New CSS Crossfade Slideshow */
+/* CSS Crossfade Slideshow - 2 seconds per image */
 .hero-slideshow {
   position: absolute;
   inset: 0;
@@ -147,7 +147,7 @@ a:hover {
   height: 100%;
   object-fit: cover;
   opacity: 0;
-  transition: opacity 1.4s ease-in-out;
+  transition: opacity 1.2s ease-in-out;
 }
 
 .hero-slide.active {
@@ -155,25 +155,25 @@ a:hover {
   z-index: 1;
 }
 
-/* Simple automatic crossfade using CSS animation */
+/* 8-second total loop (2 seconds per image) */
 .hero-slideshow .hero-slide:nth-child(1) {
-  animation: crossfade 16s infinite;
+  animation: crossfade 8s infinite;
 }
 .hero-slideshow .hero-slide:nth-child(2) {
-  animation: crossfade 16s infinite 4s;
+  animation: crossfade 8s infinite 2s;
 }
 .hero-slideshow .hero-slide:nth-child(3) {
-  animation: crossfade 16s infinite 8s;
+  animation: crossfade 8s infinite 4s;
 }
 .hero-slideshow .hero-slide:nth-child(4) {
-  animation: crossfade 16s infinite 12s;
+  animation: crossfade 8s infinite 6s;
 }
 
 @keyframes crossfade {
   0%   { opacity: 0; }
-  6%   { opacity: 1; }
+  5%   { opacity: 1; }
   25%  { opacity: 1; }
-  31%  { opacity: 0; }
+  30%  { opacity: 0; }
   100% { opacity: 0; }
 }
 
