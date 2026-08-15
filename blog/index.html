@@ -9,9 +9,25 @@ title: Blog
   <div class="blog-grid">
     {% for post in paginator.posts %}
       <article class="blog-card">
+
+        {% assign card_image = null %}
+
         {% if post.image %}
+          {% assign card_image = post.image %}
+        {% else %}
+          {% assign images = post.content | split: '<img ' %}
+          {% for image in images %}
+            {% if image contains 'src=' %}
+              {% assign src = image | split: 'src="' | last | split: '"' | first %}
+              {% assign card_image = src %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
+        {% if card_image %}
           <a href="{{ post.url }}" class="blog-card-image">
-            <img src="{{ post.image }}" alt="{{ post.title }}">
+            <img src="{{ card_image }}" alt="{{ post.title }}">
           </a>
         {% endif %}
 
