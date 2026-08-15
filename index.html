@@ -3,18 +3,21 @@ layout: default
 title: Home
 ---
 
-<!-- Full-width Hero -->
+<!-- Full-width Hero with CSS Crossfade -->
 <section class="hero">
   <div class="hero-media">
-    <img src="/assets/images/hero-animation.gif" 
-         alt="Ray Hightower – Real Estate Investor, Tech Builder, Speaker"
-         class="hero-gif">
+    <div class="hero-slideshow">
+      <img src="/assets/images/hero-1.jpg" alt="Ray Hightower – Investor, Builder, Speaker" class="hero-slide active">
+      <img src="/assets/images/hero-2.jpg" alt="Ray Hightower – Investor, Builder, Speaker" class="hero-slide">
+      <img src="/assets/images/hero-3.jpg" alt="Ray Hightower – Investor, Builder, Speaker" class="hero-slide">
+      <img src="/assets/images/hero-4.jpg" alt="Ray Hightower – Investor, Builder, Speaker" class="hero-slide">
+    </div>
   </div>
 
   <div class="hero-overlay"></div>
 
   <div class="hero-content">
-    <p class="hero-subtitle"> Investor • Builder • Speaker </p>
+    <p class="hero-subtitle">Investor • Builder • Speaker</p>
 
     <div class="hero-ctas">
       <a href="/about" class="btn btn-secondary">About RayHightower</a>
@@ -33,7 +36,6 @@ title: Home
       <img src="/assets/images/AZMM-logo.png" alt="AZMM.org">
     </a>
     
-    <!-- Green Investor Portal button (matches ROIClear.com) -->
     <a href="https://roiclear.cashflowportal.com" target="_blank" class="btn btn-investor-portal">
       Investor Portal
     </a>
