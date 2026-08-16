@@ -30,7 +30,7 @@ author:
   name: 'Raymond T. Hightower'
   url: https://twitter.com/rayhightower
 
-paginate: 5
+paginate: 6 # Use an even number because that's how Grok designed the CSS.
 paginate_path: "/blog/page:num/"
 
 github_username: rayhightower
