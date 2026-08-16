@@ -12,11 +12,9 @@ title: Blog
 
         {% assign card_image = null %}
 
-        <!-- Prefer explicit front-matter image if present -->
         {% if post.image %}
           {% assign card_image = post.image %}
         {% else %}
-          <!-- Extract the first regular <img> tag -->
           {% assign images = post.content | split: '<img' %}
           {% for image in images %}
             {% if image contains 'src=' %}
@@ -24,9 +22,13 @@ title: Blog
               {% if src == blank %}
                 {% assign src = image | split: "src='" | last | split: "'" | first %}
               {% endif %}
+
               {% if src != blank %}
-                {% assign card_image = src %}
-                {% break %}
+                {% assign src_lower = src | downcase %}
+                {% if src_lower contains '.jpg' or src_lower contains '.jpeg' or src_lower contains '.png' or src_lower contains '.webp' or src_lower contains '.gif' %}
+                  {% assign card_image = src %}
+                  {% break %}
+                {% endif %}
               {% endif %}
             {% endif %}
           {% endfor %}
@@ -57,7 +59,6 @@ title: Blog
     {% endfor %}
   </div>
 
-  <!-- Pagination -->
   {% if paginator.total_pages > 1 %}
     <nav class="blog-pagination">
       {% if paginator.previous_page %}
