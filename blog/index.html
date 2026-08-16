@@ -17,7 +17,7 @@ title: Blog
           {% assign card_image = post.image %}
         {% else %}
 
-          <!-- 2. Try normal <img> tags -->
+          <!-- 2. Try normal <img> tags (accept both absolute and relative paths) -->
           {% assign images = post.content | split: '<img' %}
           {% for image in images %}
             {% if image contains 'src=' %}
@@ -25,7 +25,7 @@ title: Blog
               {% if src == blank %}
                 {% assign src = image | split: "src='" | last | split: "'" | first %}
               {% endif %}
-              {% if src != blank and src contains 'http' %}
+              {% if src != blank %}
                 {% assign card_image = src %}
                 {% break %}
               {% endif %}
