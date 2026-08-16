@@ -12,11 +12,12 @@ title: Blog
 
         {% assign card_image = null %}
 
-        <!-- 1. Prefer explicit front-matter image if it exists -->
+        <!-- 1. Prefer explicit front-matter image -->
         {% if post.image %}
           {% assign card_image = post.image %}
         {% else %}
-          <!-- 2. Try to find the first <img> tag in the rendered content -->
+
+          <!-- 2. Try normal <img> tags first -->
           {% assign images = post.content | split: '<img' %}
           {% for image in images %}
             {% if image contains 'src=' %}
@@ -24,12 +25,51 @@ title: Blog
               {% if src == blank %}
                 {% assign src = image | split: "src='" | last | split: "'" | first %}
               {% endif %}
-              {% if src != blank %}
+              {% if src != blank and src contains 'http' %}
                 {% assign card_image = src %}
                 {% break %}
               {% endif %}
             {% endif %}
           {% endfor %}
+
+          <!-- 3. If still no image, look for YouTube -->
+          {% if card_image == null %}
+            {% if post.content contains 'youtube.com/embed/' or post.content contains 'youtu.be/' %}
+              {% assign yt = post.content | split: 'youtube.com/embed/' %}
+              {% if yt.size > 1 %}
+                {% assign video_id = yt[1] | split: '"' | first | split: '?' | first | split: '/' | first %}
+              {% else %}
+                {% assign yt = post.content | split: 'youtu.be/' %}
+                {% if yt.size > 1 %}
+                  {% assign video_id = yt[1] | split: '"' | first | split: '?' | first | split: '/' | first %}
+                {% endif %}
+              {% endif %}
+              {% if video_id %}
+                {% assign card_image = 'https://img.youtube.com/vi/' | append: video_id | append: '/hqdefault.jpg' %}
+              {% endif %}
+            {% endif %}
+          {% endif %}
+
+          <!-- 4. If still no image, look for Vimeo -->
+          {% if card_image == null %}
+            {% if post.content contains 'player.vimeo.com/video/' or post.content contains 'vimeo.com/' %}
+              {% assign vim = post.content | split: 'player.vimeo.com/video/' %}
+              {% if vim.size > 1 %}
+                {% assign vimeo_id = vim[1] | split: '"' | first | split: '?' | first | split: '/' | first %}
+              {% else %}
+                {% assign vim = post.content | split: 'vimeo.com/' %}
+                {% if vim.size > 1 %}
+                  {% assign vimeo_id = vim[1] | split: '"' | first | split: '?' | first | split: '/' | first %}
+                {% endif %}
+              {% endif %}
+              {% if vimeo_id %}
+                <!-- Vimeo does not offer a simple public thumbnail URL like YouTube.
+                     We use a placeholder for now. You can later replace this with a real thumbnail. -->
+                {% assign card_image = 'https://i.vimeocdn.com/video/' | append: vimeo_id | append: '_640.jpg' %}
+              {% endif %}
+            {% endif %}
+          {% endif %}
+
         {% endif %}
 
         {% if card_image %}
