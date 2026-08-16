@@ -20,4 +20,4 @@ Here are two poems that the sons were required to memorize and recite from a you
 
 <img src="/assets/images/RTHEagle.jpg" width="600" align="center" alt="Ray Hightower Eagle Scout" title="Ray Hightower Eagle Scout">
 
-Ray Hightower earned the rank of Eagle Scout in the Boy Scouts of America. The above photo shows Ray flanked by his parents while his brother, Edward, presents the Eagle medal.
+Ray Hightower earned the rank of Eagle in the Boy Scouts of America. The photo shows Ray flanked by his parents while his brother, Edward, presents the Eagle medal. Edward also earned the rank of Eagle, right on the heels of his older brother. Sibling competition is a positive form of peer pressure!
