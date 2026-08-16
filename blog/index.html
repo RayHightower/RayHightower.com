@@ -12,12 +12,11 @@ title: Blog
 
         {% assign card_image = null %}
 
-        <!-- 1. Prefer explicit front-matter image -->
+        <!-- Prefer explicit front-matter image if present -->
         {% if post.image %}
           {% assign card_image = post.image %}
         {% else %}
-
-          <!-- 2. Try normal <img> tags (accept both absolute and relative paths) -->
+          <!-- Extract the first regular <img> tag -->
           {% assign images = post.content | split: '<img' %}
           {% for image in images %}
             {% if image contains 'src=' %}
@@ -31,43 +30,6 @@ title: Blog
               {% endif %}
             {% endif %}
           {% endfor %}
-
-          <!-- 3. YouTube -->
-          {% if card_image == null %}
-            {% if post.content contains 'youtube.com/embed/' or post.content contains 'youtu.be/' %}
-              {% assign yt = post.content | split: 'youtube.com/embed/' %}
-              {% if yt.size > 1 %}
-                {% assign video_id = yt[1] | split: '"' | first | split: '?' | first | split: '/' | first %}
-              {% else %}
-                {% assign yt = post.content | split: 'youtu.be/' %}
-                {% if yt.size > 1 %}
-                  {% assign video_id = yt[1] | split: '"' | first | split: '?' | first | split: '/' | first %}
-                {% endif %}
-              {% endif %}
-              {% if video_id %}
-                {% assign card_image = 'https://img.youtube.com/vi/' | append: video_id | append: '/hqdefault.jpg' %}
-              {% endif %}
-            {% endif %}
-          {% endif %}
-
-          <!-- 4. Vimeo (best effort) -->
-          {% if card_image == null %}
-            {% if post.content contains 'player.vimeo.com/video/' or post.content contains 'vimeo.com/' %}
-              {% assign vim = post.content | split: 'player.vimeo.com/video/' %}
-              {% if vim.size > 1 %}
-                {% assign vimeo_id = vim[1] | split: '"' | first | split: '?' | first | split: '/' | first %}
-              {% else %}
-                {% assign vim = post.content | split: 'vimeo.com/' %}
-                {% if vim.size > 1 %}
-                  {% assign vimeo_id = vim[1] | split: '"' | first | split: '?' | first | split: '/' | first %}
-                {% endif %}
-              {% endif %}
-              {% if vimeo_id %}
-                {% assign card_image = 'https://i.vimeocdn.com/video/' | append: vimeo_id | append: '_640.jpg' %}
-              {% endif %}
-            {% endif %}
-          {% endif %}
-
         {% endif %}
 
         {% if card_image %}
