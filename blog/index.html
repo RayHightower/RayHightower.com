@@ -17,7 +17,7 @@ title: Blog
           {% assign card_image = post.image %}
         {% else %}
 
-          <!-- 2. Try normal <img> tags first -->
+          <!-- 2. Try normal <img> tags -->
           {% assign images = post.content | split: '<img' %}
           {% for image in images %}
             {% if image contains 'src=' %}
@@ -32,7 +32,7 @@ title: Blog
             {% endif %}
           {% endfor %}
 
-          <!-- 3. If still no image, look for YouTube -->
+          <!-- 3. YouTube -->
           {% if card_image == null %}
             {% if post.content contains 'youtube.com/embed/' or post.content contains 'youtu.be/' %}
               {% assign yt = post.content | split: 'youtube.com/embed/' %}
@@ -50,7 +50,7 @@ title: Blog
             {% endif %}
           {% endif %}
 
-          <!-- 4. If still no image, look for Vimeo -->
+          <!-- 4. Vimeo (best effort) -->
           {% if card_image == null %}
             {% if post.content contains 'player.vimeo.com/video/' or post.content contains 'vimeo.com/' %}
               {% assign vim = post.content | split: 'player.vimeo.com/video/' %}
@@ -63,8 +63,6 @@ title: Blog
                 {% endif %}
               {% endif %}
               {% if vimeo_id %}
-                <!-- Vimeo does not offer a simple public thumbnail URL like YouTube.
-                     We use a placeholder for now. You can later replace this with a real thumbnail. -->
                 {% assign card_image = 'https://i.vimeocdn.com/video/' | append: vimeo_id | append: '_640.jpg' %}
               {% endif %}
             {% endif %}
