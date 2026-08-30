@@ -2,26 +2,50 @@
 layout: null
 ---
 {
-  {% for post in site.posts %}
+  {% assign first = true %}
 
-    "{{ post.url | slugify }}": {
-      "title": "{{ post.title | xml_escape }}",
-      "content"	 : "{{post.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
-      "url": " {{ post.url | xml_escape }}",
-      "author": "{{ post.author | xml_escape }}",
-      "categories": "{% for category in post.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
-    }
-    {% unless forloop.last %},{% endunless %}
+  {% for post in site.posts %}
+    {% unless post.search == false %}
+      {% unless first %},{% endunless %}
+      {% assign first = false %}
+      "{{ post.url | slugify }}": {
+        "title": "{{ post.title | xml_escape }}",
+        "content": "{{ post.content | strip_html | strip_newlines | replace: '	', ' ' | escape | replace: '\', '' }}",
+        "url": "{{ post.url | xml_escape }}",
+        "author": "{{ post.author | xml_escape }}",
+        "categories": "{% for category in post.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
+      }
+    {% endunless %}
   {% endfor %}
 
   {% for page in site.pages %}
-    {% if page.url == '/speaking/index.html' or page.url == '/if-rudyard-kipling/index.html' or page.url == '/about/index.html' or page.url == '/contact/index.html' or page.url == '/sudo-disclaimer/index.html' %}
-      ,
+    {% assign include_page = true %}
 
-      "{{ page.url | slugify }}":  {
+    {% if page.title == nil or page.title == blank %}
+      {% assign include_page = false %}
+    {% endif %}
+
+    {% if page.search == false %}
+      {% assign include_page = false %}
+    {% endif %}
+
+    {% if page.url contains ".json" or page.url contains ".xml" or page.url contains "sitemap" or page.url contains "feed" or page.url contains "atom" %}
+      {% assign include_page = false %}
+    {% endif %}
+
+    {% if page.url == "/search/" or page.url == "/search/index.html" or page.url == "/404.html" or page.url == "/search_data.json" %}
+      {% assign include_page = false %}
+    {% endif %}
+
+    {% if include_page %}
+      {% unless first %},{% endunless %}
+      {% assign first = false %}
+      "{{ page.url | slugify }}": {
         "title": "{{ page.title | xml_escape }}",
-      "content"	 : "{{page.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
-        "url": " {{ page.url | xml_escape }}"
+        "content": "{{ page.content | strip_html | strip_newlines | replace: '	', ' ' | escape | replace: '\', '' }}",
+        "url": "{{ page.url | xml_escape }}",
+        "author": "{{ page.author | xml_escape }}",
+        "categories": ""
       }
     {% endif %}
   {% endfor %}
