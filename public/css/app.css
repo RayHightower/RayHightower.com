@@ -553,6 +553,31 @@ article {
   justify-self: start;
 }
 
+.book-notify-success {
+  max-width: 420px;
+  padding: 1.1rem 1.2rem;
+  border: 2px solid #1a7a4c;
+  border-radius: 8px;
+  background: #f0fdf4;
+}
+
+.book-notify-success p {
+  margin: 0 0 0.5rem;
+}
+
+.book-notify-success p:last-child {
+  margin-bottom: 0;
+}
+
+.book-notify-error {
+  color: #b91c1c;
+  margin: 0.6rem 0 0;
+}
+
+.book-thanks {
+  max-width: 640px;
+}
+
 .books-section-title {
   text-align: left;
   margin: 0 0 0.6rem;
@@ -596,6 +621,10 @@ article {
 
   .book-notify-form .amazon-soon-button {
     justify-self: center;
+  }
+
+  .book-notify-success {
+    margin: 0 auto;
   }
 }
 

@@ -11,7 +11,7 @@ footer: true
 
   <div class="featured-book-copy">
     <h1 class="featured-book-title">FIRST: Celebrate Capitalism &amp; Win</h1>
-    <p class="featured-book-availability">Coming soon via Amazon Kindle, Audible, and paperback.</p>
+    <p class="featured-book-availability">Coming soon via Kindle, Audible, and paperback.</p>
 
     <p><em>FIRST</em> is a celebration of capitalism and a salute to the entrepreneurs who improve the world by serving others.</p>
 
@@ -22,8 +22,10 @@ footer: true
     <div class="book-notify">
       <p class="book-notify-intro">Register here and be the first to know when FIRST is released.</p>
 
-      <form class="book-notify-form" action="https://formspree.io/f/mjyvklkz" method="POST">
+      <form id="book-notify-form" class="book-notify-form" action="https://formspree.io/f/mjyvklkz" method="POST">
         <input type="hidden" name="_subject" value="FIRST book launch notification request">
+        <input type="hidden" name="_next" value="/books/thanks/">
+
         <label for="book-name">Name</label>
         <input id="book-name" type="text" name="name" required>
 
@@ -31,7 +33,13 @@ footer: true
         <input id="book-email" type="email" name="email" required>
 
         <button type="submit" class="amazon-soon-button">Notify me</button>
+        <p id="book-notify-error" class="book-notify-error" hidden>Something went wrong. Please try again.</p>
       </form>
+
+      <div id="book-notify-success" class="book-notify-success" hidden>
+        <p><strong>Thank you.</strong></p>
+        <p>You’re on the list. We’ll email you when FIRST is available on Kindle, Audible, and paperback.</p>
+      </div>
     </div>
   </div>
 </div>
@@ -100,3 +108,33 @@ footer: true
     </div>
   </article>
 </div>
+
+<script>
+  (function () {
+    var form = document.getElementById('book-notify-form');
+    var success = document.getElementById('book-notify-success');
+    var error = document.getElementById('book-notify-error');
+    if (!form || !success) return;
+
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+      error.hidden = true;
+
+      fetch(form.action, {
+        method: 'POST',
+        body: new FormData(form),
+        headers: { 'Accept': 'application/json' }
+      }).then(function (response) {
+        if (response.ok) {
+          form.hidden = true;
+          document.querySelector('.book-notify-intro').hidden = true;
+          success.hidden = false;
+        } else {
+          error.hidden = false;
+        }
+      }).catch(function () {
+        error.hidden = false;
+      });
+    });
+  })();
+</script>
