@@ -3,7 +3,7 @@ title: RayHightower.com
 description: Real Estate + Tech = @ROIClear
 tagline: Real Estate. Tech. @ROIClear.
 baseurl: / # the subpath of your site, e.g. /blog/
-url: "http://rayhightower.com" # the base hostname & protocol for your site
+url: "https://rayhightower.com" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:day/:title/
 excerpt_link: "Continue reading &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 excerpt_separator: <!--more-->
@@ -12,8 +12,8 @@ future: true # Let future blog posts be published
 # Build settings
 markdown: kramdown
 
-# Google Analytics
-google_analytics_tracking_id: UA-330946-28
+# Google Analytics 4
+google_analytics_tracking_id: G-NLV6NZRCK4
 
 # Twitter
 twitter_username: rayhightower
