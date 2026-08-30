@@ -492,6 +492,23 @@ article {
   margin-top: 1.6rem;
 }
 
+.amazon-buy-link {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.amazon-buy-button {
+  height: 48px;
+  width: auto;
+  display: block;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.amazon-buy-link:hover .amazon-buy-button {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
 .books-section-title {
   text-align: left;
   margin: 0 0 0.6rem;
@@ -499,6 +516,23 @@ article {
 
 .books-section-intro {
   margin: 0 0 2rem;
+}
+
+.books-grid .blog-card-image {
+  height: 260px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.books-grid .blog-card-image img {
+  width: auto;
+  height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  object-position: center;
 }
 
 @media (max-width: 700px) {
@@ -510,6 +544,10 @@ article {
 
   .featured-book-cover {
     width: 200px;
+  }
+
+  .amazon-buy-link {
+    display: inline-block;
   }
 }
 
