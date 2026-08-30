@@ -455,6 +455,64 @@ article {
   border-radius: 6px;
 }
 
+/* ===== BOOKS PAGE ===== */
+.featured-book {
+  display: flex;
+  align-items: flex-start;
+  gap: 2.5rem;
+  margin: 0 0 3.5rem;
+}
+
+.featured-book-cover {
+  width: 240px;
+  max-width: 100%;
+  height: auto;
+  flex-shrink: 0;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+.featured-book-copy {
+  flex: 1;
+}
+
+.featured-book-title {
+  font-size: clamp(1.7rem, 3vw, 2.2rem);
+  line-height: 1.2;
+  margin: 0 0 0.6rem;
+}
+
+.featured-book-availability {
+  font-size: 1.05rem;
+  color: #475569;
+  margin: 0 0 1.4rem;
+}
+
+.featured-book-ctas {
+  margin-top: 1.6rem;
+}
+
+.books-section-title {
+  text-align: left;
+  margin: 0 0 0.6rem;
+}
+
+.books-section-intro {
+  margin: 0 0 2rem;
+}
+
+@media (max-width: 700px) {
+  .featured-book {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .featured-book-cover {
+    width: 200px;
+  }
+}
+
 /* ===== RESPONSIVE VIDEO ===== */
 .post iframe,
 .page iframe,
