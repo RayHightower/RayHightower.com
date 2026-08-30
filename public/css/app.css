@@ -509,6 +509,23 @@ article {
   opacity: 0.9;
 }
 
+.amazon-soon-button {
+  display: inline-block;
+  background: #000;
+  color: #fff !important;
+  padding: 0.85rem 1.6rem;
+  border-radius: 6px;
+  font-weight: 700;
+  text-decoration: none !important;
+  font-size: 1rem;
+}
+
+.amazon-soon-button:hover {
+  background: #222;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
 .books-section-title {
   text-align: left;
   margin: 0 0 0.6rem;
@@ -546,7 +563,8 @@ article {
     width: 200px;
   }
 
-  .amazon-buy-link {
+  .amazon-buy-link,
+  .amazon-soon-button {
     display: inline-block;
   }
 }
