@@ -19,10 +19,19 @@ footer: true
 
     <p>Capitalism creates opportunities where everyone can win. <em>FIRST</em> will show you how.</p>
 
-    <div class="featured-book-ctas">
-      <a href="https://www.amazon.com/s?k=FIRST+Celebrate+Capitalism+Win+Ray+Hightower" target="_blank" rel="noopener" class="amazon-soon-button">
-        Coming Soon on Amazon
-      </a>
+    <div class="book-notify">
+      <p class="book-notify-intro">Register here and be the first to know when FIRST is released.</p>
+
+      <form class="book-notify-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+        <input type="hidden" name="_subject" value="FIRST book launch notification request">
+        <label for="book-name">Name</label>
+        <input id="book-name" type="text" name="name" required>
+
+        <label for="book-email">Email</label>
+        <input id="book-email" type="email" name="email" required>
+
+        <button type="submit" class="amazon-soon-button">Notify me</button>
+      </form>
     </div>
   </div>
 </div>

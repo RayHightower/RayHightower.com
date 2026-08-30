@@ -492,38 +492,65 @@ article {
   margin-top: 1.6rem;
 }
 
-.amazon-buy-link {
-  display: inline-block;
-  text-decoration: none;
-}
-
-.amazon-buy-button {
-  height: 48px;
-  width: auto;
-  display: block;
-  transition: transform 0.2s ease, opacity 0.2s ease;
-}
-
-.amazon-buy-link:hover .amazon-buy-button {
-  transform: translateY(-2px);
-  opacity: 0.9;
-}
-
 .amazon-soon-button {
   display: inline-block;
   background: #000;
   color: #fff !important;
   padding: 0.85rem 1.6rem;
+  border: none;
   border-radius: 6px;
   font-weight: 700;
   text-decoration: none !important;
   font-size: 1rem;
+  cursor: pointer;
 }
 
 .amazon-soon-button:hover {
   background: #222;
   color: #fff !important;
   text-decoration: none !important;
+}
+
+.book-notify {
+  margin-top: 1.8rem;
+}
+
+.book-notify-intro {
+  margin: 0 0 1rem;
+  font-weight: 600;
+}
+
+.book-notify-form {
+  display: grid;
+  gap: 0.45rem;
+  max-width: 360px;
+}
+
+.book-notify-form label {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-top: 0.4rem;
+}
+
+.book-notify-form input[type="text"],
+.book-notify-form input[type="email"] {
+  width: 100%;
+  padding: 0.7rem 0.85rem;
+  border: 2px solid #333;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.book-notify-form input[type="text"]:focus,
+.book-notify-form input[type="email"]:focus {
+  outline: none;
+  border-color: #0f766e;
+  box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.2);
+}
+
+.book-notify-form .amazon-soon-button {
+  margin-top: 0.8rem;
+  justify-self: start;
 }
 
 .books-section-title {
@@ -563,9 +590,12 @@ article {
     width: 200px;
   }
 
-  .amazon-buy-link,
-  .amazon-soon-button {
-    display: inline-block;
+  .book-notify-form {
+    margin: 0 auto;
+  }
+
+  .book-notify-form .amazon-soon-button {
+    justify-self: center;
   }
 }
 
