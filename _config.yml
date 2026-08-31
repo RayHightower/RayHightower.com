@@ -12,6 +12,15 @@ future: true # Let future blog posts be published
 # Build settings
 markdown: kramdown
 
+# Do not publish repo/handoff notes as site pages
+exclude:
+  - GROK.md
+  - original_about.md
+  - README.markdown
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
 # Google Analytics 4
 google_analytics_tracking_id: G-NLV6NZRCK4
 
