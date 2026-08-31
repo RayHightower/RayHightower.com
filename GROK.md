@@ -15,6 +15,7 @@ Current work branch: master
 ## Do not
 - Do not use old UA-330946-28
 - Do not ask for line-by-line edits
+- Do not give snippets of files. Always deliver complete files. For example, if you're changing one parameter on one line of a CSS file, Grok should always deliver the entire, changed file.
 
 ## Next
 - (write the next task here)
