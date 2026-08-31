@@ -204,6 +204,10 @@ a:hover {
   justify-content: center;
 }
 
+.hero-ctas .btn {
+  min-width: 154px;
+}
+
 .btn {
   display: inline-block;
   min-width: 220px;
@@ -909,6 +913,10 @@ article iframe[src*="youtube"],
 
   .btn {
     min-width: 200px;
+  }
+
+  .hero-ctas .btn {
+    min-width: 140px;
   }
 
   .btn-investor-portal {
