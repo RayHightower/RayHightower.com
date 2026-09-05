@@ -7,9 +7,9 @@ tags:
 published: true
 ---
 
-<div class="video-container">
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1167890454?h=7b0112d9f3" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
-</div>
+
+<img src="/images/handshake.jpg" align="right" width="250" padding="10" alt="Handshake - RayHightower.com" title="Handshake - RayHightower.com" /> 
+
 
 ### Keeping Promises
 
@@ -18,6 +18,10 @@ Delivering on promises feels incredible.
 Last week, my partners and I hit a button to distribute returns to our investors. 
 
 Behind the scenes? Months of coordinated effort from the entire team. Underwriting, operations, and asset management all coming together to make it happen seamlessly.
+
+<div class="video-container">
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1167890454?h=7b0112d9f3" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+</div>
 
 <!--more-->
 
