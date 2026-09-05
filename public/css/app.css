@@ -63,6 +63,7 @@ a:hover {
   gap: 2.5rem;
   min-height: 115px;
   height: auto;
+  position: relative;
 }
 
 .logo-link {
@@ -106,6 +107,47 @@ a:hover {
   color: #39FF14;
   text-decoration: none;
   opacity: 1;
+}
+
+/* More hover dropdown */
+.nav-more {
+  position: relative;
+}
+
+.nav-more-toggle {
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: default;
+}
+
+.nav-more.is-current .nav-more-toggle {
+  color: #39FF14;
+}
+
+.nav-more-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  min-width: 160px;
+  padding: 0.4rem 0;
+  background: #000;
+  border: 1px solid #333;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+  z-index: 1001;
+}
+
+.nav-more:hover .nav-more-menu,
+.nav-more:focus-within .nav-more-menu {
+  display: block;
+}
+
+.nav-more-menu a {
+  display: block;
+  padding: 0.7rem 1rem;
+  white-space: nowrap;
 }
 
 /* Hamburger button */
@@ -886,6 +928,23 @@ article iframe[src*="youtube"],
     width: 100%;
     text-align: center;
     border-bottom: 1px solid #222;
+  }
+
+  .nav-more {
+    width: 100%;
+  }
+
+  .nav-more-toggle {
+    display: none;
+  }
+
+  .nav-more-menu {
+    display: block;
+    position: static;
+    min-width: 0;
+    padding: 0;
+    border: none;
+    box-shadow: none;
   }
 
   .speaking-intro {
