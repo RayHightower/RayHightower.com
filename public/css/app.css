@@ -104,8 +104,8 @@ a:hover {
 .main-nav > a:hover,
 .nav-more:hover .nav-more-toggle,
 .nav-more:focus-within .nav-more-toggle {
-  background: #222;
-  color: #39FF14;
+  background: #1a7a4c;
+  color: #ffffff;
   text-decoration: none;
   opacity: 1;
 }
@@ -156,8 +156,8 @@ a:hover {
 
 .nav-more-menu a:hover,
 .nav-more-menu a:focus {
-  background: #39FF14;
-  color: #000;
+  background: #1a7a4c;
+  color: #ffffff;
   text-decoration: none;
   opacity: 1;
 }
@@ -169,8 +169,8 @@ a:hover {
 
 .nav-more-menu a.active:hover,
 .nav-more-menu a.active:focus {
-  background: #39FF14;
-  color: #000;
+  background: #1a7a4c;
+  color: #ffffff;
 }
 
 /* Hamburger button */
@@ -958,8 +958,8 @@ article iframe[src*="youtube"],
   .main-nav > a:hover,
   .nav-more-menu a:hover,
   .nav-more-menu a:focus {
-    background: #39FF14;
-    color: #000;
+    background: #1a7a4c;
+    color: #ffffff;
   }
 
   .nav-more {
