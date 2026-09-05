@@ -2,6 +2,7 @@
 layout: post
 title:  Investors Getting Paid
 date:   2026-01-26
+image: /images/handshake.jpg
 comments: true
 tags: 
 published: true
