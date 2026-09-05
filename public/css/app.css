@@ -84,26 +84,34 @@ a:hover {
 
 .main-nav {
   display: flex;
-  gap: 1.5rem;
+  gap: 0.35rem;
   align-items: center;
   flex-shrink: 0;
 }
 
-.main-nav a {
+.main-nav > a,
+.nav-more-toggle {
   color: #fff;
   text-decoration: none;
   font-size: 1rem;
   font-weight: 500;
-  transition: color 0.2s, opacity 0.2s;
   white-space: nowrap;
+  padding: 0.45rem 0.75rem;
+  border-radius: 6px;
+  transition: background-color 0.15s ease, color 0.15s ease;
 }
 
-.main-nav a:hover {
-  opacity: 0.75;
-  text-decoration: underline;
+.main-nav > a:hover,
+.nav-more:hover .nav-more-toggle,
+.nav-more:focus-within .nav-more-toggle {
+  background: #222;
+  color: #39FF14;
+  text-decoration: none;
+  opacity: 1;
 }
 
-.main-nav a.active {
+.main-nav > a.active,
+.nav-more.is-current .nav-more-toggle {
   color: #39FF14;
   text-decoration: none;
   opacity: 1;
@@ -115,15 +123,8 @@ a:hover {
 }
 
 .nav-more-toggle {
-  color: #fff;
-  font-size: 1rem;
-  font-weight: 500;
-  white-space: nowrap;
+  display: inline-block;
   cursor: default;
-}
-
-.nav-more.is-current .nav-more-toggle {
-  color: #39FF14;
 }
 
 .nav-more-menu {
@@ -131,11 +132,11 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  min-width: 160px;
-  padding: 0.4rem 0;
-  background: #000;
+  min-width: 180px;
+  padding: 0.35rem 0;
+  background: #111;
   border: 1px solid #333;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.45);
   z-index: 1001;
 }
 
@@ -146,8 +147,30 @@ a:hover {
 
 .nav-more-menu a {
   display: block;
-  padding: 0.7rem 1rem;
+  padding: 0.75rem 1.1rem;
+  color: #fff;
+  text-decoration: none;
   white-space: nowrap;
+  transition: background-color 0.12s ease, color 0.12s ease;
+}
+
+.nav-more-menu a:hover,
+.nav-more-menu a:focus {
+  background: #39FF14;
+  color: #000;
+  text-decoration: none;
+  opacity: 1;
+}
+
+.nav-more-menu a.active {
+  color: #39FF14;
+  text-decoration: none;
+}
+
+.nav-more-menu a.active:hover,
+.nav-more-menu a.active:focus {
+  background: #39FF14;
+  color: #000;
 }
 
 /* Hamburger button */
@@ -923,11 +946,20 @@ article iframe[src*="youtube"],
     display: flex;
   }
 
-  .main-nav a {
+  .main-nav > a,
+  .nav-more-menu a {
     padding: 1rem;
     width: 100%;
     text-align: center;
     border-bottom: 1px solid #222;
+    border-radius: 0;
+  }
+
+  .main-nav > a:hover,
+  .nav-more-menu a:hover,
+  .nav-more-menu a:focus {
+    background: #39FF14;
+    color: #000;
   }
 
   .nav-more {
@@ -945,6 +977,7 @@ article iframe[src*="youtube"],
     padding: 0;
     border: none;
     box-shadow: none;
+    background: transparent;
   }
 
   .speaking-intro {
