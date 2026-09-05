@@ -10,7 +10,9 @@
 
   {% for page in site.pages %}
     {% if page.layout %}
-      {% include sitemap_entry.xml entry=page %}
+      {% unless page.search == false or page.sitemap == false %}
+        {% include sitemap_entry.xml entry=page %}
+      {% endunless %}
     {% endif %}
   {% endfor %}
 
