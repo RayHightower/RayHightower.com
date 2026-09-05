@@ -5,7 +5,7 @@ title: About
 
 <img style="margin-left:10px" align="right" src="/images/RayHightower_Phoenix_Dec2023.jpg" width="150" alt="Ray Hightower in Phoenix, AZ, USA. December 2023." title="Ray Hightower in Phoenix, AZ, USA. December 2023." />
 
-Raymond T. Hightower is a commercial real estate investor and tech company founder based in the State of Arizona, USA. 
+Raymond T. Hightower is a commercial real estate investor and tech company founder based in the State of Arizona, USA. He is the author of [FIRST: Celebrate Capitalism & Win](/books) and a [speaker](/speaking) on commercial real estate, technology, and business growth.
 
 Hightower started and ran his technology company for over two decades before selling the company and launching [ROIClear](https://ROIClear.com). 
 
