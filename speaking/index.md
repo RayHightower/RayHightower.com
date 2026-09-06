@@ -14,7 +14,7 @@ footer: true
            class="speaking-intro-photo">
       
       <p class="speaking-intro-text">
-        Event organizers book Ray Hightower for high-stakes audiences in commercial real estate and tech.
+        Event organizers book Ray Hightower for high-stakes audiences in commercial real estate and technology.
         As author of <a href="/books/"><em>FIRST: Celebrate Capitalism &amp; Win</em></a>, Ray delivers an optimistic message: Capitalism and technology are powerful tools for serving others.
         Watch the sample below to see how Ray holds a room.
       </p>
