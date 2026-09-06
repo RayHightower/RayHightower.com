@@ -14,7 +14,9 @@ footer: true
            class="speaking-intro-photo">
       
       <p class="speaking-intro-text">
-        Ray Hightower is the author of <a href="/books/"><em>FIRST: Celebrate Capitalism &amp; Win</em></a> and a speaker on commercial real estate, technology, and business growth. Organizers book him when they want a stage that treats capitalism as service, and an audience that leaves with a book they will actually open. Read <a href="/books/"><em>FIRST</em></a> for the argument. Play the sample below to hear how it lands in a room.
+        Organizers book Ray Hightower when they need to energize high-stakes audiences in commercial real estate or tech.
+        As an investor, founder, and author of <a href="/books/"><em>FIRST: Celebrate Capitalism &amp; Win</em></a>, Ray delivers an optimistic message: Capitalism and technology are powerful tools for serving others.
+        Watch the sample below to see how Ray holds a room.
       </p>
     </div>
 
@@ -78,4 +80,30 @@ footer: true
     <ul class="appearance-list">
       <li><strong>Tech Founder to Passive and Active Investor</strong>, The Gentle Art of Crushing It Podcast</li>
       <li><strong>Arizona: Best Choice</strong>, Level Up REI Podcast with Lisa Hylton</li>
-      <li><strong>Syndication Case Study</
+      <li><strong>Syndication Case Study</strong>, Build Your Bank Conference, Fort Lauderdale, FL, USA</li>
+      <li><strong>What is Underwriting?</strong>, Nashville Multifamily Meetup, Nashville, TN, USA</li>
+      <li><strong>Parallella: The Most Energy Efficient Supercomputer</strong>, Madison+ Ruby, Madison, WI, USA</li>
+      <li><strong>Node.js Under Water (OpenROV)</strong>, NYC Node.js User Group, New York City, NY, USA</li>
+      <li><strong>Supercomputing for Everyone</strong>, RubyConf Colombia, Medellín, Colombia</li>
+    </ul>
+  </div>
+</section>
+
+<!-- Past Events -->
+<section class="section alt">
+  <div class="container">
+    <h2>Past Events Include</h2>
+    <p class="past-events">
+      Business of Software (Boston, MA) • RubyConf Kenya (Ongata Rongai, Kenya) • ConFoo (Montreal & Vancouver, Canada) • Ancient City Ruby (St. Augustine, FL) • in5 Innovation Centre (Dubai, UAE) • Rubyfuza (Cape Town, South Africa) • Flourish! (Chicago, IL) • LinuxBarbados (Cave Hill, Barbados) • Aloha Ruby (Honolulu, HI) • and many more.
+    </p>
+  </div>
+</section>
+
+<!-- Final CTA -->
+<section class="section cta-section">
+  <div class="container">
+    <h2>Ready to bring Ray Hightower to your event?</h2>
+    <p>Keynote • Workshop • Fireside Chat<br>In-person or virtual</p>
+    <a href="/contact" class="btn btn-primary">Invite RayHightower to Speak</a>
+  </div>
+</section>
