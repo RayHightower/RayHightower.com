@@ -2,14 +2,14 @@
 layout: post
 title:  Investors Getting Paid
 date:   2026-01-26
-image: /images/handshake.jpg
+image: /images/garden_style_arizona.jpg
 comments: true
 tags: 
 published: true
 ---
 
 
-<img src="/images/handshake.jpg" width="350" padding="10" alt="Handshake - RayHightower.com" title="Handshake - RayHightower.com" /> 
+<img src="/images/garden_style_arizona.jpg" width="350" padding="10" alt="Garden Style Arizona - RayHightower.com" title="Garden Style Arizona - RayHightower.com" /> 
 
 Delivering on promises feels incredible.
 
