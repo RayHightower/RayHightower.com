@@ -13,12 +13,11 @@
       <a href="/speaking/" {% if page.url == "/speaking/" %}class="active"{% endif %}>Speaking</a>
       <a href="/books/" {% if page.url == "/books/" or page.url == "/books/index.html" %}class="active"{% endif %}>Books</a>
 
-      <div class="nav-more{% if page.url contains '/blog/' or page.url == '/poetry/' or page.url == '/quotes/' or page.url == '/quotes/index.html' or page.url == '/contact/' %} is-current{% endif %}">
+      <div class="nav-more{% if page.url contains '/blog/' or page.url == '/poetry/' or page.url == '/contact/' %} is-current{% endif %}">
         <span class="nav-more-toggle" aria-haspopup="true">More</span>
         <div class="nav-more-menu">
           <a href="/blog/" {% if page.url contains "/blog/" %}class="active"{% endif %}>Blog</a>
           <a href="/poetry/" {% if page.url == "/poetry/" %}class="active"{% endif %}>Poetry</a>
-          <a href="/quotes/" {% if page.url == "/quotes/" or page.url == "/quotes/index.html" %}class="active"{% endif %}>Quotes</a>
           <a href="/contact/" {% if page.url == "/contact/" %}class="active"{% endif %}>Contact</a>
         </div>
       </div>
