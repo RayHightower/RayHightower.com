@@ -14,8 +14,8 @@ footer: true
            class="speaking-intro-photo">
       
       <p class="speaking-intro-text">
-        Organizers book Ray Hightower when they need to energize high-stakes audiences in commercial real estate or tech.
-        As an investor, founder, and author of <a href="/books/"><em>FIRST: Celebrate Capitalism &amp; Win</em></a>, Ray delivers an optimistic message: Capitalism and technology are powerful tools for serving others.
+        Event organizers book Ray Hightower for high-stakes audiences in commercial real estate or tech.
+        As author of <a href="/books/"><em>FIRST: Celebrate Capitalism &amp; Win</em></a>, Ray delivers an optimistic message: Capitalism and technology are powerful tools for serving others.
         Watch the sample below to see how Ray holds a room.
       </p>
     </div>
