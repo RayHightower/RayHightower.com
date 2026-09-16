@@ -14,7 +14,7 @@ Then it seemed to stop making any progress. It appeared as if it had gotten as f
 <!--more-->
 
 ### Kindness
-Then the man, in his kindness, decided to help the moth, so he took a pair of scissors and snipped off the remaining bit of the cocoon. The moth then emerged easily. But it had a swollen body and small, shriveled wings. The man continued to watch the moth because he expected that, at any moment, the wings would enlarge and expand to be able to support the body, which would contract in time. Neither happened! In fact, the little moth spent the rest of its life crawling around with a swollen body and shriveled body and shriveled wings. It never was able to fly.
+Then the man, in his kindness, decided to help the moth, so he took a pair of scissors and snipped off the remaining bit of the cocoon. The moth then emerged easily. But it had a swollen body and small, shriveled wings. The man continued to watch the moth because he expected that, at any moment, the wings would enlarge and expand to be able to support the body, which would contract in time. Neither happened! In fact, the little moth spent the rest of its life crawling around with a swollen body and shriveled wings. It never was able to fly.
 
 ### Helping vs. Understanding
 What the man in his kindness and haste did not understand was that the restricting cocoon and the struggle required for the moth to get through the tiny opening was the way of forcing fluid from the body of the moth into its wings so that it would be ready for flight once it achieved its freedom from the cocoon. Freedom and flight would only come after the struggle. By depriving the moth of a struggle, he deprived the moth of health.
