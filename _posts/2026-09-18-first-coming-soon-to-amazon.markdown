@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-<img src="/images/FIRST-Celebrate-Capitalism-and-Win-audible.jpg" align="right" width="250" padding="10" alt="FIRST: Celebrate Capitalism & Win - RayHightower.com" title="FIRST: Celebrate Capitalism & Win - RayHightower.com" /> 
+<img src="/images/FIRST-Celebrate-Capitalism-and-Win-audible.jpg" align="right" width="200" padding="10" alt="FIRST: Celebrate Capitalism & Win - RayHightower.com" title="FIRST: Celebrate Capitalism & Win - RayHightower.com" /> 
 
 FIRST is a celebration of capitalism and a salute to the entrepreneurs who improve the world by serving others. Initially, the book will be available on Amazon Kindle, with paperback, hardback, and Audible to follow. 
 
