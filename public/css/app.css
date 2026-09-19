@@ -523,6 +523,29 @@ article {
   line-height: 1.7;
 }
 
+/* Floated post images: align=right/left plus optional classes */
+.post img[align="right"],
+.page img[align="right"],
+article img[align="right"],
+.content img[align="right"],
+.post img.align-right,
+.page img.align-right,
+article img.align-right {
+  float: right;
+  margin: 0.15rem 0 1.1rem 1.35rem;
+}
+
+.post img[align="left"],
+.page img[align="left"],
+article img[align="left"],
+.content img[align="left"],
+.post img.align-left,
+.page img.align-left,
+article img.align-left {
+  float: left;
+  margin: 0.15rem 1.35rem 1.1rem 0;
+}
+
 /* Poetry page photo – match text width */
 .poetry-photo {
   display: block;
@@ -1025,6 +1048,25 @@ article iframe[src*="youtube"],
   .page,
   article {
     padding: 1.8rem 1.1rem;
+  }
+
+  .post img[align="right"],
+  .post img[align="left"],
+  .page img[align="right"],
+  .page img[align="left"],
+  article img[align="right"],
+  article img[align="left"],
+  .content img[align="right"],
+  .content img[align="left"],
+  .post img.align-right,
+  .post img.align-left,
+  .page img.align-right,
+  .page img.align-left,
+  article img.align-right,
+  article img.align-left {
+    float: none;
+    display: block;
+    margin: 0 auto 1.25rem;
   }
 
   .project-logos .logo-item img {
