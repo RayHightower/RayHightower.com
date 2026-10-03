@@ -43,7 +43,8 @@ You can reach Ray via the [contact](/contact) page on this site. Learn more atâ€
 * [LinkedIn](https://linkedin.com/in/rayhightower)
 * [YouTube](https://youtube.com/@ROIClear)
 * [GitHub](https://github.com/rayhightower)
-
+* [Amazon Author Page](https://amazon.com/author/ray-hightower)
+<br/>&nbsp;<br/>
 <center>
 <img src="/assets/images/RayHightower_Warrior_2021.jpg" width="450" alt="Ray Hightower in Phoenix, AZ, USA. Warrior." title="Ray Hightower in Phoenix, AZ, USA. Warrior." />
 </center>
