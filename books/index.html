@@ -7,11 +7,13 @@ footer: true
 ---
 
 <div class="featured-book">
-  <img src="/assets/images/first-celebrate-capitalism-and-win.jpg" alt="FIRST: Celebrate Capitalism &amp; Win by Ray Hightower" class="featured-book-cover">
+  <a href="https://www.amazon.com/FIRST-Celebrate-Capitalism-Raymond-Hightower/dp/B0HLMCG4DP" target="_blank" rel="noopener">
+    <img src="/assets/images/first-celebrate-capitalism-and-win.jpg" alt="FIRST: Celebrate Capitalism &amp; Win by Ray Hightower" class="featured-book-cover">
+  </a>
 
   <div class="featured-book-copy">
-    <h1 class="featured-book-title">FIRST: Celebrate Capitalism &amp; Win</h1>
-    <p class="featured-book-availability">Coming soon via Amazon Kindle, Audible, and paperback.</p>
+    <h1 class="featured-book-title"><a href="https://www.amazon.com/FIRST-Celebrate-Capitalism-Raymond-Hightower/dp/B0HLMCG4DP" target="_blank" rel="noopener">FIRST: Celebrate Capitalism &amp; Win</a></h1>
+    <p class="featured-book-availability">Available now on Amazon Kindle, paperback, and hardback. Audible by October 15, 2026.</p>
 
     <p><em>FIRST</em> is a celebration of capitalism and a salute to the entrepreneurs who improve the world by serving others.</p>
 
@@ -19,28 +21,7 @@ footer: true
 
     <p>Capitalism creates opportunities where everyone can win. <em>FIRST</em> explores five pillars of capitalism through the hard-won lessons of the author and other seasoned entrepreneurs.</p>
 
-    <div class="book-notify">
-      <p class="book-notify-intro">Register here and be in the first group to know when FIRST is released.</p>
-
-      <form id="book-notify-form" class="book-notify-form" action="https://formspree.io/f/mjyvklkz" method="POST">
-        <input type="hidden" name="_subject" value="FIRST book launch notification request">
-        <input type="hidden" name="_next" value="/books/thanks/">
-
-        <label for="book-name">Name</label>
-        <input id="book-name" type="text" name="name" required>
-
-        <label for="book-email">Email</label>
-        <input id="book-email" type="email" name="email" required>
-
-        <button type="submit" class="amazon-soon-button">Notify me</button>
-        <p id="book-notify-error" class="book-notify-error" hidden>Something went wrong. Please try again.</p>
-      </form>
-
-      <div id="book-notify-success" class="book-notify-success" hidden>
-        <p><strong>Thank you.</strong></p>
-        <p>You’re on the list. We’ll email you when FIRST is available on Amazon Kindle, Audible, and paperback.</p>
-      </div>
-    </div>
+    <p><a class="amazon-soon-button" href="https://www.amazon.com/FIRST-Celebrate-Capitalism-Raymond-Hightower/dp/B0HLMCG4DP" target="_blank" rel="noopener">Buy on Amazon</a></p>
   </div>
 </div>
 
@@ -111,33 +92,3 @@ footer: true
     </div>
   </article>
 </div>
-
-<script>
-  (function () {
-    var form = document.getElementById('book-notify-form');
-    var success = document.getElementById('book-notify-success');
-    var error = document.getElementById('book-notify-error');
-    if (!form || !success) return;
-
-    form.addEventListener('submit', function (event) {
-      event.preventDefault();
-      error.hidden = true;
-
-      fetch(form.action, {
-        method: 'POST',
-        body: new FormData(form),
-        headers: { 'Accept': 'application/json' }
-      }).then(function (response) {
-        if (response.ok) {
-          form.hidden = true;
-          document.querySelector('.book-notify-intro').hidden = true;
-          success.hidden = false;
-        } else {
-          error.hidden = false;
-        }
-      }).catch(function () {
-        error.hidden = false;
-      });
-    });
-  })();
-</script>

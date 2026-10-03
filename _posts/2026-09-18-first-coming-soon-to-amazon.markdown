@@ -9,11 +9,13 @@ published: true
 
 <img src="/images/FIRST-Celebrate-Capitalism-and-Win-audible.jpg" align="right" width="200" padding="10" alt="FIRST: Celebrate Capitalism & Win - RayHightower.com" title="FIRST: Celebrate Capitalism & Win - RayHightower.com" /> 
 
+[ <i>Update (10/3/2026)</i>: [FIRST: Celebrate Capitalism & Win](https://www.amazon.com/FIRST-Celebrate-Capitalism-Raymond-Hightower/dp/B0HLMCG4DP) is now available for sale on Amazon. ]
+
 FIRST is a celebration of capitalism and a salute to the entrepreneurs who improve the world by serving others. Initially, the book will be available on Amazon Kindle, with paperback, hardback, and Audible to follow. 
 
 ### Be First in Line
 
-[Register here](/books/) and be in the first group to know when FIRST is released.
+[FIRST: Celebrate Capitalism & Win](https://www.amazon.com/FIRST-Celebrate-Capitalism-Raymond-Hightower/dp/B0HLMCG4DP) can now be purchased on Amazon. Kindle, paperback, and hardback versions are available.
 
 <!--more-->
 
@@ -32,5 +34,5 @@ FIRST examines five pillars of capitalism and entrepreneurship: Focus, Initiativ
 
 FIRST will stimulate reflection, discussion, argument, and serious thought. You might disagree and argue with the author. But you will not be bored. Dive in and enjoy the ride.
 
-[Register here](/books/) and we will email you when FIRST gets launched!
+Interested? You can grab [FIRST](https://www.amazon.com/FIRST-Celebrate-Capitalism-Raymond-Hightower/dp/B0HLMCG4DP) on Amazon.
  
