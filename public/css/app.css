@@ -371,6 +371,65 @@ a:hover {
   color: #ffffff !important;
 }
 
+/* Homepage book band */
+.home-book {
+  background: #f0fdf4;
+  padding: 3rem 1.25rem;
+}
+
+.home-book-inner {
+  max-width: 860px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 2.25rem;
+}
+
+.home-book-cover-link {
+  flex-shrink: 0;
+  line-height: 0;
+}
+
+.home-book-cover {
+  width: 220px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+.home-book-copy {
+  flex: 1;
+}
+
+.home-book-kicker {
+  margin: 0 0 0.45rem;
+  font-size: 1.05rem;
+  color: #334155;
+}
+
+.home-book-title {
+  margin: 0 0 0.8rem;
+  font-size: clamp(1.45rem, 2.6vw, 1.9rem);
+  line-height: 1.25;
+}
+
+.home-book-title a {
+  color: #0f172a;
+  text-decoration: none;
+}
+
+.home-book-title a:hover {
+  color: #0f766e;
+}
+
+.home-book-copy p:last-child {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
 /* ===== BLOG CARDS (Modern Card Style) ===== */
 .blog-grid {
   display: grid;
@@ -1067,6 +1126,16 @@ article iframe[src*="youtube"],
     float: none;
     display: block;
     margin: 0 auto 1.25rem;
+  }
+
+  .home-book-inner {
+    flex-direction: column;
+    text-align: center;
+    gap: 1.25rem;
+  }
+
+  .home-book-cover {
+    width: 180px;
   }
 
   .project-logos .logo-item img {
