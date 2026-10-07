@@ -6,6 +6,60 @@ sharing: false
 footer: true
 ---
 
+<style>
+  .on-stage {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin: 0 0 3.5rem;
+  }
+
+  .on-stage-photo-link {
+    display: block;
+    flex-shrink: 0;
+    width: 240px;
+    max-width: 42%;
+  }
+
+  .on-stage-photo {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    transition: transform 0.2s ease;
+  }
+
+  .on-stage-photo-link:hover .on-stage-photo {
+    transform: translateY(-3px);
+  }
+
+  .on-stage-copy {
+    flex: 1;
+  }
+
+  .on-stage-copy .books-section-title {
+    margin-top: 0;
+  }
+
+  .on-stage-cta {
+    display: inline-block;
+    margin-top: 0.4rem;
+  }
+
+  @media (max-width: 700px) {
+    .on-stage {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .on-stage-photo-link {
+      width: 220px;
+      max-width: 100%;
+    }
+  }
+</style>
+
 <div class="featured-book">
   <a href="https://www.amazon.com/FIRST-Celebrate-Capitalism-Raymond-Hightower/dp/B0HLMCG4DP" target="_blank" rel="noopener">
     <img src="/assets/images/first-celebrate-capitalism-and-win.jpg" alt="FIRST: Celebrate Capitalism &amp; Win by Ray Hightower" class="featured-book-cover">
@@ -25,8 +79,17 @@ footer: true
   </div>
 </div>
 
-<h2 class="books-section-title">On Stage</h2>
-<p class="books-section-intro">Capitalism is all about service. The author is available to present the connection between capitalism and service live on stage. <a href="/speaking/">Invite Ray Hightower to speak at your event</a>.</p>
+<section class="on-stage">
+  <a href="/speaking/" class="on-stage-photo-link">
+    <img src="/assets/images/RayHightower-speaking.jpg" alt="Ray Hightower speaking on stage" class="on-stage-photo">
+  </a>
+
+  <div class="on-stage-copy">
+    <h2 class="books-section-title">On Stage</h2>
+    <p class="books-section-intro">Capitalism is all about service. The author is available to present the connection between capitalism and service live on stage. <a href="/speaking/">Invite Ray Hightower to speak at your event</a>.</p>
+    <a href="/speaking/" class="amazon-soon-button on-stage-cta">Invite Ray to speak</a>
+  </div>
+</section>
 
 <h2 class="books-section-title">Business Leadership Library</h2>
 <p class="books-section-intro">The author of FIRST has been inspired by many business books over the years, including the following. Some of these have been featured right here at RayHightower.com.</p>
