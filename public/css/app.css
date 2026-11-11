@@ -1166,3 +1166,47 @@ article iframe[src*="youtube"],
     grid-template-columns: 1fr;
   }
 }
+
+/* ===== Scrolling message strip ===== */
+.scroll-strip {
+  background: #000;
+  overflow: hidden;
+  width: 100%;
+  padding: 0.75rem 0;
+  border-top: 1px solid #222;
+}
+
+.scroll-track {
+  display: flex;
+  align-items: center;
+  width: max-content;
+  animation: scroll-message 32s linear infinite;
+  will-change: transform;
+}
+
+.scroll-track span {
+  color: #ffffff;
+  font-size: clamp(2.5rem, 8vw, 5.5rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  white-space: nowrap;
+  padding: 0 2.5rem;
+  flex-shrink: 0;
+}
+
+@keyframes scroll-message {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scroll-track {
+    animation: none;
+    justify-content: center;
+    width: 100%;
+  }
+  .scroll-track span:nth-child(n+3) {
+    display: none;
+  }
+}
