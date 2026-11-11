@@ -1180,14 +1180,17 @@ article iframe[src*="youtube"],
   display: flex;
   align-items: center;
   width: max-content;
-  animation: scroll-message 32s linear infinite;
+  /* animation: scroll-message 32s linear infinite; */
+  animation: scroll-message 16s linear infinite;
   will-change: transform;
 }
 
 .scroll-track span {
-  color: #ffffff;
-  font-size: clamp(2.5rem, 8vw, 5.5rem);
-  font-weight: 800;
+  /* color: #ffffff;*/
+  color: #555555;
+  /*font-size: clamp(2.5rem, 8vw, 5.5rem);*/
+  font-size: clamp(1.0rem, 8vw, 2.0rem);
+  font-weight: 400;
   letter-spacing: -0.03em;
   line-height: 1;
   white-space: nowrap;
