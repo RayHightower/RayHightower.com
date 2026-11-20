@@ -36,7 +36,7 @@ $ addlogo video-filename.mov
 
 <img src="/images/consistent_branding_ROIClear.jpg" width="400" padding="10" alt="Grok Plus FFmpeg - RayHightower.com" title="Grok Plus FFmpeg - RayHightower.com" />
 
-And the `addlogo` utility returns a logo-stamped video file in the same directory. The new, logo-stamped file receives the name `video filename_logo.mov`.
+And the `addlogo` utility returns a logo-stamped video file in the same directory. The new, logo-stamped file receives the name `video-filename_logo.mov`.
 
 This blog post covers the workflow so that you can create a similar utility tailored to your own needs.
 
