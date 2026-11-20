@@ -128,7 +128,7 @@ The underlying FFmpeg command works on Windows as well. Official builds, install
 
 ### Before and After
 
-The video originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7529568377426571264/) is a straightforward early-morning update. The version without the logo is clean but unbranded. After running `addlogo`, the transparent ROIClear mark sits in the top-right corner at a size that remains readable without covering the speaker or the background. The audio stays locked to the picture. The file is ready for YouTube, X, LinkedIn, or Facebook with no further editing.
+The video originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7529568377426571264/) is a straightforward early-morning update. The version without the logo is clean but unbranded. After running `addlogo`, the transparent ROIClear mark sits in the top-right corner at a size that remains readable without covering the speaker or the background. The audio stays locked to the picture. The file is ready for [YouTube](https://www.youtube.com/@roiclear), [X](https://x.com/rayhightower), [LinkedIn](https://www.linkedin.com/in/rayhightower/), or [Facebook](https://www.facebook.com/rayhightower/) with no further editing.
 
 ### Closing the Loop
 
