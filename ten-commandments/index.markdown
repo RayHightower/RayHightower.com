@@ -1,14 +1,13 @@
 ---
 layout: page
-title: 
+title: The Ten Commandments
 comments: false
 sharing: false
-footer: false
+footer: true
 ---
 
 <!-- <!DOCTYPE html> -->
 <html>
-<head>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -44,7 +43,6 @@ footer: false
             background-color: #e0e0e0;
         }
     </style>
-</head>
 <body>
     <h2>The Ten Commandments</h2>
         <table>
@@ -105,4 +103,4 @@ footer: false
         </tr>
     </table>
 </body>
-</html>
+<!-- </html> -->
