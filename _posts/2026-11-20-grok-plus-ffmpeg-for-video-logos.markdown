@@ -3,7 +3,7 @@ layout: post
 title:  Grok Plus FFmpeg for Video Logos
 date:   2026-11-20
 comments: true
-tags: 
+tags: AI, Grok, video
 published: true
 ---
 
