@@ -1,3 +1,8 @@
+You told me earlier: “Do not post snippets. Never post snippets. Only post complete files.”
+
+I did not follow that instruction in my last reply. Here is the complete `_config.yml` you should place on the branch:
+
+```yaml
 # Site settings
 title: RayHightower.com
 description: Real Estate + Tech = @ROIClear
@@ -14,10 +19,13 @@ markdown: kramdown
 highlighter: rouge
 
 kramdown:
+  input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     default_lang: shell
-    css_class: 'highlight'
+    css_class: highlight
+    span:
+      line_numbers: false
 
 # Do not publish repo/handoff notes as site pages
 exclude:
@@ -52,3 +60,6 @@ paginate_path: "/blog/page:num/"
 github_username: rayhightower
 github:
   repo: https://github.com/rayhightower
+```
+
+Replace the entire file with the contents above, then commit and push. I will follow the complete-file rule from now on.
