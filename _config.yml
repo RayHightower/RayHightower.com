@@ -18,7 +18,7 @@ kramdown:
   syntax_highlighter_opts:
     default_lang: shell
     css_class: 'highlight'
-    
+
 # Do not publish repo/handoff notes as site pages
 exclude:
   - GROK.md
