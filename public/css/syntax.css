@@ -1,116 +1,122 @@
-/* Dark syntax theme – continuous block background */
+/* Dark syntax theme for RayHightower.com
+   Structure: <pre><code class="highlight">...</code></pre>
+*/
 
-.highlight {
+pre {
+  margin: 1.5rem 0;
+  overflow-x: auto;
+}
+
+code.highlight {
+  display: block;
   background: #0d1b12;
   color: #e8f5e9;
   border-radius: 6px;
   padding: 1rem 1.25rem;
-  margin: 1.5rem 0;
-  overflow-x: auto;
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
   font-size: 0.92rem;
   line-height: 1.5;
   border: 1px solid #1a3a28;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-}
-
-.highlight pre,
-.highlight code {
-  background: transparent !important;
-  color: inherit;
-  border: none;
-  margin: 0;
-  padding: 0;
-  font-family: inherit;
-  font-size: inherit;
-  line-height: inherit;
-  display: block;
   white-space: pre;
   overflow-x: auto;
 }
 
+/* Ensure no per-line or per-span backgrounds */
+code.highlight span {
+  background: transparent !important;
+}
+
 /* Token colors */
-.highlight .c,
-.highlight .c1,
-.highlight .cm,
-.highlight .cs {
+code.highlight .c,
+code.highlight .c1,
+code.highlight .cm,
+code.highlight .cs {
   color: #6a9955;
   font-style: italic;
 }
 
-.highlight .k,
-.highlight .kc,
-.highlight .kd,
-.highlight .kn,
-.highlight .kp,
-.highlight .kr {
+code.highlight .k,
+code.highlight .kc,
+code.highlight .kd,
+code.highlight .kn,
+code.highlight .kp,
+code.highlight .kr {
   color: #c586c0;
 }
 
-.highlight .kt { color: #4ec9b0; }
+code.highlight .kt {
+  color: #4ec9b0;
+}
 
-.highlight .s,
-.highlight .s1,
-.highlight .s2,
-.highlight .sb,
-.highlight .sc,
-.highlight .sd,
-.highlight .se,
-.highlight .sh,
-.highlight .si,
-.highlight .sx {
+code.highlight .s,
+code.highlight .s1,
+code.highlight .s2,
+code.highlight .sb,
+code.highlight .sc,
+code.highlight .sd,
+code.highlight .se,
+code.highlight .sh,
+code.highlight .si,
+code.highlight .sx {
   color: #ce9178;
 }
 
-.highlight .sr { color: #d16969; }
+code.highlight .sr {
+  color: #d16969;
+}
 
-.highlight .m,
-.highlight .mf,
-.highlight .mh,
-.highlight .mi,
-.highlight .mo,
-.highlight .il {
+code.highlight .m,
+code.highlight .mf,
+code.highlight .mh,
+code.highlight .mi,
+code.highlight .mo,
+code.highlight .il {
   color: #b5cea8;
 }
 
-.highlight .o,
-.highlight .ow { color: #d4d4d4; }
-
-.highlight .nf { color: #dcdcaa; }
-
-.highlight .nc,
-.highlight .nn { color: #4ec9b0; }
-
-.highlight .na { color: #9cdcfe; }
-
-.highlight .nb { color: #4ec9b0; }
-
-.highlight .nt { color: #569cd6; }
-
-.highlight .nv,
-.highlight .vc,
-.highlight .vg,
-.highlight .vi { color: #9cdcfe; }
-
-.highlight .err {
-  color: #f44747;
-  background: #3b1a1a;
+code.highlight .o,
+code.highlight .ow {
+  color: #d4d4d4;
 }
 
-.highlight .gd { background: #3b1a1a; }
-.highlight .gi { background: #1a3b1a; }
-What changed
-Explicitly set background: transparent !important on both pre and code so no per-line backgrounds appear.
-Forced display: block and white-space: pre so the code stays as one solid block.
-Kept the dark background only on the outer .highlight container.
-After you update the file and refresh, the code blocks should appear as one continuous dark rectangle instead of separate bars per line.
+code.highlight .nf {
+  color: #dcdcaa;
+}
 
-If it is still broken, open the browser’s developer tools on one of the code blocks, right-click a line, and tell me the exact HTML structure (the classes on the outer div, pre, and code). That will let me target it precisely.
+code.highlight .nc,
+code.highlight .nn {
+  color: #4ec9b0;
+}
 
+code.highlight .na {
+  color: #9cdcfe;
+}
 
+code.highlight .nb {
+  color: #4ec9b0;
+}
 
+code.highlight .nt {
+  color: #569cd6;
+}
 
-2 sources
+code.highlight .nv,
+code.highlight .vc,
+code.highlight .vg,
+code.highlight .vi {
+  color: #9cdcfe;
+}
 
+code.highlight .err {
+  color: #f44747;
+  background: #3b1a1a !important;
+}
 
+code.highlight .gd {
+  background: #3b1a1a !important;
+}
 
+code.highlight .gi {
+  background: #1a3b1a !important;
+}
