@@ -11,7 +11,7 @@ published: true
 
 Consistent branding matters. Every video published by [ROIClear](https://ROIClear.com) must include the company logo before we publish it. 
 
-The problem: We often record 30-second and 60-second videos on the fly. We rarely have time to power-on the video editor and apply the logo when we're moving quickly from asset to asset. We had to find a way to add the logo at the press of a button.
+The problem: We often record 30-sec and 60-sec videos on the fly. We rarely have time to power-on the video editor and apply the logo when we're moving quickly from asset to asset. We had to find a way to add the logo at the press of a button.
 
 ### FFmpeg
 
