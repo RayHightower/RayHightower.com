@@ -1,124 +1,122 @@
 /* Dark syntax theme for RayHightower.com
-   Structure: <pre><code class="highlight">...</code></pre>
-   Slight change made by RTH on 11/20/2026 to force cache refresh.
-   Another change, this time at 8:16pm Phx time on 11/20/2026.
-*/
+   Works with both local (<code class="highlight">) and GitHub Pages structures */
 
-pre {
-  margin: 1.5rem 0;
-  overflow-x: auto;
-}
-
-code.highlight {
-  display: block;
+.highlight,
+pre.highlight,
+code.highlight,
+.highlighter-rouge pre {
   background: #0d1b12;
   color: #e8f5e9;
   border-radius: 6px;
   padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  overflow-x: auto;
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
   font-size: 0.92rem;
   line-height: 1.5;
   border: 1px solid #1a3a28;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   white-space: pre;
-  overflow-x: auto;
+  display: block;
 }
 
-/* Ensure no per-line or per-span backgrounds */
-code.highlight span {
+.highlight span,
+pre.highlight span,
+code.highlight span,
+.highlighter-rouge span {
   background: transparent !important;
 }
 
 /* Token colors */
-code.highlight .c,
-code.highlight .c1,
-code.highlight .cm,
-code.highlight .cs {
+.highlight .c,
+.highlight .c1,
+.highlight .cm,
+.highlight .cs,
+pre.highlight .c,
+code.highlight .c {
   color: #6a9955;
   font-style: italic;
 }
 
-code.highlight .k,
-code.highlight .kc,
-code.highlight .kd,
-code.highlight .kn,
-code.highlight .kp,
-code.highlight .kr {
+.highlight .k,
+.highlight .kc,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+pre.highlight .k,
+code.highlight .k {
   color: #c586c0;
 }
 
-code.highlight .kt {
-  color: #4ec9b0;
-}
+.highlight .kt,
+pre.highlight .kt,
+code.highlight .kt { color: #4ec9b0; }
 
-code.highlight .s,
-code.highlight .s1,
-code.highlight .s2,
-code.highlight .sb,
-code.highlight .sc,
-code.highlight .sd,
-code.highlight .se,
-code.highlight .sh,
-code.highlight .si,
-code.highlight .sx {
+.highlight .s,
+.highlight .s1,
+.highlight .s2,
+.highlight .sb,
+.highlight .sc,
+.highlight .sd,
+.highlight .se,
+.highlight .sh,
+.highlight .si,
+.highlight .sx,
+pre.highlight .s,
+code.highlight .s {
   color: #ce9178;
 }
 
-code.highlight .sr {
-  color: #d16969;
-}
+.highlight .sr,
+pre.highlight .sr,
+code.highlight .sr { color: #d16969; }
 
-code.highlight .m,
-code.highlight .mf,
-code.highlight .mh,
-code.highlight .mi,
-code.highlight .mo,
-code.highlight .il {
-  color: #b5cea8;
-}
+.highlight .m,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo,
+.highlight .il,
+pre.highlight .m,
+code.highlight .m { color: #b5cea8; }
 
-code.highlight .o,
-code.highlight .ow {
-  color: #d4d4d4;
-}
+.highlight .o,
+.highlight .ow,
+pre.highlight .o,
+code.highlight .o { color: #d4d4d4; }
 
-code.highlight .nf {
-  color: #dcdcaa;
-}
+.highlight .nf,
+pre.highlight .nf,
+code.highlight .nf { color: #dcdcaa; }
 
-code.highlight .nc,
-code.highlight .nn {
-  color: #4ec9b0;
-}
+.highlight .nc,
+.highlight .nn,
+pre.highlight .nc,
+code.highlight .nc { color: #4ec9b0; }
 
-code.highlight .na {
-  color: #9cdcfe;
-}
+.highlight .na,
+pre.highlight .na,
+code.highlight .na { color: #9cdcfe; }
 
-code.highlight .nb {
-  color: #4ec9b0;
-}
+.highlight .nb,
+pre.highlight .nb,
+code.highlight .nb { color: #4ec9b0; }
 
-code.highlight .nt {
-  color: #569cd6;
-}
+.highlight .nt,
+pre.highlight .nt,
+code.highlight .nt { color: #569cd6; }
 
-code.highlight .nv,
-code.highlight .vc,
-code.highlight .vg,
-code.highlight .vi {
-  color: #9cdcfe;
-}
+.highlight .nv,
+.highlight .vc,
+.highlight .vg,
+.highlight .vi,
+pre.highlight .nv,
+code.highlight .nv { color: #9cdcfe; }
 
+.highlight .err,
+pre.highlight .err,
 code.highlight .err {
   color: #f44747;
   background: #3b1a1a !important;
-}
-
-code.highlight .gd {
-  background: #3b1a1a !important;
-}
-
-code.highlight .gi {
-  background: #1a3b1a !important;
 }

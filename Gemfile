@@ -10,7 +10,7 @@ gem 'rake'
 gem 'jekyll' #, '>=3.7.4'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
-gem 'rouge', '1.7.0'
+gem 'rouge'          # unpinned so GitHub Pages can supply a compatible version
 gem 'rack-jekyll'
 gem 'kramdown-parser-gfm'
 gem 'bigdecimal', '1.3.5'
